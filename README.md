@@ -11,48 +11,49 @@ A curated list of FiveM resources
 
 ## Resources
 
-1. [qbcore-framework](#qbcore-framework)
-2. [iLLeniumStudios](#iLLeniumStudios)
-3. [Constant-Development](#Constant-Development)
-4. [GhzGarage](#GhzGarage)
-5. [Disabled-Coding](#Disabled-Coding)
-6. [ItsANoBrainer](#ItsANoBrainer)
-7. [FjamZoo](#FjamZoo)
-8. [IdrisDose](#IdrisDose)
-9. [NaorNC](#NaorNC)
-10. [Project-Sloth](#Project-Sloth)
-11. [project-codex](#project-codex)
-12. [5m1Ly](#5m1Ly)
-13. [RodericAguilar](#RodericAguilar)
-14. [hoangducdt](#hoangducdt)
-15. [vCodeScripts](#vCodeScripts)
-16. [Brichka-Dv](#Brichka-Dv)
-17. [MrAladin-afs](#MrAladin-afs)
-18. [swkeep](#swkeep)
-19. [Nerfednijt](#Nerfednijt)
-20. [Blumlaut](#Blumlaut)
-21. [Holidayy95](#Holidayy95)
-22. [Z3rio](#Z3rio)
-23. [IN1GHTM4R3](#IN1GHTM4R3)
-24. [ImpulseFPS](#ImpulseFPS)
-25. [Github-Samuel](#Github-Samuel)
-26. [OmiJod](#OmiJod)
-27. [trclassic92](#trclassic92)
-28. [JustDenali](#JustDenali)
-29. [overextended](#overextended)
+
+- [qbcore-framework](#qbcore-framework)
+- [iLLeniumStudios](#iLLeniumStudios)
+- [Constant-Development](#Constant-Development)
+- [GhzGarage](#GhzGarage)
+- [Disabled-Coding](#Disabled-Coding)
+- [ItsANoBrainer](#ItsANoBrainer)
+- [FjamZoo](#FjamZoo)
+- [IdrisDose](#IdrisDose)
+- [NaorNC](#NaorNC)
+- [Project-Sloth](#Project-Sloth)
+- [project-codex](#project-codex)
+- [5m1Ly](#5m1Ly)
+- [RodericAguilar](#RodericAguilar)
+- [hoangducdt](#hoangducdt)
+- [vCodeScripts](#vCodeScripts)
+- [Brichka-Dv](#Brichka-Dv)
+- [MrAladin-afs](#MrAladin-afs)
+- [swkeep](#swkeep)
+- [Nerfednijt](#Nerfednijt)
+- [Blumlaut](#Blumlaut)
+- [Holidayy95](#Holidayy95)
+- [Z3rio](#Z3rio)
+- [IN1GHTM4R3](#IN1GHTM4R3)
+- [ImpulseFPS](#ImpulseFPS)
+- [Github-Samuel](#Github-Samuel)
+- [OmiJod](#OmiJod)
+- [trclassic92](#trclassic92)
+- [JustDenali](#JustDenali)
+- [overextended](#overextended)
 
 ### qbcore-framework <a name="qbcore-framework"></a>
-- [bob74_ipl](https://github.com/qbcore-framework/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) <span style="color: green;">+12</span> <span style="color: red;">-4</span>) - Fix holes and customize the map ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
-- [connectqueue](https://github.com/qbcore-framework/connectqueue) ([Original](https://github.com/Nick78111/ConnectQueue) <span style="color: green;">+0</span> <span style="color: red;">-11</span>) - Dependency For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/connectqueue.svg?style=social&label=Stars&maxAge=2592000)
+- [bob74_ipl](https://github.com/qbcore-framework/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +12 :red_circle: -4</span>) - Fix holes and customize the map ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
+- [connectqueue](https://github.com/qbcore-framework/connectqueue) ([Original](https://github.com/Nick78111/ConnectQueue) :green_circle: +0 :red_circle: -11</span>) - Dependency For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/connectqueue.svg?style=social&label=Stars&maxAge=2592000)
 - [dealer_map](https://github.com/qbcore-framework/dealer_map) - Vehicle shop used with qb-vehicleshop ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/dealer_map.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/qbcore-framework/dpemotes) ([Original](https://github.com/andristum/dpemotes) <span style="color: green;">+0</span> <span style="color: red;">-54</span>) - Emotes / Animations for fiveM with Prop support. ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
-- [fivem-vstancer](https://github.com/qbcore-framework/fivem-vstancer) ([Original](https://github.com/carmineos/fivem-vstancer) <span style="color: green;">+0</span> <span style="color: red;">-0</span>) - ikt's VStancer as resource for FiveM servers to synchronize the edited vehicles with all the players. ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/fivem-vstancer.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/qbcore-framework/dpemotes) ([Original](https://github.com/andristum/dpemotes) :green_circle: +0 :red_circle: -54</span>) - Emotes / Animations for fiveM with Prop support. ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [fivem-vstancer](https://github.com/qbcore-framework/fivem-vstancer) ([Original](https://github.com/carmineos/fivem-vstancer) :green_circle: +0 :red_circle: -0</span>) - ikt's VStancer as resource for FiveM servers to synchronize the edited vehicles with all the players. ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/fivem-vstancer.svg?style=social&label=Stars&maxAge=2592000)
 - [hospital_map](https://github.com/qbcore-framework/hospital_map) - Map Used With QB-Ambulancejob ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/hospital_map.svg?style=social&label=Stars&maxAge=2592000)
-- [interact-sound](https://github.com/qbcore-framework/interact-sound) ([Original](https://github.com/plunkettscott/interact-sound) <span style="color: green;">+2</span> <span style="color: red;">-12</span>) - A resource providing the ability to play sounds using the FiveM NUI environment. ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/interact-sound.svg?style=social&label=Stars&maxAge=2592000)
-- [LegacyFuel](https://github.com/qbcore-framework/LegacyFuel) ([Original](https://github.com/InZidiuZ/LegacyFuel) <span style="color: green;">+0</span> <span style="color: red;">-36</span>) - A simple, lightweight fuel script for FiveM ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/LegacyFuel.svg?style=social&label=Stars&maxAge=2592000)
-- [menuv](https://github.com/qbcore-framework/menuv) ([Original](https://github.com/ThymonA/menuv) <span style="color: green;">+8</span> <span style="color: red;">-7</span>) - FiveM menu library for creating menu's with NUI ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/menuv.svg?style=social&label=Stars&maxAge=2592000)
+- [interact-sound](https://github.com/qbcore-framework/interact-sound) ([Original](https://github.com/plunkettscott/interact-sound) :green_circle: +2 :red_circle: -12</span>) - A resource providing the ability to play sounds using the FiveM NUI environment. ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/interact-sound.svg?style=social&label=Stars&maxAge=2592000)
+- [LegacyFuel](https://github.com/qbcore-framework/LegacyFuel) ([Original](https://github.com/InZidiuZ/LegacyFuel) :green_circle: +0 :red_circle: -36</span>) - A simple, lightweight fuel script for FiveM ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/LegacyFuel.svg?style=social&label=Stars&maxAge=2592000)
+- [menuv](https://github.com/qbcore-framework/menuv) ([Original](https://github.com/ThymonA/menuv) :green_circle: +8 :red_circle: -7</span>) - FiveM menu library for creating menu's with NUI ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/menuv.svg?style=social&label=Stars&maxAge=2592000)
 - [mhacking](https://github.com/qbcore-framework/mhacking) - Hacking Minigame ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/mhacking.svg?style=social&label=Stars&maxAge=2592000)
-- [PolyZone](https://github.com/qbcore-framework/PolyZone) ([Original](https://github.com/mkafrin/PolyZone) <span style="color: green;">+4</span> <span style="color: red;">-0</span>) - PolyZone is a FiveM mod to define zones of different shapes and test whether a point is inside or outside of the zone ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/PolyZone.svg?style=social&label=Stars&maxAge=2592000)
+- [PolyZone](https://github.com/qbcore-framework/PolyZone) ([Original](https://github.com/mkafrin/PolyZone) :green_circle: +4 :red_circle: -0</span>) - PolyZone is a FiveM mod to define zones of different shapes and test whether a point is inside or outside of the zone ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/PolyZone.svg?style=social&label=Stars&maxAge=2592000)
 - [prison_map](https://github.com/qbcore-framework/prison_map) - Maps Used With QB-Prison ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/prison_map.svg?style=social&label=Stars&maxAge=2592000)
 - [progressbar](https://github.com/qbcore-framework/progressbar) - Dependency For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/progressbar.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-adminmenu](https://github.com/qbcore-framework/qb-adminmenu) - Admin Menu Using MenuV ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/qb-adminmenu.svg?style=social&label=Stars&maxAge=2592000)
@@ -134,7 +135,7 @@ A curated list of FiveM resources
 - [fivem-appearance](https://github.com/iLLeniumStudios/fivem-appearance) - fivem-appearance for qb-core with Tattoos support ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/fivem-appearance.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-subrepo](https://github.com/iLLeniumStudios/fivem-subrepo) - A bash script that builds up a subtree based Git repo from a txAdmin Recipe ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/fivem-subrepo.svg?style=social&label=Stars&maxAge=2592000)
 - [is-statushud](https://github.com/iLLeniumStudios/is-statushud) - NoPixel inspired Status Hud (Standalone / QBCore / ESX) ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/is-statushud.svg?style=social&label=Stars&maxAge=2592000)
-- [Roda_PauseMenu](https://github.com/iLLeniumStudios/Roda_PauseMenu) ([Original](https://github.com/RodericAguilar/Roda_PauseMenu) <span style="color: green;">+0</span> <span style="color: red;">-7</span>) - Roda_PauseMenu compatible with qb-core ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/Roda_PauseMenu.svg?style=social&label=Stars&maxAge=2592000)
+- [Roda_PauseMenu](https://github.com/iLLeniumStudios/Roda_PauseMenu) ([Original](https://github.com/RodericAguilar/Roda_PauseMenu) :green_circle: +0 :red_circle: -7</span>) - Roda_PauseMenu compatible with qb-core ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/Roda_PauseMenu.svg?style=social&label=Stars&maxAge=2592000)
 
 
 ### Constant-Development <a name="Constant-Development"></a>
@@ -145,14 +146,14 @@ A curated list of FiveM resources
 
 
 ### GhzGarage <a name="GhzGarage"></a>
-- [esx_tpnrp_luckywheel](https://github.com/GhzGarage/esx_tpnrp_luckywheel) ([Original](https://github.com/Sn0wBiT/esx_tpnrp_luckywheel) <span style="color: green;">+2</span> <span style="color: red;">-4</span>) ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/esx_tpnrp_luckywheel.svg?style=social&label=Stars&maxAge=2592000)
-- [mdt](https://github.com/GhzGarage/mdt) ([Original](https://github.com/distritic/mdt) <span style="color: green;">+3</span> <span style="color: red;">-48</span>) - A police Mobile Data Terminal system designed for use on the FiveM platform. Made for hypaste.net. ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/mdt.svg?style=social&label=Stars&maxAge=2592000)
+- [esx_tpnrp_luckywheel](https://github.com/GhzGarage/esx_tpnrp_luckywheel) ([Original](https://github.com/Sn0wBiT/esx_tpnrp_luckywheel) :green_circle: +2 :red_circle: -4</span>) ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/esx_tpnrp_luckywheel.svg?style=social&label=Stars&maxAge=2592000)
+- [mdt](https://github.com/GhzGarage/mdt) ([Original](https://github.com/distritic/mdt) :green_circle: +3 :red_circle: -48</span>) - A police Mobile Data Terminal system designed for use on the FiveM platform. Made for hypaste.net. ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/mdt.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-ammunationjob](https://github.com/GhzGarage/qb-ammunationjob) - Simple ammunation job ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/qb-ammunationjob.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-djbooth](https://github.com/GhzGarage/qb-djbooth) - Play music on configured coords! ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/qb-djbooth.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-laundering](https://github.com/GhzGarage/qb-laundering) ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/qb-laundering.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-media-kit](https://github.com/GhzGarage/qb-media-kit) ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/qb-media-kit.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-rgbvehiclefunctions](https://github.com/GhzGarage/qb-rgbvehiclefunctions) - The code for enabling RGB coloring ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/qb-rgbvehiclefunctions.svg?style=social&label=Stars&maxAge=2592000)
-- [xnTattoos](https://github.com/GhzGarage/xnTattoos) ([Original](https://github.com/smallo92/xnTattoos) <span style="color: green;">+0</span> <span style="color: red;">-9</span>) - ESX Tattoo Shop using all the available GTA Online tattoos with correct names ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/xnTattoos.svg?style=social&label=Stars&maxAge=2592000)
+- [xnTattoos](https://github.com/GhzGarage/xnTattoos) ([Original](https://github.com/smallo92/xnTattoos) :green_circle: +0 :red_circle: -9</span>) - ESX Tattoo Shop using all the available GTA Online tattoos with correct names ![GitHub stars](https://img.shields.io/github/stars/GhzGarage/xnTattoos.svg?style=social&label=Stars&maxAge=2592000)
 
 
 ### Disabled-Coding <a name="Disabled-Coding"></a>
@@ -163,35 +164,35 @@ A curated list of FiveM resources
 
 ### ItsANoBrainer <a name="ItsANoBrainer"></a>
 - [FiveMArtifactUpdater](https://github.com/ItsANoBrainer/FiveMArtifactUpdater) - A Node.JS tool to automatically install or update your FiveM server artifacts. ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/FiveMArtifactUpdater.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-luckywheel](https://github.com/ItsANoBrainer/qb-luckywheel) ([Original](https://github.com/GhzGarage/esx_tpnrp_luckywheel) <span style="color: green;">+0</span> <span style="color: red;">-35</span>) ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/qb-luckywheel.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-luckywheel](https://github.com/ItsANoBrainer/qb-luckywheel) ([Original](https://github.com/GhzGarage/esx_tpnrp_luckywheel) :green_circle: +0 :red_circle: -35</span>) ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/qb-luckywheel.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-racing](https://github.com/ItsANoBrainer/qb-racing) - Standalone racing script for qb-core ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/qb-racing.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-scenes](https://github.com/ItsANoBrainer/qb-scenes) - QB-Scenes is a resource that lets you place customized drawtext anywhere in the world! ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/qb-scenes.svg?style=social&label=Stars&maxAge=2592000)
 - [txBanana](https://github.com/ItsANoBrainer/txBanana) - Really stupid, but really funny. ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/txBanana.svg?style=social&label=Stars&maxAge=2592000)
 
 
 ### FjamZoo <a name="FjamZoo"></a>
-- [qb-k9](https://github.com/FjamZoo/qb-k9) ([Original](https://github.com/hashisx/hashx_k9) <span style="color: green;">+0</span> <span style="color: red;">-5</span>) - K9 Script for QB Core ![GitHub stars](https://img.shields.io/github/stars/FjamZoo/qb-k9.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-k9](https://github.com/FjamZoo/qb-k9) ([Original](https://github.com/hashisx/hashx_k9) :green_circle: +0 :red_circle: -5</span>) - K9 Script for QB Core ![GitHub stars](https://img.shields.io/github/stars/FjamZoo/qb-k9.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-robberylist](https://github.com/FjamZoo/qb-robberylist) - Just a simple ped showing if you can rob shit ![GitHub stars](https://img.shields.io/github/stars/FjamZoo/qb-robberylist.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-vehiclekeys](https://github.com/FjamZoo/qb-vehiclekeys) - qb-vehiclekeys compatible with qb-lock made by Nathan ![GitHub stars](https://img.shields.io/github/stars/FjamZoo/qb-vehiclekeys.svg?style=social&label=Stars&maxAge=2592000)
 
 
 ### IdrisDose <a name="IdrisDose"></a>
-- [aj-fivem-appearance](https://github.com/IdrisDose/aj-fivem-appearance) ([Original](https://github.com/ihyajb/aj-fivem-appearance) <span style="color: green;">+0</span> <span style="color: red;">-0</span>) - For testing purposes only. I dont suggest using this on a live server. If you find an issue please report it! ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/aj-fivem-appearance.svg?style=social&label=Stars&maxAge=2592000)
-- [blackmarket](https://github.com/IdrisDose/blackmarket) ([Original](https://github.com/evanillaa/blackmarket) <span style="color: green;">+0</span> <span style="color: red;">-23</span>) - (っ◕‿◕)っ Location changing black market script for QBCore. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/blackmarket.svg?style=social&label=Stars&maxAge=2592000)
+- [aj-fivem-appearance](https://github.com/IdrisDose/aj-fivem-appearance) ([Original](https://github.com/ihyajb/aj-fivem-appearance) :green_circle: +0 :red_circle: -0</span>) - For testing purposes only. I dont suggest using this on a live server. If you find an issue please report it! ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/aj-fivem-appearance.svg?style=social&label=Stars&maxAge=2592000)
+- [blackmarket](https://github.com/IdrisDose/blackmarket) ([Original](https://github.com/evanillaa/blackmarket) :green_circle: +0 :red_circle: -23</span>) - (っ◕‿◕)っ Location changing black market script for QBCore. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/blackmarket.svg?style=social&label=Stars&maxAge=2592000)
 - [cui_character](https://github.com/IdrisDose/cui_character) - CleanUI (cui) character is a  QBCore character creator. Its extremely in-depth so you can get extremely life like character to play as and to play with ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/cui_character.svg?style=social&label=Stars&maxAge=2592000)
-- [mdt](https://github.com/IdrisDose/mdt) ([Original](https://github.com/GhzGarage/mdt) <span style="color: green;">+5</span> <span style="color: red;">-2</span>) - A police Mobile Data Terminal system designed for use on the FiveM platform. Made for hypaste.net. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/mdt.svg?style=social&label=Stars&maxAge=2592000)
-- [new_banking](https://github.com/IdrisDose/new_banking) ([Original](https://github.com/Neddings/new_banking) <span style="color: green;">+0</span> <span style="color: red;">-2</span>) ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/new_banking.svg?style=social&label=Stars&maxAge=2592000)
-- [outlawalerts](https://github.com/IdrisDose/outlawalerts) ([Original](https://github.com/TheHorizonDev/linden_outlawalert) <span style="color: green;">+0</span> <span style="color: red;">-0</span>) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/outlawalerts.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-buds](https://github.com/IdrisDose/qb-buds) ([Original](https://github.com/MIguel-tech/qb-buds) <span style="color: green;">+0</span> <span style="color: red;">-11</span>) ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-buds.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-carcontrol](https://github.com/IdrisDose/qb-carcontrol) ([Original](https://github.com/IN1GHTM4R3/qb-carcontrol) <span style="color: green;">+3</span> <span style="color: red;">-0</span>) - (v.1.2) This is a Simple Car Control Menu built for QBCore with qb-menu, It triggers from the Radial Menu. Currently Will Control Seats Placement, Windows Up & Down, Doors, Engine, Neon Lights & Car Liveries. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-carcontrol.svg?style=social&label=Stars&maxAge=2592000)
+- [mdt](https://github.com/IdrisDose/mdt) ([Original](https://github.com/GhzGarage/mdt) :green_circle: +5 :red_circle: -2</span>) - A police Mobile Data Terminal system designed for use on the FiveM platform. Made for hypaste.net. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/mdt.svg?style=social&label=Stars&maxAge=2592000)
+- [new_banking](https://github.com/IdrisDose/new_banking) ([Original](https://github.com/Neddings/new_banking) :green_circle: +0 :red_circle: -2</span>) ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/new_banking.svg?style=social&label=Stars&maxAge=2592000)
+- [outlawalerts](https://github.com/IdrisDose/outlawalerts) ([Original](https://github.com/TheHorizonDev/linden_outlawalert) :green_circle: +0 :red_circle: -0</span>) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/outlawalerts.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-buds](https://github.com/IdrisDose/qb-buds) ([Original](https://github.com/MIguel-tech/qb-buds) :green_circle: +0 :red_circle: -11</span>) ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-buds.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-carcontrol](https://github.com/IdrisDose/qb-carcontrol) ([Original](https://github.com/IN1GHTM4R3/qb-carcontrol) :green_circle: +3 :red_circle: -0</span>) - (v.1.2) This is a Simple Car Control Menu built for QBCore with qb-menu, It triggers from the Radial Menu. Currently Will Control Seats Placement, Windows Up & Down, Doors, Engine, Neon Lights & Car Liveries. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-carcontrol.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-drawtext](https://github.com/IdrisDose/qb-drawtext) - A NUI DrawText with a few different config options ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-drawtext.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-enhancements](https://github.com/IdrisDose/qb-enhancements) - Simple buff and enhancement tracker system. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-enhancements.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-garbagejob](https://github.com/IdrisDose/qb-garbagejob) ([Original](https://github.com/qbcore-framework/qb-garbagejob) <span style="color: green;">+55</span> <span style="color: red;">-0</span>) - Garbage Job For QB-Core ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-garbagejob.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-mdt](https://github.com/IdrisDose/qb-mdt) ([Original](https://github.com/FlawwsX/erp_mdt) <span style="color: green;">+0</span> <span style="color: red;">-135</span>) - A rewritten fork of the EchoRP MDT by Flawws and Flakey. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-mdt.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-oxyrun](https://github.com/IdrisDose/qb-oxyrun) ([Original](https://github.com/macky4546/qb-oxyrun) <span style="color: green;">+0</span> <span style="color: red;">-3</span>) - NP style oxy run for QB ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-oxyrun.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-garbagejob](https://github.com/IdrisDose/qb-garbagejob) ([Original](https://github.com/qbcore-framework/qb-garbagejob) :green_circle: +55 :red_circle: -0</span>) - Garbage Job For QB-Core ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-garbagejob.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-mdt](https://github.com/IdrisDose/qb-mdt) ([Original](https://github.com/FlawwsX/erp_mdt) :green_circle: +0 :red_circle: -135</span>) - A rewritten fork of the EchoRP MDT by Flawws and Flakey. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-mdt.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-oxyrun](https://github.com/IdrisDose/qb-oxyrun) ([Original](https://github.com/macky4546/qb-oxyrun) :green_circle: +0 :red_circle: -3</span>) - NP style oxy run for QB ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-oxyrun.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-traphouse](https://github.com/IdrisDose/qb-traphouse) - qb-traphouse is my complete redesign and overhaul of the old version. It never worked and was never liked. I turned that into a place where you can wash all your stolen money and sell items on the blackmarket. Just need to find the place and them the password ;) ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/qb-traphouse.svg?style=social&label=Stars&maxAge=2592000)
 - [strin_jobform](https://github.com/IdrisDose/strin_jobform) - Edited the CSS to make it look a little cleaner also edited the look of the discord message . ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/strin_jobform.svg?style=social&label=Stars&maxAge=2592000)
-- [Universal-LPC-Spritesheet-Character-Generator](https://github.com/IdrisDose/Universal-LPC-Spritesheet-Character-Generator) ([Original](https://github.com/Gaurav0/Universal-LPC-Spritesheet-Character-Generator) <span style="color: green;">+3</span> <span style="color: red;">-6</span>) - Character Generator based on Universal-LPC-Spritesheet ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/Universal-LPC-Spritesheet-Character-Generator.svg?style=social&label=Stars&maxAge=2592000)
+- [Universal-LPC-Spritesheet-Character-Generator](https://github.com/IdrisDose/Universal-LPC-Spritesheet-Character-Generator) ([Original](https://github.com/Gaurav0/Universal-LPC-Spritesheet-Character-Generator) :green_circle: +3 :red_circle: -6</span>) - Character Generator based on Universal-LPC-Spritesheet ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/Universal-LPC-Spritesheet-Character-Generator.svg?style=social&label=Stars&maxAge=2592000)
 - [wos_hombre_holocrons](https://github.com/IdrisDose/wos_hombre_holocrons) - SWRP Holocron System for GMod ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/wos_hombre_holocrons.svg?style=social&label=Stars&maxAge=2592000)
 
 
@@ -220,7 +221,7 @@ A curated list of FiveM resources
 - [ps-playergroups](https://github.com/Project-Sloth/ps-playergroups) - A tool to create and get data for player groups. ![GitHub stars](https://img.shields.io/github/stars/Project-Sloth/ps-playergroups.svg?style=social&label=Stars&maxAge=2592000)
 - [ps-signrobbery](https://github.com/Project-Sloth/ps-signrobbery) - A unique script that gives you the ability to pick up, hold and steal signs around the map while also being able to trade them for materials. ![GitHub stars](https://img.shields.io/github/stars/Project-Sloth/ps-signrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [ps-ui](https://github.com/Project-Sloth/ps-ui) - Project Sloth UI ![GitHub stars](https://img.shields.io/github/stars/Project-Sloth/ps-ui.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-mdtoriginalfork](https://github.com/Project-Sloth/qb-mdtoriginalfork) ([Original](https://github.com/IdrisDose/qb-mdt) <span style="color: green;">+1</span> <span style="color: red;">-0</span>) - QBCore MDT Powered by LJ Labs ![GitHub stars](https://img.shields.io/github/stars/Project-Sloth/qb-mdtoriginalfork.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-mdtoriginalfork](https://github.com/Project-Sloth/qb-mdtoriginalfork) ([Original](https://github.com/IdrisDose/qb-mdt) :green_circle: +1 :red_circle: -0</span>) - QBCore MDT Powered by LJ Labs ![GitHub stars](https://img.shields.io/github/stars/Project-Sloth/qb-mdtoriginalfork.svg?style=social&label=Stars&maxAge=2592000)
 
 
 ### project-codex <a name="project-codex"></a>
@@ -286,12 +287,12 @@ A curated list of FiveM resources
 - [keep-cooldown](https://github.com/swkeep/keep-cooldown) - A Standalone Server-Side Cooldown Resource ![GitHub stars](https://img.shields.io/github/stars/swkeep/keep-cooldown.svg?style=social&label=Stars&maxAge=2592000)
 - [keep-crafting](https://github.com/swkeep/keep-crafting) - qbcore crafting system ![GitHub stars](https://img.shields.io/github/stars/swkeep/keep-crafting.svg?style=social&label=Stars&maxAge=2592000)
 - [keep-gunrack](https://github.com/swkeep/keep-gunrack) - qbcore police gun rack system ![GitHub stars](https://img.shields.io/github/stars/swkeep/keep-gunrack.svg?style=social&label=Stars&maxAge=2592000)
-- [keep-hunting](https://github.com/swkeep/keep-hunting) ([Original](https://github.com/cadburry6969/cad-hunting) <span style="color: green;">+1</span> <span style="color: red;">-98</span>) - A Hunting script for QBCore ![GitHub stars](https://img.shields.io/github/stars/swkeep/keep-hunting.svg?style=social&label=Stars&maxAge=2592000)
+- [keep-hunting](https://github.com/swkeep/keep-hunting) ([Original](https://github.com/cadburry6969/cad-hunting) :green_circle: +1 :red_circle: -98</span>) - A Hunting script for QBCore ![GitHub stars](https://img.shields.io/github/stars/swkeep/keep-hunting.svg?style=social&label=Stars&maxAge=2592000)
 - [keep-menu](https://github.com/swkeep/keep-menu) - Menu System for the QBCore Framework  ![GitHub stars](https://img.shields.io/github/stars/swkeep/keep-menu.svg?style=social&label=Stars&maxAge=2592000)
 - [keep-oilwell](https://github.com/swkeep/keep-oilwell) - Nopixel inspired oil company script/job ![GitHub stars](https://img.shields.io/github/stars/swkeep/keep-oilwell.svg?style=social&label=Stars&maxAge=2592000)
 - [keep-paycheck](https://github.com/swkeep/keep-paycheck) - qbcore alternative paycheck system  ![GitHub stars](https://img.shields.io/github/stars/swkeep/keep-paycheck.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-expandableVehicleTrunk](https://github.com/swkeep/qb-expandableVehicleTrunk) - server-side expandable Vehicle Trunk ![GitHub stars](https://img.shields.io/github/stars/swkeep/qb-expandableVehicleTrunk.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-menu](https://github.com/swkeep/qb-menu) ([Original](https://github.com/qbcore-framework/qb-menu) <span style="color: green;">+2</span> <span style="color: red;">-3</span>) - Menu System for the QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/swkeep/qb-menu.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-menu](https://github.com/swkeep/qb-menu) ([Original](https://github.com/qbcore-framework/qb-menu) :green_circle: +2 :red_circle: -3</span>) - Menu System for the QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/swkeep/qb-menu.svg?style=social&label=Stars&maxAge=2592000)
 - [swkeep-tablet](https://github.com/swkeep/swkeep-tablet) ![GitHub stars](https://img.shields.io/github/stars/swkeep/swkeep-tablet.svg?style=social&label=Stars&maxAge=2592000)
 
 
@@ -326,7 +327,7 @@ A curated list of FiveM resources
 - [qb-ammunationrobbery](https://github.com/Holidayy95/qb-ammunationrobbery) - Enables the Little Soule Ammunation to be robbed for Rifle/Smg Ammo and Armor ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/qb-ammunationrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-cyber](https://github.com/Holidayy95/qb-cyber) - qb-cyber is another robbable location for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/qb-cyber.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-ifruitstore](https://github.com/Holidayy95/qb-ifruitstore) - An Edited version of qb-ifruitstore ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/qb-ifruitstore.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-stashes](https://github.com/Holidayy95/qb-stashes) ([Original](https://github.com/SamShanks1/qb-stashes) <span style="color: green;">+0</span> <span style="color: red;">-19</span>) - Configurable Stashes for QBCore ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/qb-stashes.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-stashes](https://github.com/Holidayy95/qb-stashes) ([Original](https://github.com/SamShanks1/qb-stashes) :green_circle: +0 :red_circle: -19</span>) - Configurable Stashes for QBCore ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/qb-stashes.svg?style=social&label=Stars&maxAge=2592000)
 
 
 ### Z3rio <a name="Z3rio"></a>
@@ -338,14 +339,14 @@ A curated list of FiveM resources
 ### IN1GHTM4R3 <a name="IN1GHTM4R3"></a>
 - [ns-loadingscreen](https://github.com/IN1GHTM4R3/ns-loadingscreen) - (v1.1.0) Simple Loading Screen - Loading Bar, MP3 Audio & Controls, and MP4 Video. ![GitHub stars](https://img.shields.io/github/stars/IN1GHTM4R3/ns-loadingscreen.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-carcontrol](https://github.com/IN1GHTM4R3/qb-carcontrol) - (v.1.2) This is a Simple Car Control Menu built for QBCore with qb-menu, It triggers from the Radial Menu. Currently Will Control Seats Placement, Windows Up & Down, Doors, Engine, Neon Lights, Car Liveries, & Vehicle Extras. ![GitHub stars](https://img.shields.io/github/stars/IN1GHTM4R3/qb-carcontrol.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-prison](https://github.com/IN1GHTM4R3/qb-prison) ([Original](https://github.com/qbcore-framework/qb-prison) <span style="color: green;">+72</span> <span style="color: red;">-13</span>) - v.1.0.0 - Updated qb-prison with targeting, slushies, 2 new jobs, custom task locations, anims w/prop. ![GitHub stars](https://img.shields.io/github/stars/IN1GHTM4R3/qb-prison.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-prison](https://github.com/IN1GHTM4R3/qb-prison) ([Original](https://github.com/qbcore-framework/qb-prison) :green_circle: +72 :red_circle: -13</span>) - v.1.0.0 - Updated qb-prison with targeting, slushies, 2 new jobs, custom task locations, anims w/prop. ![GitHub stars](https://img.shields.io/github/stars/IN1GHTM4R3/qb-prison.svg?style=social&label=Stars&maxAge=2592000)
 
 
 ### ImpulseFPS <a name="ImpulseFPS"></a>
 - [irp-fuel](https://github.com/ImpulseFPS/irp-fuel) - NoPixel style legacyfuel ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/irp-fuel.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-garages-2](https://github.com/ImpulseFPS/qb-garages-2) ([Original](https://github.com/JustLazzy/qb-garages) <span style="color: green;">+7</span> <span style="color: red;">-0</span>) - Edited qb-garages using Polyzone ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-garages-2.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-garages-2](https://github.com/ImpulseFPS/qb-garages-2) ([Original](https://github.com/JustLazzy/qb-garages) :green_circle: +7 :red_circle: -0</span>) - Edited qb-garages using Polyzone ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-garages-2.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-personalcrafting](https://github.com/ImpulseFPS/qb-personalcrafting) - personal crafting used with QBCore framework ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-personalcrafting.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-phone-npstyle](https://github.com/ImpulseFPS/qb-phone-npstyle) ([Original](https://github.com/llbooya/qb-phone-npstyle) <span style="color: green;">+0</span> <span style="color: red;">-0</span>) - NP style edits and additionals for qb-phone, help from a few community members. NOT PROVIDING SUPPORT ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-phone-npstyle.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-phone-npstyle](https://github.com/ImpulseFPS/qb-phone-npstyle) ([Original](https://github.com/llbooya/qb-phone-npstyle) :green_circle: +0 :red_circle: -0</span>) - NP style edits and additionals for qb-phone, help from a few community members. NOT PROVIDING SUPPORT ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-phone-npstyle.svg?style=social&label=Stars&maxAge=2592000)
 - [simple-banking](https://github.com/ImpulseFPS/simple-banking) - simple-banking used with QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/simple-banking.svg?style=social&label=Stars&maxAge=2592000)
 
 
@@ -373,17 +374,17 @@ A curated list of FiveM resources
 
 ### trclassic92 <a name="trclassic92"></a>
 - [polmav2](https://github.com/trclassic92/polmav2) - FiveM Buckingham Maverick - 2nd Generation ![GitHub stars](https://img.shields.io/github/stars/trclassic92/polmav2.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-druglabs](https://github.com/trclassic92/qb-druglabs) ([Original](https://github.com/Your1000pa/qb-druglabs) <span style="color: green;">+4</span> <span style="color: red;">-1</span>) - This is a FORK of lionheart developments outdates drug labs scripts. ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-druglabs.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-pokemontcg](https://github.com/trclassic92/qb-pokemontcg) ([Original](https://github.com/KamuiKody/qb-pokemontcg) <span style="color: green;">+0</span> <span style="color: red;">-14</span>) ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-pokemontcg.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-druglabs](https://github.com/trclassic92/qb-druglabs) ([Original](https://github.com/Your1000pa/qb-druglabs) :green_circle: +4 :red_circle: -1</span>) - This is a FORK of lionheart developments outdates drug labs scripts. ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-druglabs.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-pokemontcg](https://github.com/trclassic92/qb-pokemontcg) ([Original](https://github.com/KamuiKody/qb-pokemontcg) :green_circle: +0 :red_circle: -14</span>) ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-pokemontcg.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-radio](https://github.com/trclassic92/qb-radio) - Nopixel Inspired Radio for qb-core ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-radio-v2](https://github.com/trclassic92/qb-radio-v2) - qb-radio nopixel inspired radio v2 (New UI) ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-radio-v2.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-simplefarming](https://github.com/trclassic92/qb-simplefarming) - Farming Script For QBCore ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-simplefarming.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-weaponsonback](https://github.com/trclassic92/qb-weaponsonback) ([Original](https://github.com/Sorlac1097/qb-weaponsonback) <span style="color: green;">+0</span> <span style="color: red;">-5</span>) - Simple weapons on back script ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-weaponsonback.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-weaponsonback](https://github.com/trclassic92/qb-weaponsonback) ([Original](https://github.com/Sorlac1097/qb-weaponsonback) :green_circle: +0 :red_circle: -5</span>) - Simple weapons on back script ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-weaponsonback.svg?style=social&label=Stars&maxAge=2592000)
 - [QBCore_Drawtext](https://github.com/trclassic92/QBCore_Drawtext) - QBCore_DrawText (Only install if you are missing this and dont want to redownload qb-core) Quick installation. ![GitHub stars](https://img.shields.io/github/stars/trclassic92/QBCore_Drawtext.svg?style=social&label=Stars&maxAge=2592000)
 - [tr-blackmarket](https://github.com/trclassic92/tr-blackmarket) - Black Market Script For QBCore ![GitHub stars](https://img.shields.io/github/stars/trclassic92/tr-blackmarket.svg?style=social&label=Stars&maxAge=2592000)
 - [tr-lumberjack](https://github.com/trclassic92/tr-lumberjack) - LumberJack script for QBCore ![GitHub stars](https://img.shields.io/github/stars/trclassic92/tr-lumberjack.svg?style=social&label=Stars&maxAge=2592000)
 - [tr-mining](https://github.com/trclassic92/tr-mining) - Mining Script for QBCore ![GitHub stars](https://img.shields.io/github/stars/trclassic92/tr-mining.svg?style=social&label=Stars&maxAge=2592000)
-- [tr-sit](https://github.com/trclassic92/tr-sit) ([Original](https://github.com/boostless/esx_sit) <span style="color: green;">+0</span> <span style="color: red;">-14</span>) - This resource is a sitting script for qb-core edited to work with the latest core version with drawtext ![GitHub stars](https://img.shields.io/github/stars/trclassic92/tr-sit.svg?style=social&label=Stars&maxAge=2592000)
+- [tr-sit](https://github.com/trclassic92/tr-sit) ([Original](https://github.com/boostless/esx_sit) :green_circle: +0 :red_circle: -14</span>) - This resource is a sitting script for qb-core edited to work with the latest core version with drawtext ![GitHub stars](https://img.shields.io/github/stars/trclassic92/tr-sit.svg?style=social&label=Stars&maxAge=2592000)
 
 
 ### JustDenali <a name="JustDenali"></a>
