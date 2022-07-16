@@ -11,37 +11,6 @@ A curated list of FiveM resources
 
 ## Resources
 
-
-- [qbcore-framework](#qbcore-framework)
-- [iLLeniumStudios](#iLLeniumStudios)
-- [Constant-Development](#Constant-Development)
-- [GhzGarage](#GhzGarage)
-- [Disabled-Coding](#Disabled-Coding)
-- [ItsANoBrainer](#ItsANoBrainer)
-- [FjamZoo](#FjamZoo)
-- [IdrisDose](#IdrisDose)
-- [NaorNC](#NaorNC)
-- [Project-Sloth](#Project-Sloth)
-- [project-codex](#project-codex)
-- [5m1Ly](#5m1Ly)
-- [RodericAguilar](#RodericAguilar)
-- [hoangducdt](#hoangducdt)
-- [vCodeScripts](#vCodeScripts)
-- [Brichka-Dv](#Brichka-Dv)
-- [MrAladin-afs](#MrAladin-afs)
-- [swkeep](#swkeep)
-- [Nerfednijt](#Nerfednijt)
-- [Blumlaut](#Blumlaut)
-- [Holidayy95](#Holidayy95)
-- [Z3rio](#Z3rio)
-- [IN1GHTM4R3](#IN1GHTM4R3)
-- [ImpulseFPS](#ImpulseFPS)
-- [Github-Samuel](#Github-Samuel)
-- [OmiJod](#OmiJod)
-- [trclassic92](#trclassic92)
-- [JustDenali](#JustDenali)
-- [overextended](#overextended)
-
 ### qbcore-framework <a name="qbcore-framework"></a>
 - [bob74_ipl](https://github.com/qbcore-framework/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +12 :red_circle: -4</span>) - Fix holes and customize the map ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
 - [connectqueue](https://github.com/qbcore-framework/connectqueue) ([Original](https://github.com/Nick78111/ConnectQueue) :green_circle: +0 :red_circle: -11</span>) - Dependency For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/connectqueue.svg?style=social&label=Stars&maxAge=2592000)
