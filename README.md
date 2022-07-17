@@ -1,3 +1,15 @@
+# awesome-fivem
+
+A curated list of FiveM resources
+
+## Frameworks
+
+- [qb-core](https://github.com/qbcore-framework/qb-core)
+- [ESX](https://github.com/esx-framework/esx-legacy)
+- [NCS](https://github.com/NextCitizens/ncs_core)
+- [Atlas](https://github.com/AtlasFw/atl-core)
+
+## Resources
 
 ### 5m1Ly <a name="5m1Ly"></a>
 - [restfx](https://github.com/5m1Ly/restfx) - fsx-engine part | build rest apis for your fxserver server ![GitHub stars](https://img.shields.io/github/stars/5m1Ly/restfx.svg?style=social&label=Stars&maxAge=2592000)
