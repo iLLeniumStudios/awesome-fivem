@@ -120,3 +120,5 @@ users:
   - name: marcostom32
   - name: Mojito-Fivem
   - name: project-error
+    ignoredRepos:
+    - projecterror.dev
