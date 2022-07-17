@@ -102,3 +102,5 @@ users:
   #- name: arabcodingteam
   - name: MonkeyWhisper
   - name: Lionh34rt
+    ignoredRepos:
+    - QB-Cardealer
