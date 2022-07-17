@@ -313,6 +313,12 @@ A curated list of FiveM resources
 - [m-Teleport](https://github.com/marcinhuu/m-Teleport) - Simple teleport, with system of qb-multicharacter to check license ![GitHub stars](https://img.shields.io/github/stars/marcinhuu/m-Teleport.svg?style=social&label=Stars&maxAge=2592000)
 - [m-ToolBox](https://github.com/marcinhuu/m-ToolBox) - A simple script for mechanics to use a toolbox. ![GitHub stars](https://img.shields.io/github/stars/marcinhuu/m-ToolBox.svg?style=social&label=Stars&maxAge=2592000)
 
+### marcostom32 <a name="marcostom32"></a>
+- [chat-design](https://github.com/marcostom32/chat-design) - chat design for fivem ![GitHub stars](https://img.shields.io/github/stars/marcostom32/chat-design.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-gym](https://github.com/marcostom32/qb-gym) - gym and skill system to for qbcore ![GitHub stars](https://img.shields.io/github/stars/marcostom32/qb-gym.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-multicharacter](https://github.com/marcostom32/qb-multicharacter) - qb-multicharacter design ![GitHub stars](https://img.shields.io/github/stars/marcostom32/qb-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-spawn](https://github.com/marcostom32/qb-spawn) - qb-spawn design ![GitHub stars](https://img.shields.io/github/stars/marcostom32/qb-spawn.svg?style=social&label=Stars&maxAge=2592000)
+
 ### McKleans-Scripts <a name="McKleans-Scripts"></a>
 - [items](https://github.com/McKleans-Scripts/items) - A simple repo with Items/Icons for your FiveM Servers. ![GitHub stars](https://img.shields.io/github/stars/McKleans-Scripts/items.svg?style=social&label=Stars&maxAge=2592000)
 - [mk-jobgarage](https://github.com/McKleans-Scripts/mk-jobgarage) - Add work vehicles to your job with ease - QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/McKleans-Scripts/mk-jobgarage.svg?style=social&label=Stars&maxAge=2592000)
@@ -320,6 +326,18 @@ A curated list of FiveM resources
 ### MCS1999 <a name="MCS1999"></a>
 - [mhrp-charCreation](https://github.com/MCS1999/mhrp-charCreation) - Raid_Clothing Converted for QBCore FW ![GitHub stars](https://img.shields.io/github/stars/MCS1999/mhrp-charCreation.svg?style=social&label=Stars&maxAge=2592000)
 - [StiX-Public](https://github.com/MCS1999/StiX-Public) ![GitHub stars](https://img.shields.io/github/stars/MCS1999/StiX-Public.svg?style=social&label=Stars&maxAge=2592000)
+
+### Mojito-Fivem <a name="Mojito-Fivem"></a>
+- [bt-target](https://github.com/Mojito-Fivem/bt-target) ([Original](https://github.com/brentN5/bt-target) :green_circle: +7 :red_circle: -41</span>) - Simple interaction system using ray casting to interact with peds, objects, vehicle bones and polyzones. ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/bt-target.svg?style=social&label=Stars&maxAge=2592000)
+- [MojitoBot](https://github.com/Mojito-Fivem/MojitoBot) - Simple discord bot with simple functions and configuration. ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/MojitoBot.svg?style=social&label=Stars&maxAge=2592000)
+- [mojito_crypto](https://github.com/Mojito-Fivem/mojito_crypto) ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/mojito_crypto.svg?style=social&label=Stars&maxAge=2592000)
+- [mojito_dialogue](https://github.com/Mojito-Fivem/mojito_dialogue) ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/mojito_dialogue.svg?style=social&label=Stars&maxAge=2592000)
+- [mojito_pdm](https://github.com/Mojito-Fivem/mojito_pdm) - React / Typescript catalogue for PDM ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/mojito_pdm.svg?style=social&label=Stars&maxAge=2592000)
+- [mojito_pedzones](https://github.com/Mojito-Fivem/mojito_pedzones) - API for spawning peds dynamically within a polyzone ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/mojito_pedzones.svg?style=social&label=Stars&maxAge=2592000)
+- [mojito_platechanger](https://github.com/Mojito-Fivem/mojito_platechanger) - Plate Changer for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/mojito_platechanger.svg?style=social&label=Stars&maxAge=2592000)
+- [not-a-framework](https://github.com/Mojito-Fivem/not-a-framework) ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/not-a-framework.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-scoreboard](https://github.com/Mojito-Fivem/qb-scoreboard) ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/qb-scoreboard.svg?style=social&label=Stars&maxAge=2592000)
+- [qbcore.js](https://github.com/Mojito-Fivem/qbcore.js) - Type definitions for QBCore Framework Fivem ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/qbcore.js.svg?style=social&label=Stars&maxAge=2592000)
 
 ### MonkeyWhisper <a name="MonkeyWhisper"></a>
 - [-QB-Jewellery](https://github.com/MonkeyWhisper/-QB-Jewellery) ([Original](https://github.com/Lionh34rt/-QB-Jewellery) :green_circle: +8 :red_circle: -8</span>) ![GitHub stars](https://img.shields.io/github/stars/MonkeyWhisper/-QB-Jewellery.svg?style=social&label=Stars&maxAge=2592000)
@@ -422,6 +440,25 @@ A curated list of FiveM resources
 - [cx-parking](https://github.com/project-codex/cx-parking) - A realistic parking script for the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/project-codex/cx-parking.svg?style=social&label=Stars&maxAge=2592000)
 - [cx-payslip](https://github.com/project-codex/cx-payslip) - A payslip system for the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/project-codex/cx-payslip.svg?style=social&label=Stars&maxAge=2592000)
 - [cx-tuners](https://github.com/project-codex/cx-tuners) - A tuners job for the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/project-codex/cx-tuners.svg?style=social&label=Stars&maxAge=2592000)
+
+### project-error <a name="project-error"></a>
+- [cfa-gui](https://github.com/project-error/cfa-gui) - Desktop Application for CFA (Create FiveM App) ![GitHub stars](https://img.shields.io/github/stars/project-error/cfa-gui.svg?style=social&label=Stars&maxAge=2592000)
+- [fivem-lua-style](https://github.com/project-error/fivem-lua-style) - A mostly reasonable style & convention guide for FiveM's Lua ScRT ![GitHub stars](https://img.shields.io/github/stars/project-error/fivem-lua-style.svg?style=social&label=Stars&maxAge=2592000)
+- [fivem-react-boilerplate-lua](https://github.com/project-error/fivem-react-boilerplate-lua) - Basic Lua & React (TypeScript) boilerplate for FiveM ![GitHub stars](https://img.shields.io/github/stars/project-error/fivem-react-boilerplate-lua.svg?style=social&label=Stars&maxAge=2592000)
+- [fivem-typescript-boilerplate](https://github.com/project-error/fivem-typescript-boilerplate) - A simple boilerplate for getting started with TypeScript in FiveM ![GitHub stars](https://img.shields.io/github/stars/project-error/fivem-typescript-boilerplate.svg?style=social&label=Stars&maxAge=2592000)
+- [npwd](https://github.com/project-error/npwd) - New-Phone-Who-Dis (NPWD) is a FiveM phone resource written entirely in TypeScript and React. ![GitHub stars](https://img.shields.io/github/stars/project-error/npwd.svg?style=social&label=Stars&maxAge=2592000)
+- [pe-basicloading](https://github.com/project-error/pe-basicloading) - A simple yet robust FiveM loading screen supporting markdown. ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-basicloading.svg?style=social&label=Stars&maxAge=2592000)
+- [pe-cli](https://github.com/project-error/pe-cli) - A FiveM CLI tool to create Javascript/Typescript resources fast and simple. ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-cli.svg?style=social&label=Stars&maxAge=2592000)
+- [pe-db](https://github.com/project-error/pe-db) - WIP SQL Bridge for FiveM  ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-db.svg?style=social&label=Stars&maxAge=2592000)
+- [pe-environment](https://github.com/project-error/pe-environment) - This is not a framework. ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-environment.svg?style=social&label=Stars&maxAge=2592000)
+- [pe-fake-plate](https://github.com/project-error/pe-fake-plate) - Fake plate resource for FiveM that allows players to apply plates to vehicles. ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-fake-plate.svg?style=social&label=Stars&maxAge=2592000)
+- [pe-typescript](https://github.com/project-error/pe-typescript) - A FiveM TypeScript Boilerplate for creating resources. ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-typescript.svg?style=social&label=Stars&maxAge=2592000)
+- [pe-ui](https://github.com/project-error/pe-ui) - WIP General UI Wrapper for FiveM ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-ui.svg?style=social&label=Stars&maxAge=2592000)
+- [pe-utils](https://github.com/project-error/pe-utils) - A collection of V8 specific utilities used by the Project Error team. ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-utils.svg?style=social&label=Stars&maxAge=2592000)
+- [pefcl](https://github.com/project-error/pefcl) - pefcl (PE-Financial) is a financial banking resource for FiveM written in TypeScript and React. ![GitHub stars](https://img.shields.io/github/stars/project-error/pefcl.svg?style=social&label=Stars&maxAge=2592000)
+- [projecterror.dev](https://github.com/project-error/projecterror.dev) - The landing site and primary documentation site for Project Error ventures. ![GitHub stars](https://img.shields.io/github/stars/project-error/projecterror.dev.svg?style=social&label=Stars&maxAge=2592000)
+- [screenshot-basic](https://github.com/project-error/screenshot-basic) ([Original](https://github.com/jonassvensson4/screenshot-basic) :green_circle: +0 :red_circle: -5</span>) - FiveM client screenshot resource - Imgur, crop options and headers support ![GitHub stars](https://img.shields.io/github/stars/project-error/screenshot-basic.svg?style=social&label=Stars&maxAge=2592000)
+- [svelte-lua-boilerplate](https://github.com/project-error/svelte-lua-boilerplate) - Svelte & Lua boilerplate for FiveM ![GitHub stars](https://img.shields.io/github/stars/project-error/svelte-lua-boilerplate.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Project-India <a name="Project-India"></a>
 - [Pi-clothing](https://github.com/Project-India/Pi-clothing) - HTML Edit Of qb-clothing ![GitHub stars](https://img.shields.io/github/stars/Project-India/Pi-clothing.svg?style=social&label=Stars&maxAge=2592000)
@@ -687,7 +724,7 @@ A curated list of FiveM resources
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character) - Character Creation ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Character.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-ClothingStore](https://github.com/VORPCORE/VORP-ClothingStore) - VORP Clothing Store ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-ClothingStore.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Core](https://github.com/VORPCORE/VORP-Core) - From the reinventors of the wheel has come VORP CORE a RP Framework for RedM ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Core.svg?style=social&label=Stars&maxAge=2592000)
-- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -309</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
+- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -310</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Housing](https://github.com/VORPCORE/VORP-Housing) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Housing.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Hunting](https://github.com/VORPCORE/VORP-Hunting) - Selling Animals & Skins script ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Hunting.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Inputs](https://github.com/VORPCORE/VORP-Inputs) - Input UI ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Inputs.svg?style=social&label=Stars&maxAge=2592000)
