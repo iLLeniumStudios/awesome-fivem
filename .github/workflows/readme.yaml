@@ -17,13 +17,15 @@ jobs:
       - name: Download awesome-list-generator and generate list
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_SECRET }}
+          GENERATOR_VERSION: "1.0.3"
         run: |
           sudo apt install wget -y
-          wget https://github.com/iLLeniumStudios/awesome-list-generator/releases/download/v1.0.2/awesome-list-generator_1.0.2_Linux_x86_64.tar.gz
-          tar -xvf awesome-list-generator_1.0.2_Linux_x86_64.tar.gz
+          wget https://github.com/iLLeniumStudios/awesome-list-generator/releases/download/v${GENERATOR_VERSION}/awesome-list-generator_${GENERATOR_VERSION}_Linux_x86_64.tar.gz
+          tar -xvf awesome-list-generator_${GENERATOR_VERSION}_Linux_x86_64.tar.gz
           ./awesome-list-generator --config config.yaml --output README.md
+          rm -rf awesome-list-generator*
       - name: Push generated list
-        run:
+        run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
