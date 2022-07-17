@@ -140,6 +140,9 @@ users:
   - name: Developer-Bear
   - name: TasoOneAsia
   - name: izMystic
+    ignoredRepos:
+    - harmonizedroleplay.com
+    - darker-discord
   - name: Demo4889
   - name: Scullyy
   - name: YeahItsHayden
