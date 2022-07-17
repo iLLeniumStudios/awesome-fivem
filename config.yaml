@@ -242,12 +242,17 @@ users:
   - name: IngPleb
   - name: Zach488
   - name: FAXES
+    ignoredRepos:
+    - easycompile
+    - faxstore-themes
   - name: ARSSANTO
   - name: CurlyLegend
   - name: iboss21
   - name: philipx2017
   - name: meidricsq
   - name: DevLanceGood
+    ignoredRepos:
+    - altV-Police
   - name: FM-Dev-Macke
   - name: regalonefour
   - name: Wakie123213
