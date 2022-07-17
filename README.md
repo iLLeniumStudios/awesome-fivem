@@ -131,7 +131,7 @@ A curated list of FiveM resources
 - [B1-skillz](https://github.com/Burn-One-Studios/B1-skillz) - QB skill system converted from gamz-skillsystem with edits ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-skillz.svg?style=social&label=Stars&maxAge=2592000)
 
 ### cadburry6969 <a name="cadburry6969"></a>
-- [cad-chopchop](https://github.com/cadburry6969/cad-chopchop) ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-chopchop.svg?style=social&label=Stars&maxAge=2592000)
+- [cad-chopshop](https://github.com/cadburry6969/cad-chopshop) ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-chopshop.svg?style=social&label=Stars&maxAge=2592000)
 - [cad-diving](https://github.com/cadburry6969/cad-diving) - Sunken Ship Diving Script for QBCore (Legacy Inspired) ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-diving.svg?style=social&label=Stars&maxAge=2592000)
 - [cad-drugsales](https://github.com/cadburry6969/cad-drugsales) - NPC Drug Sales for QBCore ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-drugsales.svg?style=social&label=Stars&maxAge=2592000)
 - [cad-email](https://github.com/cadburry6969/cad-email) - Email to peoples Discord DM directly from FiveM ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-email.svg?style=social&label=Stars&maxAge=2592000)
@@ -194,7 +194,6 @@ A curated list of FiveM resources
 
 ### DevLanceGood <a name="DevLanceGood"></a>
 - [Advanced-Roleplaying-Menu](https://github.com/DevLanceGood/Advanced-Roleplaying-Menu) - Deliver Packages to your buddies, Go on duty as a police officer, and more! ![GitHub stars](https://img.shields.io/github/stars/DevLanceGood/Advanced-Roleplaying-Menu.svg?style=social&label=Stars&maxAge=2592000)
-- [altV-Police](https://github.com/DevLanceGood/altV-Police) ![GitHub stars](https://img.shields.io/github/stars/DevLanceGood/altV-Police.svg?style=social&label=Stars&maxAge=2592000)
 - [eas-fivem](https://github.com/DevLanceGood/eas-fivem) - The Emergency Alert System in FiveM. ![GitHub stars](https://img.shields.io/github/stars/DevLanceGood/eas-fivem.svg?style=social&label=Stars&maxAge=2592000)
 - [esx-weashopsplus](https://github.com/DevLanceGood/esx-weashopsplus) ![GitHub stars](https://img.shields.io/github/stars/DevLanceGood/esx-weashopsplus.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-militaryrp](https://github.com/DevLanceGood/fivem-militaryrp) - A "Military Roleplay" Gamemode for FiveM! ![GitHub stars](https://img.shields.io/github/stars/DevLanceGood/fivem-militaryrp.svg?style=social&label=Stars&maxAge=2592000)
@@ -263,7 +262,6 @@ A curated list of FiveM resources
 - [ChildLock](https://github.com/FAXES/ChildLock) - DoJ Inspired Child Lock ![GitHub stars](https://img.shields.io/github/stars/FAXES/ChildLock.svg?style=social&label=Stars&maxAge=2592000)
 - [DiscordVehicleWhitelist](https://github.com/FAXES/DiscordVehicleWhitelist) - A Discord vehicle white-list script for FiveM ![GitHub stars](https://img.shields.io/github/stars/FAXES/DiscordVehicleWhitelist.svg?style=social&label=Stars&maxAge=2592000)
 - [DiscordWhitelist](https://github.com/FAXES/DiscordWhitelist) - A Discord Whitelist System For FiveM ![GitHub stars](https://img.shields.io/github/stars/FAXES/DiscordWhitelist.svg?style=social&label=Stars&maxAge=2592000)
-- [easycompile](https://github.com/FAXES/easycompile) - An easy JavaScript encryption/compiler tool created by @FAXES & @braxtongpoll. ![GitHub stars](https://img.shields.io/github/stars/FAXES/easycompile.svg?style=social&label=Stars&maxAge=2592000)
 - [ExternalVehicleCommands](https://github.com/FAXES/ExternalVehicleCommands) - Use /hood, /trunk and /door from outside your vehicle! ![GitHub stars](https://img.shields.io/github/stars/FAXES/ExternalVehicleCommands.svg?style=social&label=Stars&maxAge=2592000)
 - [Fax-Core](https://github.com/FAXES/Fax-Core) - A ace based permission system for FiveM ![GitHub stars](https://img.shields.io/github/stars/FAXES/Fax-Core.svg?style=social&label=Stars&maxAge=2592000)
 - [fax-hidecmds](https://github.com/FAXES/fax-hidecmds) - Hide commands in chat ![GitHub stars](https://img.shields.io/github/stars/FAXES/fax-hidecmds.svg?style=social&label=Stars&maxAge=2592000)
@@ -271,7 +269,6 @@ A curated list of FiveM resources
 - [fax-revive](https://github.com/FAXES/fax-revive) - DoJ Inspired Revive Script ![GitHub stars](https://img.shields.io/github/stars/FAXES/fax-revive.svg?style=social&label=Stars&maxAge=2592000)
 - [fax-scoreboard](https://github.com/FAXES/fax-scoreboard) ![GitHub stars](https://img.shields.io/github/stars/FAXES/fax-scoreboard.svg?style=social&label=Stars&maxAge=2592000)
 - [fax-solo-session-message](https://github.com/FAXES/fax-solo-session-message) ![GitHub stars](https://img.shields.io/github/stars/FAXES/fax-solo-session-message.svg?style=social&label=Stars&maxAge=2592000)
-- [faxstore-themes](https://github.com/FAXES/faxstore-themes) - All of FaxStores officially supported themes. ![GitHub stars](https://img.shields.io/github/stars/FAXES/faxstore-themes.svg?style=social&label=Stars&maxAge=2592000)
 - [HornFlash](https://github.com/FAXES/HornFlash) - A FiveM script that turns headlights on when horn is on ![GitHub stars](https://img.shields.io/github/stars/FAXES/HornFlash.svg?style=social&label=Stars&maxAge=2592000)
 - [hrc-resource](https://github.com/FAXES/hrc-resource) - /help, /rules, /cmds resource ![GitHub stars](https://img.shields.io/github/stars/FAXES/hrc-resource.svg?style=social&label=Stars&maxAge=2592000)
 - [HyperzFiveM-Base](https://github.com/FAXES/HyperzFiveM-Base) - This is the most advanced and well off Base you can get with a FiveM server. ![GitHub stars](https://img.shields.io/github/stars/FAXES/HyperzFiveM-Base.svg?style=social&label=Stars&maxAge=2592000)
@@ -299,6 +296,7 @@ A curated list of FiveM resources
 - [qb-shoplifting](https://github.com/FM-Dev-Macke/qb-shoplifting) ![GitHub stars](https://img.shields.io/github/stars/FM-Dev-Macke/qb-shoplifting.svg?style=social&label=Stars&maxAge=2592000)
 
 ### g3shaa <a name="g3shaa"></a>
+- [ChairBedSystem](https://github.com/g3shaa/ChairBedSystem) - ChairBedSystem using qb-target ![GitHub stars](https://img.shields.io/github/stars/g3shaa/ChairBedSystem.svg?style=social&label=Stars&maxAge=2592000)
 - [elite-computerengineering](https://github.com/g3shaa/elite-computerengineering) - Computer engineering job using qb-target for QBCore ![GitHub stars](https://img.shields.io/github/stars/g3shaa/elite-computerengineering.svg?style=social&label=Stars&maxAge=2592000)
 - [elite-electricianjob](https://github.com/g3shaa/elite-electricianjob) - QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/g3shaa/elite-electricianjob.svg?style=social&label=Stars&maxAge=2592000)
 - [elite-materials](https://github.com/g3shaa/elite-materials) - FiveM Resource (Scrapyard and Trash Searching) [QBCore] ![GitHub stars](https://img.shields.io/github/stars/g3shaa/elite-materials.svg?style=social&label=Stars&maxAge=2592000)
