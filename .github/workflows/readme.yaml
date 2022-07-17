@@ -17,9 +17,13 @@ jobs:
       - name: Download awesome-list-generator
         run: |
           sudo apt install wget -y
-          wget https://github.com/iLLeniumStudios/awesome-list-generator/releases/download/v1.0.1/awesome-list-generator_1.0.1_Linux_x86_64.tar.gz
-          tar -xvf awesome-list-generator_1.0.1_Linux_x86_64.tar.gz
-          pwd
-          ls -ltr
-          ./awesome-list-generator --config config.yaml --output awesome.md
-          
+          wget https://github.com/iLLeniumStudios/awesome-list-generator/releases/download/v1.0.1/awesome-list-generator_1.0.2_Linux_x86_64.tar.gz
+          tar -xvf awesome-list-generator_1.0.2_Linux_x86_64.tar.gz
+          ./awesome-list-generator --config config.yaml --output README.md
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "Update README.md"
+          git push
