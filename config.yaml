@@ -1,0 +1,104 @@
+minStars: 2
+minStarsForFork: 3
+ignoredRepos:
+  - .github
+users:
+  - name: qbcore-framework
+    ignoredRepos:
+    - breze_benefactor
+  - name: iLLeniumStudios
+    ignoredRepos:
+    - docs.illenium.dev
+  - name: Constant-Development
+  - name: GhzGarage
+  - name: Disabled-Coding
+  - name: ItsANoBrainer
+    ignoredRepos:
+    - AdventOfCode
+  - name: FjamZoo
+  - name: NaorNC
+  - name: IdrisDose
+    ignoredRepos:
+    - wos_hombre_holocrons
+    - Universal-LPC-Spritesheet-Character-Generator
+  - name: Project-Sloth
+  - name: loljoshie
+  - name: project-codex
+  - name: 5m1Ly
+  - name: RodericAguilar
+  - name: hoangducdt
+  - name: vCodeScripts
+  - name: Brichka-Dv
+  - name: MrAladin-afs
+    ignoredRepos:
+    - afs-discord-mod-bot
+  - name: swkeep
+  - name: Nerfednijt
+  - name: Blumlaut
+    ignoredRepos:
+    - ac-adu-dash
+    - MTA
+  - name: Holidayy95
+  - name: Z3rio
+  - name: IN1GHTM4R3
+  - name: ImpulseFPS
+  - name: Github-Samuel
+  - name: OmiJod
+  - name: trclassic92
+  - name: JustDenali
+  - name: overextended
+    ignoredRepos:
+    - OxBot
+  - name: itsHyper
+  - name: llbooya
+  - name: Bunny5578
+  - name: Project-India
+  - name: Doxy4
+  - name: TheoLevi
+  - name: buntyverma69
+  - name: BubbleDudeAT
+    ignoredRepos:
+    - v-town-website
+  - name: wtftanveer
+  - name: VORPCORE
+  - name: tnj-development
+  - name: xV1ncenTx
+  - name: spyx444
+  - name: DansMatee
+  - name: cadburry6969
+  - name: i-kulgu
+  - name: renzuzu
+  - name: doritohead
+  - name: ic3d00
+  - name: trickgodness
+  - name: Skulrag
+  - name: TitansProductions
+  - name: oosayeroo
+  - name: LifeGoal
+  - name: rival-group
+  - name: Prime-Script
+  - name: randollocal
+  - name: AxisGe0
+  - name: MrEvilGamer
+  - name: TonyCapon3
+  - name: Kingsage311
+  - name: stevn999
+  - name: marcinhuu
+  - name: Burn-One-Studios
+  - name: Pluto-Really
+  - name: McKleans-Scripts
+  - name: VHall1
+  - name: Kiminaze
+  - name: OwenT1
+  - name: Manliketjb
+  - name: davidxd33
+  - name: CrewDevelopement
+  - name: jimathy
+  - name: DvScriptsSK
+  - name: KevinGirardx
+  - name: KillerKei
+  - name: MCS1999
+  - name: LucidB1
+  #- name: arabcodingteam
+  - name: MonkeyWhisper
+  - name: Lionh34rt
