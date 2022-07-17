@@ -122,3 +122,14 @@ users:
   - name: project-error
     ignoredRepos:
     - projecterror.dev
+  - name: Alivemonstor
+  - name: devin-monro
+  - name: jay-fivem
+  - name: JoeSzymkowiczFiveM
+  - name: JustLazzy
+  - name: pushkart2
+    ignoredRepos:
+    - caltech_101_transfer_learning
+  - name: mirrox1337
+  - name: ihyajb
+  - name: BerkieBb
