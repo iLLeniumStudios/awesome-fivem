@@ -309,8 +309,6 @@ A curated list of FiveM resources
 
 ### izMystic <a name="izMystic"></a>
 - [car-pack-template](https://github.com/izMystic/car-pack-template) ![GitHub stars](https://img.shields.io/github/stars/izMystic/car-pack-template.svg?style=social&label=Stars&maxAge=2592000)
-- [darker-discord](https://github.com/izMystic/darker-discord) - An actual Dark mode for discord. ![GitHub stars](https://img.shields.io/github/stars/izMystic/darker-discord.svg?style=social&label=Stars&maxAge=2592000)
-- [harmonizedroleplay.com](https://github.com/izMystic/harmonizedroleplay.com) - Community website template ![GitHub stars](https://img.shields.io/github/stars/izMystic/harmonizedroleplay.com.svg?style=social&label=Stars&maxAge=2592000)
 - [mystic-chatdesign](https://github.com/izMystic/mystic-chatdesign) ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-chatdesign.svg?style=social&label=Stars&maxAge=2592000)
 - [mystic-hud](https://github.com/izMystic/mystic-hud) ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-hud.svg?style=social&label=Stars&maxAge=2592000)
 - [mystic-notify](https://github.com/izMystic/mystic-notify) - A standalone FiveM notification resource ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-notify.svg?style=social&label=Stars&maxAge=2592000)
