@@ -488,6 +488,10 @@ A curated list of FiveM resources
 - [prime-transfer](https://github.com/Prime-Script/prime-transfer) - Ability To Sell Cars On The Street / Admin Give Cars To Civs ![GitHub stars](https://img.shields.io/github/stars/Prime-Script/prime-transfer.svg?style=social&label=Stars&maxAge=2592000)
 - [prime-vangelico](https://github.com/Prime-Script/prime-vangelico) - No Pixel Inspired Vangelico Script ![GitHub stars](https://img.shields.io/github/stars/Prime-Script/prime-vangelico.svg?style=social&label=Stars&maxAge=2592000)
 
+### Project-Boosted <a name="Project-Boosted"></a>
+- [brp-burgershot-lootbox](https://github.com/Project-Boosted/brp-burgershot-lootbox) - loot boxes for burgershot ![GitHub stars](https://img.shields.io/github/stars/Project-Boosted/brp-burgershot-lootbox.svg?style=social&label=Stars&maxAge=2592000)
+- [brp-Loot-Images](https://github.com/Project-Boosted/brp-Loot-Images) - Images for loot boxes  ![GitHub stars](https://img.shields.io/github/stars/Project-Boosted/brp-Loot-Images.svg?style=social&label=Stars&maxAge=2592000)
+
 ### project-codex <a name="project-codex"></a>
 - [cx-parking](https://github.com/project-codex/cx-parking) - A realistic parking script for the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/project-codex/cx-parking.svg?style=social&label=Stars&maxAge=2592000)
 - [cx-payslip](https://github.com/project-codex/cx-payslip) - A payslip system for the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/project-codex/cx-payslip.svg?style=social&label=Stars&maxAge=2592000)
