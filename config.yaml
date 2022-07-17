@@ -15,6 +15,8 @@ minStars: 2
 minStarsForFork: 3
 ignoredRepos:
   - .github
+  - docs
+  - website
 users:
   - name: qbcore-framework
     ignoredRepos:
@@ -145,6 +147,9 @@ users:
   - name: AtlasFw
   - name: TGRHavoc
   - name: SnailyCAD
+    ignoredRepos:
+    - autoinstaller
+    - autoupdater
   - name: Sub-Zero-Interactive
   - name: Sov-Nation
   - name: WolsG
@@ -181,6 +186,9 @@ users:
   - name: DonHulieo
   - name: RamiroDesigns
   - name: jaylac2000
+    ignoredRepos:
+    - Quests
+    - StaffStatus
   - name: JarvisFW
   - name: SneakyPanda998
   - name: Enzo-DC
@@ -189,3 +197,6 @@ users:
   - name: BlackzoneV
   - name: nerohiro
   - name: esx-framework
+    ignoredRepos:
+    - esx-documentation
+    - esx-homepage
