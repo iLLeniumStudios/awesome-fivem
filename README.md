@@ -181,8 +181,6 @@ A curated list of FiveM resources
 - [qb-clothes](https://github.com/Enzo-DC/qb-clothes) ![GitHub stars](https://img.shields.io/github/stars/Enzo-DC/qb-clothes.svg?style=social&label=Stars&maxAge=2592000)
 
 ### esx-framework <a name="esx-framework"></a>
-- [esx-documentation](https://github.com/esx-framework/esx-documentation) - ESX Documentation ![GitHub stars](https://img.shields.io/github/stars/esx-framework/esx-documentation.svg?style=social&label=Stars&maxAge=2592000)
-- [esx-homepage](https://github.com/esx-framework/esx-homepage) ![GitHub stars](https://img.shields.io/github/stars/esx-framework/esx-homepage.svg?style=social&label=Stars&maxAge=2592000)
 - [esx-legacy](https://github.com/esx-framework/esx-legacy) - Official Repo For ESX-Legacy ![GitHub stars](https://img.shields.io/github/stars/esx-framework/esx-legacy.svg?style=social&label=Stars&maxAge=2592000)
 - [ESX-Next](https://github.com/esx-framework/ESX-Next) - (WIP) A lower level FiveM framework, using the Decorator pattern with DI, written in the glorious TypeScript. ![GitHub stars](https://img.shields.io/github/stars/esx-framework/ESX-Next.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -342,8 +340,6 @@ A curated list of FiveM resources
 - [qb-clearchat](https://github.com/jaylac2000/qb-clearchat) - Clear Chat Script ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/qb-clearchat.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-communityservice](https://github.com/jaylac2000/qb-communityservice) - Community Service Script for QBCore FiveM Servers ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/qb-communityservice.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-firefighterjob](https://github.com/jaylac2000/qb-firefighterjob) - started out as qb-ambulancejob but removed some stuff to turn it into a job for firefighters ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/qb-firefighterjob.svg?style=social&label=Stars&maxAge=2592000)
-- [Quests](https://github.com/jaylac2000/Quests) - A PMMP Quest plugin - I no longer use it but it was coded for my server ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/Quests.svg?style=social&label=Stars&maxAge=2592000)
-- [StaffStatus](https://github.com/jaylac2000/StaffStatus) - StaffStatus/List System ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/StaffStatus.svg?style=social&label=Stars&maxAge=2592000)
 
 ### jimathy <a name="jimathy"></a>
 - [jim-chairs](https://github.com/jimathy/jim-chairs) - QBCore Based Portable Chair Script ![GitHub stars](https://img.shields.io/github/stars/jimathy/jim-chairs.svg?style=social&label=Stars&maxAge=2592000)
@@ -957,13 +953,9 @@ A curated list of FiveM resources
 - [unknown-story](https://github.com/Skulrag/unknown-story) - The Unknown Story FiveM server repository ![GitHub stars](https://img.shields.io/github/stars/Skulrag/unknown-story.svg?style=social&label=Stars&maxAge=2592000)
 
 ### SnailyCAD <a name="SnailyCAD"></a>
-- [autoinstaller](https://github.com/SnailyCAD/autoinstaller) - A script to install SnailyCAD a bit quicker with interactive prompts in the console. ![GitHub stars](https://img.shields.io/github/stars/SnailyCAD/autoinstaller.svg?style=social&label=Stars&maxAge=2592000)
-- [autoupdater](https://github.com/SnailyCAD/autoupdater) - A simple script to automatically run the required steps to update SnailyCADv4. ![GitHub stars](https://img.shields.io/github/stars/SnailyCAD/autoupdater.svg?style=social&label=Stars&maxAge=2592000)
-- [docs](https://github.com/SnailyCAD/docs) - SnailyCADv4 Docs ![GitHub stars](https://img.shields.io/github/stars/SnailyCAD/docs.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-integrations](https://github.com/SnailyCAD/fivem-integrations) - FiveM Integrations for SnailyCADv4 ![GitHub stars](https://img.shields.io/github/stars/SnailyCAD/fivem-integrations.svg?style=social&label=Stars&maxAge=2592000)
 - [manager-app](https://github.com/SnailyCAD/manager-app) - in Alpha. More coming soon. ![GitHub stars](https://img.shields.io/github/stars/SnailyCAD/manager-app.svg?style=social&label=Stars&maxAge=2592000)
 - [snaily-cadv4](https://github.com/SnailyCAD/snaily-cadv4) - 💻 An open source Computer Aided Dispatch (CAD) for FiveM, this is a web based integration for communities who love police roleplaying and dispatching. Discord: https://discord.gg/eGnrPqEH7U ![GitHub stars](https://img.shields.io/github/stars/SnailyCAD/snaily-cadv4.svg?style=social&label=Stars&maxAge=2592000)
-- [website](https://github.com/SnailyCAD/website) - SnailyCAD's website ![GitHub stars](https://img.shields.io/github/stars/SnailyCAD/website.svg?style=social&label=Stars&maxAge=2592000)
 
 ### SneakyPanda998 <a name="SneakyPanda998"></a>
 - [qb-methlab](https://github.com/SneakyPanda998/qb-methlab) - Free to use methlab made with QBCore ![GitHub stars](https://img.shields.io/github/stars/SneakyPanda998/qb-methlab.svg?style=social&label=Stars&maxAge=2592000)
