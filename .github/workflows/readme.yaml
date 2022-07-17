@@ -14,13 +14,15 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: Download awesome-list-generator
+      - name: Download awesome-list-generator and generate list
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIT_SECRET }}
         run: |
           sudo apt install wget -y
           wget https://github.com/iLLeniumStudios/awesome-list-generator/releases/download/v1.0.2/awesome-list-generator_1.0.2_Linux_x86_64.tar.gz
           tar -xvf awesome-list-generator_1.0.2_Linux_x86_64.tar.gz
           ./awesome-list-generator --config config.yaml --output README.md
-
+      - name: Push generated list
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
