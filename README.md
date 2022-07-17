@@ -597,6 +597,13 @@ A curated list of FiveM resources
 - [lucid-dogsitter](https://github.com/LucidB1/lucid-dogsitter) - Dog sitter job for fivem ![GitHub stars](https://img.shields.io/github/stars/LucidB1/lucid-dogsitter.svg?style=social&label=Stars&maxAge=2592000)
 - [lucid-killcam](https://github.com/LucidB1/lucid-killcam) ![GitHub stars](https://img.shields.io/github/stars/LucidB1/lucid-killcam.svg?style=social&label=Stars&maxAge=2592000)
 
+### LukeWasTakenn <a name="LukeWasTakenn"></a>
+- [luke_atm](https://github.com/LukeWasTakenn/luke_atm) - FiveM ATM functionality for ESX framework ![GitHub stars](https://img.shields.io/github/stars/LukeWasTakenn/luke_atm.svg?style=social&label=Stars&maxAge=2592000)
+- [luke_chopshop](https://github.com/LukeWasTakenn/luke_chopshop) - FiveM ESX framework mod ![GitHub stars](https://img.shields.io/github/stars/LukeWasTakenn/luke_chopshop.svg?style=social&label=Stars&maxAge=2592000)
+- [luke_garages](https://github.com/LukeWasTakenn/luke_garages) - Super lightweight FiveM resource that adds garages and impounds for the ESX Legacy framework ![GitHub stars](https://img.shields.io/github/stars/LukeWasTakenn/luke_garages.svg?style=social&label=Stars&maxAge=2592000)
+- [luke_maildelivery](https://github.com/LukeWasTakenn/luke_maildelivery) - FiveM resource for ESX framework ![GitHub stars](https://img.shields.io/github/stars/LukeWasTakenn/luke_maildelivery.svg?style=social&label=Stars&maxAge=2592000)
+- [luke_multicharacter](https://github.com/LukeWasTakenn/luke_multicharacter) - FiveM modification that adds multicharacter support for ESX framework ![GitHub stars](https://img.shields.io/github/stars/LukeWasTakenn/luke_multicharacter.svg?style=social&label=Stars&maxAge=2592000)
+
 ### LYCoreFramework <a name="LYCoreFramework"></a>
 - [ly-adminmenu](https://github.com/LYCoreFramework/ly-adminmenu) - Redesign Of QB-adminmenu  ![GitHub stars](https://img.shields.io/github/stars/LYCoreFramework/ly-adminmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [ly-cokerun](https://github.com/LYCoreFramework/ly-cokerun) - remake of lj's methrun ![GitHub stars](https://img.shields.io/github/stars/LYCoreFramework/ly-cokerun.svg?style=social&label=Stars&maxAge=2592000)
@@ -772,6 +779,9 @@ A curated list of FiveM resources
 - [EngineToggle](https://github.com/Musiker15/EngineToggle) - FiveM Script - Vehicle EngineToggle | Keeps the engine running if you leave the vehicle without turning the engine off ![GitHub stars](https://img.shields.io/github/stars/Musiker15/EngineToggle.svg?style=social&label=Stars&maxAge=2592000)
 - [esx_backpack](https://github.com/Musiker15/esx_backpack) - FiveM Script - Backpack Plugins for Chezza Inventory ![GitHub stars](https://img.shields.io/github/stars/Musiker15/esx_backpack.svg?style=social&label=Stars&maxAge=2592000)
 - [SecretBlips](https://github.com/Musiker15/SecretBlips) - FiveM Script - Make Blips visible with an Item ![GitHub stars](https://img.shields.io/github/stars/Musiker15/SecretBlips.svg?style=social&label=Stars&maxAge=2592000)
+
+### N-fire <a name="N-fire"></a>
+- [nfire_hunting](https://github.com/N-fire/nfire_hunting) - Fivem Hunting script made for ox_inventory ![GitHub stars](https://img.shields.io/github/stars/N-fire/nfire_hunting.svg?style=social&label=Stars&maxAge=2592000)
 
 ### n4n-0 <a name="n4n-0"></a>
 - [nd-notify](https://github.com/n4n-0/nd-notify) - Notification System for FiveM ![GitHub stars](https://img.shields.io/github/stars/n4n-0/nd-notify.svg?style=social&label=Stars&maxAge=2592000)
@@ -1223,6 +1233,16 @@ A curated list of FiveM resources
 - [fivem-playerlist](https://github.com/TGRHavoc/fivem-playerlist) - A player list using scaleforms for FiveM ![GitHub stars](https://img.shields.io/github/stars/TGRHavoc/fivem-playerlist.svg?style=social&label=Stars&maxAge=2592000)
 - [live_map](https://github.com/TGRHavoc/live_map) - A FiveM addon for live maps ![GitHub stars](https://img.shields.io/github/stars/TGRHavoc/live_map.svg?style=social&label=Stars&maxAge=2592000)
 - [live_map-interface](https://github.com/TGRHavoc/live_map-interface) - Web interface for the FiveM live_map addon ![GitHub stars](https://img.shields.io/github/stars/TGRHavoc/live_map-interface.svg?style=social&label=Stars&maxAge=2592000)
+
+### thelindat <a name="thelindat"></a>
+- [esx_multicharacter](https://github.com/thelindat/esx_multicharacter) ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx_multicharacter.svg?style=social&label=Stars&maxAge=2592000)
+- [linden_3dnui](https://github.com/thelindat/linden_3dnui) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_3dnui.svg?style=social&label=Stars&maxAge=2592000)
+- [linden_drugsale](https://github.com/thelindat/linden_drugsale) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_drugsale.svg?style=social&label=Stars&maxAge=2592000)
+- [linden_duty](https://github.com/thelindat/linden_duty) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_duty.svg?style=social&label=Stars&maxAge=2592000)
+- [linden_evidence](https://github.com/thelindat/linden_evidence) - WIP evidence system designed to work with hsn-inventory ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_evidence.svg?style=social&label=Stars&maxAge=2592000)
+- [linden_outlawalert](https://github.com/thelindat/linden_outlawalert) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_outlawalert.svg?style=social&label=Stars&maxAge=2592000)
+- [nui_doorlock](https://github.com/thelindat/nui_doorlock) ![GitHub stars](https://img.shields.io/github/stars/thelindat/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
+- [Posted-Speedlimit](https://github.com/thelindat/Posted-Speedlimit) ([Original](https://github.com/Big-Yoda/Posted-Speedlimit) :green_circle: +0 :red_circle: -7</span>) ![GitHub stars](https://img.shields.io/github/stars/thelindat/Posted-Speedlimit.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TheoLevi <a name="TheoLevi"></a>
 - [QB-Multicharacter-Reworked](https://github.com/TheoLevi/QB-Multicharacter-Reworked) ![GitHub stars](https://img.shields.io/github/stars/TheoLevi/QB-Multicharacter-Reworked.svg?style=social&label=Stars&maxAge=2592000)
