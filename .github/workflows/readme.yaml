@@ -23,6 +23,7 @@ jobs:
           tar -xvf awesome-list-generator_1.0.2_Linux_x86_64.tar.gz
           ./awesome-list-generator --config config.yaml --output README.md
       - name: Push generated list
+        run:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
