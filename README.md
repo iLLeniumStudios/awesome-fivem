@@ -1513,6 +1513,9 @@ A curated list of FiveM resources
 - [Spazs-3dme](https://github.com/Spazd/Spazs-3dme) - YBN Inspired 3dme converted to QBCore. ![GitHub stars](https://img.shields.io/github/stars/Spazd/Spazs-3dme.svg?style=social&label=Stars&maxAge=2592000)
 - [Spazs-Carhud](https://github.com/Spazd/Spazs-Carhud) - YBN car hud converted over to QBCore. ![GitHub stars](https://img.shields.io/github/stars/Spazd/Spazs-Carhud.svg?style=social&label=Stars&maxAge=2592000)
 
+### spyx4 <a name="spyx4"></a>
+- [qb-vehiclekeys-](https://github.com/spyx4/qb-vehiclekeys-) ![GitHub stars](https://img.shields.io/github/stars/spyx4/qb-vehiclekeys-.svg?style=social&label=Stars&maxAge=2592000)
+
 ### spyx444 <a name="spyx444"></a>
 - [qb-advanceddumpster](https://github.com/spyx444/qb-advanceddumpster) ![GitHub stars](https://img.shields.io/github/stars/spyx444/qb-advanceddumpster.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-Clothing-Np-theme](https://github.com/spyx444/qb-Clothing-Np-theme) - qb-core menu clothing reworked  ![GitHub stars](https://img.shields.io/github/stars/spyx444/qb-Clothing-Np-theme.svg?style=social&label=Stars&maxAge=2592000)
