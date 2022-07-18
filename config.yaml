@@ -262,6 +262,8 @@ users:
   - name: realSixGrams
   - name: BombayV
   - name: xenfovn
+    ignoredRepos:
+    - DDOS-SERVER
   - name: youngsinatra99
   - name: ygtdev
   - name: Equilibrium-Studio
@@ -354,3 +356,62 @@ users:
   - name: KamuiKody
   - name: spyx4
   - name: MonkeDevv
+  - name: subhampro
+  - name: NevoSwissa
+  - name: zfbx
+    ignoredRepos:
+    - Discord-Bot-Template
+    - Yuno-v3
+    - TorqueScript
+    - Steam-Widget
+  - name: Djpowell23
+  - name: JonasDev99
+  - name: hakos47
+  - name: memojustone
+  - name: Darr0k
+  - name: NascentRP
+  - name: JericoFX
+  - name: ConnorTheDev
+  - name: lucasmckillop
+  - name: milotiro95
+  - name: DanielCoelh0
+  - name: menkzy
+  - name: snipe-scripts
+  - name: Wert22
+  - name: ShomyTKD
+  - name: creative2117
+  - name: ItIsYeCat
+  - name: Rav3n95
+  - name: NarwakV
+  - name: fetlito
+  - name: IAmPerek
+  - name: JnKTechStuff
+  - name: jaxonfromkh
+  - name: mikeyxb
+  - name: AmirhosseinAghighi
+  - name: kNickerzz
+  - name: NightRider18133
+  - name: sandralol
+  - name: JZSandbox
+  - name: Tomboru
+  - name: d3st1nyh4x
+    ignoredRepos:
+    - snek
+    - Shrekmosphere
+  - name: Rayzer567
+  - name: Velkostatkar
+  - name: KwalaGamer
+  - name: mknzz
+  - name: MrBeast2020
+  - name: ActuallyStrez
+  - name: djkenada
+  - name: HunterHoch
+  - name: CQC-Scripting
+  - name: NylanderrDK
+  - name: Kurosar
+    ignoredRepos:
+    - LSL
+  - name: amantu-qbit
+  - name: sp1d3r1987
+  - name: JiminyKroket
+  - name: Newtonzz
