@@ -320,7 +320,6 @@ A curated list of FiveM resources
 - [qb_robbery](https://github.com/DvScriptsSK/qb_robbery) ![GitHub stars](https://img.shields.io/github/stars/DvScriptsSK/qb_robbery.svg?style=social&label=Stars&maxAge=2592000)
 
 ### EntityEvolution <a name="EntityEvolution"></a>
-- [EntityEvolution.github.io](https://github.com/EntityEvolution/EntityEvolution.github.io) - Our website for the organization ![GitHub stars](https://img.shields.io/github/stars/EntityEvolution/EntityEvolution.github.io.svg?style=social&label=Stars&maxAge=2592000)
 - [ev-carhud](https://github.com/EntityEvolution/ev-carhud) - A standalone carhud ![GitHub stars](https://img.shields.io/github/stars/EntityEvolution/ev-carhud.svg?style=social&label=Stars&maxAge=2592000)
 - [ev-gym](https://github.com/EntityEvolution/ev-gym) - An optimized gym with PolyZones and NUI ![GitHub stars](https://img.shields.io/github/stars/EntityEvolution/ev-gym.svg?style=social&label=Stars&maxAge=2592000)
 - [ev-hud](https://github.com/EntityEvolution/ev-hud) - A circle HUD with phone like menu ![GitHub stars](https://img.shields.io/github/stars/EntityEvolution/ev-hud.svg?style=social&label=Stars&maxAge=2592000)
@@ -374,7 +373,6 @@ A curated list of FiveM resources
 - [AutoLock](https://github.com/FAXES/AutoLock) - An automatic door lock system for FiveM ![GitHub stars](https://img.shields.io/github/stars/FAXES/AutoLock.svg?style=social&label=Stars&maxAge=2592000)
 - [BoatTrailer](https://github.com/FAXES/BoatTrailer) - Boat Trailer Script For FiveM ![GitHub stars](https://img.shields.io/github/stars/FAXES/BoatTrailer.svg?style=social&label=Stars&maxAge=2592000)
 - [ChildLock](https://github.com/FAXES/ChildLock) - DoJ Inspired Child Lock ![GitHub stars](https://img.shields.io/github/stars/FAXES/ChildLock.svg?style=social&label=Stars&maxAge=2592000)
-- [disbotapijs](https://github.com/FAXES/disbotapijs) ![GitHub stars](https://img.shields.io/github/stars/FAXES/disbotapijs.svg?style=social&label=Stars&maxAge=2592000)
 - [DiscordVehicleWhitelist](https://github.com/FAXES/DiscordVehicleWhitelist) - A Discord vehicle white-list script for FiveM ![GitHub stars](https://img.shields.io/github/stars/FAXES/DiscordVehicleWhitelist.svg?style=social&label=Stars&maxAge=2592000)
 - [DiscordWhitelist](https://github.com/FAXES/DiscordWhitelist) - A Discord Whitelist System For FiveM ![GitHub stars](https://img.shields.io/github/stars/FAXES/DiscordWhitelist.svg?style=social&label=Stars&maxAge=2592000)
 - [ExternalVehicleCommands](https://github.com/FAXES/ExternalVehicleCommands) - Use /hood, /trunk and /door from outside your vehicle! ![GitHub stars](https://img.shields.io/github/stars/FAXES/ExternalVehicleCommands.svg?style=social&label=Stars&maxAge=2592000)
@@ -450,8 +448,6 @@ A curated list of FiveM resources
 ### Giana <a name="Giana"></a>
 - [g-bikerentals](https://github.com/Giana/g-bikerentals) - G-BikeRentals is a script for FiveM QBCore allowing you to configure bicycle rental locations around your city for citizens to utilize ![GitHub stars](https://img.shields.io/github/stars/Giana/g-bikerentals.svg?style=social&label=Stars&maxAge=2592000)
 - [g-billing](https://github.com/Giana/g-billing) - G-Billing is a script for FiveM QBCore providing a menu for employees to send bills on behalf of boss accounts/society funds and for everyone to manage, view, and pay bills ![GitHub stars](https://img.shields.io/github/stars/Giana/g-billing.svg?style=social&label=Stars&maxAge=2592000)
-- [rat-bingo](https://github.com/Giana/rat-bingo) - Traditional Bingo with a rat theme ![GitHub stars](https://img.shields.io/github/stars/Giana/rat-bingo.svg?style=social&label=Stars&maxAge=2592000)
-- [sudoku](https://github.com/Giana/sudoku) - Sudoku game + solver ![GitHub stars](https://img.shields.io/github/stars/Giana/sudoku.svg?style=social&label=Stars&maxAge=2592000)
 - [tp-us](https://github.com/Giana/tp-us) - TP-Us is a script for FiveM QBCore providing commands for teleporting yourself and/or someone else to specified coordinates ![GitHub stars](https://img.shields.io/github/stars/Giana/tp-us.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Github-Samuel <a name="Github-Samuel"></a>
@@ -623,14 +619,11 @@ A curated list of FiveM resources
 - [mystic-speedlimit](https://github.com/izMystic/mystic-speedlimit) ([Original](https://github.com/thelindat/Posted-Speedlimit) :green_circle: +0 :red_circle: -13</span>) ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-speedlimit.svg?style=social&label=Stars&maxAge=2592000)
 
 ### jaimeadf <a name="jaimeadf"></a>
-- [BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile). ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/BetterDiscordPlugins.svg?style=social&label=Stars&maxAge=2592000)
-- [discord-scraping](https://github.com/jaimeadf/discord-scraping) - A little project that scrapes the discord web client and stores each version's main assets. ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/discord-scraping.svg?style=social&label=Stars&maxAge=2592000)
 - [discord-screenshot](https://github.com/jaimeadf/discord-screenshot) - A resource for FiveM that captures the screen of a player and uploads it to a discord webhook. ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/discord-screenshot.svg?style=social&label=Stars&maxAge=2592000)
 - [esx_ladderhud](https://github.com/jaimeadf/esx_ladderhud) - A hud of thirst and hunger for FiveM (ESX)! ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/esx_ladderhud.svg?style=social&label=Stars&maxAge=2592000)
 - [vrp_betterhud](https://github.com/jaimeadf/vrp_betterhud) - Hud for fivem (vRP and vRPex) ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/vrp_betterhud.svg?style=social&label=Stars&maxAge=2592000)
 - [vrp_iconhud](https://github.com/jaimeadf/vrp_iconhud) - A hud for fivem(vRP) ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/vrp_iconhud.svg?style=social&label=Stars&maxAge=2592000)
 - [vrp_worlditems](https://github.com/jaimeadf/vrp_worlditems) ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/vrp_worlditems.svg?style=social&label=Stars&maxAge=2592000)
-- [who-reacted](https://github.com/jaimeadf/who-reacted) - See the avatars of the users who reacted to a message. ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/who-reacted.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Jakerssss <a name="Jakerssss"></a>
 - [qb-k9](https://github.com/Jakerssss/qb-k9) ([Original](https://github.com/FjamZoo/qb-k9) :green_circle: +0 :red_circle: -11</span>) - K9 Script for QB Core ![GitHub stars](https://img.shields.io/github/stars/Jakerssss/qb-k9.svg?style=social&label=Stars&maxAge=2592000)
@@ -1630,9 +1623,6 @@ A curated list of FiveM resources
 - [FXCore](https://github.com/ThymonA/FXCore) - Custom Framework By ThymonA ![GitHub stars](https://img.shields.io/github/stars/ThymonA/FXCore.svg?style=social&label=Stars&maxAge=2592000)
 - [menuv](https://github.com/ThymonA/menuv) - FiveM menu library for creating menu's with NUI ![GitHub stars](https://img.shields.io/github/stars/ThymonA/menuv.svg?style=social&label=Stars&maxAge=2592000)
 - [Model-View-Control](https://github.com/ThymonA/Model-View-Control) - My own Model View Control focusing on PHP 7 ![GitHub stars](https://img.shields.io/github/stars/ThymonA/Model-View-Control.svg?style=social&label=Stars&maxAge=2592000)
-- [rdx_menu_dialog](https://github.com/ThymonA/rdx_menu_dialog) ([Original](https://github.com/martintj22/esx_menu_dialog) :green_circle: +0 :red_circle: -15</span>) - FXServer ESX Menu Dialog ![GitHub stars](https://img.shields.io/github/stars/ThymonA/rdx_menu_dialog.svg?style=social&label=Stars&maxAge=2592000)
-- [RedM-Positions](https://github.com/ThymonA/RedM-Positions) - Simpel client script to find the the coords to place object and or markers ![GitHub stars](https://img.shields.io/github/stars/ThymonA/RedM-Positions.svg?style=social&label=Stars&maxAge=2592000)
-- [redm_extended](https://github.com/ThymonA/redm_extended) - [Just started] redm_extended is a clone of the original es_extended, then converted to RedM ![GitHub stars](https://img.shields.io/github/stars/ThymonA/redm_extended.svg?style=social&label=Stars&maxAge=2592000)
 - [TigoAntiCheat](https://github.com/ThymonA/TigoAntiCheat) - A resource that detects different types of cheating ![GitHub stars](https://img.shields.io/github/stars/ThymonA/TigoAntiCheat.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TitansProductions <a name="TitansProductions"></a>
@@ -1693,10 +1683,6 @@ A curated list of FiveM resources
 
 ### ultrahacx <a name="ultrahacx"></a>
 - [acidtrip_rework](https://github.com/ultrahacx/acidtrip_rework) - Rework of the original acript trip script https://forum.cfx.re/t/release-acid-trip/ ![GitHub stars](https://img.shields.io/github/stars/ultrahacx/acidtrip_rework.svg?style=social&label=Stars&maxAge=2592000)
-- [AndroVNC-Origin](https://github.com/ultrahacx/AndroVNC-Origin) - Simple VNC Client based on web browser for Andronix Linux systems ![GitHub stars](https://img.shields.io/github/stars/ultrahacx/AndroVNC-Origin.svg?style=social&label=Stars&maxAge=2592000)
-- [discord_notebot](https://github.com/ultrahacx/discord_notebot) - This is a simple discord note bot made using discord.py api. This repo is ready to clone-n-deploy on Heroku servers  ![GitHub stars](https://img.shields.io/github/stars/ultrahacx/discord_notebot.svg?style=social&label=Stars&maxAge=2592000)
-- [python_tools](https://github.com/ultrahacx/python_tools) - Easiest way to build your own Python IP Tarcker. Just a few lines of code and you are all set to find all the details about any IP Address. ![GitHub stars](https://img.shields.io/github/stars/ultrahacx/python_tools.svg?style=social&label=Stars&maxAge=2592000)
-- [twitterbot](https://github.com/ultrahacx/twitterbot) - This is a twitter bot which automates the process of loggin in into the account, searching for a specific term and liking all the tweets shown in the search results. ![GitHub stars](https://img.shields.io/github/stars/ultrahacx/twitterbot.svg?style=social&label=Stars&maxAge=2592000)
 - [ultra-3dsound](https://github.com/ultrahacx/ultra-3dsound) - Template resource for setting spatial audio in FiveM GTA5 mod ![GitHub stars](https://img.shields.io/github/stars/ultrahacx/ultra-3dsound.svg?style=social&label=Stars&maxAge=2592000)
 - [ultra-hud](https://github.com/ultrahacx/ultra-hud) - Animated HUD for ESX Framework with working hunger, thirst and stress system ![GitHub stars](https://img.shields.io/github/stars/ultrahacx/ultra-hud.svg?style=social&label=Stars&maxAge=2592000)
 - [ultra-keypackhack](https://github.com/ultrahacx/ultra-keypackhack) ![GitHub stars](https://img.shields.io/github/stars/ultrahacx/ultra-keypackhack.svg?style=social&label=Stars&maxAge=2592000)
