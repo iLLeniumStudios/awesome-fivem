@@ -476,6 +476,9 @@ A curated list of FiveM resources
 - [elite-electricianjob](https://github.com/g3shaa/elite-electricianjob) - QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/g3shaa/elite-electricianjob.svg?style=social&label=Stars&maxAge=2592000)
 - [elite-materials](https://github.com/g3shaa/elite-materials) - FiveM Resource (Scrapyard and Trash Searching) [QBCore] ![GitHub stars](https://img.shields.io/github/stars/g3shaa/elite-materials.svg?style=social&label=Stars&maxAge=2592000)
 
+### GabbarFramework <a name="GabbarFramework"></a>
+- [qb-lettucejob](https://github.com/GabbarFramework/qb-lettucejob) - Lettuce Farming Job For QBCore ![GitHub stars](https://img.shields.io/github/stars/GabbarFramework/qb-lettucejob.svg?style=social&label=Stars&maxAge=2592000)
+
 ### GENESEE5M <a name="GENESEE5M"></a>
 - [GENESEEItemDamage](https://github.com/GENESEE5M/GENESEEItemDamage) ![GitHub stars](https://img.shields.io/github/stars/GENESEE5M/GENESEEItemDamage.svg?style=social&label=Stars&maxAge=2592000)
 
