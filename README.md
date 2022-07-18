@@ -143,6 +143,15 @@ A curated list of FiveM resources
 - [racingusb](https://github.com/Boom1053/racingusb) ([Original](https://github.com/D40G/racingusb) :green_circle: +0 :red_circle: -0</span>) - When item is moved into players inventory, it will install the racing app. When it is removed, it will uninstall the app.  ![GitHub stars](https://img.shields.io/github/stars/Boom1053/racingusb.svg?style=social&label=Stars&maxAge=2592000)
 - [Unknown-BuyItems](https://github.com/Boom1053/Unknown-BuyItems) - Buy racing goods ![GitHub stars](https://img.shields.io/github/stars/Boom1053/Unknown-BuyItems.svg?style=social&label=Stars&maxAge=2592000)
 
+### boostless <a name="boostless"></a>
+- [boost-discordpresence](https://github.com/boostless/boost-discordpresence) - Discord rich presence with included job's ![GitHub stars](https://img.shields.io/github/stars/boostless/boost-discordpresence.svg?style=social&label=Stars&maxAge=2592000)
+- [Boost-DynamicHud](https://github.com/boostless/Boost-DynamicHud) ![GitHub stars](https://img.shields.io/github/stars/boostless/Boost-DynamicHud.svg?style=social&label=Stars&maxAge=2592000)
+- [Boost-Hud](https://github.com/boostless/Boost-Hud) - NP Inspired hud ![GitHub stars](https://img.shields.io/github/stars/boostless/Boost-Hud.svg?style=social&label=Stars&maxAge=2592000)
+- [Boost-OnlineShop](https://github.com/boostless/Boost-OnlineShop) - FiveM Online shop made with tailwindcss ![GitHub stars](https://img.shields.io/github/stars/boostless/Boost-OnlineShop.svg?style=social&label=Stars&maxAge=2592000)
+- [Boost-Paintball](https://github.com/boostless/Boost-Paintball) ![GitHub stars](https://img.shields.io/github/stars/boostless/Boost-Paintball.svg?style=social&label=Stars&maxAge=2592000)
+- [Boost-pvphud](https://github.com/boostless/Boost-pvphud) - PVP style hud for fivem ![GitHub stars](https://img.shields.io/github/stars/boostless/Boost-pvphud.svg?style=social&label=Stars&maxAge=2592000)
+- [esx_sit](https://github.com/boostless/esx_sit) - This is a modified esx_sit using bt-target ![GitHub stars](https://img.shields.io/github/stars/boostless/esx_sit.svg?style=social&label=Stars&maxAge=2592000)
+
 ### Brichka-Dv <a name="Brichka-Dv"></a>
 - [qb-apartments](https://github.com/Brichka-Dv/qb-apartments) - Brichka Apartments A script that was programmed with qb-radialmenu ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-apartments.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-clothing](https://github.com/Brichka-Dv/qb-clothing) - Clothing Script Used With QB-Core  ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-clothing.svg?style=social&label=Stars&maxAge=2592000)
@@ -1496,6 +1505,7 @@ A curated list of FiveM resources
 - [qb-sna-billing](https://github.com/Sna-aaa/qb-sna-billing) - Billing for QBCore ![GitHub stars](https://img.shields.io/github/stars/Sna-aaa/qb-sna-billing.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-sna-postopjob](https://github.com/Sna-aaa/qb-sna-postopjob) - PostOp job for QB to fill shops stocks ![GitHub stars](https://img.shields.io/github/stars/Sna-aaa/qb-sna-postopjob.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-sna-races](https://github.com/Sna-aaa/qb-sna-races) - Race Track Creation and Race management For QB-Core ![GitHub stars](https://img.shields.io/github/stars/Sna-aaa/qb-sna-races.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-sna-shops](https://github.com/Sna-aaa/qb-sna-shops) - Fork of qb-shops to have real db stocks ![GitHub stars](https://img.shields.io/github/stars/Sna-aaa/qb-sna-shops.svg?style=social&label=Stars&maxAge=2592000)
 
 ### SnailyCAD <a name="SnailyCAD"></a>
 - [fivem-integrations](https://github.com/SnailyCAD/fivem-integrations) - FiveM Integrations for SnailyCADv4 ![GitHub stars](https://img.shields.io/github/stars/SnailyCAD/fivem-integrations.svg?style=social&label=Stars&maxAge=2592000)
