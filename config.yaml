@@ -245,6 +245,7 @@ users:
     ignoredRepos:
     - easycompile
     - faxstore-themes
+    - disbotapijs
   - name: ARSSANTO
   - name: CurlyLegend
   - name: iboss21
@@ -297,12 +298,18 @@ users:
   - name: czsquizer
   - name: AvarianKnight
   - name: ThymonA
+    ignoredRepos:
+    - RedM-Positions
+    - redm_extended
+    - rdx_menu_dialog
   - name: JamesSc0tt
   - name: clementinise
   - name: Kaves47
   - name: Xogy
   - name: Alpha-Framework
   - name: EntityEvolution
+    ignoredRepos:
+    - EntityEvolution.github.io
   - name: matetv
   - name: GlitchOo
   - name: ohbrime
@@ -330,10 +337,22 @@ users:
   - name: xThrasherrr
   - name: TayMcKenzieNZ
   - name: jaimeadf
+    ignoredRepos:
+    - BetterDiscordPlugins
+    - discord-scraping
+    - who-reacted
   - name: FlawwsX
   - name: Concept-Collective
   - name: ultrahacx
+    ignoredRepos:
+    - discord_notebot
+    - python_tools
+    - twitterbot
+    - AndroVNC-Origin
   - name: FuriousLeech
   - name: kel1x
   - name: Giana
+    ignoredRepos:
+    - rat-bingo
+    - sudoku
   - name: finalLy134
