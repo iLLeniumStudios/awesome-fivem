@@ -1,14 +1,10 @@
 # awesome-fivem
-
 A curated list of FiveM resources
-
 ## Frameworks
-
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [ESX](https://github.com/esx-framework/esx-legacy)
 - [NCS](https://github.com/NextCitizens/ncs_core)
 - [Atlas](https://github.com/AtlasFw/atl-core)
-
 ## Resources
 
 ### 0xDEMXN <a name="0xDEMXN"></a>
@@ -864,14 +860,6 @@ A curated list of FiveM resources
 - [moneywash](https://github.com/Manliketjb/moneywash) - QBCore Money wash set up for DLCIPL Casino ![GitHub stars](https://img.shields.io/github/stars/Manliketjb/moneywash.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-sit](https://github.com/Manliketjb/qb-sit) - qb-core sitting for chairs/beds using qb-target (ESX conversion) ![GitHub stars](https://img.shields.io/github/stars/Manliketjb/qb-sit.svg?style=social&label=Stars&maxAge=2592000)
 
-### Manliketjb <a name="Manliketjb"></a>
-- [Blackmarket](https://github.com/Manliketjb/Blackmarket) - Location Changing Blackmarket with easy to use config and qb-target ![GitHub stars](https://img.shields.io/github/stars/Manliketjb/Blackmarket.svg?style=social&label=Stars&maxAge=2592000)
-- [gov-robbery](https://github.com/Manliketjb/gov-robbery) - qb-nuclear, Updated, improved and renamed by ManLikeTJB ![GitHub stars](https://img.shields.io/github/stars/Manliketjb/gov-robbery.svg?style=social&label=Stars&maxAge=2592000)
-- [gunheist](https://github.com/Manliketjb/gunheist) - qb-gunheist fixed and slightly updated for QBCore by Manliketjb (no pve) ![GitHub stars](https://img.shields.io/github/stars/Manliketjb/gunheist.svg?style=social&label=Stars&maxAge=2592000)
-- [lotto](https://github.com/Manliketjb/lotto) - This script is convert by Captainrum89 and updated by ManLikeTJB. Now fully working with Updated QBCore! ![GitHub stars](https://img.shields.io/github/stars/Manliketjb/lotto.svg?style=social&label=Stars&maxAge=2592000)
-- [moneywash](https://github.com/Manliketjb/moneywash) - QBCore Money wash set up for DLCIPL Casino ![GitHub stars](https://img.shields.io/github/stars/Manliketjb/moneywash.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-sit](https://github.com/Manliketjb/qb-sit) - qb-core sitting for chairs/beds using qb-target (ESX conversion) ![GitHub stars](https://img.shields.io/github/stars/Manliketjb/qb-sit.svg?style=social&label=Stars&maxAge=2592000)
-
 ### marcinhuu <a name="marcinhuu"></a>
 - [m-FakePlate](https://github.com/marcinhuu/m-FakePlate) - A simple script to change the plate. ![GitHub stars](https://img.shields.io/github/stars/marcinhuu/m-FakePlate.svg?style=social&label=Stars&maxAge=2592000)
 - [m-Teleport](https://github.com/marcinhuu/m-Teleport) - Simple teleport, with system of qb-multicharacter to check license ![GitHub stars](https://img.shields.io/github/stars/marcinhuu/m-Teleport.svg?style=social&label=Stars&maxAge=2592000)
@@ -957,9 +945,6 @@ A curated list of FiveM resources
 
 ### MeetxDev <a name="MeetxDev"></a>
 - [mxd-lifts](https://github.com/MeetxDev/mxd-lifts) ![GitHub stars](https://img.shields.io/github/stars/MeetxDev/mxd-lifts.svg?style=social&label=Stars&maxAge=2592000)
-
-### meidricsq <a name="meidricsq"></a>
-- [mdx-chopping](https://github.com/meidricsq/mdx-chopping) ![GitHub stars](https://img.shields.io/github/stars/meidricsq/mdx-chopping.svg?style=social&label=Stars&maxAge=2592000)
 
 ### meidricsq <a name="meidricsq"></a>
 - [mdx-chopping](https://github.com/meidricsq/mdx-chopping) ![GitHub stars](https://img.shields.io/github/stars/meidricsq/mdx-chopping.svg?style=social&label=Stars&maxAge=2592000)
