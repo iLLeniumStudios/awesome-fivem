@@ -1600,7 +1600,6 @@ A curated list of FiveM resources
 - [linden_3dnui](https://github.com/thelindat/linden_3dnui) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_3dnui.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_drugsale](https://github.com/thelindat/linden_drugsale) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_drugsale.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_duty](https://github.com/thelindat/linden_duty) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_duty.svg?style=social&label=Stars&maxAge=2592000)
-- [linden_evidence](https://github.com/thelindat/linden_evidence) - WIP evidence system designed to work with hsn-inventory ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_evidence.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_outlawalert](https://github.com/thelindat/linden_outlawalert) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_outlawalert.svg?style=social&label=Stars&maxAge=2592000)
 - [nui_doorlock](https://github.com/thelindat/nui_doorlock) ![GitHub stars](https://img.shields.io/github/stars/thelindat/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 - [Posted-Speedlimit](https://github.com/thelindat/Posted-Speedlimit) ([Original](https://github.com/Big-Yoda/Posted-Speedlimit) :green_circle: +0 :red_circle: -7</span>) ![GitHub stars](https://img.shields.io/github/stars/thelindat/Posted-Speedlimit.svg?style=social&label=Stars&maxAge=2592000)
@@ -1657,6 +1656,7 @@ A curated list of FiveM resources
 
 ### trainordevs <a name="trainordevs"></a>
 - [linden_outlawalert](https://github.com/trainordevs/linden_outlawalert) ([Original](https://github.com/TheHorizonDev/linden_outlawalert) :green_circle: +0 :red_circle: -1</span>) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/trainordevs/linden_outlawalert.svg?style=social&label=Stars&maxAge=2592000)
+- [QBCore-Resource-Starter](https://github.com/trainordevs/QBCore-Resource-Starter) - A simple program written in C# to assist in quickly creating the baseline for any FiveM/QBCore script! ![GitHub stars](https://img.shields.io/github/stars/trainordevs/QBCore-Resource-Starter.svg?style=social&label=Stars&maxAge=2592000)
 - [td-policedesk](https://github.com/trainordevs/td-policedesk) - Simple police desk notification center. ![GitHub stars](https://img.shields.io/github/stars/trainordevs/td-policedesk.svg?style=social&label=Stars&maxAge=2592000)
 
 ### trclassic92 <a name="trclassic92"></a>
