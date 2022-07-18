@@ -700,6 +700,9 @@ A curated list of FiveM resources
 - [qb-garages](https://github.com/JustLazzy/qb-garages) - Edited qb-garages using Polyzone ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/qb-garages.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-houses](https://github.com/JustLazzy/qb-houses) ([Original](https://github.com/qbcore-framework/qb-houses) :green_circle: +44 :red_circle: -41</span>) - Housing and Furniture Script Used With QB-Core 🏠 :chair: ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/qb-houses.svg?style=social&label=Stars&maxAge=2592000)
 
+### KamuiKody <a name="KamuiKody"></a>
+- [qb-pokemontcg](https://github.com/KamuiKody/qb-pokemontcg) ![GitHub stars](https://img.shields.io/github/stars/KamuiKody/qb-pokemontcg.svg?style=social&label=Stars&maxAge=2592000)
+
 ### Kaves47 <a name="Kaves47"></a>
 - [kaves_antibadcop](https://github.com/Kaves47/kaves_antibadcop) - Anti Bad Cop Script for FiveM ![GitHub stars](https://img.shields.io/github/stars/Kaves47/kaves_antibadcop.svg?style=social&label=Stars&maxAge=2592000)
 - [kaves_hlabheist](https://github.com/Kaves47/kaves_hlabheist) - Human Lab Heist script for FiveM ![GitHub stars](https://img.shields.io/github/stars/Kaves47/kaves_hlabheist.svg?style=social&label=Stars&maxAge=2592000)
