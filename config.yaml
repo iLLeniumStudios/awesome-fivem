@@ -1,15 +1,11 @@
 prefix: |
   # awesome-fivem
-
   A curated list of FiveM resources
-
   ## Frameworks
-
   - [qb-core](https://github.com/qbcore-framework/qb-core)
   - [ESX](https://github.com/esx-framework/esx-legacy)
   - [NCS](https://github.com/NextCitizens/ncs_core)
   - [Atlas](https://github.com/AtlasFw/atl-core)
-
   ## Resources
 minStars: 2
 minStarsForFork: 3
@@ -20,22 +16,22 @@ ignoredRepos:
 users:
   - name: qbcore-framework
     ignoredRepos:
-    - breze_benefactor
+      - breze_benefactor
   - name: iLLeniumStudios
     ignoredRepos:
-    - docs.illenium.dev
+      - docs.illenium.dev
   - name: Constant-Development
   - name: GhzGarage
   - name: Disabled-Coding
   - name: ItsANoBrainer
     ignoredRepos:
-    - AdventOfCode
+      - AdventOfCode
   - name: FjamZoo
   - name: NaorNC
   - name: IdrisDose
     ignoredRepos:
-    - wos_hombre_holocrons
-    - Universal-LPC-Spritesheet-Character-Generator
+      - wos_hombre_holocrons
+      - Universal-LPC-Spritesheet-Character-Generator
   - name: Project-Sloth
   - name: loljoshie
   - name: project-codex
@@ -46,13 +42,13 @@ users:
   - name: Brichka-Dv
   - name: MrAladin-afs
     ignoredRepos:
-    - afs-discord-mod-bot
+      - afs-discord-mod-bot
   - name: swkeep
   - name: Nerfednijt
   - name: Blumlaut
     ignoredRepos:
-    - ac-adu-dash
-    - MTA
+      - ac-adu-dash
+      - MTA
   - name: Holidayy95
   - name: Z3rio
   - name: IN1GHTM4R3
@@ -63,7 +59,7 @@ users:
   - name: JustDenali
   - name: overextended
     ignoredRepos:
-    - OxBot
+      - OxBot
   - name: itsHyper
   - name: llbooya
   - name: Bunny5578
@@ -73,7 +69,7 @@ users:
   - name: buntyverma69
   - name: BubbleDudeAT
     ignoredRepos:
-    - v-town-website
+      - v-town-website
   - name: wtftanveer
   - name: VORPCORE
   - name: tnj-development
@@ -118,12 +114,12 @@ users:
   - name: MonkeyWhisper
   - name: Lionh34rt
     ignoredRepos:
-    - QB-Cardealer
+      - QB-Cardealer
   - name: marcostom32
   - name: Mojito-Fivem
   - name: project-error
     ignoredRepos:
-    - projecterror.dev
+      - projecterror.dev
   - name: Alivemonstor
   - name: devin-monro
   - name: jay-fivem
@@ -131,7 +127,7 @@ users:
   - name: JustLazzy
   - name: pushkart2
     ignoredRepos:
-    - caltech_101_transfer_learning
+      - caltech_101_transfer_learning
   - name: mirrox1337
   - name: ihyajb
   - name: BerkieBb
@@ -141,8 +137,8 @@ users:
   - name: TasoOneAsia
   - name: izMystic
     ignoredRepos:
-    - harmonizedroleplay.com
-    - darker-discord
+      - harmonizedroleplay.com
+      - darker-discord
   - name: Demo4889
   - name: Scullyy
   - name: YeahItsHayden
@@ -151,8 +147,8 @@ users:
   - name: TGRHavoc
   - name: SnailyCAD
     ignoredRepos:
-    - autoinstaller
-    - autoupdater
+      - autoinstaller
+      - autoupdater
   - name: Sub-Zero-Interactive
   - name: Sov-Nation
   - name: WolsG
@@ -190,8 +186,8 @@ users:
   - name: RamiroDesigns
   - name: jaylac2000
     ignoredRepos:
-    - Quests
-    - StaffStatus
+      - Quests
+      - StaffStatus
   - name: JarvisFW
   - name: SneakyPanda998
   - name: Enzo-DC
@@ -201,8 +197,8 @@ users:
   - name: nerohiro
   - name: esx-framework
     ignoredRepos:
-    - esx-documentation
-    - esx-homepage
+      - esx-documentation
+      - esx-homepage
   - name: djjackYT
   - name: HunterSouvik
   - name: helenclarko
@@ -243,9 +239,9 @@ users:
   - name: Zach488
   - name: FAXES
     ignoredRepos:
-    - easycompile
-    - faxstore-themes
-    - disbotapijs
+      - easycompile
+      - faxstore-themes
+      - disbotapijs
   - name: ARSSANTO
   - name: CurlyLegend
   - name: iboss21
@@ -253,7 +249,7 @@ users:
   - name: meidricsq
   - name: DevLanceGood
     ignoredRepos:
-    - altV-Police
+      - altV-Police
   - name: FM-Dev-Macke
   - name: regalonefour
   - name: Wakie123213
@@ -281,7 +277,6 @@ users:
   - name: loaf-scripts
   - name: Predator7158
   - name: markthatsound
-  - name: Manliketjb
   - name: FaultyMatrix
   - name: JulyGee
   - name: Boom1053
@@ -299,9 +294,9 @@ users:
   - name: AvarianKnight
   - name: ThymonA
     ignoredRepos:
-    - RedM-Positions
-    - redm_extended
-    - rdx_menu_dialog
+      - RedM-Positions
+      - redm_extended
+      - rdx_menu_dialog
   - name: JamesSc0tt
   - name: clementinise
   - name: Kaves47
@@ -309,7 +304,7 @@ users:
   - name: Alpha-Framework
   - name: EntityEvolution
     ignoredRepos:
-    - EntityEvolution.github.io
+      - EntityEvolution.github.io
   - name: matetv
   - name: GlitchOo
   - name: ohbrime
@@ -323,7 +318,6 @@ users:
   - name: BryanLTU
   - name: JL-Development
   - name: sgtherbz
-  - name: meidricsq
   - name: Omega248
   - name: Andyyy7666
   - name: mmleczek
@@ -338,22 +332,22 @@ users:
   - name: TayMcKenzieNZ
   - name: jaimeadf
     ignoredRepos:
-    - BetterDiscordPlugins
-    - discord-scraping
-    - who-reacted
+      - BetterDiscordPlugins
+      - discord-scraping
+      - who-reacted
   - name: FlawwsX
   - name: Concept-Collective
   - name: ultrahacx
     ignoredRepos:
-    - discord_notebot
-    - python_tools
-    - twitterbot
-    - AndroVNC-Origin
+      - discord_notebot
+      - python_tools
+      - twitterbot
+      - AndroVNC-Origin
   - name: FuriousLeech
   - name: kel1x
   - name: Giana
     ignoredRepos:
-    - rat-bingo
-    - sudoku
+      - rat-bingo
+      - sudoku
   - name: finalLy134
   - name: boostless
