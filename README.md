@@ -700,6 +700,7 @@ A curated list of FiveM resources
 - [qb-garages-2](https://github.com/ImpulseFPS/qb-garages-2) ([Original](https://github.com/JustLazzy/qb-garages) :green_circle: +7 :red_circle: -0</span>) - Edited qb-garages using Polyzone ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-garages-2.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-personalcrafting](https://github.com/ImpulseFPS/qb-personalcrafting) - personal crafting used with QBCore framework ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-personalcrafting.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-phone-npstyle](https://github.com/ImpulseFPS/qb-phone-npstyle) ([Original](https://github.com/llbooya/qb-phone-npstyle) :green_circle: +0 :red_circle: -0</span>) - NP style edits and additionals for qb-phone, help from a few community members. NOT PROVIDING SUPPORT ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-phone-npstyle.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-pos](https://github.com/ImpulseFPS/qb-pos) ([Original](https://github.com/Dersicko/qb-pos) :green_circle: +0 :red_circle: -0</span>) - A point of sale management system for QBCore ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-pos.svg?style=social&label=Stars&maxAge=2592000)
 - [simple-banking](https://github.com/ImpulseFPS/simple-banking) - simple-banking used with QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/simple-banking.svg?style=social&label=Stars&maxAge=2592000)
 
 ### IN1GHTM4R3 <a name="IN1GHTM4R3"></a>
