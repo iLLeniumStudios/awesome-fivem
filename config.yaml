@@ -473,3 +473,11 @@ users:
   #- name: JaredScar # A lot of non-fivem repos (TODO: implement both inclusions and exclusions)
   - name: wasabirobby
   - name: IAmElement
+  - name: derens41210
+  - name: antond15
+  - name: NoNameMOD
+  - name: Squibsie
+  - name: zaphosting
+    ignoredRepos:
+    - redem
+  - name: james12007
