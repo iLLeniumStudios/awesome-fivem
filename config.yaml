@@ -469,9 +469,7 @@ users:
     - PyQt5-Game
     - bklk
   - name: xFutte
-  - name: slvidu
   - name: RockySouthpaw
   #- name: JaredScar # A lot of non-fivem repos (TODO: implement both inclusions and exclusions)
   - name: wasabirobby
-  - name: AtlasFw
   - name: IAmElement
