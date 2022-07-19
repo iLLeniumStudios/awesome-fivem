@@ -981,6 +981,9 @@ A curated list of FiveM resources
 - [qb-rentals](https://github.com/Lionh34rt/qb-rentals) - I made this simple vehicle rental script for my server a month ago and now i'm releasing it for you guys.  Players can rent a vehicle for a small price and receive rental documents with their name, the model of the vehicle and the license plate. Using the item will trigger the givekeys event and players can take off with the vehicle. ![GitHub stars](https://img.shields.io/github/stars/Lionh34rt/qb-rentals.svg?style=social&label=Stars&maxAge=2592000)
 - [QBCore-Druglabs](https://github.com/Lionh34rt/QBCore-Druglabs) - Keybased lab scripts based on the original qb-moneywash and qb-laundrette.  ![GitHub stars](https://img.shields.io/github/stars/Lionh34rt/QBCore-Druglabs.svg?style=social&label=Stars&maxAge=2592000)
 
+### Liridon69 <a name="Liridon69"></a>
+- [unik-moneywash](https://github.com/Liridon69/unik-moneywash) ![GitHub stars](https://img.shields.io/github/stars/Liridon69/unik-moneywash.svg?style=social&label=Stars&maxAge=2592000)
+
 ### llbooya <a name="llbooya"></a>
 - [qb-phone-npstyle](https://github.com/llbooya/qb-phone-npstyle) - NP style edits and additionals for qb-phone, help from a few community members. NOT PROVIDING SUPPORT ![GitHub stars](https://img.shields.io/github/stars/llbooya/qb-phone-npstyle.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-policerepair-swfttonygaveperms](https://github.com/llbooya/qb-policerepair-swfttonygaveperms) - Repair Station script written by SwftTony#8720 I did no edits but he gave permission to upload and share. ![GitHub stars](https://img.shields.io/github/stars/llbooya/qb-policerepair-swfttonygaveperms.svg?style=social&label=Stars&maxAge=2592000)
