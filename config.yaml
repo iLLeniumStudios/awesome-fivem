@@ -459,3 +459,19 @@ users:
   - name: xViperAG
   - name: DevX32
   - name: Liridon69
+  - name: prefech
+  - name: omar-othmann
+    ignoredRepos:
+    - Pyqt5-MusicPlayers
+    - PyQt5-splashScreen
+    - PyQt5-YouTubeDownload
+    - PythonVideoSpliter
+    - PyQt5-Game
+    - bklk
+  - name: xFutte
+  - name: slvidu
+  - name: RockySouthpaw
+  #- name: JaredScar # A lot of non-fivem repos (TODO: implement both inclusions and exclusions)
+  - name: wasabirobby
+  - name: AtlasFw
+  - name: IAmElement
