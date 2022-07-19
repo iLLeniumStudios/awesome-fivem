@@ -20,7 +20,7 @@ A curated list of FiveM resources
 - [qb-fbi](https://github.com/17Swat09/qb-fbi) - This is the qb-policejob script edited to qb-fbi with the waypoints included. With this script you don't have to break your head searching the internet or buying other similar ones. Enjoy it!!! ![GitHub stars](https://img.shields.io/github/stars/17Swat09/qb-fbi.svg?style=social&label=Stars&maxAge=2592000)
 
 ### 5m1Ly <a name="5m1Ly"></a>
-- [restfx](https://github.com/5m1Ly/restfx) - fsx-engine part | build rest apis for your fxserver server ![GitHub stars](https://img.shields.io/github/stars/5m1Ly/restfx.svg?style=social&label=Stars&maxAge=2592000)
+- [restfx](https://github.com/5m1Ly/restfx) - Easly built restfull apis for you fx server. ![GitHub stars](https://img.shields.io/github/stars/5m1Ly/restfx.svg?style=social&label=Stars&maxAge=2592000)
 - [SeaQL](https://github.com/5m1Ly/SeaQL) - Optimize your fxserver data traffic with SeaQL's dynamic sql wrapper and data cacher ![GitHub stars](https://img.shields.io/github/stars/5m1Ly/SeaQL.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ActuallyStrez <a name="ActuallyStrez"></a>
@@ -31,10 +31,11 @@ A curated list of FiveM resources
 - [qb-territories](https://github.com/Ademo93/qb-territories) - Allow you to make Gang Zone to warn players when they are in hostile area ![GitHub stars](https://img.shields.io/github/stars/Ademo93/qb-territories.svg?style=social&label=Stars&maxAge=2592000)
 
 ### AgentofDeath <a name="AgentofDeath"></a>
-- [AOD_ElectricJob](https://github.com/AgentofDeath/AOD_ElectricJob) ![GitHub stars](https://img.shields.io/github/stars/AgentofDeath/AOD_ElectricJob.svg?style=social&label=Stars&maxAge=2592000)
-- [AOD_Hunting](https://github.com/AgentofDeath/AOD_Hunting) ![GitHub stars](https://img.shields.io/github/stars/AgentofDeath/AOD_Hunting.svg?style=social&label=Stars&maxAge=2592000)
-- [AOD_Hunting_QBCore](https://github.com/AgentofDeath/AOD_Hunting_QBCore) ![GitHub stars](https://img.shields.io/github/stars/AgentofDeath/AOD_Hunting_QBCore.svg?style=social&label=Stars&maxAge=2592000)
-- [AOD_Lottery](https://github.com/AgentofDeath/AOD_Lottery) ![GitHub stars](https://img.shields.io/github/stars/AgentofDeath/AOD_Lottery.svg?style=social&label=Stars&maxAge=2592000)
+- [AOD_ElectricJob](https://github.com/AgentofDeath/AOD_ElectricJob) - Simple electrician job for ESX/QB or non framework server ![GitHub stars](https://img.shields.io/github/stars/AgentofDeath/AOD_ElectricJob.svg?style=social&label=Stars&maxAge=2592000)
+- [AOD_Hunting](https://github.com/AgentofDeath/AOD_Hunting) - Hunting activity for ESX ![GitHub stars](https://img.shields.io/github/stars/AgentofDeath/AOD_Hunting.svg?style=social&label=Stars&maxAge=2592000)
+- [AOD_Hunting_QBCore](https://github.com/AgentofDeath/AOD_Hunting_QBCore) - Hunting activity for QBCore ![GitHub stars](https://img.shields.io/github/stars/AgentofDeath/AOD_Hunting_QBCore.svg?style=social&label=Stars&maxAge=2592000)
+- [AOD_Lottery](https://github.com/AgentofDeath/AOD_Lottery) - Not even sure if this script works?  Simple lottery system ![GitHub stars](https://img.shields.io/github/stars/AgentofDeath/AOD_Lottery.svg?style=social&label=Stars&maxAge=2592000)
+- [AOD_WashKit](https://github.com/AgentofDeath/AOD_WashKit) - Simple item that cleans cars.  ![GitHub stars](https://img.shields.io/github/stars/AgentofDeath/AOD_WashKit.svg?style=social&label=Stars&maxAge=2592000)
 
 ### AitLilCat-Script <a name="AitLilCat-Script"></a>
 - [Qb-Banking-Reskin-2022](https://github.com/AitLilCat-Script/Qb-Banking-Reskin-2022) - Qb-Banking resking Made for QB-Core ![GitHub stars](https://img.shields.io/github/stars/AitLilCat-Script/Qb-Banking-Reskin-2022.svg?style=social&label=Stars&maxAge=2592000)
@@ -686,7 +687,9 @@ A curated list of FiveM resources
 
 ### iLLeniumStudios <a name="iLLeniumStudios"></a>
 - [awesome-fivem](https://github.com/iLLeniumStudios/awesome-fivem) - A curated list of FiveM resources ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/awesome-fivem.svg?style=social&label=Stars&maxAge=2592000)
+- [awesome-list-generator](https://github.com/iLLeniumStudios/awesome-list-generator) - A tool that automatically populates a list of awesome repositories from a config that contains a list of users and some other configuration options ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/awesome-list-generator.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-appearance](https://github.com/iLLeniumStudios/fivem-appearance) - fivem-appearance for qb-core with Tattoos support ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/fivem-appearance.svg?style=social&label=Stars&maxAge=2592000)
+- [fivem-lua-lint-action](https://github.com/iLLeniumStudios/fivem-lua-lint-action) ([Original](https://github.com/GoatG33k/fivem-lua-lint-action) :green_circle: +0 :red_circle: -34</span>) - A GitHub action for linting FiveM / Cfx Lua scripts ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/fivem-lua-lint-action.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-subrepo](https://github.com/iLLeniumStudios/fivem-subrepo) - A bash script that builds up a subtree based Git repo from a txAdmin Recipe ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/fivem-subrepo.svg?style=social&label=Stars&maxAge=2592000)
 - [is-statushud](https://github.com/iLLeniumStudios/is-statushud) - NoPixel inspired Status Hud (Standalone / QBCore / ESX) ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/is-statushud.svg?style=social&label=Stars&maxAge=2592000)
 - [Roda_PauseMenu](https://github.com/iLLeniumStudios/Roda_PauseMenu) ([Original](https://github.com/RodericAguilar/Roda_PauseMenu) :green_circle: +0 :red_circle: -21</span>) - Roda_PauseMenu compatible with qb-core ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/Roda_PauseMenu.svg?style=social&label=Stars&maxAge=2592000)
@@ -1315,6 +1318,7 @@ A curated list of FiveM resources
 - [vehicleforcecam](https://github.com/Nathan-FiveM/vehicleforcecam) - Force a player into First person shooting while aiming in a vehicle ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/vehicleforcecam.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Nerfednijt <a name="Nerfednijt"></a>
+- [humain-heist](https://github.com/Nerfednijt/humain-heist) ![GitHub stars](https://img.shields.io/github/stars/Nerfednijt/humain-heist.svg?style=social&label=Stars&maxAge=2592000)
 - [nxte-carrierheist](https://github.com/Nerfednijt/nxte-carrierheist) - Free Open-Source Carrier Heist ![GitHub stars](https://img.shields.io/github/stars/Nerfednijt/nxte-carrierheist.svg?style=social&label=Stars&maxAge=2592000)
 - [nxte-cayo-heist](https://github.com/Nerfednijt/nxte-cayo-heist) - Free Open-Source Cayo Perico heist ![GitHub stars](https://img.shields.io/github/stars/Nerfednijt/nxte-cayo-heist.svg?style=social&label=Stars&maxAge=2592000)
 - [nxte-FIB-heist](https://github.com/Nerfednijt/nxte-FIB-heist) - Free Open-Source FiveM FIB heist ![GitHub stars](https://img.shields.io/github/stars/Nerfednijt/nxte-FIB-heist.svg?style=social&label=Stars&maxAge=2592000)
@@ -1892,7 +1896,7 @@ A curated list of FiveM resources
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -162</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -166</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +1 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [MapFixes](https://github.com/TayMcKenzieNZ/MapFixes) - A compilation Of Map Fixes By FiveM Community Member LUKY00010  ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/MapFixes.svg?style=social&label=Stars&maxAge=2592000)
@@ -2101,9 +2105,6 @@ A curated list of FiveM resources
 
 ### WolsG <a name="WolsG"></a>
 - [esx-smallresources](https://github.com/WolsG/esx-smallresources) - Several interesting resources united in one. ![GitHub stars](https://img.shields.io/github/stars/WolsG/esx-smallresources.svg?style=social&label=Stars&maxAge=2592000)
-
-### WolZephyr <a name="WolZephyr"></a>
-- [wolz-towing](https://github.com/WolZephyr/wolz-towing) - Towing script made by KuzQuality - Revoked by WolZephyr [ESX - QBCORE]  add following:  qb-core - shared - items ["towing_rope"]                   = {["name"] = "towing_rope",                  ["label"] = "Towing Rope",                 ["weight"] = 40,        ["type"] = "item",      ["image"] = "towing_rope.png",               ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,        ["combinable"] = nil,   ["description"] = "a rope that you can tow a car"},   Your_Inventory - html - image towing_rope.png  add the folder to your resources and restart the server  any problems so contact me at Discord - WolZephyr#2579 ![GitHub stars](https://img.shields.io/github/stars/WolZephyr/wolz-towing.svg?style=social&label=Stars&maxAge=2592000)
 
 ### wtftanveer <a name="wtftanveer"></a>
 - [qb-vehicleshop](https://github.com/wtftanveer/qb-vehicleshop) ([Original](https://github.com/DmACKGL/qb-vehicleshop) :green_circle: +0 :red_circle: -13</span>) - Script For Buying Vehicles Used With QB-Core :car: ![GitHub stars](https://img.shields.io/github/stars/wtftanveer/qb-vehicleshop.svg?style=social&label=Stars&maxAge=2592000)
