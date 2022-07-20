@@ -19,7 +19,7 @@ jobs:
       - name: Download awesome-list-generator and generate list
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_SECRET }}
-          GENERATOR_VERSION: "1.1.0"
+          GENERATOR_VERSION: "1.1.1"
         run: |
           sudo apt install wget -y
           wget https://github.com/iLLeniumStudios/awesome-list-generator/releases/download/v${GENERATOR_VERSION}/awesome-list-generator_${GENERATOR_VERSION}_Linux_x86_64.tar.gz
