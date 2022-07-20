@@ -1383,6 +1383,10 @@ A curated list of FiveM resources
 - [qb-walkingstyles](https://github.com/Nathan-FiveM/qb-walkingstyles) ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/qb-walkingstyles.svg?style=social&label=Stars&maxAge=2592000)
 - [vehicleforcecam](https://github.com/Nathan-FiveM/vehicleforcecam) - Force a player into First person shooting while aiming in a vehicle ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/vehicleforcecam.svg?style=social&label=Stars&maxAge=2592000)
 
+### nepal4972 <a name="nepal4972"></a>
+- [qb-garages](https://github.com/nepal4972/qb-garages) - qb core framework radialmenu garage with polyzone. All garage in and out with one radialmenu ![GitHub stars](https://img.shields.io/github/stars/nepal4972/qb-garages.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-jobs](https://github.com/nepal4972/qb-jobs) - custom jobs for qb-core framework ![GitHub stars](https://img.shields.io/github/stars/nepal4972/qb-jobs.svg?style=social&label=Stars&maxAge=2592000)
+
 ### Nerfednijt <a name="Nerfednijt"></a>
 - [humain-heist](https://github.com/Nerfednijt/humain-heist) ![GitHub stars](https://img.shields.io/github/stars/Nerfednijt/humain-heist.svg?style=social&label=Stars&maxAge=2592000)
 - [nxte-carrierheist](https://github.com/Nerfednijt/nxte-carrierheist) - Free Open-Source Carrier Heist ![GitHub stars](https://img.shields.io/github/stars/Nerfednijt/nxte-carrierheist.svg?style=social&label=Stars&maxAge=2592000)
@@ -1945,7 +1949,7 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +193 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +195 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
