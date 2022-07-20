@@ -797,6 +797,25 @@ A curated list of FiveM resources
 - [qb-testinteriors](https://github.com/JamesSc0tt/qb-testinteriors) - Quick testing script for qb-interior to preview / test interiors ![GitHub stars](https://img.shields.io/github/stars/JamesSc0tt/qb-testinteriors.svg?style=social&label=Stars&maxAge=2592000)
 - [Vehicle-Handling-For-Dummies](https://github.com/JamesSc0tt/Vehicle-Handling-For-Dummies) ![GitHub stars](https://img.shields.io/github/stars/JamesSc0tt/Vehicle-Handling-For-Dummies.svg?style=social&label=Stars&maxAge=2592000)
 
+### JaredScar <a name="JaredScar"></a>
+- [Bad-DiscordQueue](https://github.com/JaredScar/Bad-DiscordQueue) - A Fivem Script ![GitHub stars](https://img.shields.io/github/stars/JaredScar/Bad-DiscordQueue.svg?style=social&label=Stars&maxAge=2592000)
+- [BadgerBankRobbery](https://github.com/JaredScar/BadgerBankRobbery) - A Fivem Script ![GitHub stars](https://img.shields.io/github/stars/JaredScar/BadgerBankRobbery.svg?style=social&label=Stars&maxAge=2592000)
+- [BadgerStaffPanel](https://github.com/JaredScar/BadgerStaffPanel) - The official BadgerStaffPanel Codebase ![GitHub stars](https://img.shields.io/github/stars/JaredScar/BadgerStaffPanel.svg?style=social&label=Stars&maxAge=2592000)
+- [BadgerStockMarket](https://github.com/JaredScar/BadgerStockMarket) - A FiveM Script (that actually utilizes the real stock market, pretty nifty) ![GitHub stars](https://img.shields.io/github/stars/JaredScar/BadgerStockMarket.svg?style=social&label=Stars&maxAge=2592000)
+- [BadgerTracer](https://github.com/JaredScar/BadgerTracer) - A username logging script for Fivem servers. Don't allow people to RDM/VDM, change their name, and act like you don't know them... ![GitHub stars](https://img.shields.io/github/stars/JaredScar/BadgerTracer.svg?style=social&label=Stars&maxAge=2592000)
+- [Badger_Discord_API](https://github.com/JaredScar/Badger_Discord_API) - A FiveM API Script [created by Badger] ![GitHub stars](https://img.shields.io/github/stars/JaredScar/Badger_Discord_API.svg?style=social&label=Stars&maxAge=2592000)
+- [Badssentials](https://github.com/JaredScar/Badssentials) - A Fivem Script ![GitHub stars](https://img.shields.io/github/stars/JaredScar/Badssentials.svg?style=social&label=Stars&maxAge=2592000)
+- [DiscordAcePerms](https://github.com/JaredScar/DiscordAcePerms) - A fivem script ![GitHub stars](https://img.shields.io/github/stars/JaredScar/DiscordAcePerms.svg?style=social&label=Stars&maxAge=2592000)
+- [DiscordChatRoles](https://github.com/JaredScar/DiscordChatRoles) - A fivem script ![GitHub stars](https://img.shields.io/github/stars/JaredScar/DiscordChatRoles.svg?style=social&label=Stars&maxAge=2592000)
+- [DiscordDonatorPerks](https://github.com/JaredScar/DiscordDonatorPerks) - A FiveM Script ![GitHub stars](https://img.shields.io/github/stars/JaredScar/DiscordDonatorPerks.svg?style=social&label=Stars&maxAge=2592000)
+- [DiscordReports](https://github.com/JaredScar/DiscordReports) - A Fivem script ![GitHub stars](https://img.shields.io/github/stars/JaredScar/DiscordReports.svg?style=social&label=Stars&maxAge=2592000)
+- [DiscordTagIDs](https://github.com/JaredScar/DiscordTagIDs) - A fivem script ![GitHub stars](https://img.shields.io/github/stars/JaredScar/DiscordTagIDs.svg?style=social&label=Stars&maxAge=2592000)
+- [DiscordVehicleRestrictions](https://github.com/JaredScar/DiscordVehicleRestrictions) - A FiveM Script [lol, do these get old as the default description?] ![GitHub stars](https://img.shields.io/github/stars/JaredScar/DiscordVehicleRestrictions.svg?style=social&label=Stars&maxAge=2592000)
+- [DiscordWeaponPerms](https://github.com/JaredScar/DiscordWeaponPerms) - A fivem script ![GitHub stars](https://img.shields.io/github/stars/JaredScar/DiscordWeaponPerms.svg?style=social&label=Stars&maxAge=2592000)
+- [Multiverse-World-Manager](https://github.com/JaredScar/Multiverse-World-Manager) - A FiveM Script taking advantage of routing buckets ![GitHub stars](https://img.shields.io/github/stars/JaredScar/Multiverse-World-Manager.svg?style=social&label=Stars&maxAge=2592000)
+- [PoliceEMSActivity](https://github.com/JaredScar/PoliceEMSActivity) - A simple EMS Activity Blip Fivem script that has some other features too ![GitHub stars](https://img.shields.io/github/stars/JaredScar/PoliceEMSActivity.svg?style=social&label=Stars&maxAge=2592000)
+- [ResourceEventScrambler](https://github.com/JaredScar/ResourceEventScrambler) - Initial Commit ![GitHub stars](https://img.shields.io/github/stars/JaredScar/ResourceEventScrambler.svg?style=social&label=Stars&maxAge=2592000)
+
 ### JarvisFW <a name="JarvisFW"></a>
 - [qb-lsd](https://github.com/JarvisFW/qb-lsd) ![GitHub stars](https://img.shields.io/github/stars/JarvisFW/qb-lsd.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-underwaterweed](https://github.com/JarvisFW/qb-underwaterweed) ![GitHub stars](https://img.shields.io/github/stars/JarvisFW/qb-underwaterweed.svg?style=social&label=Stars&maxAge=2592000)
@@ -2036,6 +2055,10 @@ A curated list of FiveM resources
 ### Tomboru <a name="Tomboru"></a>
 - [QB-AdvancedFishing](https://github.com/Tomboru/QB-AdvancedFishing) ![GitHub stars](https://img.shields.io/github/stars/Tomboru/QB-AdvancedFishing.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-atms](https://github.com/Tomboru/qb-atms) ([Original](https://github.com/qbcore-framework/qb-atms) :green_circle: +4 :red_circle: -9</span>) - Useable ATMs for QB-Core ![GitHub stars](https://img.shields.io/github/stars/Tomboru/qb-atms.svg?style=social&label=Stars&maxAge=2592000)
+
+### TomGrobbe <a name="TomGrobbe"></a>
+- [MenuAPI](https://github.com/TomGrobbe/MenuAPI) - FiveM C# Menu API. Designed specifically as a replacement of NativeUI for vMenu. Full safezone scaling supported, both left and right aligned menus supported. ![GitHub stars](https://img.shields.io/github/stars/TomGrobbe/MenuAPI.svg?style=social&label=Stars&maxAge=2592000)
+- [vMenu](https://github.com/TomGrobbe/vMenu) - vMenu is a custom server sided trainer/menu, built using a custom version of NativeUI. It has full permissions support, so the server owner can decide who's allowed to do what. ![GitHub stars](https://img.shields.io/github/stars/TomGrobbe/vMenu.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TonyCapon3 <a name="TonyCapon3"></a>
 - [qb-radialmenu](https://github.com/TonyCapon3/qb-radialmenu) - Nopixel inspired CSS edit and some changes to the menu's events. ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-radialmenu.svg?style=social&label=Stars&maxAge=2592000)
