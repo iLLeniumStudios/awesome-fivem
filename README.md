@@ -904,7 +904,6 @@ A curated list of FiveM resources
 - [denali-gym](https://github.com/JustDenali/denali-gym) - Simple gym script for ps-buffs ![GitHub stars](https://img.shields.io/github/stars/JustDenali/denali-gym.svg?style=social&label=Stars&maxAge=2592000)
 
 ### JustLazzy <a name="JustLazzy"></a>
-- [djs-handler-typescript](https://github.com/JustLazzy/djs-handler-typescript) - Discord.js handler with typescript support ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/djs-handler-typescript.svg?style=social&label=Stars&maxAge=2592000)
 - [jl-carboost](https://github.com/JustLazzy/jl-carboost) - Fivem car boosting script with laptop ui ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/jl-carboost.svg?style=social&label=Stars&maxAge=2592000)
 - [lj-inventory](https://github.com/JustLazzy/lj-inventory) ([Original](https://github.com/loljoshie/lj-inventory) :green_circle: +14 :red_circle: -7</span>) ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/lj-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-garages](https://github.com/JustLazzy/qb-garages) - Edited qb-garages using Polyzone ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/qb-garages.svg?style=social&label=Stars&maxAge=2592000)
