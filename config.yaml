@@ -9,27 +9,27 @@ prefix: |
   ## Resources
 minStars: 2
 minStarsForFork: 3
-ignoredRepos:
+excludeRepos:
   - .github
   - docs
   - website
 users:
   - name: qbcore-framework
-    ignoredRepos:
+    excludeRepos:
       - breze_benefactor
   - name: iLLeniumStudios
-    ignoredRepos:
+    excludeRepos:
       - docs.illenium.dev
   - name: Constant-Development
   - name: GhzGarage
   - name: Disabled-Coding
   - name: ItsANoBrainer
-    ignoredRepos:
+    excludeRepos:
       - AdventOfCode
   - name: FjamZoo
   - name: NaorNC
   - name: IdrisDose
-    ignoredRepos:
+    excludeRepos:
       - wos_hombre_holocrons
       - Universal-LPC-Spritesheet-Character-Generator
   - name: Project-Sloth
@@ -41,12 +41,12 @@ users:
   - name: vCodeScripts
   - name: Brichka-Dv
   - name: MrAladin-afs
-    ignoredRepos:
+    excludeRepos:
       - afs-discord-mod-bot
   - name: swkeep
   - name: Nerfednijt
   - name: Blumlaut
-    ignoredRepos:
+    excludeRepos:
       - ac-adu-dash
       - MTA
   - name: Holidayy95
@@ -58,7 +58,7 @@ users:
   - name: trclassic92
   - name: JustDenali
   - name: overextended
-    ignoredRepos:
+    excludeRepos:
       - OxBot
   - name: itsHyper
   - name: llbooya
@@ -68,7 +68,7 @@ users:
   - name: TheoLevi
   - name: buntyverma69
   - name: BubbleDudeAT
-    ignoredRepos:
+    excludeRepos:
       - v-town-website
   - name: wtftanveer
   - name: VORPCORE
@@ -113,12 +113,12 @@ users:
   #- name: arabcodingteam
   - name: MonkeyWhisper
   - name: Lionh34rt
-    ignoredRepos:
+    excludeRepos:
       - QB-Cardealer
   - name: marcostom32
   - name: Mojito-Fivem
   - name: project-error
-    ignoredRepos:
+    excludeRepos:
       - projecterror.dev
   - name: Alivemonstor
   - name: devin-monro
@@ -126,7 +126,7 @@ users:
   - name: JoeSzymkowiczFiveM
   - name: JustLazzy
   - name: pushkart2
-    ignoredRepos:
+    excludeRepos:
       - caltech_101_transfer_learning
   - name: mirrox1337
   - name: ihyajb
@@ -136,7 +136,7 @@ users:
   - name: Developer-Bear
   - name: TasoOneAsia
   - name: izMystic
-    ignoredRepos:
+    excludeRepos:
       - harmonizedroleplay.com
       - darker-discord
   - name: Demo4889
@@ -146,7 +146,7 @@ users:
   - name: AtlasFw
   - name: TGRHavoc
   - name: SnailyCAD
-    ignoredRepos:
+    excludeRepos:
       - autoinstaller
       - autoupdater
   - name: Sub-Zero-Interactive
@@ -185,7 +185,7 @@ users:
   - name: DonHulieo
   - name: RamiroDesigns
   - name: jaylac2000
-    ignoredRepos:
+    excludeRepos:
       - Quests
       - StaffStatus
   - name: JarvisFW
@@ -196,7 +196,7 @@ users:
   - name: BlackzoneV
   - name: nerohiro
   - name: esx-framework
-    ignoredRepos:
+    excludeRepos:
       - esx-documentation
       - esx-homepage
   - name: djjackYT
@@ -238,7 +238,7 @@ users:
   - name: IngPleb
   - name: Zach488
   - name: FAXES
-    ignoredRepos:
+    excludeRepos:
       - easycompile
       - faxstore-themes
       - disbotapijs
@@ -248,7 +248,7 @@ users:
   - name: philipx2017
   - name: meidricsq
   - name: DevLanceGood
-    ignoredRepos:
+    excludeRepos:
       - altV-Police
   - name: FM-Dev-Macke
   - name: regalonefour
@@ -262,7 +262,7 @@ users:
   - name: realSixGrams
   - name: BombayV
   - name: xenfovn
-    ignoredRepos:
+    excludeRepos:
     - DDOS-SERVER
   - name: youngsinatra99
   - name: ygtdev
@@ -295,7 +295,7 @@ users:
   - name: czsquizer
   - name: AvarianKnight
   - name: ThymonA
-    ignoredRepos:
+    excludeRepos:
       - RedM-Positions
       - redm_extended
       - rdx_menu_dialog
@@ -305,7 +305,7 @@ users:
   - name: Xogy
   - name: Alpha-Framework
   - name: EntityEvolution
-    ignoredRepos:
+    excludeRepos:
       - EntityEvolution.github.io
   - name: matetv
   - name: GlitchOo
@@ -333,14 +333,14 @@ users:
   - name: xThrasherrr
   - name: TayMcKenzieNZ
   - name: jaimeadf
-    ignoredRepos:
+    excludeRepos:
       - BetterDiscordPlugins
       - discord-scraping
       - who-reacted
   - name: FlawwsX
   - name: Concept-Collective
   - name: ultrahacx
-    ignoredRepos:
+    excludeRepos:
       - discord_notebot
       - python_tools
       - twitterbot
@@ -348,7 +348,7 @@ users:
   - name: FuriousLeech
   - name: kel1x
   - name: Giana
-    ignoredRepos:
+    excludeRepos:
       - rat-bingo
       - sudoku
   - name: finalLy134
@@ -359,7 +359,7 @@ users:
   - name: subhampro
   - name: NevoSwissa
   - name: zfbx
-    ignoredRepos:
+    excludeRepos:
     - Discord-Bot-Template
     - Yuno-v3
     - TorqueScript
@@ -395,7 +395,7 @@ users:
   - name: JZSandbox
   - name: Tomboru
   - name: d3st1nyh4x
-    ignoredRepos:
+    excludeRepos:
     - snek
     - Shrekmosphere
   - name: Rayzer567
@@ -409,7 +409,7 @@ users:
   - name: CQC-Scripting
   - name: NylanderrDK
   - name: Kurosar
-    ignoredRepos:
+    excludeRepos:
     - LSL
   - name: amantu-qbit
   - name: sp1d3r1987
@@ -461,7 +461,7 @@ users:
   - name: Liridon69
   - name: prefech
   - name: omar-othmann
-    ignoredRepos:
+    excludeRepos:
     - Pyqt5-MusicPlayers
     - PyQt5-splashScreen
     - PyQt5-YouTubeDownload
@@ -470,7 +470,27 @@ users:
     - bklk
   - name: xFutte
   - name: RockySouthpaw
-  #- name: JaredScar # A lot of non-fivem repos (TODO: implement both inclusions and exclusions)
+  - name: JaredScar
+    includeRepos:
+    - Badger-Antichewat
+    - Badger_Discord_API
+    - DiscordAcePerms
+    - Bad-DiscordQueue
+    - Multiverse-World-Manager
+    - BadgerStaffPanel
+    - DiscordDonatorPerks
+    - PoliceEMSActivity
+    - Bad-Discord
+    - DiscordReports
+    - BadgerStockMarket
+    - DiscordChatRoles
+    - ResourceEventScrambler
+    - BadgerBankRobbery
+    - BadgerTracer
+    - DiscordWeaponPerms
+    - Badssentials
+    - DiscordTagIDs
+    - DiscordVehicleRestrictions
   - name: wasabirobby
   - name: IAmElement
   - name: derens41210
@@ -478,6 +498,10 @@ users:
   - name: NoNameMOD
   - name: Squibsie
   - name: zaphosting
-    ignoredRepos:
+    excludeRepos:
     - redem
   - name: james12007
+  - name: TomGrobbe
+    includeRepos:
+    - vMenu
+    - MenuAPI
