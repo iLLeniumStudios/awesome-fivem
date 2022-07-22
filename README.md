@@ -1599,6 +1599,9 @@ A curated list of FiveM resources
 ### PRS-Scripts <a name="PRS-Scripts"></a>
 - [PRS-POLICEREFILL](https://github.com/PRS-Scripts/PRS-POLICEREFILL) ![GitHub stars](https://img.shields.io/github/stars/PRS-Scripts/PRS-POLICEREFILL.svg?style=social&label=Stars&maxAge=2592000)
 
+### PuFGGs <a name="PuFGGs"></a>
+- [cash-item-for-qb-core](https://github.com/PuFGGs/cash-item-for-qb-core) - Cash item for qb-core ![GitHub stars](https://img.shields.io/github/stars/PuFGGs/cash-item-for-qb-core.svg?style=social&label=Stars&maxAge=2592000)
+
 ### pushkart2 <a name="pushkart2"></a>
 - [memorygame](https://github.com/pushkart2/memorygame) - Memory game like NoPixel for any framework ![GitHub stars](https://img.shields.io/github/stars/pushkart2/memorygame.svg?style=social&label=Stars&maxAge=2592000)
 - [prospecting](https://github.com/pushkart2/prospecting) ![GitHub stars](https://img.shields.io/github/stars/pushkart2/prospecting.svg?style=social&label=Stars&maxAge=2592000)
@@ -1955,7 +1958,7 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +195 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +196 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
