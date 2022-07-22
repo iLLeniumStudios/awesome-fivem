@@ -732,7 +732,7 @@ A curated list of FiveM resources
 - [fivem-lua-lint-action](https://github.com/iLLeniumStudios/fivem-lua-lint-action) ([Original](https://github.com/GoatG33k/fivem-lua-lint-action) :green_circle: +0 :red_circle: -34</span>) - A GitHub action for linting FiveM / Cfx Lua scripts ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/fivem-lua-lint-action.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-subrepo](https://github.com/iLLeniumStudios/fivem-subrepo) - A bash script that builds up a subtree based Git repo from a txAdmin Recipe ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/fivem-subrepo.svg?style=social&label=Stars&maxAge=2592000)
 - [is-statushud](https://github.com/iLLeniumStudios/is-statushud) - NoPixel inspired Status Hud (Standalone / QBCore / ESX) ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/is-statushud.svg?style=social&label=Stars&maxAge=2592000)
-- [Roda_PauseMenu](https://github.com/iLLeniumStudios/Roda_PauseMenu) ([Original](https://github.com/RodericAguilar/Roda_PauseMenu) :green_circle: +0 :red_circle: -21</span>) - Roda_PauseMenu compatible with qb-core ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/Roda_PauseMenu.svg?style=social&label=Stars&maxAge=2592000)
+- [Roda_PauseMenu](https://github.com/iLLeniumStudios/Roda_PauseMenu) ([Original](https://github.com/RodericAguilar/Roda_PauseMenu) :green_circle: +6 :red_circle: -21</span>) - Roda_PauseMenu compatible with qb-core ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/Roda_PauseMenu.svg?style=social&label=Stars&maxAge=2592000)
 
 ### illwhyrin <a name="illwhyrin"></a>
 - [qb-hud](https://github.com/illwhyrin/qb-hud) - Player Status HUD Used With QB-Core :heart: :plate_with_cutlery: :shield: ![GitHub stars](https://img.shields.io/github/stars/illwhyrin/qb-hud.svg?style=social&label=Stars&maxAge=2592000)
@@ -963,7 +963,7 @@ A curated list of FiveM resources
 
 ### KillerKei <a name="KillerKei"></a>
 - [fivem-anti-citizen](https://github.com/KillerKei/fivem-anti-citizen) - So recently people have been modifying their game clients with what we call 'AI folders'. With that being said, I thought I'd publicly release a script that will kick the player if they decide to use said AI folders. Its pretty optimised, but could be a lot more optimised - just modify the Citizen.Wait to every 120,000 which will make it run every 2 minutes.  If you would like to make it ban the player instead of kick the player, change the trigger on line 47 to something appropriate to your anticheat / banning system. This was originally made for my server and no one has got past it yet, I will continue to update this thread with updates to make sure we can keep the scumbags out. ![GitHub stars](https://img.shields.io/github/stars/KillerKei/fivem-anti-citizen.svg?style=social&label=Stars&maxAge=2592000)
-- [UnityRP-Report-System-ESX-](https://github.com/KillerKei/UnityRP-Report-System-ESX-) - This Report system was previously coded by me (Keiron) for UnityRP. We currently do no longer use this and have decided to branch out to a Custom Framework so I decided I would like to share this with everyone.  ![GitHub stars](https://img.shields.io/github/stars/KillerKei/UnityRP-Report-System-ESX-.svg?style=social&label=Stars&maxAge=2592000)
+- [UnityRP-Report-System-ESX-](https://github.com/KillerKei/UnityRP-Report-System-ESX-) - This Report system was previously coded by me (Keiron) for UnityRP. We currrently do no longer use this and have decided to branch out to a Custom Framework so I decided I would like to share this with everyone.  ![GitHub stars](https://img.shields.io/github/stars/KillerKei/UnityRP-Report-System-ESX-.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Kiminaze <a name="Kiminaze"></a>
 - [cinematiccam](https://github.com/Kiminaze/cinematiccam) ![GitHub stars](https://img.shields.io/github/stars/Kiminaze/cinematiccam.svg?style=social&label=Stars&maxAge=2592000)
@@ -1528,6 +1528,7 @@ A curated list of FiveM resources
 
 ### prefech <a name="prefech"></a>
 - [JD_logs](https://github.com/prefech/JD_logs) - Logs to Discord for FiveM ![GitHub stars](https://img.shields.io/github/stars/prefech/JD_logs.svg?style=social&label=Stars&maxAge=2592000)
+- [JD_logsV3](https://github.com/prefech/JD_logsV3) - Your server logs but then optimized. ![GitHub stars](https://img.shields.io/github/stars/prefech/JD_logsV3.svg?style=social&label=Stars&maxAge=2592000)
 - [JD_playerID](https://github.com/prefech/JD_playerID) ![GitHub stars](https://img.shields.io/github/stars/prefech/JD_playerID.svg?style=social&label=Stars&maxAge=2592000)
 - [JD_Priority](https://github.com/prefech/JD_Priority) - FiveM Advanced Priority Resource. ![GitHub stars](https://img.shields.io/github/stars/prefech/JD_Priority.svg?style=social&label=Stars&maxAge=2592000)
 - [JD_Report](https://github.com/prefech/JD_Report) ![GitHub stars](https://img.shields.io/github/stars/prefech/JD_Report.svg?style=social&label=Stars&maxAge=2592000)
@@ -1693,6 +1694,7 @@ A curated list of FiveM resources
 - [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - Weather System Used With QB-Core :sun_behind_rain_cloud: ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/qb-weathersync.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-weed](https://github.com/qbcore-framework/qb-weed) - Weed Growing For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/qb-weed.svg?style=social&label=Stars&maxAge=2592000)
 - [safecracker](https://github.com/qbcore-framework/safecracker) - Safe Cracking Minigame ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/safecracker.svg?style=social&label=Stars&maxAge=2592000)
+- [tutorial-script](https://github.com/qbcore-framework/tutorial-script) - Learn about the fundamentals of QBCore! ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/tutorial-script.svg?style=social&label=Stars&maxAge=2592000)
 - [txAdminRecipe](https://github.com/qbcore-framework/txAdminRecipe) - Recipe To Deploy The Build Using txAdmin ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/txAdminRecipe.svg?style=social&label=Stars&maxAge=2592000)
 
 ### QuakeAcid <a name="QuakeAcid"></a>
@@ -2166,7 +2168,7 @@ A curated list of FiveM resources
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character) - Character Creation ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Character.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-ClothingStore](https://github.com/VORPCORE/VORP-ClothingStore) - VORP Clothing Store ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-ClothingStore.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Core](https://github.com/VORPCORE/VORP-Core) - From the reinventors of the wheel has come VORP CORE a RP Framework for RedM ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Core.svg?style=social&label=Stars&maxAge=2592000)
-- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -343</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
+- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -347</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Housing](https://github.com/VORPCORE/VORP-Housing) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Housing.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Hunting](https://github.com/VORPCORE/VORP-Hunting) - Selling Animals & Skins script ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Hunting.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Inputs](https://github.com/VORPCORE/VORP-Inputs) - Input UI ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Inputs.svg?style=social&label=Stars&maxAge=2592000)
