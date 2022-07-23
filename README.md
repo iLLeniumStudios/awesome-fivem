@@ -445,6 +445,29 @@ A curated list of FiveM resources
 - [eco_cargo](https://github.com/Ekhion76/eco_cargo) - FIVEM ESX kamionos munka, freight work ![GitHub stars](https://img.shields.io/github/stars/Ekhion76/eco_cargo.svg?style=social&label=Stars&maxAge=2592000)
 - [eco_crafting](https://github.com/Ekhion76/eco_crafting) - FiveM QBCore Crafting script ![GitHub stars](https://img.shields.io/github/stars/Ekhion76/eco_crafting.svg?style=social&label=Stars&maxAge=2592000)
 
+### EnosInWork <a name="EnosInWork"></a>
+- [Base-Five-Dev-3K](https://github.com/EnosInWork/Base-Five-Dev-3K) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Base-Five-Dev-3K.svg?style=social&label=Stars&maxAge=2592000)
+- [BennysV2](https://github.com/EnosInWork/BennysV2) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/BennysV2.svg?style=social&label=Stars&maxAge=2592000)
+- [Boutique-V3](https://github.com/EnosInWork/Boutique-V3) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Boutique-V3.svg?style=social&label=Stars&maxAge=2592000)
+- [eAmbulance](https://github.com/EnosInWork/eAmbulance) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/eAmbulance.svg?style=social&label=Stars&maxAge=2592000)
+- [eDisconnect](https://github.com/EnosInWork/eDisconnect) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/eDisconnect.svg?style=social&label=Stars&maxAge=2592000)
+- [eDoorsBuilder](https://github.com/EnosInWork/eDoorsBuilder) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/eDoorsBuilder.svg?style=social&label=Stars&maxAge=2592000)
+- [eKFC](https://github.com/EnosInWork/eKFC) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/eKFC.svg?style=social&label=Stars&maxAge=2592000)
+- [Enos-Base-V5](https://github.com/EnosInWork/Enos-Base-V5) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Enos-Base-V5.svg?style=social&label=Stars&maxAge=2592000)
+- [E_WeaponShop](https://github.com/EnosInWork/E_WeaponShop) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/E_WeaponShop.svg?style=social&label=Stars&maxAge=2592000)
+- [Final-AdminMenu](https://github.com/EnosInWork/Final-AdminMenu) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Final-AdminMenu.svg?style=social&label=Stars&maxAge=2592000)
+- [Final-PoliceJob](https://github.com/EnosInWork/Final-PoliceJob) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Final-PoliceJob.svg?style=social&label=Stars&maxAge=2592000)
+- [Five-Boutique](https://github.com/EnosInWork/Five-Boutique) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Five-Boutique.svg?style=social&label=Stars&maxAge=2592000)
+- [Five_Level](https://github.com/EnosInWork/Five_Level) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Five_Level.svg?style=social&label=Stars&maxAge=2592000)
+- [InsaneAdminV2](https://github.com/EnosInWork/InsaneAdminV2) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/InsaneAdminV2.svg?style=social&label=Stars&maxAge=2592000)
+- [insane_admin](https://github.com/EnosInWork/insane_admin) - https://discord.gg/pRXCnA8 ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/insane_admin.svg?style=social&label=Stars&maxAge=2592000)
+- [Menu-F5](https://github.com/EnosInWork/Menu-F5) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Menu-F5.svg?style=social&label=Stars&maxAge=2592000)
+- [Pack-Bennys-Five-Dev](https://github.com/EnosInWork/Pack-Bennys-Five-Dev) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Pack-Bennys-Five-Dev.svg?style=social&label=Stars&maxAge=2592000)
+- [Pack-Unicorn-Five-Dev](https://github.com/EnosInWork/Pack-Unicorn-Five-Dev) - https://discord.gg/pRXCnA8 ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Pack-Unicorn-Five-Dev.svg?style=social&label=Stars&maxAge=2592000)
+- [rxeCreationPerso](https://github.com/EnosInWork/rxeCreationPerso) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/rxeCreationPerso.svg?style=social&label=Stars&maxAge=2592000)
+- [rxePermisPoint](https://github.com/EnosInWork/rxePermisPoint) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/rxePermisPoint.svg?style=social&label=Stars&maxAge=2592000)
+- [Weapon-Crafting-Job](https://github.com/EnosInWork/Weapon-Crafting-Job) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Weapon-Crafting-Job.svg?style=social&label=Stars&maxAge=2592000)
+
 ### EntityEvolution <a name="EntityEvolution"></a>
 - [ev-carhud](https://github.com/EntityEvolution/ev-carhud) - A standalone carhud ![GitHub stars](https://img.shields.io/github/stars/EntityEvolution/ev-carhud.svg?style=social&label=Stars&maxAge=2592000)
 - [ev-gym](https://github.com/EntityEvolution/ev-gym) - An optimized gym with PolyZones and NUI ![GitHub stars](https://img.shields.io/github/stars/EntityEvolution/ev-gym.svg?style=social&label=Stars&maxAge=2592000)
@@ -1504,6 +1527,12 @@ A curated list of FiveM resources
 ### PA-Scripts <a name="PA-Scripts"></a>
 - [qb-drugplanting-WIP-](https://github.com/PA-Scripts/qb-drugplanting-WIP-) - A drug planting script ![GitHub stars](https://img.shields.io/github/stars/PA-Scripts/qb-drugplanting-WIP-.svg?style=social&label=Stars&maxAge=2592000)
 
+### PainedPsyche <a name="PainedPsyche"></a>
+- [cui_character](https://github.com/PainedPsyche/cui_character) - An advanced character and clothes editor for esx framework that aims to be comfortable to use, hide complexity and blend in with original GTA V interface elements. ![GitHub stars](https://img.shields.io/github/stars/PainedPsyche/cui_character.svg?style=social&label=Stars&maxAge=2592000)
+- [cui_wardrobe](https://github.com/PainedPsyche/cui_wardrobe) - Outfit swapping tool to be used with cui_character. ![GitHub stars](https://img.shields.io/github/stars/PainedPsyche/cui_wardrobe.svg?style=social&label=Stars&maxAge=2592000)
+- [esx_pausedetails](https://github.com/PainedPsyche/esx_pausedetails) - A simple script that controls information displayed in the pause menu title and upper-right header. ![GitHub stars](https://img.shields.io/github/stars/PainedPsyche/esx_pausedetails.svg?style=social&label=Stars&maxAge=2592000)
+- [weathertimesync](https://github.com/PainedPsyche/weathertimesync) ([Original](https://github.com/DevTestingPizza/vSync) :green_circle: +0 :red_circle: -2</span>) - Simple weather and time sync for FiveM. ![GitHub stars](https://img.shields.io/github/stars/PainedPsyche/weathertimesync.svg?style=social&label=Stars&maxAge=2592000)
+
 ### Pavan576 <a name="Pavan576"></a>
 - [fs-multicharacter-css-edit](https://github.com/Pavan576/fs-multicharacter-css-edit) ![GitHub stars](https://img.shields.io/github/stars/Pavan576/fs-multicharacter-css-edit.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-menu-css-edit-yellow](https://github.com/Pavan576/qb-menu-css-edit-yellow) ![GitHub stars](https://img.shields.io/github/stars/Pavan576/qb-menu-css-edit-yellow.svg?style=social&label=Stars&maxAge=2592000)
@@ -2185,7 +2214,7 @@ A curated list of FiveM resources
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character) - Character Creation ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Character.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-ClothingStore](https://github.com/VORPCORE/VORP-ClothingStore) - VORP Clothing Store ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-ClothingStore.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Core](https://github.com/VORPCORE/VORP-Core) - From the reinventors of the wheel has come VORP CORE a RP Framework for RedM ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Core.svg?style=social&label=Stars&maxAge=2592000)
-- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -347</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
+- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -349</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Housing](https://github.com/VORPCORE/VORP-Housing) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Housing.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Hunting](https://github.com/VORPCORE/VORP-Hunting) - Selling Animals & Skins script ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Hunting.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Inputs](https://github.com/VORPCORE/VORP-Inputs) - Input UI ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Inputs.svg?style=social&label=Stars&maxAge=2592000)
@@ -2250,7 +2279,7 @@ A curated list of FiveM resources
 - [qb-casinoheist](https://github.com/xenfovn/qb-casinoheist) ![GitHub stars](https://img.shields.io/github/stars/xenfovn/qb-casinoheist.svg?style=social&label=Stars&maxAge=2592000)
 
 ### xFutte <a name="xFutte"></a>
-- [futte-newspaper](https://github.com/xFutte/futte-newspaper) - Newspaper script for QBCore made by xFutte ![GitHub stars](https://img.shields.io/github/stars/xFutte/futte-newspaper.svg?style=social&label=Stars&maxAge=2592000)
+- [futte-newspaper](https://github.com/xFutte/futte-newspaper) - Newspaper script displaying news, prison sentences, and enables reporters to write, update and delete news for QBCore made by xFutte ![GitHub stars](https://img.shields.io/github/stars/xFutte/futte-newspaper.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Xogy <a name="Xogy"></a>
 - [ArenaAPI](https://github.com/Xogy/ArenaAPI) - Easy way how to create simple arena for fivem ![GitHub stars](https://img.shields.io/github/stars/Xogy/ArenaAPI.svg?style=social&label=Stars&maxAge=2592000)
