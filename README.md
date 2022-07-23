@@ -1326,6 +1326,7 @@ A curated list of FiveM resources
 ### MrZainRP <a name="MrZainRP"></a>
 - [mz-bins](https://github.com/MrZainRP/mz-bins) - Experience progression based bin-diving function for FiveM servers ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-bins.svg?style=social&label=Stars&maxAge=2592000)
 - [mz-scrap](https://github.com/MrZainRP/mz-scrap) - A FiveM resource which allows players to scrap wrecks found in GTA V with experience and item progression ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-scrap.svg?style=social&label=Stars&maxAge=2592000)
+- [mz-skills](https://github.com/MrZainRP/mz-skills) ([Original](https://github.com/Burn-One-Studios/B1-skillz) :green_circle: +3 :red_circle: -3</span>) - A modification to Kings#4220 qb-skillz - working off the unsupported custom line ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-skills.svg?style=social&label=Stars&maxAge=2592000)
 - [mz-usbhacks](https://github.com/MrZainRP/mz-usbhacks) - A XP progression based hacking function for usb drops in qb-core FiveM servers ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-usbhacks.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Musiker15 <a name="Musiker15"></a>
@@ -1505,6 +1506,7 @@ A curated list of FiveM resources
 
 ### Pavan576 <a name="Pavan576"></a>
 - [fs-multicharacter-css-edit](https://github.com/Pavan576/fs-multicharacter-css-edit) ![GitHub stars](https://img.shields.io/github/stars/Pavan576/fs-multicharacter-css-edit.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-menu-css-edit-yellow](https://github.com/Pavan576/qb-menu-css-edit-yellow) ![GitHub stars](https://img.shields.io/github/stars/Pavan576/qb-menu-css-edit-yellow.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Peple77 <a name="Peple77"></a>
 - [Peple-GhzGarageMDT-Redesign](https://github.com/Peple77/Peple-GhzGarageMDT-Redesign) - Redesign of GhzGarage's MDT ![GitHub stars](https://img.shields.io/github/stars/Peple77/Peple-GhzGarageMDT-Redesign.svg?style=social&label=Stars&maxAge=2592000)
@@ -1754,6 +1756,9 @@ A curated list of FiveM resources
 - [re2-elevator](https://github.com/Re2team/re2-elevator) ![GitHub stars](https://img.shields.io/github/stars/Re2team/re2-elevator.svg?style=social&label=Stars&maxAge=2592000)
 - [um-hackerphone](https://github.com/Re2team/um-hackerphone) ([Original](https://github.com/alp1x/um-hackerphone) :green_circle: +5 :red_circle: -0</span>) - UM Hacker Phone | QBCore ![GitHub stars](https://img.shields.io/github/stars/Re2team/um-hackerphone.svg?style=social&label=Stars&maxAge=2592000)
 
+### Really-Pluto <a name="Really-Pluto"></a>
+- [qb-crafting-alt](https://github.com/Really-Pluto/qb-crafting-alt) - Changed both crafting tables to have cords instead of reading a prop name ![GitHub stars](https://img.shields.io/github/stars/Really-Pluto/qb-crafting-alt.svg?style=social&label=Stars&maxAge=2592000)
+
 ### realSixGrams <a name="realSixGrams"></a>
 - [qb-extrafood](https://github.com/realSixGrams/qb-extrafood) - Have you ever wanted extra food within QB-Core? Well now you have it! ![GitHub stars](https://img.shields.io/github/stars/realSixGrams/qb-extrafood.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -1958,12 +1963,13 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +198 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +199 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
 ### subhampro <a name="subhampro"></a>
 - [ESX-to-QBCore](https://github.com/subhampro/ESX-to-QBCore) - ESX to QBCore ![GitHub stars](https://img.shields.io/github/stars/subhampro/ESX-to-QBCore.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-policejob](https://github.com/subhampro/qb-policejob) - QBCore PoliceJob with PAlert System ! ![GitHub stars](https://img.shields.io/github/stars/subhampro/qb-policejob.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sudo442 <a name="Sudo442"></a>
 - [Sudo-gifts](https://github.com/Sudo442/Sudo-gifts) - This is a FiveM script for the QBCore framework. ![GitHub stars](https://img.shields.io/github/stars/Sudo442/Sudo-gifts.svg?style=social&label=Stars&maxAge=2592000)
