@@ -720,10 +720,9 @@ A curated list of FiveM resources
 ### ihyajb <a name="ihyajb"></a>
 - [aj-camera](https://github.com/ihyajb/aj-camera) ([Original](https://github.com/quimalborch/kim-camera) :green_circle: +1 :red_circle: -7</span>) - A QBCore version of kim-camera ![GitHub stars](https://img.shields.io/github/stars/ihyajb/aj-camera.svg?style=social&label=Stars&maxAge=2592000)
 - [aj-fivem-appearance](https://github.com/ihyajb/aj-fivem-appearance) ([Original](https://github.com/ZiggyJoJo/brp-fivem-appearance) :green_circle: +9 :red_circle: -21</span>) - fivem-appearance setup to work with QBCore ![GitHub stars](https://img.shields.io/github/stars/ihyajb/aj-fivem-appearance.svg?style=social&label=Stars&maxAge=2592000)
-- [aj-inventory](https://github.com/ihyajb/aj-inventory) ([Original](https://github.com/qbcore-framework/qb-inventory) :green_circle: +73 :red_circle: -13</span>) - qb-inventory with a bit of a spin ![GitHub stars](https://img.shields.io/github/stars/ihyajb/aj-inventory.svg?style=social&label=Stars&maxAge=2592000)
+- [aj-inventory](https://github.com/ihyajb/aj-inventory) ([Original](https://github.com/qbcore-framework/qb-inventory) :green_circle: +75 :red_circle: -13</span>) - qb-inventory with a bit of a spin ![GitHub stars](https://img.shields.io/github/stars/ihyajb/aj-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [Casino-Heist-Scaleform-Test](https://github.com/ihyajb/Casino-Heist-Scaleform-Test) - Mostly a resource for others to test / build off of. The base resource draws scaleform for all 3 "Casino Heist Boards" and allowed the "Setup" and "Prep" boards to be Interacted with ![GitHub stars](https://img.shields.io/github/stars/ihyajb/Casino-Heist-Scaleform-Test.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-casinoheist](https://github.com/ihyajb/qb-casinoheist) - qb-casinoheist was at first a meme and was never planned to be finished. Everyone wanted it so we finished it and gave it away for free ![GitHub stars](https://img.shields.io/github/stars/ihyajb/qb-casinoheist.svg?style=social&label=Stars&maxAge=2592000)
-- [QBCore-Server](https://github.com/ihyajb/QBCore-Server) - Install up to date QBCore resources in a single clone. This is still a heavy WIP, use at your own risk, ![GitHub stars](https://img.shields.io/github/stars/ihyajb/QBCore-Server.svg?style=social&label=Stars&maxAge=2592000)
 
 ### iLLeniumStudios <a name="iLLeniumStudios"></a>
 - [awesome-fivem](https://github.com/iLLeniumStudios/awesome-fivem) - A curated list of FiveM resources ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/awesome-fivem.svg?style=social&label=Stars&maxAge=2592000)
@@ -891,6 +890,7 @@ A curated list of FiveM resources
 - [jim-chairs](https://github.com/jimathy/jim-chairs) - QBCore Based Portable Chair Script ![GitHub stars](https://img.shields.io/github/stars/jimathy/jim-chairs.svg?style=social&label=Stars&maxAge=2592000)
 - [jim-consumables](https://github.com/jimathy/jim-consumables) - Consumables script for QBCore ![GitHub stars](https://img.shields.io/github/stars/jimathy/jim-consumables.svg?style=social&label=Stars&maxAge=2592000)
 - [jim-jobgarage](https://github.com/jimathy/jim-jobgarage) - Job garage for grabbing job related vehicles ![GitHub stars](https://img.shields.io/github/stars/jimathy/jim-jobgarage.svg?style=social&label=Stars&maxAge=2592000)
+- [jim-mechanicguide](https://github.com/jimathy/jim-mechanicguide) - Online Guide/Documentation of jim-mechanic ![GitHub stars](https://img.shields.io/github/stars/jimathy/jim-mechanicguide.svg?style=social&label=Stars&maxAge=2592000)
 - [jim-mining](https://github.com/jimathy/jim-mining) - FiveM QBCore Script for Mining ![GitHub stars](https://img.shields.io/github/stars/jimathy/jim-mining.svg?style=social&label=Stars&maxAge=2592000)
 - [jim-payments](https://github.com/jimathy/jim-payments) - QBCore based payment system ![GitHub stars](https://img.shields.io/github/stars/jimathy/jim-payments.svg?style=social&label=Stars&maxAge=2592000)
 - [jim-recycle](https://github.com/jimathy/jim-recycle) ![GitHub stars](https://img.shields.io/github/stars/jimathy/jim-recycle.svg?style=social&label=Stars&maxAge=2592000)
@@ -1159,6 +1159,7 @@ A curated list of FiveM resources
 - [mt-ammurobbery](https://github.com/Marttins011/mt-ammurobbery) - QBCore Ammunation Robbery using qb-target, qb-menu and qb-lock ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-ammurobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-atmrobbery](https://github.com/Marttins011/mt-atmrobbery) - Simple atm robbery for QBCore fivem using qb-target and qb-menu, enjoy :) ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-beanmachine](https://github.com/Marttins011/mt-beanmachine) - Bean Machine Job for gabz bean machine map for QBCore. ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-beanmachine.svg?style=social&label=Stars&maxAge=2592000)
+- [mt-billing](https://github.com/Marttins011/mt-billing) - Simple billing input menu for QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-billing.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-blackmarket](https://github.com/Marttins011/mt-blackmarket) - Simple black market script for QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-blackmarket.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-chopshop](https://github.com/Marttins011/mt-chopshop) - Chopshop QBCore script for fivem using qb-target and qb-menu! ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-chopshop.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-clothingbag](https://github.com/Marttins011/mt-clothingbag) - Simple clothing bag script for QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-clothingbag.svg?style=social&label=Stars&maxAge=2592000)
@@ -1761,7 +1762,6 @@ A curated list of FiveM resources
 
 ### redutzu <a name="redutzu"></a>
 - [redutzu-dmv](https://github.com/redutzu/redutzu-dmv) ![GitHub stars](https://img.shields.io/github/stars/redutzu/redutzu-dmv.svg?style=social&label=Stars&maxAge=2592000)
-- [redutzu-slots](https://github.com/redutzu/redutzu-slots) - A complex slot script with a beautiful ui ![GitHub stars](https://img.shields.io/github/stars/redutzu/redutzu-slots.svg?style=social&label=Stars&maxAge=2592000)
 - [redutzu-tablet](https://github.com/redutzu/redutzu-tablet) - A helpful tablet script for beginners ![GitHub stars](https://img.shields.io/github/stars/redutzu/redutzu-tablet.svg?style=social&label=Stars&maxAge=2592000)
 
 ### regalonefour <a name="regalonefour"></a>
@@ -1958,7 +1958,7 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +196 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +198 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -1983,7 +1983,7 @@ A curated list of FiveM resources
 - [keep-oilwell](https://github.com/swkeep/keep-oilwell) - Nopixel inspired oil company script/job ![GitHub stars](https://img.shields.io/github/stars/swkeep/keep-oilwell.svg?style=social&label=Stars&maxAge=2592000)
 - [keep-paycheck](https://github.com/swkeep/keep-paycheck) - qbcore alternative paycheck system  ![GitHub stars](https://img.shields.io/github/stars/swkeep/keep-paycheck.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-expandableVehicleTrunk](https://github.com/swkeep/qb-expandableVehicleTrunk) - server-side expandable Vehicle Trunk ![GitHub stars](https://img.shields.io/github/stars/swkeep/qb-expandableVehicleTrunk.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-menu](https://github.com/swkeep/qb-menu) ([Original](https://github.com/qbcore-framework/qb-menu) :green_circle: +3 :red_circle: -3</span>) - Menu System for the QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/swkeep/qb-menu.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-menu](https://github.com/swkeep/qb-menu) ([Original](https://github.com/qbcore-framework/qb-menu) :green_circle: +3 :red_circle: -4</span>) - Menu System for the QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/swkeep/qb-menu.svg?style=social&label=Stars&maxAge=2592000)
 - [swkeep-tablet](https://github.com/swkeep/swkeep-tablet) ![GitHub stars](https://img.shields.io/github/stars/swkeep/swkeep-tablet.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TasoOneAsia <a name="TasoOneAsia"></a>
@@ -2000,6 +2000,7 @@ A curated list of FiveM resources
 - [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -167</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +1 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
+- [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
 - [MapFixes](https://github.com/TayMcKenzieNZ/MapFixes) - A compilation Of Map Fixes By FiveM Community Member LUKY00010  ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/MapFixes.svg?style=social&label=Stars&maxAge=2592000)
 - [NoIdleCam](https://github.com/TayMcKenzieNZ/NoIdleCam) - Disable the idle cam in FiveM. Useful when watching Twitch or YouTube streams on in game TV screens or possibly during RP scenarios. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/NoIdleCam.svg?style=social&label=Stars&maxAge=2592000)
 - [nw_bahamaMama](https://github.com/TayMcKenzieNZ/nw_bahamaMama) ([Original](https://github.com/Nowimps8/nw_bahamaMama) :green_circle: +0 :red_circle: -1</span>) - Bahama Mamas ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/nw_bahamaMama.svg?style=social&label=Stars&maxAge=2592000)
@@ -2008,6 +2009,7 @@ A curated list of FiveM resources
 - [online-interiors](https://github.com/TayMcKenzieNZ/online-interiors) ([Original](https://github.com/kibook/online-interiors) :green_circle: +0 :red_circle: -123</span>) - A FiveM resource adding ipl/map edits, teleport's, and blips to the map for FiveM up to the mpsecurity / 2545 DLC. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/online-interiors.svg?style=social&label=Stars&maxAge=2592000)
 - [Ranch-De-Caniche](https://github.com/TayMcKenzieNZ/Ranch-De-Caniche) - Madrazo's Ranch With Cinema ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Ranch-De-Caniche.svg?style=social&label=Stars&maxAge=2592000)
 - [server_scenarios](https://github.com/TayMcKenzieNZ/server_scenarios) - FiveM resource for streaming custom scenarios.  ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/server_scenarios.svg?style=social&label=Stars&maxAge=2592000)
+- [Snowballs](https://github.com/TayMcKenzieNZ/Snowballs) ([Original](https://github.com/kibook/Snowballs) :green_circle: +0 :red_circle: -2</span>) - Pickup snowballs in FiveM! ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Snowballs.svg?style=social&label=Stars&maxAge=2592000)
 - [vehiclepack](https://github.com/TayMcKenzieNZ/vehiclepack) - Vehicle Pack template for FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/vehiclepack.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TazLTD <a name="TazLTD"></a>
@@ -2050,6 +2052,7 @@ A curated list of FiveM resources
 
 ### TheoLevi <a name="TheoLevi"></a>
 - [Levi-inventory](https://github.com/TheoLevi/Levi-inventory) ![GitHub stars](https://img.shields.io/github/stars/TheoLevi/Levi-inventory.svg?style=social&label=Stars&maxAge=2592000)
+- [Levi-Progressbar](https://github.com/TheoLevi/Levi-Progressbar) ![GitHub stars](https://img.shields.io/github/stars/TheoLevi/Levi-Progressbar.svg?style=social&label=Stars&maxAge=2592000)
 - [QB-Multicharacter-Reworked](https://github.com/TheoLevi/QB-Multicharacter-Reworked) ![GitHub stars](https://img.shields.io/github/stars/TheoLevi/QB-Multicharacter-Reworked.svg?style=social&label=Stars&maxAge=2592000)
 - [QB-Phone-CSS_Reworked](https://github.com/TheoLevi/QB-Phone-CSS_Reworked) - Here is My First Release with QB Phone CSS Reworked.. There is 2 CSS Reworked.. Choose yourself Which one you want to use. This Script is Not for Sell.. Thank you. ![GitHub stars](https://img.shields.io/github/stars/TheoLevi/QB-Phone-CSS_Reworked.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2106,6 +2109,7 @@ A curated list of FiveM resources
 - [qb-radialmenu](https://github.com/TonyCapon3/qb-radialmenu) - Nopixel inspired CSS edit and some changes to the menu's events. ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-radialmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-takehostage](https://github.com/TonyCapon3/qb-takehostage) - Renewed  the original takehostage by rubbertoe98 to use qb-cores drawtext, notify and target, thanks to rubbertoe98 for all the original code this is just an edited version! ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-takehostage.svg?style=social&label=Stars&maxAge=2592000)
 - [qbcore-drawtext-ui](https://github.com/TonyCapon3/qbcore-drawtext-ui) - css edit for the drawtext qbcore is used with! ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qbcore-drawtext-ui.svg?style=social&label=Stars&maxAge=2592000)
+- [tc-tireslash](https://github.com/TonyCapon3/tc-tireslash) - Tire Slashing Script For QBCores ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-tireslash.svg?style=social&label=Stars&maxAge=2592000)
 
 ### trainordevs <a name="trainordevs"></a>
 - [linden_outlawalert](https://github.com/trainordevs/linden_outlawalert) ([Original](https://github.com/TheHorizonDev/linden_outlawalert) :green_circle: +0 :red_circle: -1</span>) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/trainordevs/linden_outlawalert.svg?style=social&label=Stars&maxAge=2592000)
