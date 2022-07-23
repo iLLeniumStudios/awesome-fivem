@@ -1553,6 +1553,7 @@ A curated list of FiveM resources
 - [cx-parking](https://github.com/project-codex/cx-parking) - A realistic parking script for the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/project-codex/cx-parking.svg?style=social&label=Stars&maxAge=2592000)
 - [cx-payslip](https://github.com/project-codex/cx-payslip) - A payslip system for the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/project-codex/cx-payslip.svg?style=social&label=Stars&maxAge=2592000)
 - [cx-tuners](https://github.com/project-codex/cx-tuners) - A tuners job for the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/project-codex/cx-tuners.svg?style=social&label=Stars&maxAge=2592000)
+- [cx-voting](https://github.com/project-codex/cx-voting) - An election system for the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/project-codex/cx-voting.svg?style=social&label=Stars&maxAge=2592000)
 
 ### project-error <a name="project-error"></a>
 - [cfa-gui](https://github.com/project-error/cfa-gui) - Desktop Application for CFA (Create FiveM App) ![GitHub stars](https://img.shields.io/github/stars/project-error/cfa-gui.svg?style=social&label=Stars&maxAge=2592000)
@@ -1703,6 +1704,9 @@ A curated list of FiveM resources
 - [tutorial-script](https://github.com/qbcore-framework/tutorial-script) - Learn about the fundamentals of QBCore! ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/tutorial-script.svg?style=social&label=Stars&maxAge=2592000)
 - [txAdminRecipe](https://github.com/qbcore-framework/txAdminRecipe) - Recipe To Deploy The Build Using txAdmin ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/txAdminRecipe.svg?style=social&label=Stars&maxAge=2592000)
 
+### qds-store <a name="qds-store"></a>
+- [progressbar](https://github.com/qds-store/progressbar) - Config files for my GitHub profile. ![GitHub stars](https://img.shields.io/github/stars/qds-store/progressbar.svg?style=social&label=Stars&maxAge=2592000)
+
 ### QuakeAcid <a name="QuakeAcid"></a>
 - [qb-weapondrop](https://github.com/QuakeAcid/qb-weapondrop) ![GitHub stars](https://img.shields.io/github/stars/QuakeAcid/qb-weapondrop.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -1781,7 +1785,7 @@ A curated list of FiveM resources
 - [1000fps](https://github.com/renzuzu/1000fps) - Enable 1000FPS in FIvem ![GitHub stars](https://img.shields.io/github/stars/renzuzu/1000fps.svg?style=social&label=Stars&maxAge=2592000)
 - [ax-inventory](https://github.com/renzuzu/ax-inventory) - ax-inventory is a Inventory system used by the Qbus FiveM Framework. It has custom js and css to give it a new look and feel! ![GitHub stars](https://img.shields.io/github/stars/renzuzu/ax-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [carmap](https://github.com/renzuzu/carmap) ![GitHub stars](https://img.shields.io/github/stars/renzuzu/carmap.svg?style=social&label=Stars&maxAge=2592000)
-- [FiveM-Civ-Car-Pack](https://github.com/renzuzu/FiveM-Civ-Car-Pack) ([Original](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack) :green_circle: +0 :red_circle: -0</span>) - A big library of civilian cars you can fork or download for your server ![GitHub stars](https://img.shields.io/github/stars/renzuzu/FiveM-Civ-Car-Pack.svg?style=social&label=Stars&maxAge=2592000)
+- [FiveM-Civ-Car-Pack](https://github.com/renzuzu/FiveM-Civ-Car-Pack) ([Original](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack) :green_circle: +6 :red_circle: -0</span>) - A big library of civilian cars you can fork or download for your server ![GitHub stars](https://img.shields.io/github/stars/renzuzu/FiveM-Civ-Car-Pack.svg?style=social&label=Stars&maxAge=2592000)
 - [natives](https://github.com/renzuzu/natives) ([Original](https://github.com/citizenfx/natives) :green_circle: +236 :red_circle: -0</span>) - GTA V Natives Documentation ![GitHub stars](https://img.shields.io/github/stars/renzuzu/natives.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_clothes](https://github.com/renzuzu/renzu_clothes) - Fivem Advanced Clotheshop and Wardrobe ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_clothes.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_contextmenu](https://github.com/renzuzu/renzu_contextmenu) - FIVEM - CLEAN CONTEXT MENU for Targeting Purpose ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_contextmenu.svg?style=social&label=Stars&maxAge=2592000)
@@ -2246,7 +2250,7 @@ A curated list of FiveM resources
 - [qb-casinoheist](https://github.com/xenfovn/qb-casinoheist) ![GitHub stars](https://img.shields.io/github/stars/xenfovn/qb-casinoheist.svg?style=social&label=Stars&maxAge=2592000)
 
 ### xFutte <a name="xFutte"></a>
-- [qb-newspaper](https://github.com/xFutte/qb-newspaper) - Newspaper script for the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/xFutte/qb-newspaper.svg?style=social&label=Stars&maxAge=2592000)
+- [futte-newspaper](https://github.com/xFutte/futte-newspaper) - Newspaper script for QBCore made by xFutte ![GitHub stars](https://img.shields.io/github/stars/xFutte/futte-newspaper.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Xogy <a name="Xogy"></a>
 - [ArenaAPI](https://github.com/Xogy/ArenaAPI) - Easy way how to create simple arena for fivem ![GitHub stars](https://img.shields.io/github/stars/Xogy/ArenaAPI.svg?style=social&label=Stars&maxAge=2592000)
