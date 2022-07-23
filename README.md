@@ -2174,6 +2174,11 @@ A curated list of FiveM resources
 - [SkyDiving](https://github.com/trickgodness/SkyDiving) - SkyDiving Script For Fivem ![GitHub stars](https://img.shields.io/github/stars/trickgodness/SkyDiving.svg?style=social&label=Stars&maxAge=2592000)
 - [weaponholster](https://github.com/trickgodness/weaponholster) - Fivem Weapon Holster Script ![GitHub stars](https://img.shields.io/github/stars/trickgodness/weaponholster.svg?style=social&label=Stars&maxAge=2592000)
 
+### TwisleOffical <a name="TwisleOffical"></a>
+- [GangWar](https://github.com/TwisleOffical/GangWar) - This is a client side FiveM script that will make it so when you go in the Ballas , Vagos, and/or Familes areas they will attack you no questions asked ![GitHub stars](https://img.shields.io/github/stars/TwisleOffical/GangWar.svg?style=social&label=Stars&maxAge=2592000)
+- [PierFix](https://github.com/TwisleOffical/PierFix) - A YMAP of the Peir Fix i made ![GitHub stars](https://img.shields.io/github/stars/TwisleOffical/PierFix.svg?style=social&label=Stars&maxAge=2592000)
+- [SimpleLockpick](https://github.com/TwisleOffical/SimpleLockpick) - Its a Simple Lockpicking Script. This is really meant for those vMenu server that would like something for lockpocking! ![GitHub stars](https://img.shields.io/github/stars/TwisleOffical/SimpleLockpick.svg?style=social&label=Stars&maxAge=2592000)
+
 ### TzuyuDev <a name="TzuyuDev"></a>
 - [trespassing-alarms](https://github.com/TzuyuDev/trespassing-alarms) - Trespassing Alarms for QB-Core ![GitHub stars](https://img.shields.io/github/stars/TzuyuDev/trespassing-alarms.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2279,7 +2284,7 @@ A curated list of FiveM resources
 - [qb-casinoheist](https://github.com/xenfovn/qb-casinoheist) ![GitHub stars](https://img.shields.io/github/stars/xenfovn/qb-casinoheist.svg?style=social&label=Stars&maxAge=2592000)
 
 ### xFutte <a name="xFutte"></a>
-- [futte-newspaper](https://github.com/xFutte/futte-newspaper) - Newspaper script displaying news, prison sentences, and enables reporters to write, update and delete news for QBCore made by xFutte ![GitHub stars](https://img.shields.io/github/stars/xFutte/futte-newspaper.svg?style=social&label=Stars&maxAge=2592000)
+- [futte-newspaper](https://github.com/xFutte/futte-newspaper) - [QBCore] Newspaper script displaying news, prison sentences, and enables reporters to write, update and delete news ![GitHub stars](https://img.shields.io/github/stars/xFutte/futte-newspaper.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Xogy <a name="Xogy"></a>
 - [ArenaAPI](https://github.com/Xogy/ArenaAPI) - Easy way how to create simple arena for fivem ![GitHub stars](https://img.shields.io/github/stars/Xogy/ArenaAPI.svg?style=social&label=Stars&maxAge=2592000)
