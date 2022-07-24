@@ -640,6 +640,7 @@ A curated list of FiveM resources
 - [decrypto](https://github.com/Gubner/decrypto) - ATM Hacking with Minigame for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/Gubner/decrypto.svg?style=social&label=Stars&maxAge=2592000)
 - [news](https://github.com/Gubner/news) - Image based newspaper script (Standalone) ![GitHub stars](https://img.shields.io/github/stars/Gubner/news.svg?style=social&label=Stars&maxAge=2592000)
 - [skillbar](https://github.com/Gubner/skillbar) - Replacement skillbar for QCore Framework ![GitHub stars](https://img.shields.io/github/stars/Gubner/skillbar.svg?style=social&label=Stars&maxAge=2592000)
+- [temperature](https://github.com/Gubner/temperature) ![GitHub stars](https://img.shields.io/github/stars/Gubner/temperature.svg?style=social&label=Stars&maxAge=2592000)
 
 ### GucciFivem <a name="GucciFivem"></a>
 - [gc-bobcat](https://github.com/GucciFivem/gc-bobcat) - Bobcat robbery for the QBCore framework. ![GitHub stars](https://img.shields.io/github/stars/GucciFivem/gc-bobcat.svg?style=social&label=Stars&maxAge=2592000)
@@ -1387,7 +1388,7 @@ A curated list of FiveM resources
 ### Nathan-FiveM <a name="Nathan-FiveM"></a>
 - [addonclothes](https://github.com/Nathan-FiveM/addonclothes) - Base folders for GTA Add-on clothing so you don't have to replace EUP ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/addonclothes.svg?style=social&label=Stars&maxAge=2592000)
 - [D2D-Stims](https://github.com/Nathan-FiveM/D2D-Stims) ([Original](https://github.com/DareToDoyle/D2D-Stims) :green_circle: +0 :red_circle: -0</span>) ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/D2D-Stims.svg?style=social&label=Stars&maxAge=2592000)
-- [jl-carboost](https://github.com/Nathan-FiveM/jl-carboost) ([Original](https://github.com/JustLazzy/jl-carboost) :green_circle: +8 :red_circle: -0</span>) ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/jl-carboost.svg?style=social&label=Stars&maxAge=2592000)
+- [jl-carboost](https://github.com/Nathan-FiveM/jl-carboost) ([Original](https://github.com/JustLazzy/jl-carboost) :green_circle: +9 :red_circle: -0</span>) ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/jl-carboost.svg?style=social&label=Stars&maxAge=2592000)
 - [memorygame_2](https://github.com/Nathan-FiveM/memorygame_2) - 5x5 Memory Game ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/memorygame_2.svg?style=social&label=Stars&maxAge=2592000)
 - [prospecting](https://github.com/Nathan-FiveM/prospecting) - QB-Prospecting for QBCore - https://github.com/glitchdetector/fivem-prospecting ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/prospecting.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-adminmenu](https://github.com/Nathan-FiveM/qb-adminmenu) - Admin Menu Using MenuV ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/qb-adminmenu.svg?style=social&label=Stars&maxAge=2592000)
@@ -1996,7 +1997,7 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +199 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +200 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2111,6 +2112,7 @@ A curated list of FiveM resources
 - [TigoAntiCheat](https://github.com/ThymonA/TigoAntiCheat) - A resource that detects different types of cheating ![GitHub stars](https://img.shields.io/github/stars/ThymonA/TigoAntiCheat.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TitansProductions <a name="TitansProductions"></a>
+- [TP-Advanced-Zombies](https://github.com/TitansProductions/TP-Advanced-Zombies) - An advanced FiveM zombies script which provides you many features in purpose to enjoy and create a realistic zombie apocalypse server. ![GitHub stars](https://img.shields.io/github/stars/TitansProductions/TP-Advanced-Zombies.svg?style=social&label=Stars&maxAge=2592000)
 - [TP-Battlepass](https://github.com/TitansProductions/TP-Battlepass) - This is a unique battlepass script for your players with many features and optimizations.  ![GitHub stars](https://img.shields.io/github/stars/TitansProductions/TP-Battlepass.svg?style=social&label=Stars&maxAge=2592000)
 - [TP-Dailyrewards](https://github.com/TitansProductions/TP-Dailyrewards) - This is a unique daily rewards script for your players with many features and optimizations in order to receive daily rewards. ![GitHub stars](https://img.shields.io/github/stars/TitansProductions/TP-Dailyrewards.svg?style=social&label=Stars&maxAge=2592000)
 - [TP-SkillCheck](https://github.com/TitansProductions/TP-SkillCheck) - A very unique skill check utility with a circular progress bar. ![GitHub stars](https://img.shields.io/github/stars/TitansProductions/TP-SkillCheck.svg?style=social&label=Stars&maxAge=2592000)
