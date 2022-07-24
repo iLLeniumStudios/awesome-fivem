@@ -1600,6 +1600,7 @@ A curated list of FiveM resources
 - [pe-ui](https://github.com/project-error/pe-ui) - WIP General UI Wrapper for FiveM ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-ui.svg?style=social&label=Stars&maxAge=2592000)
 - [pe-utils](https://github.com/project-error/pe-utils) - A collection of V8 specific utilities used by the Project Error team. ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-utils.svg?style=social&label=Stars&maxAge=2592000)
 - [pefcl](https://github.com/project-error/pefcl) - pefcl (PE-Financial) is a financial banking resource for FiveM written in TypeScript and React. ![GitHub stars](https://img.shields.io/github/stars/project-error/pefcl.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-pefcl](https://github.com/project-error/qb-pefcl) ![GitHub stars](https://img.shields.io/github/stars/project-error/qb-pefcl.svg?style=social&label=Stars&maxAge=2592000)
 - [screenshot-basic](https://github.com/project-error/screenshot-basic) ([Original](https://github.com/jonassvensson4/screenshot-basic) :green_circle: +0 :red_circle: -5</span>) - FiveM client screenshot resource - Imgur, crop options and headers support ![GitHub stars](https://img.shields.io/github/stars/project-error/screenshot-basic.svg?style=social&label=Stars&maxAge=2592000)
 - [svelte-lua-boilerplate](https://github.com/project-error/svelte-lua-boilerplate) - Svelte & Lua boilerplate for FiveM ![GitHub stars](https://img.shields.io/github/stars/project-error/svelte-lua-boilerplate.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -1887,7 +1888,6 @@ A curated list of FiveM resources
 - [rr_uilib](https://github.com/RoleplayRevisited/rr_uilib) ![GitHub stars](https://img.shields.io/github/stars/RoleplayRevisited/rr_uilib.svg?style=social&label=Stars&maxAge=2592000)
 
 ### SamShanks1 <a name="SamShanks1"></a>
-- [qb-pefcl](https://github.com/SamShanks1/qb-pefcl) ![GitHub stars](https://img.shields.io/github/stars/SamShanks1/qb-pefcl.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-stashes](https://github.com/SamShanks1/qb-stashes) - Configurable Stashes for QBCore ![GitHub stars](https://img.shields.io/github/stars/SamShanks1/qb-stashes.svg?style=social&label=Stars&maxAge=2592000)
 
 ### sandralol <a name="sandralol"></a>
@@ -1997,7 +1997,7 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +200 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +209 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
