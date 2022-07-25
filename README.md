@@ -82,6 +82,7 @@ A curated list of FiveM resources
 
 ### ansljeremy <a name="ansljeremy"></a>
 - [qb-forgery](https://github.com/ansljeremy/qb-forgery) ![GitHub stars](https://img.shields.io/github/stars/ansljeremy/qb-forgery.svg?style=social&label=Stars&maxAge=2592000)
+- [RayCastCoords](https://github.com/ansljeremy/RayCastCoords) - Get coordinates from a raycast hit point. FiveM ![GitHub stars](https://img.shields.io/github/stars/ansljeremy/RayCastCoords.svg?style=social&label=Stars&maxAge=2592000)
 
 ### antond15 <a name="antond15"></a>
 - [ac_radio](https://github.com/antond15/ac_radio) - A framework-standalone radio UI for FiveM. ![GitHub stars](https://img.shields.io/github/stars/antond15/ac_radio.svg?style=social&label=Stars&maxAge=2592000)
@@ -319,6 +320,13 @@ A curated list of FiveM resources
 - [mdt](https://github.com/DarkloaderTM/mdt) ![GitHub stars](https://img.shields.io/github/stars/DarkloaderTM/mdt.svg?style=social&label=Stars&maxAge=2592000)
 - [shotspotter](https://github.com/DarkloaderTM/shotspotter) ![GitHub stars](https://img.shields.io/github/stars/DarkloaderTM/shotspotter.svg?style=social&label=Stars&maxAge=2592000)
 
+### darktrovx <a name="darktrovx"></a>
+- [devyn-backitems](https://github.com/darktrovx/devyn-backitems) - FiveM Lua Script for displaying items on the players back. ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-backitems.svg?style=social&label=Stars&maxAge=2592000)
+- [devyn-dj](https://github.com/darktrovx/devyn-dj) ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-dj.svg?style=social&label=Stars&maxAge=2592000)
+- [devyn-laundry](https://github.com/darktrovx/devyn-laundry) ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-laundry.svg?style=social&label=Stars&maxAge=2592000)
+- [devyn-sanitation](https://github.com/darktrovx/devyn-sanitation) ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-sanitation.svg?style=social&label=Stars&maxAge=2592000)
+- [devyn-voting](https://github.com/darktrovx/devyn-voting) ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-voting.svg?style=social&label=Stars&maxAge=2592000)
+
 ### davidxd33 <a name="davidxd33"></a>
 - [qb-phone](https://github.com/davidxd33/qb-phone) - Stock qb-phone with an added discord app. ![GitHub stars](https://img.shields.io/github/stars/davidxd33/qb-phone.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -333,13 +341,6 @@ A curated list of FiveM resources
 ### Developer-Bear <a name="Developer-Bear"></a>
 - [qb-devmenu](https://github.com/Developer-Bear/qb-devmenu) - menu to assist with development activities for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/Developer-Bear/qb-devmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [RNG_CarBomb](https://github.com/Developer-Bear/RNG_CarBomb) - useable item that you attach to a vehicle and... boom ![GitHub stars](https://img.shields.io/github/stars/Developer-Bear/RNG_CarBomb.svg?style=social&label=Stars&maxAge=2592000)
-
-### devin-monro <a name="devin-monro"></a>
-- [devyn-backitems](https://github.com/devin-monro/devyn-backitems) - FiveM Lua Script for displaying items on the players back. ![GitHub stars](https://img.shields.io/github/stars/devin-monro/devyn-backitems.svg?style=social&label=Stars&maxAge=2592000)
-- [devyn-dj](https://github.com/devin-monro/devyn-dj) ![GitHub stars](https://img.shields.io/github/stars/devin-monro/devyn-dj.svg?style=social&label=Stars&maxAge=2592000)
-- [devyn-laundry](https://github.com/devin-monro/devyn-laundry) ![GitHub stars](https://img.shields.io/github/stars/devin-monro/devyn-laundry.svg?style=social&label=Stars&maxAge=2592000)
-- [devyn-sanitation](https://github.com/devin-monro/devyn-sanitation) ![GitHub stars](https://img.shields.io/github/stars/devin-monro/devyn-sanitation.svg?style=social&label=Stars&maxAge=2592000)
-- [devyn-voting](https://github.com/devin-monro/devyn-voting) ![GitHub stars](https://img.shields.io/github/stars/devin-monro/devyn-voting.svg?style=social&label=Stars&maxAge=2592000)
 
 ### DevLanceGood <a name="DevLanceGood"></a>
 - [Advanced-Roleplaying-Menu](https://github.com/DevLanceGood/Advanced-Roleplaying-Menu) - Deliver Packages to your buddies, Go on duty as a police officer, and more! ![GitHub stars](https://img.shields.io/github/stars/DevLanceGood/Advanced-Roleplaying-Menu.svg?style=social&label=Stars&maxAge=2592000)
@@ -2150,6 +2151,7 @@ A curated list of FiveM resources
 - [qb-radialmenu](https://github.com/TonyCapon3/qb-radialmenu) - Nopixel inspired CSS edit and some changes to the menu's events. ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-radialmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-takehostage](https://github.com/TonyCapon3/qb-takehostage) - Renewed  the original takehostage by rubbertoe98 to use qb-cores drawtext, notify and target, thanks to rubbertoe98 for all the original code this is just an edited version! ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-takehostage.svg?style=social&label=Stars&maxAge=2592000)
 - [qbcore-drawtext-ui](https://github.com/TonyCapon3/qbcore-drawtext-ui) - css edit for the drawtext qbcore is used with! ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qbcore-drawtext-ui.svg?style=social&label=Stars&maxAge=2592000)
+- [tc-robmeter](https://github.com/TonyCapon3/tc-robmeter) - Parking Meter Robbery Script For QBCORE ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-robmeter.svg?style=social&label=Stars&maxAge=2592000)
 - [tc-tireslash](https://github.com/TonyCapon3/tc-tireslash) - Tire Slashing Script For QBCores ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-tireslash.svg?style=social&label=Stars&maxAge=2592000)
 
 ### trainordevs <a name="trainordevs"></a>
@@ -2180,6 +2182,7 @@ A curated list of FiveM resources
 - [GangWar](https://github.com/TwisleOffical/GangWar) - This is a client side FiveM script that will make it so when you go in the Ballas , Vagos, and/or Familes areas they will attack you no questions asked ![GitHub stars](https://img.shields.io/github/stars/TwisleOffical/GangWar.svg?style=social&label=Stars&maxAge=2592000)
 - [PierFix](https://github.com/TwisleOffical/PierFix) - A YMAP of the Peir Fix i made ![GitHub stars](https://img.shields.io/github/stars/TwisleOffical/PierFix.svg?style=social&label=Stars&maxAge=2592000)
 - [SimpleLockpick](https://github.com/TwisleOffical/SimpleLockpick) - Its a Simple Lockpicking Script. This is really meant for those vMenu server that would like something for lockpocking! ![GitHub stars](https://img.shields.io/github/stars/TwisleOffical/SimpleLockpick.svg?style=social&label=Stars&maxAge=2592000)
+- [TStoreRobbery](https://github.com/TwisleOffical/TStoreRobbery) - A Simple Script That Lets You Rob Stores. Mainly Made For vMenu Servers. ![GitHub stars](https://img.shields.io/github/stars/TwisleOffical/TStoreRobbery.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TzuyuDev <a name="TzuyuDev"></a>
 - [trespassing-alarms](https://github.com/TzuyuDev/trespassing-alarms) - Trespassing Alarms for QB-Core ![GitHub stars](https://img.shields.io/github/stars/TzuyuDev/trespassing-alarms.svg?style=social&label=Stars&maxAge=2592000)
