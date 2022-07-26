@@ -589,6 +589,7 @@ A curated list of FiveM resources
 - [elite-materials](https://github.com/g3shaa/elite-materials) - FiveM Resource (Scrapyard and Trash Searching) [QBCore] ![GitHub stars](https://img.shields.io/github/stars/g3shaa/elite-materials.svg?style=social&label=Stars&maxAge=2592000)
 - [elite-vending](https://github.com/g3shaa/elite-vending) - QBCore script using qb-target and nh-context ![GitHub stars](https://img.shields.io/github/stars/g3shaa/elite-vending.svg?style=social&label=Stars&maxAge=2592000)
 - [fishing-script](https://github.com/g3shaa/fishing-script) - QBCore Fishing script using qb-target and nh-context ![GitHub stars](https://img.shields.io/github/stars/g3shaa/fishing-script.svg?style=social&label=Stars&maxAge=2592000)
+- [nh-context](https://github.com/g3shaa/nh-context) - NH Context (EDITED STYLE) (STANDALONE SCRIPT) ![GitHub stars](https://img.shields.io/github/stars/g3shaa/nh-context.svg?style=social&label=Stars&maxAge=2592000)
 
 ### GabbarFramework <a name="GabbarFramework"></a>
 - [qb-lettucejob](https://github.com/GabbarFramework/qb-lettucejob) - Lettuce Farming Job For QBCore ![GitHub stars](https://img.shields.io/github/stars/GabbarFramework/qb-lettucejob.svg?style=social&label=Stars&maxAge=2592000)
@@ -1180,7 +1181,7 @@ A curated list of FiveM resources
 - [qb-yacht](https://github.com/Margaritoo/qb-yacht) - A Yacht Robbery for Qbcore Community ![GitHub stars](https://img.shields.io/github/stars/Margaritoo/qb-yacht.svg?style=social&label=Stars&maxAge=2592000)
 
 ### markthatsound <a name="markthatsound"></a>
-- [qb-towjob](https://github.com/markthatsound/qb-towjob) ([Original](https://github.com/qbcore-framework/qb-towjob) :green_circle: +48 :red_circle: -5</span>) - Towing Job For QB-Core ![GitHub stars](https://img.shields.io/github/stars/markthatsound/qb-towjob.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-towjob](https://github.com/markthatsound/qb-towjob) ([Original](https://github.com/qbcore-framework/qb-towjob) :green_circle: +49 :red_circle: -5</span>) - Towing Job For QB-Core ![GitHub stars](https://img.shields.io/github/stars/markthatsound/qb-towjob.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Marttins011 <a name="Marttins011"></a>
 - [chat](https://github.com/Marttins011/chat) - QBCore chat design ![GitHub stars](https://img.shields.io/github/stars/Marttins011/chat.svg?style=social&label=Stars&maxAge=2592000)
@@ -1897,6 +1898,7 @@ A curated list of FiveM resources
 - [rr_uilib](https://github.com/RoleplayRevisited/rr_uilib) ![GitHub stars](https://img.shields.io/github/stars/RoleplayRevisited/rr_uilib.svg?style=social&label=Stars&maxAge=2592000)
 
 ### SamShanks1 <a name="SamShanks1"></a>
+- [npwd-shanks](https://github.com/SamShanks1/npwd-shanks) ![GitHub stars](https://img.shields.io/github/stars/SamShanks1/npwd-shanks.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-stashes](https://github.com/SamShanks1/qb-stashes) - Configurable Stashes for QBCore ![GitHub stars](https://img.shields.io/github/stars/SamShanks1/qb-stashes.svg?style=social&label=Stars&maxAge=2592000)
 
 ### sandralol <a name="sandralol"></a>
@@ -1977,6 +1979,9 @@ A curated list of FiveM resources
 - [qb-vehicle-shop](https://github.com/Spazd/qb-vehicle-shop) ![GitHub stars](https://img.shields.io/github/stars/Spazd/qb-vehicle-shop.svg?style=social&label=Stars&maxAge=2592000)
 - [Spazs-3dme](https://github.com/Spazd/Spazs-3dme) - YBN Inspired 3dme converted to QBCore. ![GitHub stars](https://img.shields.io/github/stars/Spazd/Spazs-3dme.svg?style=social&label=Stars&maxAge=2592000)
 - [Spazs-Carhud](https://github.com/Spazd/Spazs-Carhud) - YBN car hud converted over to QBCore. ![GitHub stars](https://img.shields.io/github/stars/Spazd/Spazs-Carhud.svg?style=social&label=Stars&maxAge=2592000)
+
+### SPSCRIPTS <a name="SPSCRIPTS"></a>
+- [sp-kartingjob](https://github.com/SPSCRIPTS/sp-kartingjob) - karting job for qb-core ![GitHub stars](https://img.shields.io/github/stars/SPSCRIPTS/sp-kartingjob.svg?style=social&label=Stars&maxAge=2592000)
 
 ### spyx4 <a name="spyx4"></a>
 - [qb-vehiclekeys-](https://github.com/spyx4/qb-vehiclekeys-) ![GitHub stars](https://img.shields.io/github/stars/spyx4/qb-vehiclekeys-.svg?style=social&label=Stars&maxAge=2592000)
@@ -2136,7 +2141,7 @@ A curated list of FiveM resources
 - [qb-clothing](https://github.com/tnj-development/qb-clothing) ([Original](https://github.com/qbcore-framework/qb-clothing) :green_circle: +6 :red_circle: -4</span>) - Clothing Script Used With QB-Core :shirt: ![GitHub stars](https://img.shields.io/github/stars/tnj-development/qb-clothing.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-masks](https://github.com/tnj-development/qb-masks) - Have masks as an Item. ![GitHub stars](https://img.shields.io/github/stars/tnj-development/qb-masks.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-radialmenu](https://github.com/tnj-development/qb-radialmenu) ([Original](https://github.com/qbcore-framework/qb-radialmenu) :green_circle: +63 :red_circle: -5</span>) - Radial Menu Used With QB-Core :arrows_counterclockwise: ![GitHub stars](https://img.shields.io/github/stars/tnj-development/qb-radialmenu.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-radio-v2](https://github.com/tnj-development/qb-radio-v2) ([Original](https://github.com/trclassic92/qb-radio-v2) :green_circle: +7 :red_circle: -0</span>) - qb-radio nopixel inspired radio v2 (New UI) ![GitHub stars](https://img.shields.io/github/stars/tnj-development/qb-radio-v2.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-radio-v2](https://github.com/tnj-development/qb-radio-v2) ([Original](https://github.com/trclassic92/qb-radio-v2) :green_circle: +8 :red_circle: -0</span>) - qb-radio nopixel inspired radio v2 (New UI) ![GitHub stars](https://img.shields.io/github/stars/tnj-development/qb-radio-v2.svg?style=social&label=Stars&maxAge=2592000)
 - [tnj-editor](https://github.com/tnj-development/tnj-editor) - tnj-editor  ![GitHub stars](https://img.shields.io/github/stars/tnj-development/tnj-editor.svg?style=social&label=Stars&maxAge=2592000)
 - [tnj-lightbar](https://github.com/tnj-development/tnj-lightbar) ![GitHub stars](https://img.shields.io/github/stars/tnj-development/tnj-lightbar.svg?style=social&label=Stars&maxAge=2592000)
 - [tnj-notify](https://github.com/tnj-development/tnj-notify) - NoPixel Inspired Notification system ![GitHub stars](https://img.shields.io/github/stars/tnj-development/tnj-notify.svg?style=social&label=Stars&maxAge=2592000)
@@ -2157,6 +2162,7 @@ A curated list of FiveM resources
 - [vMenu](https://github.com/TomGrobbe/vMenu) - vMenu is a custom server sided trainer/menu, built using a custom version of NativeUI. It has full permissions support, so the server owner can decide who's allowed to do what. ![GitHub stars](https://img.shields.io/github/stars/TomGrobbe/vMenu.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TonyCapon3 <a name="TonyCapon3"></a>
+- [qb-giftbox](https://github.com/TonyCapon3/qb-giftbox) - Just a snippet to put into smallresources if you want first time players to have a little welcoming gift. ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-giftbox.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-radialmenu](https://github.com/TonyCapon3/qb-radialmenu) - Nopixel inspired CSS edit and some changes to the menu's events. ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-radialmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-skateboard](https://github.com/TonyCapon3/qb-skateboard) - Skateboard Item For QBCore  ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-skateboard.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-takehostage](https://github.com/TonyCapon3/qb-takehostage) - Renewed  the original takehostage by rubbertoe98 to use qb-cores drawtext, notify and target, thanks to rubbertoe98 for all the original code this is just an edited version! ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-takehostage.svg?style=social&label=Stars&maxAge=2592000)
@@ -2206,6 +2212,7 @@ A curated list of FiveM resources
 
 ### vCodeScripts <a name="vCodeScripts"></a>
 - [vC-blackout](https://github.com/vCodeScripts/vC-blackout) - Nopixel Inspired Blackout, Easy To Use Drag And Drop Resource [QB-CORE] ![GitHub stars](https://img.shields.io/github/stars/vCodeScripts/vC-blackout.svg?style=social&label=Stars&maxAge=2592000)
+- [vC-input](https://github.com/vCodeScripts/vC-input) - A NoPixel Inspired Menu Script Which Opens A Popup Menu To Get Needed Information ![GitHub stars](https://img.shields.io/github/stars/vCodeScripts/vC-input.svg?style=social&label=Stars&maxAge=2592000)
 - [vC-realisticWeaponDrop](https://github.com/vCodeScripts/vC-realisticWeaponDrop) - QB-Core script which utilizes pickups to drop the weapon player is holding.  ![GitHub stars](https://img.shields.io/github/stars/vCodeScripts/vC-realisticWeaponDrop.svg?style=social&label=Stars&maxAge=2592000)
 - [vC-vote](https://github.com/vCodeScripts/vC-vote) - Nopixel Inspired Voting Script, Detailed Config And Easy To Use.  ![GitHub stars](https://img.shields.io/github/stars/vCodeScripts/vC-vote.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2343,7 +2350,6 @@ A curated list of FiveM resources
 
 ### yxupy <a name="yxupy"></a>
 - [society-reports](https://github.com/yxupy/society-reports) - Report System. ![GitHub stars](https://img.shields.io/github/stars/yxupy/society-reports.svg?style=social&label=Stars&maxAge=2592000)
-- [yxupy-darkweb](https://github.com/yxupy/yxupy-darkweb) - yxupy-darkweb ![GitHub stars](https://img.shields.io/github/stars/yxupy/yxupy-darkweb.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Z3rio <a name="Z3rio"></a>
 - [zerio-bcs-heist](https://github.com/Z3rio/zerio-bcs-heist) ![GitHub stars](https://img.shields.io/github/stars/Z3rio/zerio-bcs-heist.svg?style=social&label=Stars&maxAge=2592000)
