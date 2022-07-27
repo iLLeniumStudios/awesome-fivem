@@ -96,6 +96,10 @@ A curated list of FiveM resources
 ### ARSSANTO <a name="ARSSANTO"></a>
 - [qb-checkfines](https://github.com/ARSSANTO/qb-checkfines) - qb-checkfines is a small snippet for check unpaid fines from citizen I was looking for bill checker for my server so i am sharing it with qb-core family hope it will be help full for you  ![GitHub stars](https://img.shields.io/github/stars/ARSSANTO/qb-checkfines.svg?style=social&label=Stars&maxAge=2592000)
 
+### Ashenboy <a name="Ashenboy"></a>
+- [qb-mushroomfarm](https://github.com/Ashenboy/qb-mushroomfarm) - Mushroomfarm job for QBCore ![GitHub stars](https://img.shields.io/github/stars/Ashenboy/qb-mushroomfarm.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-repair](https://github.com/Ashenboy/qb-repair) - This script is basically for when there are no mechanics available on the server. The players will get an option to repair their vehicles. ![GitHub stars](https://img.shields.io/github/stars/Ashenboy/qb-repair.svg?style=social&label=Stars&maxAge=2592000)
+
 ### AtlasFw <a name="AtlasFw"></a>
 - [atl-appearance](https://github.com/AtlasFw/atl-appearance) - Atlas Framework appearance system. ![GitHub stars](https://img.shields.io/github/stars/AtlasFw/atl-appearance.svg?style=social&label=Stars&maxAge=2592000)
 - [atl-core](https://github.com/AtlasFw/atl-core) - The core of Atlas Framework. ![GitHub stars](https://img.shields.io/github/stars/AtlasFw/atl-core.svg?style=social&label=Stars&maxAge=2592000)
@@ -760,7 +764,7 @@ A curated list of FiveM resources
 - [fivem-lua-lint-action](https://github.com/iLLeniumStudios/fivem-lua-lint-action) ([Original](https://github.com/GoatG33k/fivem-lua-lint-action) :green_circle: +0 :red_circle: -34</span>) - A GitHub action for linting FiveM / Cfx Lua scripts ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/fivem-lua-lint-action.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-subrepo](https://github.com/iLLeniumStudios/fivem-subrepo) - A bash script that builds up a subtree based Git repo from a txAdmin Recipe ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/fivem-subrepo.svg?style=social&label=Stars&maxAge=2592000)
 - [is-statushud](https://github.com/iLLeniumStudios/is-statushud) - NoPixel inspired Status Hud (Standalone / QBCore / ESX) ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/is-statushud.svg?style=social&label=Stars&maxAge=2592000)
-- [Roda_PauseMenu](https://github.com/iLLeniumStudios/Roda_PauseMenu) ([Original](https://github.com/RodericAguilar/Roda_PauseMenu) :green_circle: +6 :red_circle: -21</span>) - Roda_PauseMenu compatible with qb-core ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/Roda_PauseMenu.svg?style=social&label=Stars&maxAge=2592000)
+- [Roda_PauseMenu](https://github.com/iLLeniumStudios/Roda_PauseMenu) ([Original](https://github.com/RodericAguilar/Roda_PauseMenu) :green_circle: +8 :red_circle: -21</span>) - Roda_PauseMenu compatible with qb-core ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/Roda_PauseMenu.svg?style=social&label=Stars&maxAge=2592000)
 
 ### illwhyrin <a name="illwhyrin"></a>
 - [qb-hud](https://github.com/illwhyrin/qb-hud) - Player Status HUD Used With QB-Core :heart: :plate_with_cutlery: :shield: ![GitHub stars](https://img.shields.io/github/stars/illwhyrin/qb-hud.svg?style=social&label=Stars&maxAge=2592000)
