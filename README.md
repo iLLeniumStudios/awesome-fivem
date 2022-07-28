@@ -944,7 +944,7 @@ A curated list of FiveM resources
 - [menuAlone](https://github.com/JiminyKroket/menuAlone) - Fully Native Menu System for FiveM Servers ![GitHub stars](https://img.shields.io/github/stars/JiminyKroket/menuAlone.svg?style=social&label=Stars&maxAge=2592000)
 
 ### JL-Development <a name="JL-Development"></a>
-- [qb-vehiclekeys](https://github.com/JL-Development/qb-vehiclekeys) ([Original](https://github.com/qbcore-framework/qb-vehiclekeys) :green_circle: +10 :red_circle: -3</span>) - Vehicle Keys System For QB-Core :key: ![GitHub stars](https://img.shields.io/github/stars/JL-Development/qb-vehiclekeys.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-vehiclekeys](https://github.com/JL-Development/qb-vehiclekeys) ([Original](https://github.com/qbcore-framework/qb-vehiclekeys) :green_circle: +12 :red_circle: -3</span>) - Vehicle Keys System For QB-Core :key: ![GitHub stars](https://img.shields.io/github/stars/JL-Development/qb-vehiclekeys.svg?style=social&label=Stars&maxAge=2592000)
 
 ### JnKTechStuff <a name="JnKTechStuff"></a>
 - [betterflying](https://github.com/JnKTechstuff/betterflying) ![GitHub stars](https://img.shields.io/github/stars/JnKTechStuff/betterflying.svg?style=social&label=Stars&maxAge=2592000)
@@ -1119,7 +1119,9 @@ A curated list of FiveM resources
 
 ### LucidB1 <a name="LucidB1"></a>
 - [codem-craft](https://github.com/LucidB1/codem-craft) ![GitHub stars](https://img.shields.io/github/stars/LucidB1/codem-craft.svg?style=social&label=Stars&maxAge=2592000)
+- [lucid-bountyhunter-esx](https://github.com/LucidB1/lucid-bountyhunter-esx) ![GitHub stars](https://img.shields.io/github/stars/LucidB1/lucid-bountyhunter-esx.svg?style=social&label=Stars&maxAge=2592000)
 - [lucid-dogsitter](https://github.com/LucidB1/lucid-dogsitter) - Dog sitter job for fivem ![GitHub stars](https://img.shields.io/github/stars/LucidB1/lucid-dogsitter.svg?style=social&label=Stars&maxAge=2592000)
+- [lucid-dungeon](https://github.com/LucidB1/lucid-dungeon) ![GitHub stars](https://img.shields.io/github/stars/LucidB1/lucid-dungeon.svg?style=social&label=Stars&maxAge=2592000)
 - [lucid-killcam](https://github.com/LucidB1/lucid-killcam) ![GitHub stars](https://img.shields.io/github/stars/LucidB1/lucid-killcam.svg?style=social&label=Stars&maxAge=2592000)
 
 ### LukeWasTakenn <a name="LukeWasTakenn"></a>
@@ -1353,7 +1355,7 @@ A curated list of FiveM resources
 
 ### MrEvilGamer <a name="MrEvilGamer"></a>
 - [chat](https://github.com/MrEvilGamer/chat) - A chat for your server ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/chat.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-casinowheel](https://github.com/MrEvilGamer/qb-casinowheel) - # qb-casinowheel  Feel Free to join my discord!  Updated and removed old handlers by me!  https://discord.com/invite/MEDzUG7cAS  Orignal Creator =  https://github.com/Sn0wBiT/esx_tpnrp_luckywheel  Converted by =  https://github.com/GhzGarage/esx_tpnrp_luckywheel  ### Require: - QBCore - Diamond Casino pack  ### Screenshot and Video: Preview =  https://drive.google.com/file/d/1sZXe2InUlBy0KBbkvmB1RzYlOttt8WOW/view  ![alt text](https://raw.githubusercontent.com/Sn0wBiT/esx_tpnrp_luckywheel/master/20190825224811_1.jpg) ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-casinowheel.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-casinowheel](https://github.com/MrEvilGamer/qb-casinowheel) - Casino Wheel for the casino and Moving Car too! - QBCore ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-casinowheel.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-extras](https://github.com/MrEvilGamer/qb-extras) - Some Extra Scripts for QBCore Framework which I found necessary  so here they are. ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-extras.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-fishing](https://github.com/MrEvilGamer/qb-fishing) - A Fishing Script For QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-fishing.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-hunting](https://github.com/MrEvilGamer/qb-hunting) - A Hunting Job For QBCore Converted From ESX - QBCore ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-hunting.svg?style=social&label=Stars&maxAge=2592000)
@@ -1391,6 +1393,7 @@ A curated list of FiveM resources
 - [nc-codebot](https://github.com/NaorNC/nc-codebot) - QBCore - Create codes using discord bot to redeem items & cash in your server! ![GitHub stars](https://img.shields.io/github/stars/NaorNC/nc-codebot.svg?style=social&label=Stars&maxAge=2592000)
 - [nc-headbag](https://github.com/NaorNC/nc-headbag) - HeadBag Script - Compatible with QBCore. ![GitHub stars](https://img.shields.io/github/stars/NaorNC/nc-headbag.svg?style=social&label=Stars&maxAge=2592000)
 - [nc-loadingscreen](https://github.com/NaorNC/nc-loadingscreen) - Advacned LoadingScreen for FiveM ![GitHub stars](https://img.shields.io/github/stars/NaorNC/nc-loadingscreen.svg?style=social&label=Stars&maxAge=2592000)
+- [nc-loadingscreens](https://github.com/NaorNC/nc-loadingscreens) - Advanced LoadingScreen for FiveM (QBCore // ESX // VRP) ![GitHub stars](https://img.shields.io/github/stars/NaorNC/nc-loadingscreens.svg?style=social&label=Stars&maxAge=2592000)
 - [nc-outfits](https://github.com/NaorNC/nc-outfits) - Outfits system for QBCore. (NoPixel style) ![GitHub stars](https://img.shields.io/github/stars/NaorNC/nc-outfits.svg?style=social&label=Stars&maxAge=2592000)
 - [nc-petshop](https://github.com/NaorNC/nc-petshop) - Advanced PetShop System for QBCore ![GitHub stars](https://img.shields.io/github/stars/NaorNC/nc-petshop.svg?style=social&label=Stars&maxAge=2592000)
 - [nc-rental](https://github.com/NaorNC/nc-rental) - Extremely advanced car rental system for QBCore. (NoPixel Style) ![GitHub stars](https://img.shields.io/github/stars/NaorNC/nc-rental.svg?style=social&label=Stars&maxAge=2592000)
@@ -2253,7 +2256,7 @@ A curated list of FiveM resources
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character) - Character Creation ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Character.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-ClothingStore](https://github.com/VORPCORE/VORP-ClothingStore) - VORP Clothing Store ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-ClothingStore.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Core](https://github.com/VORPCORE/VORP-Core) - From the reinventors of the wheel has come VORP CORE a RP Framework for RedM ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Core.svg?style=social&label=Stars&maxAge=2592000)
-- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -366</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
+- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -368</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Housing](https://github.com/VORPCORE/VORP-Housing) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Housing.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Hunting](https://github.com/VORPCORE/VORP-Hunting) - Selling Animals & Skins script ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Hunting.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Inputs](https://github.com/VORPCORE/VORP-Inputs) - Input UI ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Inputs.svg?style=social&label=Stars&maxAge=2592000)
