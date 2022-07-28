@@ -41,6 +41,9 @@ A curated list of FiveM resources
 - [Qb-Banking-Reskin-2022](https://github.com/AitLilCat-Script/Qb-Banking-Reskin-2022) - Qb-Banking resking Made for QB-Core ![GitHub stars](https://img.shields.io/github/stars/AitLilCat-Script/Qb-Banking-Reskin-2022.svg?style=social&label=Stars&maxAge=2592000)
 - [QB-Cocaintruck](https://github.com/AitLilCat-Script/QB-Cocaintruck) - QB-CocainTruck ![GitHub stars](https://img.shields.io/github/stars/AitLilCat-Script/QB-Cocaintruck.svg?style=social&label=Stars&maxAge=2592000)
 
+### AJMyers1991 <a name="AJMyers1991"></a>
+- [FunctionalGear](https://github.com/AJMyers1991/FunctionalGear) - FunctionalGear for FiveM is a resource that allows certain clothing, props, and other gear items more than cosmetic functionality. ![GitHub stars](https://img.shields.io/github/stars/AJMyers1991/FunctionalGear.svg?style=social&label=Stars&maxAge=2592000)
+
 ### ALFAMAS <a name="ALFAMAS"></a>
 - [qb-multi-css](https://github.com/ALFAMAS/qb-multi-css) - [QBus] qb-multicharacter with qb-spawn (Reworked CSS) ![GitHub stars](https://img.shields.io/github/stars/ALFAMAS/qb-multi-css.svg?style=social&label=Stars&maxAge=2592000)
 - [qbcore-car-music](https://github.com/ALFAMAS/qbcore-car-music) - qbcore-car-music ![GitHub stars](https://img.shields.io/github/stars/ALFAMAS/qbcore-car-music.svg?style=social&label=Stars&maxAge=2592000)
@@ -1699,6 +1702,7 @@ A curated list of FiveM resources
 - [qb-crypto](https://github.com/qbcore-framework/qb-crypto) - Crypto Currency For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/qb-crypto.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-customs](https://github.com/qbcore-framework/qb-customs) - Vehicle Customization For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/qb-customs.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-diving](https://github.com/qbcore-framework/qb-diving) - Diving Script For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/qb-diving.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-docs](https://github.com/qbcore-framework/qb-docs) ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/qb-docs.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-doorlock](https://github.com/qbcore-framework/qb-doorlock) - Doorlock Script For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/qb-doorlock.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-drugs](https://github.com/qbcore-framework/qb-drugs) - Drugs Script For QB-Core :herb: ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/qb-drugs.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-emotes](https://github.com/qbcore-framework/qb-emotes) - Advanced emote menu/commands ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/qb-emotes.svg?style=social&label=Stars&maxAge=2592000)
