@@ -20,7 +20,7 @@ A curated list of FiveM resources
 - [qb-fbi](https://github.com/17Swat09/qb-fbi) - This is the qb-policejob script edited to qb-fbi with the waypoints included. With this script you don't have to break your head searching the internet or buying other similar ones. Enjoy it!!! ![GitHub stars](https://img.shields.io/github/stars/17Swat09/qb-fbi.svg?style=social&label=Stars&maxAge=2592000)
 
 ### 5m1Ly <a name="5m1Ly"></a>
-- [restfx](https://github.com/5m1Ly/restfx) - Easly built restfull apis for you fx server. ![GitHub stars](https://img.shields.io/github/stars/5m1Ly/restfx.svg?style=social&label=Stars&maxAge=2592000)
+- [restfx](https://github.com/5m1Ly/restfx) - A FxServer rest api library including rest api building methods, http request methods & tebex webhook support. ![GitHub stars](https://img.shields.io/github/stars/5m1Ly/restfx.svg?style=social&label=Stars&maxAge=2592000)
 - [SeaQL](https://github.com/5m1Ly/SeaQL) - Optimize your fxserver data traffic with SeaQL's dynamic sql wrapper and data cacher ![GitHub stars](https://img.shields.io/github/stars/5m1Ly/SeaQL.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ActuallyStrez <a name="ActuallyStrez"></a>
@@ -137,6 +137,11 @@ A curated list of FiveM resources
 
 ### bamablood94 <a name="bamablood94"></a>
 - [qb-dmv](https://github.com/bamablood94/qb-dmv) - ESX Dmvschool Converted to QBCore with added details ![GitHub stars](https://img.shields.io/github/stars/bamablood94/qb-dmv.svg?style=social&label=Stars&maxAge=2592000)
+
+### bashenga <a name="bashenga"></a>
+- [polyzonehelper](https://github.com/bashenga/polyzonehelper) ![GitHub stars](https://img.shields.io/github/stars/bashenga/polyzonehelper.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-customs](https://github.com/bashenga/qb-customs) - my qb-customs edit ![GitHub stars](https://img.shields.io/github/stars/bashenga/qb-customs.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-garagemenu](https://github.com/bashenga/qb-garagemenu) ![GitHub stars](https://img.shields.io/github/stars/bashenga/qb-garagemenu.svg?style=social&label=Stars&maxAge=2592000)
 
 ### belgamods <a name="belgamods"></a>
 - [qb-lunapark](https://github.com/belgamods/qb-lunapark) - a simple lunapark script for Qbcore ![GitHub stars](https://img.shields.io/github/stars/belgamods/qb-lunapark.svg?style=social&label=Stars&maxAge=2592000)
@@ -260,6 +265,7 @@ A curated list of FiveM resources
 
 ### Concept-Collective <a name="Concept-Collective"></a>
 - [cc-chat](https://github.com/Concept-Collective/cc-chat) - A chat theme for FiveM ![GitHub stars](https://img.shields.io/github/stars/Concept-Collective/cc-chat.svg?style=social&label=Stars&maxAge=2592000)
+- [cc-rpchat](https://github.com/Concept-Collective/cc-rpchat) - A FiveM RP Chat resource utilising cc-chat. ![GitHub stars](https://img.shields.io/github/stars/Concept-Collective/cc-rpchat.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ConnorTheDev <a name="ConnorTheDev"></a>
 - [QB-Cartheft](https://github.com/ConnorTheDev/QB-Cartheft) - first release, lets see how it goes :) ![GitHub stars](https://img.shields.io/github/stars/ConnorTheDev/QB-Cartheft.svg?style=social&label=Stars&maxAge=2592000)
@@ -910,6 +916,7 @@ A curated list of FiveM resources
 - [jcc-fishing](https://github.com/Jaycc-Was-Taken/jcc-fishing) - Fishing script for the QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/Jaycc-Was-Taken/jcc-fishing.svg?style=social&label=Stars&maxAge=2592000)
 
 ### jaylac2000 <a name="jaylac2000"></a>
+- [Custom-Weapons](https://github.com/jaylac2000/Custom-Weapons) ([Original](https://github.com/NoobySloth/Custom-Weapons) :green_circle: +14 :red_circle: -0</span>) ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/Custom-Weapons.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-eup](https://github.com/jaylac2000/fivem-eup) - whole lot of clothing for fivem off of gta5-mods.com ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/fivem-eup.svg?style=social&label=Stars&maxAge=2592000)
 - [frp_weapondealer](https://github.com/jaylac2000/frp_weapondealer) ([Original](https://github.com/Swompen/frp_weapondealer) :green_circle: +0 :red_circle: -2</span>) ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/frp_weapondealer.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-clearchat](https://github.com/jaylac2000/qb-clearchat) - Clear Chat Script ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/qb-clearchat.svg?style=social&label=Stars&maxAge=2592000)
