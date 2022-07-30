@@ -227,7 +227,7 @@ A curated list of FiveM resources
 - [cad-drugsales](https://github.com/cadburry6969/cad-drugsales) - NPC Drug Sales for QBCore ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-drugsales.svg?style=social&label=Stars&maxAge=2592000)
 - [cad-email](https://github.com/cadburry6969/cad-email) - Email to peoples Discord DM directly from FiveM ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-email.svg?style=social&label=Stars&maxAge=2592000)
 - [cad-garbage](https://github.com/cadburry6969/cad-garbage) - Garbage Job (Waste Collector) for QBCore ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-garbage.svg?style=social&label=Stars&maxAge=2592000)
-- [cad-gundrop](https://github.com/cadburry6969/cad-gundrop) - Gun Air Drop for QBCore ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-gundrop.svg?style=social&label=Stars&maxAge=2592000)
+- [cad-gundrop](https://github.com/cadburry6969/cad-gundrop) - Gun/Item Airdrop [QBCore] ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-gundrop.svg?style=social&label=Stars&maxAge=2592000)
 - [cad-hunting](https://github.com/cadburry6969/cad-hunting) - A Hunting script for QBCore ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-hunting.svg?style=social&label=Stars&maxAge=2592000)
 - [cad-illegaldelivery](https://github.com/cadburry6969/cad-illegaldelivery) - Illegal Deliveries (Drugs, Weapon, etc) ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-illegaldelivery.svg?style=social&label=Stars&maxAge=2592000)
 - [cad-mining](https://github.com/cadburry6969/cad-mining) - A Mining Job for QBus ![GitHub stars](https://img.shields.io/github/stars/cadburry6969/cad-mining.svg?style=social&label=Stars&maxAge=2592000)
@@ -796,6 +796,7 @@ A curated list of FiveM resources
 - [id_deathui](https://github.com/infinitydevelopment14/id_deathui) - This resource, after player's death, turns on the UI that counts down the timer set in the config file. ![GitHub stars](https://img.shields.io/github/stars/infinitydevelopment14/id_deathui.svg?style=social&label=Stars&maxAge=2592000)
 - [id_mainmenu](https://github.com/infinitydevelopment14/id_mainmenu) - Responsive Main Menu that can easily lead players to important server actions. ![GitHub stars](https://img.shields.io/github/stars/infinitydevelopment14/id_mainmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [id_playtimereward](https://github.com/infinitydevelopment14/id_playtimereward) - This resource gives your players vehicle as a reward (can be changed very easily) for playing for X hours (can be set uped in shared/config.lua). ![GitHub stars](https://img.shields.io/github/stars/infinitydevelopment14/id_playtimereward.svg?style=social&label=Stars&maxAge=2592000)
+- [id_warningnotification](https://github.com/infinitydevelopment14/id_warningnotification) - Very simple but useful resource for sending important warning notifications to your server's players. ![GitHub stars](https://img.shields.io/github/stars/infinitydevelopment14/id_warningnotification.svg?style=social&label=Stars&maxAge=2592000)
 
 ### IngPleb <a name="IngPleb"></a>
 - [qb-characterkill](https://github.com/IngPleb/qb-characterkill) - Kill players character kill/delete in-game ![GitHub stars](https://img.shields.io/github/stars/IngPleb/qb-characterkill.svg?style=social&label=Stars&maxAge=2592000)
@@ -2035,7 +2036,7 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +217 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +222 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2265,7 +2266,7 @@ A curated list of FiveM resources
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character) - Character Creation ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Character.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-ClothingStore](https://github.com/VORPCORE/VORP-ClothingStore) - VORP Clothing Store ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-ClothingStore.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Core](https://github.com/VORPCORE/VORP-Core) - From the reinventors of the wheel has come VORP CORE a RP Framework for RedM ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Core.svg?style=social&label=Stars&maxAge=2592000)
-- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -369</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
+- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -370</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Housing](https://github.com/VORPCORE/VORP-Housing) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Housing.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Hunting](https://github.com/VORPCORE/VORP-Hunting) - Selling Animals & Skins script ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Hunting.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Inputs](https://github.com/VORPCORE/VORP-Inputs) - Input UI ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Inputs.svg?style=social&label=Stars&maxAge=2592000)
@@ -2342,6 +2343,7 @@ A curated list of FiveM resources
 ### xThrasherrr <a name="xThrasherrr"></a>
 - [Fivem-Acid-Trip](https://github.com/xThrasherrr/Fivem-Acid-Trip) - Reworked Acid Trip - Original - https://github.com/meta-hub/fivem-acidtrip ![GitHub stars](https://img.shields.io/github/stars/xThrasherrr/Fivem-Acid-Trip.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-recyclejob](https://github.com/xThrasherrr/qb-recyclejob) ![GitHub stars](https://img.shields.io/github/stars/xThrasherrr/qb-recyclejob.svg?style=social&label=Stars&maxAge=2592000)
+- [qbr-pinboard](https://github.com/xThrasherrr/qbr-pinboard) - Converted syn_pinboard to QBR-Core ![GitHub stars](https://img.shields.io/github/stars/xThrasherrr/qbr-pinboard.svg?style=social&label=Stars&maxAge=2592000)
 
 ### xV1ncenTx <a name="xV1ncenTx"></a>
 - [qb-phone](https://github.com/xV1ncenTx/qb-phone) ([Original](https://github.com/qbcore-framework/qb-phone) :green_circle: +0 :red_circle: -7</span>) - Phone Used With QB-Core 📱 ![GitHub stars](https://img.shields.io/github/stars/xV1ncenTx/qb-phone.svg?style=social&label=Stars&maxAge=2592000)
