@@ -138,11 +138,6 @@ A curated list of FiveM resources
 ### bamablood94 <a name="bamablood94"></a>
 - [qb-dmv](https://github.com/bamablood94/qb-dmv) - ESX Dmvschool Converted to QBCore with added details ![GitHub stars](https://img.shields.io/github/stars/bamablood94/qb-dmv.svg?style=social&label=Stars&maxAge=2592000)
 
-### bashenga <a name="bashenga"></a>
-- [polyzonehelper](https://github.com/bashenga/polyzonehelper) ![GitHub stars](https://img.shields.io/github/stars/bashenga/polyzonehelper.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-customs](https://github.com/bashenga/qb-customs) - my qb-customs edit ![GitHub stars](https://img.shields.io/github/stars/bashenga/qb-customs.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-garagemenu](https://github.com/bashenga/qb-garagemenu) ![GitHub stars](https://img.shields.io/github/stars/bashenga/qb-garagemenu.svg?style=social&label=Stars&maxAge=2592000)
-
 ### belgamods <a name="belgamods"></a>
 - [qb-lunapark](https://github.com/belgamods/qb-lunapark) - a simple lunapark script for Qbcore ![GitHub stars](https://img.shields.io/github/stars/belgamods/qb-lunapark.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-mdt](https://github.com/belgamods/qb-mdt) - A mdt for qbus ![GitHub stars](https://img.shields.io/github/stars/belgamods/qb-mdt.svg?style=social&label=Stars&maxAge=2592000)
