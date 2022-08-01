@@ -775,10 +775,6 @@ A curated list of FiveM resources
 - [is-statushud](https://github.com/iLLeniumStudios/is-statushud) - NoPixel inspired Status Hud (Standalone / QBCore / ESX) ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/is-statushud.svg?style=social&label=Stars&maxAge=2592000)
 - [Roda_PauseMenu](https://github.com/iLLeniumStudios/Roda_PauseMenu) ([Original](https://github.com/RodericAguilar/Roda_PauseMenu) :green_circle: +8 :red_circle: -21</span>) - Roda_PauseMenu compatible with qb-core ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/Roda_PauseMenu.svg?style=social&label=Stars&maxAge=2592000)
 
-### illwhyrin <a name="illwhyrin"></a>
-- [qb-hud](https://github.com/illwhyrin/qb-hud) - Player Status HUD Used With QB-Core :heart: :plate_with_cutlery: :shield: ![GitHub stars](https://img.shields.io/github/stars/illwhyrin/qb-hud.svg?style=social&label=Stars&maxAge=2592000)
-- [truck_logistics](https://github.com/illwhyrin/truck_logistics) - Truck Logistic Job for QBCore ![GitHub stars](https://img.shields.io/github/stars/illwhyrin/truck_logistics.svg?style=social&label=Stars&maxAge=2592000)
-
 ### ImpulseFPS <a name="ImpulseFPS"></a>
 - [irp-fuel](https://github.com/ImpulseFPS/irp-fuel) - NoPixel style legacyfuel ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/irp-fuel.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-garages-2](https://github.com/ImpulseFPS/qb-garages-2) ([Original](https://github.com/JustLazzy/qb-garages) :green_circle: +7 :red_circle: -0</span>) - Edited qb-garages using Polyzone ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-garages-2.svg?style=social&label=Stars&maxAge=2592000)
