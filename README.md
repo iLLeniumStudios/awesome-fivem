@@ -365,36 +365,6 @@ A curated list of FiveM resources
 ### DevX32 <a name="DevX32"></a>
 - [DevX-multicharacter](https://github.com/DevX32/DevX-multicharacter) ![GitHub stars](https://img.shields.io/github/stars/DevX32/DevX-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
 
-### Dhruvpamnani <a name="Dhruvpamnani"></a>
-- [dilza_crafting](https://github.com/Dhruvpamnani/dilza_crafting) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/dilza_crafting.svg?style=social&label=Stars&maxAge=2592000)
-- [money-wash-qb-target](https://github.com/Dhruvpamnani/money-wash-qb-target) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/money-wash-qb-target.svg?style=social&label=Stars&maxAge=2592000)
-- [Nopixel-Inspired-Banking](https://github.com/Dhruvpamnani/Nopixel-Inspired-Banking) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/Nopixel-Inspired-Banking.svg?style=social&label=Stars&maxAge=2592000)
-- [osm-farming](https://github.com/Dhruvpamnani/osm-farming) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/osm-farming.svg?style=social&label=Stars&maxAge=2592000)
-- [police-alerts](https://github.com/Dhruvpamnani/police-alerts) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/police-alerts.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-burgershot-qb-menu](https://github.com/Dhruvpamnani/qb-burgershot-qb-menu) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-burgershot-qb-menu.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-carry](https://github.com/Dhruvpamnani/qb-carry) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-carry.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-casinoheist](https://github.com/Dhruvpamnani/qb-casinoheist) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-casinoheist.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-chair-items](https://github.com/Dhruvpamnani/qb-chair-items) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-chair-items.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-core_logohud](https://github.com/Dhruvpamnani/qb-core_logohud) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-core_logohud.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-druglabs](https://github.com/Dhruvpamnani/qb-druglabs) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-druglabs.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-firefighterjob](https://github.com/Dhruvpamnani/qb-firefighterjob) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-firefighterjob.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-gangs-create-gang-in-game](https://github.com/Dhruvpamnani/qb-gangs-create-gang-in-game) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-gangs-create-gang-in-game.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-headbag](https://github.com/Dhruvpamnani/qb-headbag) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-headbag.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-itemdamage](https://github.com/Dhruvpamnani/qb-itemdamage) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-itemdamage.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-k9_ped-clothes](https://github.com/Dhruvpamnani/qb-k9_ped-clothes) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-k9_ped-clothes.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-kleding](https://github.com/Dhruvpamnani/qb-kleding) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-kleding.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-notepad](https://github.com/Dhruvpamnani/qb-notepad) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-notepad.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-scoreboard](https://github.com/Dhruvpamnani/qb-scoreboard) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-scoreboard.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-sheriffjob](https://github.com/Dhruvpamnani/qb-sheriffjob) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-sheriffjob.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-target-examine-vehicle](https://github.com/Dhruvpamnani/qb-target-examine-vehicle) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-target-examine-vehicle.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-uwu](https://github.com/Dhruvpamnani/qb-uwu) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-uwu.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-vehicleshop](https://github.com/Dhruvpamnani/qb-vehicleshop) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-vehicleshop.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-yatchheist](https://github.com/Dhruvpamnani/qb-yatchheist) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/qb-yatchheist.svg?style=social&label=Stars&maxAge=2592000)
-- [QBUS-Nopixel-Hunting](https://github.com/Dhruvpamnani/QBUS-Nopixel-Hunting) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/QBUS-Nopixel-Hunting.svg?style=social&label=Stars&maxAge=2592000)
-- [rockstar-recorder-qb-menu](https://github.com/Dhruvpamnani/rockstar-recorder-qb-menu) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/rockstar-recorder-qb-menu.svg?style=social&label=Stars&maxAge=2592000)
-- [unknown-buyitems](https://github.com/Dhruvpamnani/unknown-buyitems) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/unknown-buyitems.svg?style=social&label=Stars&maxAge=2592000)
-- [vlast-phone](https://github.com/Dhruvpamnani/vlast-phone) ![GitHub stars](https://img.shields.io/github/stars/Dhruvpamnani/vlast-phone.svg?style=social&label=Stars&maxAge=2592000)
-
 ### Disabled-Coding <a name="Disabled-Coding"></a>
 - [dc-adminmenu](https://github.com/Disabled-Coding/dc-adminmenu) - The only admin menu you need when using the QBCore framework ![GitHub stars](https://img.shields.io/github/stars/Disabled-Coding/dc-adminmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [dc-open-houses](https://github.com/Disabled-Coding/dc-open-houses) - This will give you the ability to sell open interior houses to players. ![GitHub stars](https://img.shields.io/github/stars/Disabled-Coding/dc-open-houses.svg?style=social&label=Stars&maxAge=2592000)
@@ -426,13 +396,6 @@ A curated list of FiveM resources
 - [qb-nuclear](https://github.com/DOSE-420/qb-nuclear) ![GitHub stars](https://img.shields.io/github/stars/DOSE-420/qb-nuclear.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-policebadge](https://github.com/DOSE-420/qb-policebadge) ![GitHub stars](https://img.shields.io/github/stars/DOSE-420/qb-policebadge.svg?style=social&label=Stars&maxAge=2592000)
 - [QBCore-Snippets](https://github.com/DOSE-420/QBCore-Snippets) - Detailed tutorial and description of Qbus Framework. ![GitHub stars](https://img.shields.io/github/stars/DOSE-420/QBCore-Snippets.svg?style=social&label=Stars&maxAge=2592000)
-
-### Doxthehuman <a name="Doxthehuman"></a>
-- [qb-smallresources-into-1-lua-file](https://github.com/Doxthehuman/qb-smallresources-into-1-lua-file) ![GitHub stars](https://img.shields.io/github/stars/Doxthehuman/qb-smallresources-into-1-lua-file.svg?style=social&label=Stars&maxAge=2592000)
-- [QBCore-Bobcat-Heist](https://github.com/Doxthehuman/QBCore-Bobcat-Heist) ![GitHub stars](https://img.shields.io/github/stars/Doxthehuman/QBCore-Bobcat-Heist.svg?style=social&label=Stars&maxAge=2592000)
-- [QBCore-Nopixel-Inspired-Police-Garage](https://github.com/Doxthehuman/QBCore-Nopixel-Inspired-Police-Garage) ![GitHub stars](https://img.shields.io/github/stars/Doxthehuman/QBCore-Nopixel-Inspired-Police-Garage.svg?style=social&label=Stars&maxAge=2592000)
-- [QBCore-UTKU-Fleeca-Heist](https://github.com/Doxthehuman/QBCore-UTKU-Fleeca-Heist) - https://forum.cfx.re/t/esx-fleeca-bank-heists/1352598 ![GitHub stars](https://img.shields.io/github/stars/Doxthehuman/QBCore-UTKU-Fleeca-Heist.svg?style=social&label=Stars&maxAge=2592000)
-- [QBUS-Nopixel-Hunting](https://github.com/Doxthehuman/QBUS-Nopixel-Hunting) - Nopixel Hunting Converted To QB ![GitHub stars](https://img.shields.io/github/stars/Doxthehuman/QBUS-Nopixel-Hunting.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Doxy4 <a name="Doxy4"></a>
 - [qb-vehiclecatalogue](https://github.com/Doxy4/qb-vehiclecatalogue) ![GitHub stars](https://img.shields.io/github/stars/Doxy4/qb-vehiclecatalogue.svg?style=social&label=Stars&maxAge=2592000)
