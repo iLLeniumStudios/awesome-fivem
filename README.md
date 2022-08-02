@@ -119,17 +119,6 @@ A curated list of FiveM resources
 - [qb-wipetools](https://github.com/awojnarek/qb-wipetools) - A resource for managing wipes across economies ![GitHub stars](https://img.shields.io/github/stars/awojnarek/qb-wipetools.svg?style=social&label=Stars&maxAge=2592000)
 - [qbcore-db-scripts](https://github.com/awojnarek/qbcore-db-scripts) ![GitHub stars](https://img.shields.io/github/stars/awojnarek/qbcore-db-scripts.svg?style=social&label=Stars&maxAge=2592000)
 
-### AxisGe0 <a name="AxisGe0"></a>
-- [ax-inventory-v6](https://github.com/AxisGe0/ax-inventory-v6) ![GitHub stars](https://img.shields.io/github/stars/AxisGe0/ax-inventory-v6.svg?style=social&label=Stars&maxAge=2592000)
-- [axfw-inventory](https://github.com/AxisGe0/axfw-inventory) ![GitHub stars](https://img.shields.io/github/stars/AxisGe0/axfw-inventory.svg?style=social&label=Stars&maxAge=2592000)
-- [axfw-sitonanyseat](https://github.com/AxisGe0/axfw-sitonanyseat) ![GitHub stars](https://img.shields.io/github/stars/AxisGe0/axfw-sitonanyseat.svg?style=social&label=Stars&maxAge=2592000)
-- [gc-inventory](https://github.com/AxisGe0/gc-inventory) ![GitHub stars](https://img.shields.io/github/stars/AxisGe0/gc-inventory.svg?style=social&label=Stars&maxAge=2592000)
-- [gc-releases-QBUS-](https://github.com/AxisGe0/gc-releases-QBUS-) - Custom/Converted Script For QBUS ![GitHub stars](https://img.shields.io/github/stars/AxisGe0/gc-releases-QBUS-.svg?style=social&label=Stars&maxAge=2592000)
-- [gc_cardealer](https://github.com/AxisGe0/gc_cardealer) - Best Car DealerShip Out There ![GitHub stars](https://img.shields.io/github/stars/AxisGe0/gc_cardealer.svg?style=social&label=Stars&maxAge=2592000)
-- [hud](https://github.com/AxisGe0/hud) - made it because why not ![GitHub stars](https://img.shields.io/github/stars/AxisGe0/hud.svg?style=social&label=Stars&maxAge=2592000)
-- [inventory](https://github.com/AxisGe0/inventory) - Standalone Inventory System for FiveM ![GitHub stars](https://img.shields.io/github/stars/AxisGe0/inventory.svg?style=social&label=Stars&maxAge=2592000)
-- [np-inventoryv3-qbus](https://github.com/AxisGe0/np-inventoryv3-qbus) ![GitHub stars](https://img.shields.io/github/stars/AxisGe0/np-inventoryv3-qbus.svg?style=social&label=Stars&maxAge=2592000)
-
 ### aymannajim <a name="aymannajim"></a>
 - [an_jobBlips](https://github.com/aymannajim/an_jobBlips) - [ESX & QBCore] Create Blips based on Jobs [FiveM] ![GitHub stars](https://img.shields.io/github/stars/aymannajim/an_jobBlips.svg?style=social&label=Stars&maxAge=2592000)
 - [an_progBar](https://github.com/aymannajim/an_progBar) - AN Progress Bar | Just another Free Progress Bar for FiveM ![GitHub stars](https://img.shields.io/github/stars/aymannajim/an_progBar.svg?style=social&label=Stars&maxAge=2592000)
