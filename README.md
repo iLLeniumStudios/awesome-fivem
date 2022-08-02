@@ -905,6 +905,7 @@ A curated list of FiveM resources
 ### Jaycc-Was-Taken <a name="Jaycc-Was-Taken"></a>
 - [jcc-chopshop](https://github.com/Jaycc-Was-Taken/jcc-chopshop) - Chop Shop Script for the QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/Jaycc-Was-Taken/jcc-chopshop.svg?style=social&label=Stars&maxAge=2592000)
 - [jcc-fishing](https://github.com/Jaycc-Was-Taken/jcc-fishing) - Fishing script for the QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/Jaycc-Was-Taken/jcc-fishing.svg?style=social&label=Stars&maxAge=2592000)
+- [liberty-groupjobs](https://github.com/Jaycc-Was-Taken/liberty-groupjobs) ![GitHub stars](https://img.shields.io/github/stars/Jaycc-Was-Taken/liberty-groupjobs.svg?style=social&label=Stars&maxAge=2592000)
 
 ### jaylac2000 <a name="jaylac2000"></a>
 - [Custom-Weapons](https://github.com/jaylac2000/Custom-Weapons) ([Original](https://github.com/NoobySloth/Custom-Weapons) :green_circle: +14 :red_circle: -0</span>) ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/Custom-Weapons.svg?style=social&label=Stars&maxAge=2592000)
@@ -2202,7 +2203,7 @@ A curated list of FiveM resources
 ### trclassic92 <a name="trclassic92"></a>
 - [polmav2](https://github.com/trclassic92/polmav2) - FiveM Buckingham Maverick - 2nd Generation ![GitHub stars](https://img.shields.io/github/stars/trclassic92/polmav2.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-druglabs](https://github.com/trclassic92/qb-druglabs) ([Original](https://github.com/Your1000pa/qb-druglabs) :green_circle: +4 :red_circle: -1</span>) - This is a FORK of lionheart developments outdates drug labs scripts. ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-druglabs.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-pokemontcg](https://github.com/trclassic92/qb-pokemontcg) ([Original](https://github.com/KamuiKody/qb-pokemontcg) :green_circle: +0 :red_circle: -14</span>) ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-pokemontcg.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-pokemontcg](https://github.com/trclassic92/qb-pokemontcg) ([Original](https://github.com/KamuiKody/qb-pokemontcg) :green_circle: +1 :red_circle: -14</span>) ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-pokemontcg.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-radio](https://github.com/trclassic92/qb-radio) - Nopixel Inspired Radio for qb-core ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-radio-v2](https://github.com/trclassic92/qb-radio-v2) - qb-radio nopixel inspired radio v2 (New UI) ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-radio-v2.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-simplefarming](https://github.com/trclassic92/qb-simplefarming) - Farming Script For QBCore ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-simplefarming.svg?style=social&label=Stars&maxAge=2592000)
@@ -2265,7 +2266,7 @@ A curated list of FiveM resources
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character) - Character Creation ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Character.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-ClothingStore](https://github.com/VORPCORE/VORP-ClothingStore) - VORP Clothing Store ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-ClothingStore.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Core](https://github.com/VORPCORE/VORP-Core) - From the reinventors of the wheel has come VORP CORE a RP Framework for RedM ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Core.svg?style=social&label=Stars&maxAge=2592000)
-- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -373</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
+- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -376</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Housing](https://github.com/VORPCORE/VORP-Housing) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Housing.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Hunting](https://github.com/VORPCORE/VORP-Hunting) - Selling Animals & Skins script ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Hunting.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Inputs](https://github.com/VORPCORE/VORP-Inputs) - Input UI ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Inputs.svg?style=social&label=Stars&maxAge=2592000)
