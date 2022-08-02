@@ -249,6 +249,7 @@ A curated list of FiveM resources
 
 ### clementinise <a name="clementinise"></a>
 - [esx_repairkit](https://github.com/clementinise/esx_repairkit) ([Original](https://github.com/jonteohr/esx_repairkit) :green_circle: +2 :red_circle: -61</span>) - RepairKit script for FiveM ESX servers ![GitHub stars](https://img.shields.io/github/stars/clementinise/esx_repairkit.svg?style=social&label=Stars&maxAge=2592000)
+- [fivem-vehicleloader](https://github.com/clementinise/fivem-vehicleloader) - Load the addon vehicles while your player are joining the server (To prevent invisible vehicles) ![GitHub stars](https://img.shields.io/github/stars/clementinise/fivem-vehicleloader.svg?style=social&label=Stars&maxAge=2592000)
 - [kc-tricks](https://github.com/clementinise/kc-tricks) - Tricks resource for FiveM servers ![GitHub stars](https://img.shields.io/github/stars/clementinise/kc-tricks.svg?style=social&label=Stars&maxAge=2592000)
 - [kc-unicorn](https://github.com/clementinise/kc-unicorn) - Bring life & interactions to the Unicorn Club ![GitHub stars](https://img.shields.io/github/stars/clementinise/kc-unicorn.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-lapdance](https://github.com/clementinise/qb-lapdance) - Lapdance resource for FiveM servers ![GitHub stars](https://img.shields.io/github/stars/clementinise/qb-lapdance.svg?style=social&label=Stars&maxAge=2592000)
@@ -326,12 +327,6 @@ A curated list of FiveM resources
 ### DansMatee <a name="DansMatee"></a>
 - [dans_methvans](https://github.com/DansMatee/dans_methvans) - A script made for FiveM ![GitHub stars](https://img.shields.io/github/stars/DansMatee/dans_methvans.svg?style=social&label=Stars&maxAge=2592000)
 - [dans_wiretap](https://github.com/DansMatee/dans_wiretap) ![GitHub stars](https://img.shields.io/github/stars/DansMatee/dans_wiretap.svg?style=social&label=Stars&maxAge=2592000)
-
-### DarkloaderTM <a name="DarkloaderTM"></a>
-- [boosting](https://github.com/DarkloaderTM/boosting) ![GitHub stars](https://img.shields.io/github/stars/DarkloaderTM/boosting.svg?style=social&label=Stars&maxAge=2592000)
-- [hackingminigame](https://github.com/DarkloaderTM/hackingminigame) ![GitHub stars](https://img.shields.io/github/stars/DarkloaderTM/hackingminigame.svg?style=social&label=Stars&maxAge=2592000)
-- [mdt](https://github.com/DarkloaderTM/mdt) ![GitHub stars](https://img.shields.io/github/stars/DarkloaderTM/mdt.svg?style=social&label=Stars&maxAge=2592000)
-- [shotspotter](https://github.com/DarkloaderTM/shotspotter) ![GitHub stars](https://img.shields.io/github/stars/DarkloaderTM/shotspotter.svg?style=social&label=Stars&maxAge=2592000)
 
 ### darktrovx <a name="darktrovx"></a>
 - [devyn-backitems](https://github.com/darktrovx/devyn-backitems) - FiveM Lua Script for displaying items on the players back. ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-backitems.svg?style=social&label=Stars&maxAge=2592000)
@@ -1850,7 +1845,7 @@ A curated list of FiveM resources
 - [ax-inventory](https://github.com/renzuzu/ax-inventory) - ax-inventory is a Inventory system used by the Qbus FiveM Framework. It has custom js and css to give it a new look and feel! ![GitHub stars](https://img.shields.io/github/stars/renzuzu/ax-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [carmap](https://github.com/renzuzu/carmap) ![GitHub stars](https://img.shields.io/github/stars/renzuzu/carmap.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-Civ-Car-Pack](https://github.com/renzuzu/FiveM-Civ-Car-Pack) ([Original](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack) :green_circle: +6 :red_circle: -0</span>) - A big library of civilian cars you can fork or download for your server ![GitHub stars](https://img.shields.io/github/stars/renzuzu/FiveM-Civ-Car-Pack.svg?style=social&label=Stars&maxAge=2592000)
-- [natives](https://github.com/renzuzu/natives) ([Original](https://github.com/citizenfx/natives) :green_circle: +236 :red_circle: -0</span>) - GTA V Natives Documentation ![GitHub stars](https://img.shields.io/github/stars/renzuzu/natives.svg?style=social&label=Stars&maxAge=2592000)
+- [natives](https://github.com/renzuzu/natives) ([Original](https://github.com/citizenfx/natives) :green_circle: +237 :red_circle: -0</span>) - GTA V Natives Documentation ![GitHub stars](https://img.shields.io/github/stars/renzuzu/natives.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_clothes](https://github.com/renzuzu/renzu_clothes) - Fivem Advanced Clotheshop and Wardrobe ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_clothes.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_contextmenu](https://github.com/renzuzu/renzu_contextmenu) - FIVEM - CLEAN CONTEXT MENU for Targeting Purpose ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_contextmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_customs](https://github.com/renzuzu/renzu_customs) - Advanced FIVEM LSCUSTOMS and Mechanic Upgrades ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_customs.svg?style=social&label=Stars&maxAge=2592000)
@@ -2076,7 +2071,7 @@ A curated list of FiveM resources
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -167</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -168</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +1 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
@@ -2192,6 +2187,7 @@ A curated list of FiveM resources
 - [qb-skateboard](https://github.com/TonyCapon3/qb-skateboard) - Skateboard Item For QBCore  ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-skateboard.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-takehostage](https://github.com/TonyCapon3/qb-takehostage) - Renewed  the original takehostage by rubbertoe98 to use qb-cores drawtext, notify and target, thanks to rubbertoe98 for all the original code this is just an edited version! ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qb-takehostage.svg?style=social&label=Stars&maxAge=2592000)
 - [qbcore-drawtext-ui](https://github.com/TonyCapon3/qbcore-drawtext-ui) - css edit for the drawtext qbcore is used with! ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/qbcore-drawtext-ui.svg?style=social&label=Stars&maxAge=2592000)
+- [tc-cokerun](https://github.com/TonyCapon3/tc-cokerun) - Cocaine plane pickup and Cocaine table process for QBCORE ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-cokerun.svg?style=social&label=Stars&maxAge=2592000)
 - [tc-robmeter](https://github.com/TonyCapon3/tc-robmeter) - Parking Meter Robbery Script For QBCORE ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-robmeter.svg?style=social&label=Stars&maxAge=2592000)
 - [tc-tireslash](https://github.com/TonyCapon3/tc-tireslash) - Tire Slashing Script For QBCores ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-tireslash.svg?style=social&label=Stars&maxAge=2592000)
 
