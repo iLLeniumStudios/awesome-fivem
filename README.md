@@ -801,7 +801,6 @@ A curated list of FiveM resources
 
 ### Jakerssss <a name="Jakerssss"></a>
 - [qb-k9](https://github.com/Jakerssss/qb-k9) ([Original](https://github.com/FjamZoo/qb-k9) :green_circle: +0 :red_circle: -11</span>) - K9 Script for QB Core ![GitHub stars](https://img.shields.io/github/stars/Jakerssss/qb-k9.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-spikes](https://github.com/Jakerssss/qb-spikes) - Usable Item Spike Strip ![GitHub stars](https://img.shields.io/github/stars/Jakerssss/qb-spikes.svg?style=social&label=Stars&maxAge=2592000)
 
 ### james12007 <a name="james12007"></a>
 - [qb-hayesjob](https://github.com/james12007/qb-hayesjob) - Simple hayes mechanic job for qbcore framework ![GitHub stars](https://img.shields.io/github/stars/james12007/qb-hayesjob.svg?style=social&label=Stars&maxAge=2592000)
