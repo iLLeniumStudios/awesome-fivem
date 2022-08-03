@@ -180,10 +180,12 @@ A curated list of FiveM resources
 - [esx_sit](https://github.com/boostless/esx_sit) - This is a modified esx_sit using bt-target ![GitHub stars](https://img.shields.io/github/stars/boostless/esx_sit.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Brichka-Dv <a name="Brichka-Dv"></a>
+- [qb-adminmenu](https://github.com/Brichka-Dv/qb-adminmenu) ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-adminmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-apartments](https://github.com/Brichka-Dv/qb-apartments) - Brichka Apartments A script that was programmed with qb-radialmenu ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-apartments.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-clothing](https://github.com/Brichka-Dv/qb-clothing) - Clothing Script Used With QB-Core  ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-clothing.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-garages](https://github.com/Brichka-Dv/qb-garages) - This is a qb-garages script that uses the radialmenu to retrieve and park vehicles. Almost everything is fully customizable to the last bit! ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-garages.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-multicharacter](https://github.com/Brichka-Dv/qb-multicharacter) - qb-multicharacter reprogramming running on QBcore ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-radialmenu](https://github.com/Brichka-Dv/qb-radialmenu) - Brichka Radial Menu Used With QB-Core ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-radialmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-spawn](https://github.com/Brichka-Dv/qb-spawn) - Brichka Spawn Selector for QB-Core ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-spawn.svg?style=social&label=Stars&maxAge=2592000)
 
 ### BryanLTU <a name="BryanLTU"></a>
@@ -247,6 +249,7 @@ A curated list of FiveM resources
 - [cw-prints](https://github.com/Coffeelot/cw-prints) - QB-core based script for making prints ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-prints.svg?style=social&label=Stars&maxAge=2592000)
 - [cw-raidjob](https://github.com/Coffeelot/cw-raidjob) - Easy to use PVE raid for QB-core ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-raidjob.svg?style=social&label=Stars&maxAge=2592000)
 - [cw-trading](https://github.com/Coffeelot/cw-trading) - QB core based script for adding traders ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-trading.svg?style=social&label=Stars&maxAge=2592000)
+- [cw-vending](https://github.com/Coffeelot/cw-vending) - Vending machines scrip for QB-core using QB-target ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-vending.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Concept-Collective <a name="Concept-Collective"></a>
 - [cc-chat](https://github.com/Concept-Collective/cc-chat) - A chat theme for FiveM ![GitHub stars](https://img.shields.io/github/stars/Concept-Collective/cc-chat.svg?style=social&label=Stars&maxAge=2592000)
@@ -411,6 +414,7 @@ A curated list of FiveM resources
 - [BennysV2](https://github.com/EnosInWork/BennysV2) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/BennysV2.svg?style=social&label=Stars&maxAge=2592000)
 - [Boutique-V3](https://github.com/EnosInWork/Boutique-V3) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/Boutique-V3.svg?style=social&label=Stars&maxAge=2592000)
 - [eAmbulance](https://github.com/EnosInWork/eAmbulance) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/eAmbulance.svg?style=social&label=Stars&maxAge=2592000)
+- [eBanque](https://github.com/EnosInWork/eBanque) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/eBanque.svg?style=social&label=Stars&maxAge=2592000)
 - [eDisconnect](https://github.com/EnosInWork/eDisconnect) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/eDisconnect.svg?style=social&label=Stars&maxAge=2592000)
 - [eDoorsBuilder](https://github.com/EnosInWork/eDoorsBuilder) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/eDoorsBuilder.svg?style=social&label=Stars&maxAge=2592000)
 - [eKFC](https://github.com/EnosInWork/eKFC) ![GitHub stars](https://img.shields.io/github/stars/EnosInWork/eKFC.svg?style=social&label=Stars&maxAge=2592000)
@@ -1592,6 +1596,7 @@ A curated list of FiveM resources
 - [Pi-inventory](https://github.com/Project-India/Pi-inventory) - Redesign of qb-inventory ![GitHub stars](https://img.shields.io/github/stars/Project-India/Pi-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [pi-mdt](https://github.com/Project-India/pi-mdt) - Redesign Of ps-mdt ![GitHub stars](https://img.shields.io/github/stars/Project-India/pi-mdt.svg?style=social&label=Stars&maxAge=2592000)
 - [Pi-menu](https://github.com/Project-India/Pi-menu) - Redesign of qb-menu ![GitHub stars](https://img.shields.io/github/stars/Project-India/Pi-menu.svg?style=social&label=Stars&maxAge=2592000)
+- [pi-paanshop](https://github.com/Project-India/pi-paanshop) - Paan Shop Script For QBCore ![GitHub stars](https://img.shields.io/github/stars/Project-India/pi-paanshop.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Project-Sloth <a name="Project-Sloth"></a>
 - [memorygame](https://github.com/Project-Sloth/memorygame) - Thermite memory game inspired by NP. ![GitHub stars](https://img.shields.io/github/stars/Project-Sloth/memorygame.svg?style=social&label=Stars&maxAge=2592000)
@@ -2214,7 +2219,7 @@ A curated list of FiveM resources
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character) - Character Creation ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Character.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-ClothingStore](https://github.com/VORPCORE/VORP-ClothingStore) - VORP Clothing Store ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-ClothingStore.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Core](https://github.com/VORPCORE/VORP-Core) - From the reinventors of the wheel has come VORP CORE a RP Framework for RedM ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Core.svg?style=social&label=Stars&maxAge=2592000)
-- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -376</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
+- [vorp-core-lua](https://github.com/VORPCORE/vorp-core-lua) ([Original](https://github.com/goncalobsccosta/vorp-core-lua) :green_circle: +0 :red_circle: -378</span>) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp-core-lua.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Housing](https://github.com/VORPCORE/VORP-Housing) ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Housing.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Hunting](https://github.com/VORPCORE/VORP-Hunting) - Selling Animals & Skins script ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Hunting.svg?style=social&label=Stars&maxAge=2592000)
 - [VORP-Inputs](https://github.com/VORPCORE/VORP-Inputs) - Input UI ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/VORP-Inputs.svg?style=social&label=Stars&maxAge=2592000)
