@@ -1884,6 +1884,11 @@ A curated list of FiveM resources
 ### Scullyy <a name="Scullyy"></a>
 - [scully_perms](https://github.com/Scullyy/scully_perms) ![GitHub stars](https://img.shields.io/github/stars/Scullyy/scully_perms.svg?style=social&label=Stars&maxAge=2592000)
 
+### Seaqn <a name="Seaqn"></a>
+- [chat](https://github.com/Seaqn/chat) - Chat for FiveM (NoPixel Style) ![GitHub stars](https://img.shields.io/github/stars/Seaqn/chat.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-hud](https://github.com/Seaqn/qb-hud) ![GitHub stars](https://img.shields.io/github/stars/Seaqn/qb-hud.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-inventory](https://github.com/Seaqn/qb-inventory) - Original qb-inventory CSS edit ![GitHub stars](https://img.shields.io/github/stars/Seaqn/qb-inventory.svg?style=social&label=Stars&maxAge=2592000)
+
 ### sgtherbz <a name="sgtherbz"></a>
 - [stolenrims](https://github.com/sgtherbz/stolenrims) - Fivem script for stealing other players custom wheels from vehicles ![GitHub stars](https://img.shields.io/github/stars/sgtherbz/stolenrims.svg?style=social&label=Stars&maxAge=2592000)
 
