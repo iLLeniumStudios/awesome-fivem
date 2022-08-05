@@ -45,7 +45,6 @@ A curated list of FiveM resources
 - [FunctionalGear](https://github.com/AJMyers1991/FunctionalGear) - FunctionalGear for FiveM is a resource that allows certain clothing, props, and other gear items more than cosmetic functionality. ![GitHub stars](https://img.shields.io/github/stars/AJMyers1991/FunctionalGear.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ALFAMAS <a name="ALFAMAS"></a>
-- [qb-multi-css](https://github.com/ALFAMAS/qb-multi-css) - [QBus] qb-multicharacter with qb-spawn (Reworked CSS) ![GitHub stars](https://img.shields.io/github/stars/ALFAMAS/qb-multi-css.svg?style=social&label=Stars&maxAge=2592000)
 - [qbcore-car-music](https://github.com/ALFAMAS/qbcore-car-music) - qbcore-car-music ![GitHub stars](https://img.shields.io/github/stars/ALFAMAS/qbcore-car-music.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Alivemonstor <a name="Alivemonstor"></a>
