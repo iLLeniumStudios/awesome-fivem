@@ -46,6 +46,7 @@ A curated list of FiveM resources
 
 ### ALFAMAS <a name="ALFAMAS"></a>
 - [qbcore-car-music](https://github.com/ALFAMAS/qbcore-car-music) - qbcore-car-music ![GitHub stars](https://img.shields.io/github/stars/ALFAMAS/qbcore-car-music.svg?style=social&label=Stars&maxAge=2592000)
+- [qbcore-multi-css](https://github.com/ALFAMAS/qbcore-multi-css) - qbcore-multi-css ![GitHub stars](https://img.shields.io/github/stars/ALFAMAS/qbcore-multi-css.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Alivemonstor <a name="Alivemonstor"></a>
 - [al-metaldetector](https://github.com/Alivemonstor/al-metaldetector) - A custom metal detector script, with configurable items ![GitHub stars](https://img.shields.io/github/stars/Alivemonstor/al-metaldetector.svg?style=social&label=Stars&maxAge=2592000)
@@ -259,6 +260,7 @@ A curated list of FiveM resources
 - [QB-Cartheft](https://github.com/ConnorTheDev/QB-Cartheft) - first release, lets see how it goes :) ![GitHub stars](https://img.shields.io/github/stars/ConnorTheDev/QB-Cartheft.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Constant-Development <a name="Constant-Development"></a>
+- [cr-grandma](https://github.com/Constant-Development/cr-grandma) - QBCore Based NPC Medical System ![GitHub stars](https://img.shields.io/github/stars/Constant-Development/cr-grandma.svg?style=social&label=Stars&maxAge=2592000)
 - [cr-storeextras](https://github.com/Constant-Development/cr-storeextras) - QBCore Local Store Machine Systems/Functions ![GitHub stars](https://img.shields.io/github/stars/Constant-Development/cr-storeextras.svg?style=social&label=Stars&maxAge=2592000)
 - [cr-talktopeds](https://github.com/Constant-Development/cr-talktopeds) - Have discussions with Peds in FiveM! ![GitHub stars](https://img.shields.io/github/stars/Constant-Development/cr-talktopeds.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-vineyard](https://github.com/Constant-Development/qb-vineyard) - QBCore Vineyard Job "Entire"Rework | FiveM Related Resource ![GitHub stars](https://img.shields.io/github/stars/Constant-Development/qb-vineyard.svg?style=social&label=Stars&maxAge=2592000)
@@ -276,6 +278,7 @@ A curated list of FiveM resources
 - [cr-process](https://github.com/creative2117/cr-process) - An easy to use process script that let's you process a set of items in to another item with an easy to use config for bascilly everything ![GitHub stars](https://img.shields.io/github/stars/creative2117/cr-process.svg?style=social&label=Stars&maxAge=2592000)
 
 ### CrewDevelopement <a name="CrewDevelopement"></a>
+- [crew-vape](https://github.com/CrewDevelopement/crew-vape) - Vaping script for QBCore, ESX Support coming soon.. ![GitHub stars](https://img.shields.io/github/stars/CrewDevelopement/crew-vape.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-goldpan](https://github.com/CrewDevelopement/qb-goldpan) - Gold Panning script for QBCore Framework  ![GitHub stars](https://img.shields.io/github/stars/CrewDevelopement/qb-goldpan.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-sellitems](https://github.com/CrewDevelopement/qb-sellitems) - Selling items script needed for qb-goldpan ![GitHub stars](https://img.shields.io/github/stars/CrewDevelopement/qb-sellitems.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-weedpicking](https://github.com/CrewDevelopement/qb-weedpicking) - Weed Picking script for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/CrewDevelopement/qb-weedpicking.svg?style=social&label=Stars&maxAge=2592000)
@@ -931,7 +934,7 @@ A curated list of FiveM resources
 - [jl-carboost](https://github.com/JustLazzy/jl-carboost) - Fivem car boosting script with laptop ui ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/jl-carboost.svg?style=social&label=Stars&maxAge=2592000)
 - [lj-inventory](https://github.com/JustLazzy/lj-inventory) ([Original](https://github.com/loljoshie/lj-inventory) :green_circle: +21 :red_circle: -7</span>) ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/lj-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-garages](https://github.com/JustLazzy/qb-garages) - Edited qb-garages using Polyzone ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/qb-garages.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-houses](https://github.com/JustLazzy/qb-houses) ([Original](https://github.com/qbcore-framework/qb-houses) :green_circle: +44 :red_circle: -41</span>) - Housing and Furniture Script Used With QB-Core 🏠 :chair: ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/qb-houses.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-houses](https://github.com/JustLazzy/qb-houses) ([Original](https://github.com/qbcore-framework/qb-houses) :green_circle: +50 :red_circle: -41</span>) - Housing and Furniture Script Used With QB-Core 🏠 :chair: ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/qb-houses.svg?style=social&label=Stars&maxAge=2592000)
 
 ### JZSandbox <a name="JZSandbox"></a>
 - [jerzys_billing](https://github.com/JZSandbox/jerzys_billing) - Billing System for QB-Core ![GitHub stars](https://img.shields.io/github/stars/JZSandbox/jerzys_billing.svg?style=social&label=Stars&maxAge=2592000)
@@ -1335,7 +1338,7 @@ A curated list of FiveM resources
 ### Musiker15 <a name="Musiker15"></a>
 - [discord_rich_presence](https://github.com/Musiker15/discord_rich_presence) - Shows somthing about your FiveM Server in Discord ![GitHub stars](https://img.shields.io/github/stars/Musiker15/discord_rich_presence.svg?style=social&label=Stars&maxAge=2592000)
 - [Einreise](https://github.com/Musiker15/Einreise) - FiveM Script - Craniax Einreise edited by Musiker15 ![GitHub stars](https://img.shields.io/github/stars/Musiker15/Einreise.svg?style=social&label=Stars&maxAge=2592000)
-- [msk_backpack](https://github.com/Musiker15/msk_backpack) - FiveM Script - Backpack Plugins for Chezza Inventory ![GitHub stars](https://img.shields.io/github/stars/Musiker15/msk_backpack.svg?style=social&label=Stars&maxAge=2592000)
+- [msk_backpack](https://github.com/Musiker15/msk_backpack) - FiveM Script - Multiple Backpack Item ![GitHub stars](https://img.shields.io/github/stars/Musiker15/msk_backpack.svg?style=social&label=Stars&maxAge=2592000)
 - [msk_enginetoggle](https://github.com/Musiker15/msk_enginetoggle) - FiveM Script - Vehicle EngineToggle | Keeps the engine running if you leave the vehicle without turning the engine off ![GitHub stars](https://img.shields.io/github/stars/Musiker15/msk_enginetoggle.svg?style=social&label=Stars&maxAge=2592000)
 - [msk_secretblips](https://github.com/Musiker15/msk_secretblips) - FiveM Script - Make Blips visible with an Item ![GitHub stars](https://img.shields.io/github/stars/Musiker15/msk_secretblips.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2037,7 +2040,7 @@ A curated list of FiveM resources
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -175</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -177</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +1 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
