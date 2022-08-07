@@ -36,6 +36,8 @@ users:
   - name: loljoshie
   - name: project-codex
   - name: 5m1Ly
+    excludeRepos:
+      - SeaQL
   - name: RodericAguilar
   - name: hoangducdt
   - name: vCodeScripts
