@@ -21,7 +21,6 @@ A curated list of FiveM resources
 
 ### 5m1Ly <a name="5m1Ly"></a>
 - [restfx](https://github.com/5m1Ly/restfx) - A FxServer rest api library including rest api building methods, http request methods & tebex webhook support. ![GitHub stars](https://img.shields.io/github/stars/5m1Ly/restfx.svg?style=social&label=Stars&maxAge=2592000)
-- [SeaQL](https://github.com/5m1Ly/SeaQL) - Optimize your fxserver data traffic with SeaQL's dynamic sql wrapper and data cacher ![GitHub stars](https://img.shields.io/github/stars/5m1Ly/SeaQL.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ActuallyStrez <a name="ActuallyStrez"></a>
 - [qb-tsunami](https://github.com/ActuallyStrez/qb-tsunami) - QBCore Emergency Alerts Email ![GitHub stars](https://img.shields.io/github/stars/ActuallyStrez/qb-tsunami.svg?style=social&label=Stars&maxAge=2592000)
@@ -1161,6 +1160,7 @@ A curated list of FiveM resources
 
 ### Marttins011 <a name="Marttins011"></a>
 - [chat](https://github.com/Marttins011/chat) - QBCore chat design ![GitHub stars](https://img.shields.io/github/stars/Marttins011/chat.svg?style=social&label=Stars&maxAge=2592000)
+- [Landing-Page](https://github.com/Marttins011/Landing-Page) ![GitHub stars](https://img.shields.io/github/stars/Marttins011/Landing-Page.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-ammurobbery](https://github.com/Marttins011/mt-ammurobbery) - QBCore Ammunation Robbery using qb-target, qb-menu and qb-lock ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-ammurobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-atmrobbery](https://github.com/Marttins011/mt-atmrobbery) - Simple atm robbery for QBCore fivem using qb-target and qb-menu, enjoy :) ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-beanmachine](https://github.com/Marttins011/mt-beanmachine) - Bean Machine Job for gabz bean machine map for QBCore. ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-beanmachine.svg?style=social&label=Stars&maxAge=2592000)
@@ -1181,6 +1181,7 @@ A curated list of FiveM resources
 - [mt-hunting](https://github.com/Marttins011/mt-hunting) - Simple hunting script for QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-hunting.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-karting](https://github.com/Marttins011/mt-karting) - Simple karting tickets system for QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-karting.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-labsrobbery](https://github.com/Marttins011/mt-labsrobbery) - Human Labs Robbery for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-labsrobbery.svg?style=social&label=Stars&maxAge=2592000)
+- [mt-luckycard](https://github.com/Marttins011/mt-luckycard) - Simple lucky card script for QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-luckycard.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-lumberjack](https://github.com/Marttins011/mt-lumberjack) - QBCore lumberjack job  ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-lumberjack.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-methlabs](https://github.com/Marttins011/mt-methlabs) - Meth Labs script for QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-methlabs.svg?style=social&label=Stars&maxAge=2592000)
 - [mt-mining](https://github.com/Marttins011/mt-mining) - Mining job for QBCore using qb-target, qb-menu and qb-lock! ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-mining.svg?style=social&label=Stars&maxAge=2592000)
@@ -1200,11 +1201,13 @@ A curated list of FiveM resources
 - [mt-weedruns](https://github.com/Marttins011/mt-weedruns) - Weed Runs script for QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/mt-weedruns.svg?style=social&label=Stars&maxAge=2592000)
 - [PAINTBALL-WEAPON](https://github.com/Marttins011/PAINTBALL-WEAPON) - Addon paintball weapon to use with mt-paintball to QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/PAINTBALL-WEAPON.svg?style=social&label=Stars&maxAge=2592000)
 - [progressbar](https://github.com/Marttins011/progressbar) - Edited QBCore progressbar design  ![GitHub stars](https://img.shields.io/github/stars/Marttins011/progressbar.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-hud](https://github.com/Marttins011/qb-hud) ([Original](https://github.com/qbcore-framework/qb-hud) :green_circle: +0 :red_circle: -8</span>) - Player HUD System ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-hud.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-input](https://github.com/Marttins011/qb-input) - QBCore input new design ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-input.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-inventory](https://github.com/Marttins011/qb-inventory) - LJ Inventory design edited QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-menu](https://github.com/Marttins011/qb-menu) - Reworked design of qb-menu from qbcore framework ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-menu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-notify](https://github.com/Marttins011/qb-notify) - Edited notify for QBCore ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-notify.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-phone](https://github.com/Marttins011/qb-phone) - Edited qb-phone design ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-phone.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-radialmenu](https://github.com/Marttins011/qb-radialmenu) ([Original](https://github.com/qbcore-framework/qb-radialmenu) :green_circle: +29 :red_circle: -6</span>) - Radial Menu Used With QB-Core :arrows_counterclockwise: ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-radialmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-target](https://github.com/Marttins011/qb-target) - Edited QBCore target design ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-target.svg?style=social&label=Stars&maxAge=2592000)
 
 ### matetv <a name="matetv"></a>
@@ -2039,10 +2042,11 @@ A curated list of FiveM resources
 ### TayMcKenzieNZ <a name="TayMcKenzieNZ"></a>
 - [addonsfordpemotes](https://github.com/TayMcKenzieNZ/addonsfordpemotes) - Optional Add-Ons For DPEmotes ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/addonsfordpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [ArcadeIPL](https://github.com/TayMcKenzieNZ/ArcadeIPL) - Loads the Arcade interior into FiveM. Requires gamebuild 2189 or higher ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/ArcadeIPL.svg?style=social&label=Stars&maxAge=2592000)
+- [bob74_ipl](https://github.com/TayMcKenzieNZ/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +0 :red_circle: -14</span>) - Fix holes and customize the map - The Criminal Enterprises DLC ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -177</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -180</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +1 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
