@@ -201,6 +201,7 @@ A curated list of FiveM resources
 ### Bunny5578 <a name="Bunny5578"></a>
 - [Bunnys-PrideMonthYMAP](https://github.com/Bunny5578/Bunnys-PrideMonthYMAP) - Working on my first ymap thought I would make a pride month ymap like nopixels for free because in my opinion this should be free for everyone any suggestions I should add to the ymap please dm me ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/Bunnys-PrideMonthYMAP.svg?style=social&label=Stars&maxAge=2592000)
 - [Katana-Prop](https://github.com/Bunny5578/Katana-Prop) - nopixel inspired katana sheath ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/Katana-Prop.svg?style=social&label=Stars&maxAge=2592000)
+- [LapdCarPack](https://github.com/Bunny5578/LapdCarPack) - this is a work in progress lapd/nopixel inspired car pack i will be updating this everyday that i can ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/LapdCarPack.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-smallresources-edit](https://github.com/Bunny5578/qb-smallresources-edit) ([Original](https://github.com/qbcore-framework/qb-smallresources) :green_circle: +0 :red_circle: -2</span>) - A compilation of small resources combined into one ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-smallresources-edit.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-taserammo](https://github.com/Bunny5578/qb-taserammo) - NoPixel Inspired Taser cartridges just a little taser ammo snippet me and a couple people in the qbcore discord fixed up and made it work for qbcore ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-taserammo.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-wheelchair](https://github.com/Bunny5578/qb-wheelchair) - NoPixel inspired wheelchair script for qbcore - i am not the original creator of this script all i did was update it and added a item in the readme and added the new qbcore exports credits to - єѕтяєℓℓιтα ♥#4558 i couldnt find there github  ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-wheelchair.svg?style=social&label=Stars&maxAge=2592000)
@@ -333,6 +334,8 @@ A curated list of FiveM resources
 - [devyn-dj](https://github.com/darktrovx/devyn-dj) ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-dj.svg?style=social&label=Stars&maxAge=2592000)
 - [devyn-laundry](https://github.com/darktrovx/devyn-laundry) ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-laundry.svg?style=social&label=Stars&maxAge=2592000)
 - [devyn-sanitation](https://github.com/darktrovx/devyn-sanitation) ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-sanitation.svg?style=social&label=Stars&maxAge=2592000)
+- [devyn-scanner](https://github.com/darktrovx/devyn-scanner) ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-scanner.svg?style=social&label=Stars&maxAge=2592000)
+- [devyn-tires](https://github.com/darktrovx/devyn-tires) ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-tires.svg?style=social&label=Stars&maxAge=2592000)
 - [devyn-voting](https://github.com/darktrovx/devyn-voting) ![GitHub stars](https://img.shields.io/github/stars/darktrovx/devyn-voting.svg?style=social&label=Stars&maxAge=2592000)
 
 ### davidxd33 <a name="davidxd33"></a>
@@ -1809,6 +1812,7 @@ A curated list of FiveM resources
 ### Renewed-Scripts <a name="Renewed-Scripts"></a>
 - [qb-menu](https://github.com/Renewed-Scripts/qb-menu) ([Original](https://github.com/qbcore-framework/qb-menu) :green_circle: +12 :red_circle: -13</span>) - NP Inspired qb-menu ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/qb-menu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-target](https://github.com/Renewed-Scripts/qb-target) ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/qb-target.svg?style=social&label=Stars&maxAge=2592000)
+- [Renewed-Mining](https://github.com/Renewed-Scripts/Renewed-Mining) ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/Renewed-Mining.svg?style=social&label=Stars&maxAge=2592000)
 
 ### renzuzu <a name="renzuzu"></a>
 - [1000fps](https://github.com/renzuzu/1000fps) - Enable 1000FPS in FIvem ![GitHub stars](https://img.shields.io/github/stars/renzuzu/1000fps.svg?style=social&label=Stars&maxAge=2592000)
@@ -2006,7 +2010,7 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +224 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +228 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2316,7 +2320,6 @@ A curated list of FiveM resources
 ### xThrasherrr <a name="xThrasherrr"></a>
 - [Fivem-Acid-Trip](https://github.com/xThrasherrr/Fivem-Acid-Trip) - Reworked Acid Trip - Original - https://github.com/meta-hub/fivem-acidtrip ![GitHub stars](https://img.shields.io/github/stars/xThrasherrr/Fivem-Acid-Trip.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-recyclejob](https://github.com/xThrasherrr/qb-recyclejob) ![GitHub stars](https://img.shields.io/github/stars/xThrasherrr/qb-recyclejob.svg?style=social&label=Stars&maxAge=2592000)
-- [qbr-pinboard](https://github.com/xThrasherrr/qbr-pinboard) - Converted syn_pinboard to QBR-Core ![GitHub stars](https://img.shields.io/github/stars/xThrasherrr/qbr-pinboard.svg?style=social&label=Stars&maxAge=2592000)
 
 ### xV1ncenTx <a name="xV1ncenTx"></a>
 - [qb-phone](https://github.com/xV1ncenTx/qb-phone) ([Original](https://github.com/qbcore-framework/qb-phone) :green_circle: +0 :red_circle: -7</span>) - Phone Used With QB-Core 📱 ![GitHub stars](https://img.shields.io/github/stars/xV1ncenTx/qb-phone.svg?style=social&label=Stars&maxAge=2592000)
