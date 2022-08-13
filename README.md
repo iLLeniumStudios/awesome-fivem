@@ -42,6 +42,7 @@ A curated list of FiveM resources
 
 ### AJMyers1991 <a name="AJMyers1991"></a>
 - [FunctionalGear](https://github.com/AJMyers1991/FunctionalGear) - FunctionalGear for FiveM is a resource that allows certain clothing, props, and other gear items more than cosmetic functionality. ![GitHub stars](https://img.shields.io/github/stars/AJMyers1991/FunctionalGear.svg?style=social&label=Stars&maxAge=2592000)
+- [npcspawner](https://github.com/AJMyers1991/npcspawner) - A configurable resource to spawn NPC peds in a specific locations at boot.  You can also specify relationships, armament, godmode, tasks, and more. ![GitHub stars](https://img.shields.io/github/stars/AJMyers1991/npcspawner.svg?style=social&label=Stars&maxAge=2592000)
 - [towhelper](https://github.com/AJMyers1991/towhelper) - A simple small script to help with some towing funcitonality in fivem. ![GitHub stars](https://img.shields.io/github/stars/AJMyers1991/towhelper.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ALFAMAS <a name="ALFAMAS"></a>
@@ -151,6 +152,7 @@ A curated list of FiveM resources
 - [BetterRecoil](https://github.com/Blumlaut/BetterRecoil) - better 3rd person recoil for FiveM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/BetterRecoil.svg?style=social&label=Stars&maxAge=2592000)
 - [crouch-n-prone](https://github.com/Blumlaut/crouch-n-prone) - Crouch'n Prone - FiveM Resource ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/crouch-n-prone.svg?style=social&label=Stars&maxAge=2592000)
 - [EasyAdmin](https://github.com/Blumlaut/EasyAdmin) - Admin Menu for FiveM and RedM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/EasyAdmin.svg?style=social&label=Stars&maxAge=2592000)
+- [EasyAdmin-docs](https://github.com/Blumlaut/EasyAdmin-docs) - Docs for EasyAdmin ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/EasyAdmin-docs.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-DriftCounter](https://github.com/Blumlaut/FiveM-DriftCounter) ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-DriftCounter.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-Handling-Editor-Example](https://github.com/Blumlaut/FiveM-Handling-Editor-Example) - an example for a handling editor in FiveM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-Handling-Editor-Example.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-KOTH](https://github.com/Blumlaut/FiveM-KOTH) - Arma-Inspired KOTH Gamemode for FiveM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-KOTH.svg?style=social&label=Stars&maxAge=2592000)
@@ -804,7 +806,7 @@ A curated list of FiveM resources
 - [car-pack-template](https://github.com/izMystic/car-pack-template) ![GitHub stars](https://img.shields.io/github/stars/izMystic/car-pack-template.svg?style=social&label=Stars&maxAge=2592000)
 - [mystic-hud](https://github.com/izMystic/mystic-hud) ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-hud.svg?style=social&label=Stars&maxAge=2592000)
 - [mystic-notify](https://github.com/izMystic/mystic-notify) - A standalone FiveM notification resource ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-notify.svg?style=social&label=Stars&maxAge=2592000)
-- [mystic-speedlimit](https://github.com/izMystic/mystic-speedlimit) ([Original](https://github.com/thelindat/Posted-Speedlimit) :green_circle: +0 :red_circle: -13</span>) ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-speedlimit.svg?style=social&label=Stars&maxAge=2592000)
+- [mystic-speedlimit](https://github.com/izMystic/mystic-speedlimit) ([Original](https://github.com/thelindat/Posted-Speedlimit) :green_circle: +0 :red_circle: -14</span>) ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-speedlimit.svg?style=social&label=Stars&maxAge=2592000)
 
 ### jaimeadf <a name="jaimeadf"></a>
 - [discord-screenshot](https://github.com/jaimeadf/discord-screenshot) - A resource for FiveM that captures the screen of a player and uploads it to a discord webhook. ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/discord-screenshot.svg?style=social&label=Stars&maxAge=2592000)
@@ -1055,7 +1057,7 @@ A curated list of FiveM resources
 - [unik-moneywash](https://github.com/Liridon69/unik-moneywash) ![GitHub stars](https://img.shields.io/github/stars/Liridon69/unik-moneywash.svg?style=social&label=Stars&maxAge=2592000)
 
 ### llbooya <a name="llbooya"></a>
-- [qb-phone-npstyle](https://github.com/llbooya/qb-phone-npstyle) - NP style edits and additionals for qb-phone, help from a few community members. NOT PROVIDING SUPPORT ![GitHub stars](https://img.shields.io/github/stars/llbooya/qb-phone-npstyle.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-phone-npstyle](https://github.com/llbooya/qb-phone-npstyle) - NP style edits and additionals for qb-phone, originally mostly done by AmirExpert, help from a few community members. NOT PROVIDING SUPPORT ![GitHub stars](https://img.shields.io/github/stars/llbooya/qb-phone-npstyle.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-policerepair-swfttonygaveperms](https://github.com/llbooya/qb-policerepair-swfttonygaveperms) - Repair Station script written by SwftTony#8720 I did no edits but he gave permission to upload and share. ![GitHub stars](https://img.shields.io/github/stars/llbooya/qb-policerepair-swfttonygaveperms.svg?style=social&label=Stars&maxAge=2592000)
 
 ### loaf-scripts <a name="loaf-scripts"></a>
@@ -1440,6 +1442,7 @@ A curated list of FiveM resources
 ### NImaism <a name="NImaism"></a>
 - [FiveM-Discord-AdministrationPanel](https://github.com/NImaism/FiveM-Discord-AdministrationPanel) - Administration Panel for Control FiveM Servers From Discord ![GitHub stars](https://img.shields.io/github/stars/NImaism/FiveM-Discord-AdministrationPanel.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM_BanSystem](https://github.com/NImaism/FiveM_BanSystem) - Ban System For Fivem By NImaism ![GitHub stars](https://img.shields.io/github/stars/NImaism/FiveM_BanSystem.svg?style=social&label=Stars&maxAge=2592000)
+- [UrlShortener](https://github.com/NImaism/UrlShortener) - This is an Url Shortener API built with Gin, MongoDb, Jwt  ![GitHub stars](https://img.shields.io/github/stars/NImaism/UrlShortener.svg?style=social&label=Stars&maxAge=2592000)
 
 ### NNakreSS <a name="NNakreSS"></a>
 - [ObjeSpawns](https://github.com/NNakreSS/ObjeSpawns) - Authorized people open the user interface with the command and spawn and delete the object they want. ![GitHub stars](https://img.shields.io/github/stars/NNakreSS/ObjeSpawns.svg?style=social&label=Stars&maxAge=2592000)
@@ -2048,7 +2051,7 @@ A curated list of FiveM resources
 ### TayMcKenzieNZ <a name="TayMcKenzieNZ"></a>
 - [addonsfordpemotes](https://github.com/TayMcKenzieNZ/addonsfordpemotes) - Optional Add-Ons For DPEmotes ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/addonsfordpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [ArcadeIPL](https://github.com/TayMcKenzieNZ/ArcadeIPL) - Loads the Arcade interior into FiveM. Requires gamebuild 2189 or higher ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/ArcadeIPL.svg?style=social&label=Stars&maxAge=2592000)
-- [bob74_ipl](https://github.com/TayMcKenzieNZ/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +0 :red_circle: -14</span>) - Fix holes and customize the map - The Criminal Enterprises DLC ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
+- [bob74_ipl](https://github.com/TayMcKenzieNZ/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +0 :red_circle: -15</span>) - Fix holes and customize the map - The Criminal Enterprises DLC ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
@@ -2173,6 +2176,9 @@ A curated list of FiveM resources
 - [tc-robmeter](https://github.com/TonyCapon3/tc-robmeter) - Parking Meter Robbery Script For QBCORE ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-robmeter.svg?style=social&label=Stars&maxAge=2592000)
 - [tc-tireslash](https://github.com/TonyCapon3/tc-tireslash) - Tire Slashing Script For QBCores ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-tireslash.svg?style=social&label=Stars&maxAge=2592000)
 
+### TradieKM <a name="TradieKM"></a>
+- [td-jumpscare](https://github.com/TradieKM/td-jumpscare) - Jumpscare Script for QBCore :) ![GitHub stars](https://img.shields.io/github/stars/TradieKM/td-jumpscare.svg?style=social&label=Stars&maxAge=2592000)
+
 ### trainordevs <a name="trainordevs"></a>
 - [linden_outlawalert](https://github.com/trainordevs/linden_outlawalert) ([Original](https://github.com/TheHorizonDev/linden_outlawalert) :green_circle: +0 :red_circle: -1</span>) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/trainordevs/linden_outlawalert.svg?style=social&label=Stars&maxAge=2592000)
 - [QBCore-Resource-Starter](https://github.com/trainordevs/QBCore-Resource-Starter) - A simple program written in C# to assist in quickly creating the baseline for any FiveM/QBCore script! ![GitHub stars](https://img.shields.io/github/stars/trainordevs/QBCore-Resource-Starter.svg?style=social&label=Stars&maxAge=2592000)
@@ -2180,7 +2186,7 @@ A curated list of FiveM resources
 
 ### trclassic92 <a name="trclassic92"></a>
 - [polmav2](https://github.com/trclassic92/polmav2) - FiveM Buckingham Maverick - 2nd Generation ![GitHub stars](https://img.shields.io/github/stars/trclassic92/polmav2.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-pokemontcg](https://github.com/trclassic92/qb-pokemontcg) ([Original](https://github.com/KamuiKody/qb-pokemontcg) :green_circle: +1 :red_circle: -14</span>) ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-pokemontcg.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-pokemontcg](https://github.com/trclassic92/qb-pokemontcg) ([Original](https://github.com/KamuiKody/qb-pokemontcg) :green_circle: +3 :red_circle: -14</span>) ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-pokemontcg.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-radio](https://github.com/trclassic92/qb-radio) - Nopixel Inspired Radio for qb-core ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-radio-v2](https://github.com/trclassic92/qb-radio-v2) - qb-radio nopixel inspired radio v2 (New UI) ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-radio-v2.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-simplefarming](https://github.com/trclassic92/qb-simplefarming) - Farming Script For QBCore ![GitHub stars](https://img.shields.io/github/stars/trclassic92/qb-simplefarming.svg?style=social&label=Stars&maxAge=2592000)
