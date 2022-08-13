@@ -1442,7 +1442,6 @@ A curated list of FiveM resources
 ### NImaism <a name="NImaism"></a>
 - [FiveM-Discord-AdministrationPanel](https://github.com/NImaism/FiveM-Discord-AdministrationPanel) - Administration Panel for Control FiveM Servers From Discord ![GitHub stars](https://img.shields.io/github/stars/NImaism/FiveM-Discord-AdministrationPanel.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM_BanSystem](https://github.com/NImaism/FiveM_BanSystem) - Ban System For Fivem By NImaism ![GitHub stars](https://img.shields.io/github/stars/NImaism/FiveM_BanSystem.svg?style=social&label=Stars&maxAge=2592000)
-- [UrlShortener](https://github.com/NImaism/UrlShortener) - This is an Url Shortener API built with Gin, MongoDb, Jwt  ![GitHub stars](https://img.shields.io/github/stars/NImaism/UrlShortener.svg?style=social&label=Stars&maxAge=2592000)
 
 ### NNakreSS <a name="NNakreSS"></a>
 - [ObjeSpawns](https://github.com/NNakreSS/ObjeSpawns) - Authorized people open the user interface with the command and spawn and delete the object they want. ![GitHub stars](https://img.shields.io/github/stars/NNakreSS/ObjeSpawns.svg?style=social&label=Stars&maxAge=2592000)
