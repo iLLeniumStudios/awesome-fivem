@@ -294,6 +294,8 @@ users:
   - name: kingkongNutSack
   #- name: DarkloaderTM
   - name: NImaism
+    excludeRepos:
+    - UrlShortener
   - name: czsquizer
   - name: AvarianKnight
   - name: ThymonA
