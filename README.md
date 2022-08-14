@@ -369,6 +369,7 @@ A curated list of FiveM resources
 - [RPChat](https://github.com/DevLanceGood/RPChat) - A Standalone Proximity Roleplaying Chat Resource. ![GitHub stars](https://img.shields.io/github/stars/DevLanceGood/RPChat.svg?style=social&label=Stars&maxAge=2592000)
 
 ### DevX32 <a name="DevX32"></a>
+- [DevX-consumables](https://github.com/DevX32/DevX-consumables) - DevX-consumables For QBCore ![GitHub stars](https://img.shields.io/github/stars/DevX32/DevX-consumables.svg?style=social&label=Stars&maxAge=2592000)
 - [DevX-multicharacter](https://github.com/DevX32/DevX-multicharacter) ![GitHub stars](https://img.shields.io/github/stars/DevX32/DevX-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Disabled-Coding <a name="Disabled-Coding"></a>
@@ -1649,7 +1650,7 @@ A curated list of FiveM resources
 - [tunerInterior](https://github.com/pushkart2/tunerInterior) - Test the interiors for new tuner dlc ![GitHub stars](https://img.shields.io/github/stars/pushkart2/tunerInterior.svg?style=social&label=Stars&maxAge=2592000)
 
 ### qbcore-framework <a name="qbcore-framework"></a>
-- [bob74_ipl](https://github.com/qbcore-framework/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +16 :red_circle: -4</span>) - Fix holes and customize the map ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
+- [bob74_ipl](https://github.com/qbcore-framework/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +18 :red_circle: -4</span>) - Fix holes and customize the map ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
 - [connectqueue](https://github.com/qbcore-framework/connectqueue) ([Original](https://github.com/Nick78111/ConnectQueue) :green_circle: +0 :red_circle: -11</span>) - Dependency For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/connectqueue.svg?style=social&label=Stars&maxAge=2592000)
 - [dealer_map](https://github.com/qbcore-framework/dealer_map) - Vehicle shop used with qb-vehicleshop ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/dealer_map.svg?style=social&label=Stars&maxAge=2592000)
 - [dpemotes](https://github.com/qbcore-framework/dpemotes) ([Original](https://github.com/andristum/dpemotes) :green_circle: +0 :red_circle: -54</span>) - Emotes / Animations for fiveM with Prop support. ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
@@ -2043,6 +2044,7 @@ A curated list of FiveM resources
 - [swkeep-tablet](https://github.com/swkeep/swkeep-tablet) ![GitHub stars](https://img.shields.io/github/stars/swkeep/swkeep-tablet.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TasoOneAsia <a name="TasoOneAsia"></a>
+- [chip-fivem-banking](https://github.com/TasoOneAsia/chip-fivem-banking) ([Original](https://github.com/murayuki/chip-fivem-banking) :green_circle: +0 :red_circle: -7</span>) - A ReactJS bank system built for FiveM, using ESX. ![GitHub stars](https://img.shields.io/github/stars/TasoOneAsia/chip-fivem-banking.svg?style=social&label=Stars&maxAge=2592000)
 - [esx-react](https://github.com/TasoOneAsia/esx-react) - A template for NUI development in FiveM using React, used by the ESX Team for modules (and also the internal esx-cli) ![GitHub stars](https://img.shields.io/github/stars/TasoOneAsia/esx-react.svg?style=social&label=Stars&maxAge=2592000)
 - [t-core](https://github.com/TasoOneAsia/t-core) ![GitHub stars](https://img.shields.io/github/stars/TasoOneAsia/t-core.svg?style=social&label=Stars&maxAge=2592000)
 - [t-notify](https://github.com/TasoOneAsia/t-notify) - A FiveM wrapper for the SimpleNotification library. Click the link below for documentation. ![GitHub stars](https://img.shields.io/github/stars/TasoOneAsia/t-notify.svg?style=social&label=Stars&maxAge=2592000)
@@ -2050,11 +2052,11 @@ A curated list of FiveM resources
 ### TayMcKenzieNZ <a name="TayMcKenzieNZ"></a>
 - [addonsfordpemotes](https://github.com/TayMcKenzieNZ/addonsfordpemotes) - Optional Add-Ons For DPEmotes ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/addonsfordpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [ArcadeIPL](https://github.com/TayMcKenzieNZ/ArcadeIPL) - Loads the Arcade interior into FiveM. Requires gamebuild 2189 or higher ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/ArcadeIPL.svg?style=social&label=Stars&maxAge=2592000)
-- [bob74_ipl](https://github.com/TayMcKenzieNZ/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +0 :red_circle: -15</span>) - Fix holes and customize the map - The Criminal Enterprises DLC ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
+- [bob74_ipl](https://github.com/TayMcKenzieNZ/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +2 :red_circle: -15</span>) - Fix holes and customize the map - The Criminal Enterprises DLC ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -183</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -185</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +1 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
@@ -2174,9 +2176,6 @@ A curated list of FiveM resources
 - [tc-cokerun](https://github.com/TonyCapon3/tc-cokerun) - Cocaine plane pickup and Cocaine table process for QBCORE ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-cokerun.svg?style=social&label=Stars&maxAge=2592000)
 - [tc-robmeter](https://github.com/TonyCapon3/tc-robmeter) - Parking Meter Robbery Script For QBCORE ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-robmeter.svg?style=social&label=Stars&maxAge=2592000)
 - [tc-tireslash](https://github.com/TonyCapon3/tc-tireslash) - Tire Slashing Script For QBCores ![GitHub stars](https://img.shields.io/github/stars/TonyCapon3/tc-tireslash.svg?style=social&label=Stars&maxAge=2592000)
-
-### TradieKM <a name="TradieKM"></a>
-- [td-jumpscare](https://github.com/TradieKM/td-jumpscare) - Jumpscare Script for QBCore :) ![GitHub stars](https://img.shields.io/github/stars/TradieKM/td-jumpscare.svg?style=social&label=Stars&maxAge=2592000)
 
 ### trainordevs <a name="trainordevs"></a>
 - [linden_outlawalert](https://github.com/trainordevs/linden_outlawalert) ([Original](https://github.com/TheHorizonDev/linden_outlawalert) :green_circle: +0 :red_circle: -1</span>) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/trainordevs/linden_outlawalert.svg?style=social&label=Stars&maxAge=2592000)
