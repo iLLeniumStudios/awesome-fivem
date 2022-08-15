@@ -193,6 +193,10 @@ A curated list of FiveM resources
 - [qb-sit](https://github.com/Brichka-Dv/qb-sit) - Sitting script fo QBcore ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-sit.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-spawn](https://github.com/Brichka-Dv/qb-spawn) - Brichka Spawn Selector for QB-Core ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-spawn.svg?style=social&label=Stars&maxAge=2592000)
 
+### brimehd <a name="brimehd"></a>
+- [qb-multicharacter](https://github.com/brimehd/qb-multicharacter) ![GitHub stars](https://img.shields.io/github/stars/brimehd/qb-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
+- [qbcore-fivem-appearance](https://github.com/brimehd/qbcore-fivem-appearance) ![GitHub stars](https://img.shields.io/github/stars/brimehd/qbcore-fivem-appearance.svg?style=social&label=Stars&maxAge=2592000)
+
 ### BryanLTU <a name="BryanLTU"></a>
 - [bryan_airdrop](https://github.com/BryanLTU/bryan_airdrop) - FiveM Airdrop script made by BryaN ![GitHub stars](https://img.shields.io/github/stars/BryanLTU/bryan_airdrop.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -479,6 +483,7 @@ A curated list of FiveM resources
 
 ### evanillaa <a name="evanillaa"></a>
 - [erp-dispatch-qb](https://github.com/evanillaa/erp-dispatch-qb) ![GitHub stars](https://img.shields.io/github/stars/evanillaa/erp-dispatch-qb.svg?style=social&label=Stars&maxAge=2592000)
+- [ESX-TO-QBCore-manual](https://github.com/evanillaa/ESX-TO-QBCore-manual) ([Original](https://github.com/D40G/ESX-TO-QBCore-manual) :green_circle: +2 :red_circle: -0</span>) - Small manual to help those who wanna convert scripts -- If you have more that are not in here, contribute. ![GitHub stars](https://img.shields.io/github/stars/evanillaa/ESX-TO-QBCore-manual.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-walking-styles](https://github.com/evanillaa/fivem-walking-styles) ![GitHub stars](https://img.shields.io/github/stars/evanillaa/fivem-walking-styles.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-durability](https://github.com/evanillaa/qb-durability) ![GitHub stars](https://img.shields.io/github/stars/evanillaa/qb-durability.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-ealerts](https://github.com/evanillaa/qb-ealerts) ([Original](https://github.com/ActuallyStrez/qb-tsunami) :green_circle: +25 :red_circle: -0</span>) - QBCore Emergency Alerts Email ![GitHub stars](https://img.shields.io/github/stars/evanillaa/qb-ealerts.svg?style=social&label=Stars&maxAge=2592000)
@@ -1345,7 +1350,7 @@ A curated list of FiveM resources
 ### MrZainRP <a name="MrZainRP"></a>
 - [mz-bins](https://github.com/MrZainRP/mz-bins) - Experience progression based bin-diving function for FiveM servers ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-bins.svg?style=social&label=Stars&maxAge=2592000)
 - [mz-scrap](https://github.com/MrZainRP/mz-scrap) - A FiveM resource which allows players to scrap wrecks found in GTA V with experience and item progression ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-scrap.svg?style=social&label=Stars&maxAge=2592000)
-- [mz-skills](https://github.com/MrZainRP/mz-skills) ([Original](https://github.com/Burn-One-Studios/B1-skillz) :green_circle: +3 :red_circle: -8</span>) - A modification to Kings#4220 qb-skillz - working off the unsupported custom line ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-skills.svg?style=social&label=Stars&maxAge=2592000)
+- [mz-skills](https://github.com/MrZainRP/mz-skills) ([Original](https://github.com/Burn-One-Studios/B1-skillz) :green_circle: +3 :red_circle: -9</span>) - A modification to Kings#4220 qb-skillz - working off the unsupported custom line ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-skills.svg?style=social&label=Stars&maxAge=2592000)
 - [mz-usbhacks](https://github.com/MrZainRP/mz-usbhacks) - A XP progression based hacking function for usb drops in qb-core FiveM servers ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-usbhacks.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Musiker15 <a name="Musiker15"></a>
@@ -1468,10 +1473,6 @@ A curated list of FiveM resources
 - [qb-menu](https://github.com/OfekAF/qb-menu) - qb-menu with css and js edits. ![GitHub stars](https://img.shields.io/github/stars/OfekAF/qb-menu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-storages](https://github.com/OfekAF/qb-storages) - Storage System for QBCore ![GitHub stars](https://img.shields.io/github/stars/OfekAF/qb-storages.svg?style=social&label=Stars&maxAge=2592000)
 
-### ohbrime <a name="ohbrime"></a>
-- [qb-multicharacter](https://github.com/ohbrime/qb-multicharacter) ![GitHub stars](https://img.shields.io/github/stars/ohbrime/qb-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
-- [qbcore-fivem-appearance](https://github.com/ohbrime/qbcore-fivem-appearance) ![GitHub stars](https://img.shields.io/github/stars/ohbrime/qbcore-fivem-appearance.svg?style=social&label=Stars&maxAge=2592000)
-
 ### omar-othmann <a name="omar-othmann"></a>
 - [dev-artifacts](https://github.com/omar-othmann/dev-artifacts) - Python fivem artifacts auto update for linux server only. ![GitHub stars](https://img.shields.io/github/stars/omar-othmann/dev-artifacts.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-antidump](https://github.com/omar-othmann/fivem-antidump) - fivem antidump lua + nui 😉 ![GitHub stars](https://img.shields.io/github/stars/omar-othmann/fivem-antidump.svg?style=social&label=Stars&maxAge=2592000)
@@ -1519,6 +1520,7 @@ A curated list of FiveM resources
 - [ox_inventory_examples](https://github.com/overextended/ox_inventory_examples) ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_inventory_examples.svg?style=social&label=Stars&maxAge=2592000)
 - [ox_lib](https://github.com/overextended/ox_lib) - A collection of Lua functions to utilise in other resources. ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_lib.svg?style=social&label=Stars&maxAge=2592000)
 - [ox_recipes](https://github.com/overextended/ox_recipes) ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_recipes.svg?style=social&label=Stars&maxAge=2592000)
+- [ox_target](https://github.com/overextended/ox_target) ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_target.svg?style=social&label=Stars&maxAge=2592000)
 - [ox_vehicledealer](https://github.com/overextended/ox_vehicledealer) ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_vehicledealer.svg?style=social&label=Stars&maxAge=2592000)
 - [qtarget](https://github.com/overextended/qtarget) - A completely rewritten and optimised targeting solution based on bt-target ![GitHub stars](https://img.shields.io/github/stars/overextended/qtarget.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2014,7 +2016,7 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +228 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +229 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2052,7 +2054,7 @@ A curated list of FiveM resources
 ### TayMcKenzieNZ <a name="TayMcKenzieNZ"></a>
 - [addonsfordpemotes](https://github.com/TayMcKenzieNZ/addonsfordpemotes) - Optional Add-Ons For DPEmotes ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/addonsfordpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [ArcadeIPL](https://github.com/TayMcKenzieNZ/ArcadeIPL) - Loads the Arcade interior into FiveM. Requires gamebuild 2189 or higher ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/ArcadeIPL.svg?style=social&label=Stars&maxAge=2592000)
-- [bob74_ipl](https://github.com/TayMcKenzieNZ/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +2 :red_circle: -15</span>) - Fix holes and customize the map - The Criminal Enterprises DLC ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
+- [bob74_ipl](https://github.com/TayMcKenzieNZ/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +2 :red_circle: -16</span>) - Fix holes and customize the map - The Criminal Enterprises DLC ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
@@ -2278,7 +2280,7 @@ A curated list of FiveM resources
 - [nh-keyboard](https://github.com/wasabirobby/nh-keyboard) - Current version of nh-keyboard required for my scripts using it. (May update to latest version soon) ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/nh-keyboard.svg?style=social&label=Stars&maxAge=2592000)
 - [wasab-autopilot](https://github.com/wasabirobby/wasab-autopilot) - Standalone Auto Pilot for FiveM ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasab-autopilot.svg?style=social&label=Stars&maxAge=2592000)
 - [wasabi_blackmarket](https://github.com/wasabirobby/wasabi_blackmarket) - A free ESX black market script with client dump security ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_blackmarket.svg?style=social&label=Stars&maxAge=2592000)
-- [wasabi_boombox](https://github.com/wasabirobby/wasabi_boombox) - ESX boombox that plays youtube links anywhere boombox is placed ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_boombox.svg?style=social&label=Stars&maxAge=2592000)
+- [wasabi_boombox](https://github.com/wasabirobby/wasabi_boombox) - ESX/QBCore boombox that plays youtube links anywhere boombox is placed ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_boombox.svg?style=social&label=Stars&maxAge=2592000)
 - [wasabi_carpaint](https://github.com/wasabirobby/wasabi_carpaint) ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_carpaint.svg?style=social&label=Stars&maxAge=2592000)
 - [wasabi_fishing](https://github.com/wasabirobby/wasabi_fishing) - An interactive ESX fishing script ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_fishing.svg?style=social&label=Stars&maxAge=2592000)
 - [wasabi_mining](https://github.com/wasabirobby/wasabi_mining) - ESX based mining script ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_mining.svg?style=social&label=Stars&maxAge=2592000)
