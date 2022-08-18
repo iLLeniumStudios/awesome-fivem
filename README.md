@@ -822,6 +822,14 @@ A curated list of FiveM resources
 - [mystic-notify](https://github.com/izMystic/mystic-notify) - A standalone FiveM notification resource ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-notify.svg?style=social&label=Stars&maxAge=2592000)
 - [mystic-speedlimit](https://github.com/izMystic/mystic-speedlimit) ([Original](https://github.com/thelindat/Posted-Speedlimit) :green_circle: +0 :red_circle: -14</span>) ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-speedlimit.svg?style=social&label=Stars&maxAge=2592000)
 
+### Jaareet <a name="Jaareet"></a>
+- [c-chat-design-v2](https://github.com/Jaareet/c-chat-design-v2) - A new reskin for default chat. ![GitHub stars](https://img.shields.io/github/stars/Jaareet/c-chat-design-v2.svg?style=social&label=Stars&maxAge=2592000)
+- [esx_menu_design-v1](https://github.com/Jaareet/esx_menu_design-v1) - Fivem ESX Menu Design by Jaareet#0097 ![GitHub stars](https://img.shields.io/github/stars/Jaareet/esx_menu_design-v1.svg?style=social&label=Stars&maxAge=2592000)
+- [j-fps](https://github.com/Jaareet/j-fps) - Updated FPS Script Functions & UI Responsive ![GitHub stars](https://img.shields.io/github/stars/Jaareet/j-fps.svg?style=social&label=Stars&maxAge=2592000)
+- [j-neonui](https://github.com/Jaareet/j-neonui) - A FiveM UI ![GitHub stars](https://img.shields.io/github/stars/Jaareet/j-neonui.svg?style=social&label=Stars&maxAge=2592000)
+- [j-textui](https://github.com/Jaareet/j-textui) ![GitHub stars](https://img.shields.io/github/stars/Jaareet/j-textui.svg?style=social&label=Stars&maxAge=2592000)
+- [jb-speedometer](https://github.com/Jaareet/jb-speedometer) - 5M Speedometer ![GitHub stars](https://img.shields.io/github/stars/Jaareet/jb-speedometer.svg?style=social&label=Stars&maxAge=2592000)
+
 ### jaimeadf <a name="jaimeadf"></a>
 - [discord-screenshot](https://github.com/jaimeadf/discord-screenshot) - A resource for FiveM that captures the screen of a player and uploads it to a discord webhook. ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/discord-screenshot.svg?style=social&label=Stars&maxAge=2592000)
 - [esx_ladderhud](https://github.com/jaimeadf/esx_ladderhud) - A hud of thirst and hunger for FiveM (ESX)! ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/esx_ladderhud.svg?style=social&label=Stars&maxAge=2592000)
@@ -1905,6 +1913,9 @@ A curated list of FiveM resources
 - [rr_notify](https://github.com/RoleplayRevisited/rr_notify) - A simple notification resource for Fivem ![GitHub stars](https://img.shields.io/github/stars/RoleplayRevisited/rr_notify.svg?style=social&label=Stars&maxAge=2592000)
 - [rr_uilib](https://github.com/RoleplayRevisited/rr_uilib) ![GitHub stars](https://img.shields.io/github/stars/RoleplayRevisited/rr_uilib.svg?style=social&label=Stars&maxAge=2592000)
 
+### RustyBae <a name="RustyBae"></a>
+- [GunCrafting](https://github.com/RustyBae/GunCrafting) - QBCore QB-Menu based Crafting System using Qtarget ![GitHub stars](https://img.shields.io/github/stars/RustyBae/GunCrafting.svg?style=social&label=Stars&maxAge=2592000)
+
 ### SamShanks1 <a name="SamShanks1"></a>
 - [npwd-shanks](https://github.com/SamShanks1/npwd-shanks) ![GitHub stars](https://img.shields.io/github/stars/SamShanks1/npwd-shanks.svg?style=social&label=Stars&maxAge=2592000)
 - [npwd_qb_garage](https://github.com/SamShanks1/npwd_qb_garage) ![GitHub stars](https://img.shields.io/github/stars/SamShanks1/npwd_qb_garage.svg?style=social&label=Stars&maxAge=2592000)
@@ -2005,6 +2016,10 @@ A curated list of FiveM resources
 ### Squibsie <a name="Squibsie"></a>
 - [qb-sq-newsjob](https://github.com/Squibsie/qb-sq-newsjob) - A basic news reporter job allowing server wide text broadcast in the style of radio. For QB Framework. ![GitHub stars](https://img.shields.io/github/stars/Squibsie/qb-sq-newsjob.svg?style=social&label=Stars&maxAge=2592000)
 
+### SteffeDEV <a name="SteffeDEV"></a>
+- [lj-inventory](https://github.com/SteffeDEV/lj-inventory) - A custom edit for lj-inventory ![GitHub stars](https://img.shields.io/github/stars/SteffeDEV/lj-inventory.svg?style=social&label=Stars&maxAge=2592000)
+- [lorebmw](https://github.com/SteffeDEV/lorebmw) - white bmw w jdm wheels and ledbar. GTA plate ![GitHub stars](https://img.shields.io/github/stars/SteffeDEV/lorebmw.svg?style=social&label=Stars&maxAge=2592000)
+
 ### SteffMet <a name="SteffMet"></a>
 - [qb-bossmenu](https://github.com/SteffMet/qb-bossmenu) - New & Improved Version of QBCore Boss Menu ![GitHub stars](https://img.shields.io/github/stars/SteffMet/qb-bossmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-doorlocknui](https://github.com/SteffMet/qb-doorlocknui) - QBCore - NUI Doorlock (Jobs, Gangs & Civ ID) ![GitHub stars](https://img.shields.io/github/stars/SteffMet/qb-doorlocknui.svg?style=social&label=Stars&maxAge=2592000)
@@ -2086,6 +2101,9 @@ A curated list of FiveM resources
 - [NoProblem-mask-items](https://github.com/TazLTD/NoProblem-mask-items) - NoProblem mask as items  ![GitHub stars](https://img.shields.io/github/stars/TazLTD/NoProblem-mask-items.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-lock-old](https://github.com/TazLTD/qb-lock-old) - NoPixel inspired Lockpick Minigame ![GitHub stars](https://img.shields.io/github/stars/TazLTD/qb-lock-old.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-phone](https://github.com/TazLTD/qb-phone) - qb-phone iphone inspired ![GitHub stars](https://img.shields.io/github/stars/TazLTD/qb-phone.svg?style=social&label=Stars&maxAge=2592000)
+
+### teuvokalevi <a name="teuvokalevi"></a>
+- [qb-parkingmeter](https://github.com/teuvokalevi/qb-parkingmeter) - Parking Meter script for QBCore Framework. ![GitHub stars](https://img.shields.io/github/stars/teuvokalevi/qb-parkingmeter.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Tex27 <a name="Tex27"></a>
 - [chat](https://github.com/Tex27/chat) - fivem chat for QBcore framework ![GitHub stars](https://img.shields.io/github/stars/Tex27/chat.svg?style=social&label=Stars&maxAge=2592000)
