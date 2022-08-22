@@ -2166,7 +2166,6 @@ A curated list of FiveM resources
 - [fiveux](https://github.com/ThymonA/fiveux) - FiveM framework written from scratch by Thymon Arens ![GitHub stars](https://img.shields.io/github/stars/ThymonA/fiveux.svg?style=social&label=Stars&maxAge=2592000)
 - [FXCore](https://github.com/ThymonA/FXCore) - Custom Framework By ThymonA ![GitHub stars](https://img.shields.io/github/stars/ThymonA/FXCore.svg?style=social&label=Stars&maxAge=2592000)
 - [menuv](https://github.com/ThymonA/menuv) - FiveM menu library for creating menu's with NUI ![GitHub stars](https://img.shields.io/github/stars/ThymonA/menuv.svg?style=social&label=Stars&maxAge=2592000)
-- [Model-View-Control](https://github.com/ThymonA/Model-View-Control) - My own Model View Control focusing on PHP 7 ![GitHub stars](https://img.shields.io/github/stars/ThymonA/Model-View-Control.svg?style=social&label=Stars&maxAge=2592000)
 - [TigoAntiCheat](https://github.com/ThymonA/TigoAntiCheat) - A resource that detects different types of cheating ![GitHub stars](https://img.shields.io/github/stars/ThymonA/TigoAntiCheat.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TitansProductions <a name="TitansProductions"></a>
