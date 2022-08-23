@@ -138,7 +138,7 @@ A curated list of FiveM resources
 
 ### BerkieBb <a name="BerkieBb"></a>
 - [nui_doorlock](https://github.com/BerkieBb/nui_doorlock) - Read the readme, this doorlock has been moved to another repository ![GitHub stars](https://img.shields.io/github/stars/BerkieBb/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
-- [ox_inventory](https://github.com/BerkieBb/ox_inventory) ([Original](https://github.com/overextended/ox_inventory) :green_circle: +4 :red_circle: -0</span>) - Slot-based inventory with metadata. ![GitHub stars](https://img.shields.io/github/stars/BerkieBb/ox_inventory.svg?style=social&label=Stars&maxAge=2592000)
+- [ox_inventory](https://github.com/BerkieBb/ox_inventory) ([Original](https://github.com/overextended/ox_inventory) :green_circle: +7 :red_circle: -2</span>) - Slot-based inventory with metadata. ![GitHub stars](https://img.shields.io/github/stars/BerkieBb/ox_inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [pma-sirensync](https://github.com/BerkieBb/pma-sirensync) - The best siren sync resource to utilise with FXServer ![GitHub stars](https://img.shields.io/github/stars/BerkieBb/pma-sirensync.svg?style=social&label=Stars&maxAge=2592000)
 
 ### BerlinDev-Five <a name="BerlinDev-Five"></a>
@@ -157,6 +157,7 @@ A curated list of FiveM resources
 - [crouch-n-prone](https://github.com/Blumlaut/crouch-n-prone) - Crouch'n Prone - FiveM Resource ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/crouch-n-prone.svg?style=social&label=Stars&maxAge=2592000)
 - [EasyAdmin](https://github.com/Blumlaut/EasyAdmin) - Admin Menu for FiveM and RedM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/EasyAdmin.svg?style=social&label=Stars&maxAge=2592000)
 - [EasyAdmin-docs](https://github.com/Blumlaut/EasyAdmin-docs) - Docs for EasyAdmin ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/EasyAdmin-docs.svg?style=social&label=Stars&maxAge=2592000)
+- [FiveM-BlockVPN](https://github.com/Blumlaut/FiveM-BlockVPN) ([Original](https://github.com/CADOJRP/FiveM-BlockVPN) :green_circle: +1 :red_circle: -0</span>) - Lua Resource to block VPN and proxy connections. ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-BlockVPN.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-DriftCounter](https://github.com/Blumlaut/FiveM-DriftCounter) ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-DriftCounter.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-Handling-Editor-Example](https://github.com/Blumlaut/FiveM-Handling-Editor-Example) - an example for a handling editor in FiveM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-Handling-Editor-Example.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-KOTH](https://github.com/Blumlaut/FiveM-KOTH) - Arma-Inspired KOTH Gamemode for FiveM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-KOTH.svg?style=social&label=Stars&maxAge=2592000)
@@ -1621,6 +1622,7 @@ A curated list of FiveM resources
 - [fivem-typescript-boilerplate](https://github.com/project-error/fivem-typescript-boilerplate) - A simple boilerplate for getting started with TypeScript in FiveM ![GitHub stars](https://img.shields.io/github/stars/project-error/fivem-typescript-boilerplate.svg?style=social&label=Stars&maxAge=2592000)
 - [npwd](https://github.com/project-error/npwd) - New-Phone-Who-Dis (NPWD) is a FiveM phone resource written entirely in TypeScript and React. ![GitHub stars](https://img.shields.io/github/stars/project-error/npwd.svg?style=social&label=Stars&maxAge=2592000)
 - [npwd_qb_garage](https://github.com/project-error/npwd_qb_garage) ![GitHub stars](https://img.shields.io/github/stars/project-error/npwd_qb_garage.svg?style=social&label=Stars&maxAge=2592000)
+- [npwd_qb_mail](https://github.com/project-error/npwd_qb_mail) ![GitHub stars](https://img.shields.io/github/stars/project-error/npwd_qb_mail.svg?style=social&label=Stars&maxAge=2592000)
 - [npwd_qb_services](https://github.com/project-error/npwd_qb_services) ![GitHub stars](https://img.shields.io/github/stars/project-error/npwd_qb_services.svg?style=social&label=Stars&maxAge=2592000)
 - [pe-basicloading](https://github.com/project-error/pe-basicloading) - A simple yet robust FiveM loading screen supporting markdown. ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-basicloading.svg?style=social&label=Stars&maxAge=2592000)
 - [pe-cli](https://github.com/project-error/pe-cli) - A FiveM CLI tool to create Javascript/Typescript resources fast and simple. ![GitHub stars](https://img.shields.io/github/stars/project-error/pe-cli.svg?style=social&label=Stars&maxAge=2592000)
@@ -1853,7 +1855,7 @@ A curated list of FiveM resources
 - [ax-inventory](https://github.com/renzuzu/ax-inventory) - ax-inventory is a Inventory system used by the Qbus FiveM Framework. It has custom js and css to give it a new look and feel! ![GitHub stars](https://img.shields.io/github/stars/renzuzu/ax-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [carmap](https://github.com/renzuzu/carmap) ![GitHub stars](https://img.shields.io/github/stars/renzuzu/carmap.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-Civ-Car-Pack](https://github.com/renzuzu/FiveM-Civ-Car-Pack) ([Original](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack) :green_circle: +6 :red_circle: -0</span>) - A big library of civilian cars you can fork or download for your server ![GitHub stars](https://img.shields.io/github/stars/renzuzu/FiveM-Civ-Car-Pack.svg?style=social&label=Stars&maxAge=2592000)
-- [natives](https://github.com/renzuzu/natives) ([Original](https://github.com/citizenfx/natives) :green_circle: +241 :red_circle: -0</span>) - GTA V Natives Documentation ![GitHub stars](https://img.shields.io/github/stars/renzuzu/natives.svg?style=social&label=Stars&maxAge=2592000)
+- [natives](https://github.com/renzuzu/natives) ([Original](https://github.com/citizenfx/natives) :green_circle: +243 :red_circle: -0</span>) - GTA V Natives Documentation ![GitHub stars](https://img.shields.io/github/stars/renzuzu/natives.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_clothes](https://github.com/renzuzu/renzu_clothes) - Fivem Advanced Clotheshop and Wardrobe ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_clothes.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_contextmenu](https://github.com/renzuzu/renzu_contextmenu) - FIVEM - CLEAN CONTEXT MENU for Targeting Purpose ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_contextmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_customs](https://github.com/renzuzu/renzu_customs) - Advanced FIVEM LSCUSTOMS and Mechanic Upgrades ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_customs.svg?style=social&label=Stars&maxAge=2592000)
@@ -1993,10 +1995,10 @@ A curated list of FiveM resources
 
 ### SneakyPanda998 <a name="SneakyPanda998"></a>
 - [qb-methlab](https://github.com/SneakyPanda998/qb-methlab) - Free to use methlab made with QBCore ![GitHub stars](https://img.shields.io/github/stars/SneakyPanda998/qb-methlab.svg?style=social&label=Stars&maxAge=2592000)
-- [RemoveAi](https://github.com/SneakyPanda998/RemoveAi) ![GitHub stars](https://img.shields.io/github/stars/SneakyPanda998/RemoveAi.svg?style=social&label=Stars&maxAge=2592000)
 
 ### snipe-scripts <a name="snipe-scripts"></a>
 - [qb-chairs](https://github.com/snipe-scripts/qb-chairs) - Chair Sitting script with models and Zones ![GitHub stars](https://img.shields.io/github/stars/snipe-scripts/qb-chairs.svg?style=social&label=Stars&maxAge=2592000)
+- [snipe-backpack](https://github.com/snipe-scripts/snipe-backpack) - Backpack script to create backpack items as stashes ![GitHub stars](https://img.shields.io/github/stars/snipe-scripts/snipe-backpack.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sov-Nation <a name="Sov-Nation"></a>
 - [dd_outlawalerts](https://github.com/Sov-Nation/dd_outlawalerts) - A FiveM alerts system based heavily on esx_outlawalert ![GitHub stars](https://img.shields.io/github/stars/Sov-Nation/dd_outlawalerts.svg?style=social&label=Stars&maxAge=2592000)
@@ -2047,7 +2049,7 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +275 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +279 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2090,7 +2092,7 @@ A curated list of FiveM resources
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -191</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -207</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +1 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
