@@ -1,5 +1,10 @@
 # awesome-fivem
 A curated list of FiveM resources
+
+Like my work? consider a donation: https://donate.illenium.dev
+Check out my FiveM solutions: https://illenium.dev
+My Discord: https://discord.illenium.dev
+
 ## Frameworks
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [ESX](https://github.com/esx-framework/esx-legacy)
@@ -227,6 +232,7 @@ A curated list of FiveM resources
 ### Burn-One-Studios <a name="Burn-One-Studios"></a>
 - [B1-carremote](https://github.com/Burn-One-Studios/B1-carremote) - A NUI Car Remote for QBCore ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-carremote.svg?style=social&label=Stars&maxAge=2592000)
 - [B1-skillz](https://github.com/Burn-One-Studios/B1-skillz) - QB skill system converted from gamz-skillsystem with edits ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-skillz.svg?style=social&label=Stars&maxAge=2592000)
+- [lj-inventory](https://github.com/Burn-One-Studios/lj-inventory) ([Original](https://github.com/loljoshie/lj-inventory) :green_circle: +0 :red_circle: -3</span>) - Burn One Studios styling of LJ's inventory 🔥 ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/lj-inventory.svg?style=social&label=Stars&maxAge=2592000)
 
 ### C0D3X3R0 <a name="C0D3X3R0"></a>
 - [jim-pokemon](https://github.com/C0D3X3R0/jim-pokemon) - FiveM QBcore Pokemon Card Script ![GitHub stars](https://img.shields.io/github/stars/C0D3X3R0/jim-pokemon.svg?style=social&label=Stars&maxAge=2592000)
@@ -268,6 +274,7 @@ A curated list of FiveM resources
 - [cw-boostjob](https://github.com/Coffeelot/cw-boostjob) - QBcore based job script for stealing cars. Companion script to cw-vehicleswaps ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-boostjob.svg?style=social&label=Stars&maxAge=2592000)
 - [cw-prints](https://github.com/Coffeelot/cw-prints) - QB-core based script for making prints ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-prints.svg?style=social&label=Stars&maxAge=2592000)
 - [cw-raidjob](https://github.com/Coffeelot/cw-raidjob) - Easy to use PVE raid for QB-core ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-raidjob.svg?style=social&label=Stars&maxAge=2592000)
+- [cw-tokens](https://github.com/Coffeelot/cw-tokens) - Token system for CW scripts ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-tokens.svg?style=social&label=Stars&maxAge=2592000)
 - [cw-trading](https://github.com/Coffeelot/cw-trading) - QB core based script for adding traders ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-trading.svg?style=social&label=Stars&maxAge=2592000)
 - [cw-vehicleswap](https://github.com/Coffeelot/cw-vehicleswap) - QBcore based script for doing vehicle model swaps ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-vehicleswap.svg?style=social&label=Stars&maxAge=2592000)
 - [cw-vending](https://github.com/Coffeelot/cw-vending) - Vending machines scrip for QB-core using QB-target ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-vending.svg?style=social&label=Stars&maxAge=2592000)
@@ -1258,6 +1265,9 @@ A curated list of FiveM resources
 - [qb-radialmenu](https://github.com/Marttins011/qb-radialmenu) ([Original](https://github.com/qbcore-framework/qb-radialmenu) :green_circle: +29 :red_circle: -6</span>) - Radial Menu Used With QB-Core :arrows_counterclockwise: ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-radialmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-target](https://github.com/Marttins011/qb-target) - Edited QBCore target design ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-target.svg?style=social&label=Stars&maxAge=2592000)
 
+### MateoBrr <a name="MateoBrr"></a>
+- [qb-multicharacter](https://github.com/MateoBrr/qb-multicharacter) - a new desing for qb-multicharacter ![GitHub stars](https://img.shields.io/github/stars/MateoBrr/qb-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
+
 ### matetv <a name="matetv"></a>
 - [mdt_qbcore](https://github.com/Matetv/mdt_qbcore) - mdt  for qbcore ![GitHub stars](https://img.shields.io/github/stars/matetv/mdt_qbcore.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -1297,10 +1307,7 @@ A curated list of FiveM resources
 
 ### Midsetts <a name="Midsetts"></a>
 - [Mid-mechanic](https://github.com/Midsetts/Mid-mechanic) ![GitHub stars](https://img.shields.io/github/stars/Midsetts/Mid-mechanic.svg?style=social&label=Stars&maxAge=2592000)
-- [Mid-simplecoke](https://github.com/Midsetts/Mid-simplecoke) - This is a script for qbus cocaine to work simply.  ![GitHub stars](https://img.shields.io/github/stars/Midsetts/Mid-simplecoke.svg?style=social&label=Stars&maxAge=2592000)
-- [Mid-skillbar](https://github.com/Midsetts/Mid-skillbar) - A nopixel inspired skillbar. ![GitHub stars](https://img.shields.io/github/stars/Midsetts/Mid-skillbar.svg?style=social&label=Stars&maxAge=2592000)
 - [Mids-npclimit](https://github.com/Midsetts/Mids-npclimit) - Simple Client sided script that limits Pedestrian and Vehicle density.  ![GitHub stars](https://img.shields.io/github/stars/Midsetts/Mids-npclimit.svg?style=social&label=Stars&maxAge=2592000)
-- [mids-policealert](https://github.com/Midsetts/mids-policealert) - A Police alert script intended for QBCore. ![GitHub stars](https://img.shields.io/github/stars/Midsetts/mids-policealert.svg?style=social&label=Stars&maxAge=2592000)
 - [Mids-progressbar](https://github.com/Midsetts/Mids-progressbar) - Custom Reskin of progressbar for QBCore ![GitHub stars](https://img.shields.io/github/stars/Midsetts/Mids-progressbar.svg?style=social&label=Stars&maxAge=2592000)
 - [pillbox-greenzone](https://github.com/Midsetts/pillbox-greenzone) - A short and simple pillbox greenzone. ![GitHub stars](https://img.shields.io/github/stars/Midsetts/pillbox-greenzone.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-djbooth](https://github.com/Midsetts/qb-djbooth) - DJ booth for QBCore.  ![GitHub stars](https://img.shields.io/github/stars/Midsetts/qb-djbooth.svg?style=social&label=Stars&maxAge=2592000)
@@ -2114,7 +2121,7 @@ A curated list of FiveM resources
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -209</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -210</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +1 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
@@ -2343,6 +2350,7 @@ A curated list of FiveM resources
 - [wasabi_blackmarket](https://github.com/wasabirobby/wasabi_blackmarket) - A free ESX black market script with client dump security ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_blackmarket.svg?style=social&label=Stars&maxAge=2592000)
 - [wasabi_boombox](https://github.com/wasabirobby/wasabi_boombox) - ESX/QBCore boombox that plays youtube links anywhere boombox is placed ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_boombox.svg?style=social&label=Stars&maxAge=2592000)
 - [wasabi_carpaint](https://github.com/wasabirobby/wasabi_carpaint) ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_carpaint.svg?style=social&label=Stars&maxAge=2592000)
+- [wasabi_elevators](https://github.com/wasabirobby/wasabi_elevators) - ESX/QBCore target based elevator script ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_elevators.svg?style=social&label=Stars&maxAge=2592000)
 - [wasabi_fishing](https://github.com/wasabirobby/wasabi_fishing) - An interactive ESX fishing script ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_fishing.svg?style=social&label=Stars&maxAge=2592000)
 - [wasabi_mining](https://github.com/wasabirobby/wasabi_mining) - ESX based mining script ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_mining.svg?style=social&label=Stars&maxAge=2592000)
 - [wasabi_tireslash](https://github.com/wasabirobby/wasabi_tireslash) - wasabi_tireslash - A target based FiveM tire slashing script. ![GitHub stars](https://img.shields.io/github/stars/wasabirobby/wasabi_tireslash.svg?style=social&label=Stars&maxAge=2592000)
