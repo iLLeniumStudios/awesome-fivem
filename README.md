@@ -1,9 +1,9 @@
 # awesome-fivem
 A curated list of FiveM resources
 
-Like my work? consider a donation: https://donate.illenium.dev
-Check out my FiveM solutions: https://illenium.dev
-My Discord: https://discord.illenium.dev
+- Like my work? consider a donation: https://donate.illenium.dev
+- Check out my FiveM solutions: https://illenium.dev
+- My Discord: https://discord.illenium.dev
 
 ## Frameworks
 - [qb-core](https://github.com/qbcore-framework/qb-core)
