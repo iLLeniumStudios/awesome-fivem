@@ -496,6 +496,9 @@ A curated list of FiveM resources
 ### Equilibrium-Studio <a name="Equilibrium-Studio"></a>
 - [EasyDrift](https://github.com/Equilibrium-Studio/EasyDrift) ![GitHub stars](https://img.shields.io/github/stars/Equilibrium-Studio/EasyDrift.svg?style=social&label=Stars&maxAge=2592000)
 
+### ErrorMauw <a name="ErrorMauw"></a>
+- [op-dispatch](https://github.com/ErrorMauw/op-dispatch) -  Op-Dispatch a dispatch that seeks the best user experience ![GitHub stars](https://img.shields.io/github/stars/ErrorMauw/op-dispatch.svg?style=social&label=Stars&maxAge=2592000)
+
 ### esx-framework <a name="esx-framework"></a>
 - [esx-legacy](https://github.com/esx-framework/esx-legacy) - Official Repo For ESX-Legacy ![GitHub stars](https://img.shields.io/github/stars/esx-framework/esx-legacy.svg?style=social&label=Stars&maxAge=2592000)
 - [ESX-Next](https://github.com/esx-framework/ESX-Next) - (WIP) A lower level FiveM framework, using the Decorator pattern with DI, written in the glorious TypeScript. ![GitHub stars](https://img.shields.io/github/stars/esx-framework/ESX-Next.svg?style=social&label=Stars&maxAge=2592000)
@@ -1812,6 +1815,13 @@ A curated list of FiveM resources
 
 ### RamiroDesigns <a name="RamiroDesigns"></a>
 - [rmd-steaks](https://github.com/RamiroDesigns/rmd-steaks) - Cook steaks using QBCore and QB-Target ![GitHub stars](https://img.shields.io/github/stars/RamiroDesigns/rmd-steaks.svg?style=social&label=Stars&maxAge=2592000)
+
+### Randolio <a name="Randolio"></a>
+- [randol_blackmarket](https://github.com/Randolio/randol_blackmarket) - Nightly rotating blackmarket script for QBCore ![GitHub stars](https://img.shields.io/github/stars/Randolio/randol_blackmarket.svg?style=social&label=Stars&maxAge=2592000)
+- [randol_bottlemessage](https://github.com/Randolio/randol_bottlemessage) - A mini treasure hunt script by Randolio ![GitHub stars](https://img.shields.io/github/stars/Randolio/randol_bottlemessage.svg?style=social&label=Stars&maxAge=2592000)
+- [randol_grandma](https://github.com/Randolio/randol_grandma) - Grandma script for qbcore by Randolio. ![GitHub stars](https://img.shields.io/github/stars/Randolio/randol_grandma.svg?style=social&label=Stars&maxAge=2592000)
+- [randol_skydiving](https://github.com/Randolio/randol_skydiving) - A skydiving script made for QBCore. ![GitHub stars](https://img.shields.io/github/stars/Randolio/randol_skydiving.svg?style=social&label=Stars&maxAge=2592000)
+- [randol_travelperico](https://github.com/Randolio/randol_travelperico) - QBCore resource made to travel to perico and back. ![GitHub stars](https://img.shields.io/github/stars/Randolio/randol_travelperico.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Rav3n95 <a name="Rav3n95"></a>
 - [gp-hunting](https://github.com/Rav3n95/gp-hunting) - Lightweight hunting script, heavly using qb-target ![GitHub stars](https://img.shields.io/github/stars/Rav3n95/gp-hunting.svg?style=social&label=Stars&maxAge=2592000)
