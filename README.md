@@ -645,6 +645,9 @@ A curated list of FiveM resources
 - [qb-doorlock-CSS-edit](https://github.com/Graz8/qb-doorlock-CSS-edit) - A edit of the qb-doorlock script for the QBCore Framework!!!! ![GitHub stars](https://img.shields.io/github/stars/Graz8/qb-doorlock-CSS-edit.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-phone-edit](https://github.com/Graz8/qb-phone-edit) - A edit of the qb-phone with extra apps and a differnt look to change the style of your phone. Made By GRAZ ![GitHub stars](https://img.shields.io/github/stars/Graz8/qb-phone-edit.svg?style=social&label=Stars&maxAge=2592000)
 
+### GreenSlayer <a name="GreenSlayer"></a>
+- [dynyx-rings](https://github.com/GreenSlayer/dynyx-rings) - Rings System that gives you armor, health, stamina, or stress depending on the ring you use. ![GitHub stars](https://img.shields.io/github/stars/GreenSlayer/dynyx-rings.svg?style=social&label=Stars&maxAge=2592000)
+
 ### Griefa <a name="Griefa"></a>
 - [qb-dumpster](https://github.com/Griefa/qb-dumpster) - Channel your inner bum and go dumpster diving! ![GitHub stars](https://img.shields.io/github/stars/Griefa/qb-dumpster.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2133,7 +2136,7 @@ A curated list of FiveM resources
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -223</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -225</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +0 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
