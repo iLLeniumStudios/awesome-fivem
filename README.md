@@ -139,6 +139,12 @@ A curated list of FiveM resources
 ### bamablood94 <a name="bamablood94"></a>
 - [qb-dmv](https://github.com/bamablood94/qb-dmv) - ESX Dmvschool Converted to QBCore with added details ![GitHub stars](https://img.shields.io/github/stars/bamablood94/qb-dmv.svg?style=social&label=Stars&maxAge=2592000)
 
+### BaziForYou <a name="BaziForYou"></a>
+- [Enhanced_Crouch](https://github.com/BaziForYou/Enhanced_Crouch) - An enhanced and smooth version of a crouch and possible to can shoot when you're crouched and optimized ![GitHub stars](https://img.shields.io/github/stars/BaziForYou/Enhanced_Crouch.svg?style=social&label=Stars&maxAge=2592000)
+- [esx_upgraded_duty](https://github.com/BaziForYou/esx_upgraded_duty) - The upgraded version of esx_duty and work better and optimizer and advance stuff ![GitHub stars](https://img.shields.io/github/stars/BaziForYou/esx_upgraded_duty.svg?style=social&label=Stars&maxAge=2592000)
+- [MugShotBase64](https://github.com/BaziForYou/MugShotBase64) - A script can convert peds mugshot image to Base64 encoding to save that as save and manage that ![GitHub stars](https://img.shields.io/github/stars/BaziForYou/MugShotBase64.svg?style=social&label=Stars&maxAge=2592000)
+- [petshop_map-fivem](https://github.com/BaziForYou/petshop_map-fivem) - The better version of petshop_map and moved. ![GitHub stars](https://img.shields.io/github/stars/BaziForYou/petshop_map-fivem.svg?style=social&label=Stars&maxAge=2592000)
+
 ### belgamods <a name="belgamods"></a>
 - [qb-lunapark](https://github.com/belgamods/qb-lunapark) - a simple lunapark script for Qbcore ![GitHub stars](https://img.shields.io/github/stars/belgamods/qb-lunapark.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-mdt](https://github.com/belgamods/qb-mdt) - A mdt for qbus ![GitHub stars](https://img.shields.io/github/stars/belgamods/qb-mdt.svg?style=social&label=Stars&maxAge=2592000)
@@ -407,6 +413,11 @@ A curated list of FiveM resources
 - [gb-cigarettes](https://github.com/Djpowell23/gb-cigarettes) - Cigarettes for Stress Relief in QBCore ![GitHub stars](https://img.shields.io/github/stars/Djpowell23/gb-cigarettes.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-buds](https://github.com/Djpowell23/qb-buds) - Heavily custom best buds job for qb-core ![GitHub stars](https://img.shields.io/github/stars/Djpowell23/qb-buds.svg?style=social&label=Stars&maxAge=2592000)
 
+### dnelyk <a name="dnelyk"></a>
+- [cdn-basicheist](https://github.com/dnelyk/cdn-basicheist) - Basically a tutorial resource for FiveM. Streamed creating it, took a little over three hours (although it should've took max an hour). ![GitHub stars](https://img.shields.io/github/stars/dnelyk/cdn-basicheist.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-houserobbery](https://github.com/dnelyk/qb-houserobbery) ([Original](https://github.com/qbcore-framework/qb-houserobbery) :green_circle: +3 :red_circle: -4</span>) - House Robberies For QB-Core ![GitHub stars](https://img.shields.io/github/stars/dnelyk/qb-houserobbery.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-truckrobbery-target](https://github.com/dnelyk/qb-truckrobbery-target) - qb-truckrobbery with qb-target implementation, as well as a hack, and more configurable options ![GitHub stars](https://img.shields.io/github/stars/dnelyk/qb-truckrobbery-target.svg?style=social&label=Stars&maxAge=2592000)
+
 ### DonHulieo <a name="DonHulieo"></a>
 - [don-forklift](https://github.com/DonHulieo/don-forklift) - Job script for QBCore. ![GitHub stars](https://img.shields.io/github/stars/DonHulieo/don-forklift.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -660,6 +671,11 @@ A curated list of FiveM resources
 
 ### hakos47 <a name="hakos47"></a>
 - [Hks_Jobmenu](https://github.com/hakos47/Hks_Jobmenu) - Simple menu for LSFD, LSPD, Mechanic and Taxi jobs ![GitHub stars](https://img.shields.io/github/stars/hakos47/Hks_Jobmenu.svg?style=social&label=Stars&maxAge=2592000)
+
+### HarithMichael <a name="HarithMichael"></a>
+- [esx_doorlock-Better-3D-text-and-distance-](https://github.com/HarithMichael/esx_doorlock-Better-3D-text-and-distance-) - This esx_doorlock got better 3D text and distance check, unlike old esx_doorlock even you are far away from doors gives 0.20-0.30ms ![GitHub stars](https://img.shields.io/github/stars/HarithMichael/esx_doorlock-Better-3D-text-and-distance-.svg?style=social&label=Stars&maxAge=2592000)
+- [lj-inventory-withdecay](https://github.com/HarithMichael/lj-inventory-withdecay) - lj-inventory works with latest qb-core ![GitHub stars](https://img.shields.io/github/stars/HarithMichael/lj-inventory-withdecay.svg?style=social&label=Stars&maxAge=2592000)
+- [lj-inventory-withoutdecay](https://github.com/HarithMichael/lj-inventory-withoutdecay) - lj-inventory works with latest qb-core ![GitHub stars](https://img.shields.io/github/stars/HarithMichael/lj-inventory-withoutdecay.svg?style=social&label=Stars&maxAge=2592000)
 
 ### HawkEye172 <a name="HawkEye172"></a>
 - [qb-aircraftheist](https://github.com/HawkEye172/qb-aircraftheist) ![GitHub stars](https://img.shields.io/github/stars/HawkEye172/qb-aircraftheist.svg?style=social&label=Stars&maxAge=2592000)
@@ -1366,6 +1382,17 @@ A curated list of FiveM resources
 - [qb-vehiclekeys](https://github.com/MrEvilGamer/qb-vehiclekeys) - Vehicle Key For QBCore, From which you can hotwire the Vehicle's without the Lockpick ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-vehiclekeys.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-weedpicking](https://github.com/MrEvilGamer/qb-weedpicking) - A weed picking Script for your server! ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-weedpicking.svg?style=social&label=Stars&maxAge=2592000)
 
+### MrRebel568 <a name="MrRebel568"></a>
+- [mr-carbomb](https://github.com/MrRebel568/mr-carbomb) - CarBomb script for QBCore ![GitHub stars](https://img.shields.io/github/stars/MrRebel568/mr-carbomb.svg?style=social&label=Stars&maxAge=2592000)
+- [mr-loading](https://github.com/MrRebel568/mr-loading) - mr-loading ![GitHub stars](https://img.shields.io/github/stars/MrRebel568/mr-loading.svg?style=social&label=Stars&maxAge=2592000)
+- [mr-lock](https://github.com/MrRebel568/mr-lock) - mr-lock QBCore ![GitHub stars](https://img.shields.io/github/stars/MrRebel568/mr-lock.svg?style=social&label=Stars&maxAge=2592000)
+- [mr-lumberjack](https://github.com/MrRebel568/mr-lumberjack) - LumberJack script for QBCore Reupload ![GitHub stars](https://img.shields.io/github/stars/MrRebel568/mr-lumberjack.svg?style=social&label=Stars&maxAge=2592000)
+- [Mr-Mining](https://github.com/MrRebel568/Mr-Mining) - Coming Soon... ![GitHub stars](https://img.shields.io/github/stars/MrRebel568/Mr-Mining.svg?style=social&label=Stars&maxAge=2592000)
+- [mr-toolbox](https://github.com/MrRebel568/mr-toolbox) - Mr-Toolbox For QBCore ![GitHub stars](https://img.shields.io/github/stars/MrRebel568/mr-toolbox.svg?style=social&label=Stars&maxAge=2592000)
+- [progressbar](https://github.com/MrRebel568/progressbar) - progressbar QBCore By MrRebel ![GitHub stars](https://img.shields.io/github/stars/MrRebel568/progressbar.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-garages](https://github.com/MrRebel568/qb-garages) ![GitHub stars](https://img.shields.io/github/stars/MrRebel568/qb-garages.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-inventory](https://github.com/MrRebel568/qb-inventory) - LJ Inventory design edited QBCore ![GitHub stars](https://img.shields.io/github/stars/MrRebel568/qb-inventory.svg?style=social&label=Stars&maxAge=2592000)
+
 ### MrZainRP <a name="MrZainRP"></a>
 - [mz-bins](https://github.com/MrZainRP/mz-bins) - Experience progression based bin-diving function for FiveM servers ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-bins.svg?style=social&label=Stars&maxAge=2592000)
 - [mz-scrap](https://github.com/MrZainRP/mz-scrap) - A FiveM resource which allows players to scrap wrecks found in GTA V with experience and item progression ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-scrap.svg?style=social&label=Stars&maxAge=2592000)
@@ -2018,6 +2045,10 @@ A curated list of FiveM resources
 - [dd_outlawalerts](https://github.com/Sov-Nation/dd_outlawalerts) - A FiveM alerts system based heavily on esx_outlawalert ![GitHub stars](https://img.shields.io/github/stars/Sov-Nation/dd_outlawalerts.svg?style=social&label=Stars&maxAge=2592000)
 - [dd_society](https://github.com/Sov-Nation/dd_society) - A reimagined property-based dynamic esx_society ![GitHub stars](https://img.shields.io/github/stars/Sov-Nation/dd_society.svg?style=social&label=Stars&maxAge=2592000)
 
+### SoyUltra <a name="SoyUltra"></a>
+- [Ultra-Hud](https://github.com/SoyUltra/Ultra-Hud) - ULTRA HUD FREE  ![GitHub stars](https://img.shields.io/github/stars/SoyUltra/Ultra-Hud.svg?style=social&label=Stars&maxAge=2592000)
+- [Ultra-Ids](https://github.com/SoyUltra/Ultra-Ids) - Ultra ID, Resource to see the ids of the players, with notification option, cooldown, colors and props ![GitHub stars](https://img.shields.io/github/stars/SoyUltra/Ultra-Ids.svg?style=social&label=Stars&maxAge=2592000)
+
 ### sp1d3r1987 <a name="sp1d3r1987"></a>
 - [qb-robparking](https://github.com/sp1d3r1987/qb-robparking) - Parking meter robbery script ![GitHub stars](https://img.shields.io/github/stars/sp1d3r1987/qb-robparking.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2451,6 +2482,9 @@ A curated list of FiveM resources
 - [zdiscord](https://github.com/zfbx/zdiscord) - A Discord bot that runs in FiveM for the purpose of whitelisting, moderation and utilties using discord.js ![GitHub stars](https://img.shields.io/github/stars/zfbx/zdiscord.svg?style=social&label=Stars&maxAge=2592000)
 - [zqueue](https://github.com/zfbx/zqueue) ([Original](https://github.com/VikingTheDev/pQueue) :green_circle: +0 :red_circle: -8</span>) - This is a simple FiveM server queue with Discord based priority, built on the zdiscord api ![GitHub stars](https://img.shields.io/github/stars/zfbx/zqueue.svg?style=social&label=Stars&maxAge=2592000)
 - [zseatbelt](https://github.com/zfbx/zseatbelt) - Seatbelt resource built for FiveM using a completely new method ![GitHub stars](https://img.shields.io/github/stars/zfbx/zseatbelt.svg?style=social&label=Stars&maxAge=2592000)
+
+### ZHOURA-24 <a name="ZHOURA-24"></a>
+- [zh-vehbox](https://github.com/ZHOURA-24/zh-vehbox) ![GitHub stars](https://img.shields.io/github/stars/ZHOURA-24/zh-vehbox.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Zotactiks <a name="Zotactiks"></a>
 - [Knockout](https://github.com/Zotactiks/Knockout) - Simple Knockout Script for QB-Core using Project Sloths ProgressBar ![GitHub stars](https://img.shields.io/github/stars/Zotactiks/Knockout.svg?style=social&label=Stars&maxAge=2592000)
