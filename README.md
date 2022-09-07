@@ -200,6 +200,12 @@ A curated list of FiveM resources
 - [Boost-pvphud](https://github.com/boostless/Boost-pvphud) - PVP style hud for fivem ![GitHub stars](https://img.shields.io/github/stars/boostless/Boost-pvphud.svg?style=social&label=Stars&maxAge=2592000)
 - [esx_sit](https://github.com/boostless/esx_sit) - This is a modified esx_sit using bt-target ![GitHub stars](https://img.shields.io/github/stars/boostless/esx_sit.svg?style=social&label=Stars&maxAge=2592000)
 
+### BreezyTheDev <a name="BreezyTheDev"></a>
+- [Breezy_Hospitalizing](https://github.com/BreezyTheDev/Breezy_Hospitalizing) - Interested in hospitalizing your players in a new way? We'll wait no longer this new Hospitalizing Script covers that for you. I decided to recode Badger's Jailing script and added a hospitalizing feature to it. Hope you guys enjoy and let me know on what you think! ![GitHub stars](https://img.shields.io/github/stars/BreezyTheDev/Breezy_Hospitalizing.svg?style=social&label=Stars&maxAge=2592000)
+- [Breezy_Logs](https://github.com/BreezyTheDev/Breezy_Logs) - Simple discord logs for FiveM. ![GitHub stars](https://img.shields.io/github/stars/BreezyTheDev/Breezy_Logs.svg?style=social&label=Stars&maxAge=2592000)
+- [Keybased-AC](https://github.com/BreezyTheDev/Keybased-AC) - A Keybased-AC for FiveM. ![GitHub stars](https://img.shields.io/github/stars/BreezyTheDev/Keybased-AC.svg?style=social&label=Stars&maxAge=2592000)
+- [ND_Fines](https://github.com/BreezyTheDev/ND_Fines) ![GitHub stars](https://img.shields.io/github/stars/BreezyTheDev/ND_Fines.svg?style=social&label=Stars&maxAge=2592000)
+
 ### Brichka-Dv <a name="Brichka-Dv"></a>
 - [chat](https://github.com/Brichka-Dv/chat) - FiveM Chat System | Works off QBcore ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/chat.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-apartments](https://github.com/Brichka-Dv/qb-apartments) - Brichka Apartments A script that was programmed with qb-radialmenu ![GitHub stars](https://img.shields.io/github/stars/Brichka-Dv/qb-apartments.svg?style=social&label=Stars&maxAge=2592000)
@@ -261,6 +267,9 @@ A curated list of FiveM resources
 ### carbontheape <a name="carbontheape"></a>
 - [qb-breakroom](https://github.com/carbontheape/qb-breakroom) ![GitHub stars](https://img.shields.io/github/stars/carbontheape/qb-breakroom.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-rentals](https://github.com/carbontheape/qb-rentals) - This is a vehicle rental script for Cars, Aircrafts and Boats. This script is made for the qbcore framework and utilizes qb-target and qb-menu. ![GitHub stars](https://img.shields.io/github/stars/carbontheape/qb-rentals.svg?style=social&label=Stars&maxAge=2592000)
+
+### Chxttr <a name="Chxttr"></a>
+- [lj-inventory-with-QBCore-exports-and-decay](https://github.com/Chxttr/lj-inventory-with-QBCore-exports-and-decay) - What the title says ![GitHub stars](https://img.shields.io/github/stars/Chxttr/lj-inventory-with-QBCore-exports-and-decay.svg?style=social&label=Stars&maxAge=2592000)
 
 ### clementinise <a name="clementinise"></a>
 - [esx_repairkit](https://github.com/clementinise/esx_repairkit) ([Original](https://github.com/jonteohr/esx_repairkit) :green_circle: +2 :red_circle: -61</span>) - RepairKit script for FiveM ESX servers ![GitHub stars](https://img.shields.io/github/stars/clementinise/esx_repairkit.svg?style=social&label=Stars&maxAge=2592000)
@@ -1310,6 +1319,9 @@ A curated list of FiveM resources
 - [qb-djbooth](https://github.com/Midsetts/qb-djbooth) - DJ booth for QBCore.  ![GitHub stars](https://img.shields.io/github/stars/Midsetts/qb-djbooth.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-mdt](https://github.com/Midsetts/qb-mdt) - A standard, fully working MDT for QBCore ![GitHub stars](https://img.shields.io/github/stars/Midsetts/qb-mdt.svg?style=social&label=Stars&maxAge=2592000)
 
+### Mike20082 <a name="Mike20082"></a>
+- [Progressbar-Qb-Core](https://github.com/Mike20082/Progressbar-Qb-Core) - Hello!! Here Is My First Css Edited Progressbar ..This Progress Is The Default Qb-Core Progressbar And You Have To Just Rename The File From Mike-progressbar-main To Just progressbar to just make it work properly... Have Fun   Thank You.......Credits- @https://github.com/qbcore-framework ![GitHub stars](https://img.shields.io/github/stars/Mike20082/Progressbar-Qb-Core.svg?style=social&label=Stars&maxAge=2592000)
+
 ### mikeyxb <a name="mikeyxb"></a>
 - [qb-gangweapons](https://github.com/mikeyxb/qb-gangweapons) - Just a little script i put together for weapons crafting bench you can assign a specific gang ![GitHub stars](https://img.shields.io/github/stars/mikeyxb/qb-gangweapons.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -1351,6 +1363,9 @@ A curated list of FiveM resources
 - [npwd-dispatch](https://github.com/Mojito-Fivem/npwd-dispatch) ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/npwd-dispatch.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-scoreboard](https://github.com/Mojito-Fivem/qb-scoreboard) ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/qb-scoreboard.svg?style=social&label=Stars&maxAge=2592000)
 - [qbcore.js](https://github.com/Mojito-Fivem/qbcore.js) - Type definitions for QBCore Framework Fivem ![GitHub stars](https://img.shields.io/github/stars/Mojito-Fivem/qbcore.js.svg?style=social&label=Stars&maxAge=2592000)
+
+### MoneSuper <a name="MoneSuper"></a>
+- [Older-QBCore-Framework](https://github.com/MoneSuper/Older-QBCore-Framework) ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/Older-QBCore-Framework.svg?style=social&label=Stars&maxAge=2592000)
 
 ### MonkeyWhisper <a name="MonkeyWhisper"></a>
 - [-QB-Jewellery](https://github.com/MonkeyWhisper/-QB-Jewellery) ([Original](https://github.com/Lionh34rt/-QB-Jewellery) :green_circle: +8 :red_circle: -8</span>) ![GitHub stars](https://img.shields.io/github/stars/MonkeyWhisper/-QB-Jewellery.svg?style=social&label=Stars&maxAge=2592000)
@@ -1433,6 +1448,9 @@ A curated list of FiveM resources
 - [nc-rental](https://github.com/NaorNC/nc-rental) - Extremely advanced car rental system for QBCore. (NoPixel Style) ![GitHub stars](https://img.shields.io/github/stars/NaorNC/nc-rental.svg?style=social&label=Stars&maxAge=2592000)
 - [nc-scoreboard](https://github.com/NaorNC/nc-scoreboard) - Scoreboard compatible with QBCore. ![GitHub stars](https://img.shields.io/github/stars/NaorNC/nc-scoreboard.svg?style=social&label=Stars&maxAge=2592000)
 - [Subaru-Hycade](https://github.com/NaorNC/Subaru-Hycade) - Subaru Hycade (Animated Car) - Ready for FiveM! ![GitHub stars](https://img.shields.io/github/stars/NaorNC/Subaru-Hycade.svg?style=social&label=Stars&maxAge=2592000)
+
+### NappTheDev <a name="NappTheDev"></a>
+- [napp-boostcraft](https://github.com/NappTheDev/napp-boostcraft) - Crafting system for a boosting laptop and a hacking device for car boosting. This script is made to work with Lionh34rts Car Boosting Script out of the box but can be edited as its Open Source. The spots shown below are just placeholders. ![GitHub stars](https://img.shields.io/github/stars/NappTheDev/napp-boostcraft.svg?style=social&label=Stars&maxAge=2592000)
 
 ### NarwakV <a name="NarwakV"></a>
 - [lv-2fast4u](https://github.com/NarwakV/lv-2fast4u) - Location vehicule with item ![GitHub stars](https://img.shields.io/github/stars/NarwakV/lv-2fast4u.svg?style=social&label=Stars&maxAge=2592000)
@@ -1554,6 +1572,9 @@ A curated list of FiveM resources
 - [Omi-Rentals](https://github.com/OmiJod/Omi-Rentals) - Mainly Forks From Qbcore FrameWork ![GitHub stars](https://img.shields.io/github/stars/OmiJod/Omi-Rentals.svg?style=social&label=Stars&maxAge=2592000)
 - [Omi-Spwan](https://github.com/OmiJod/Omi-Spwan) - Html/css Reworked For QB-Spawn For QBCore ![GitHub stars](https://img.shields.io/github/stars/OmiJod/Omi-Spwan.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-menu-css-edit](https://github.com/OmiJod/qb-menu-css-edit) - This is an Qb Menu CSS EDIT For QBCore ![GitHub stars](https://img.shields.io/github/stars/OmiJod/qb-menu-css-edit.svg?style=social&label=Stars&maxAge=2592000)
+
+### oomejip <a name="oomejip"></a>
+- [qb-masks](https://github.com/oomejip/qb-masks) ![GitHub stars](https://img.shields.io/github/stars/oomejip/qb-masks.svg?style=social&label=Stars&maxAge=2592000)
 
 ### oosayeroo <a name="oosayeroo"></a>
 - [qb-bbq](https://github.com/oosayeroo/qb-bbq) - makes bbq props useable around the map. will add more items in future or feel free to add your own ![GitHub stars](https://img.shields.io/github/stars/oosayeroo/qb-bbq.svg?style=social&label=Stars&maxAge=2592000)
