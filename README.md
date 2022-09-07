@@ -140,6 +140,7 @@ A curated list of FiveM resources
 - [qb-dmv](https://github.com/bamablood94/qb-dmv) - ESX Dmvschool Converted to QBCore with added details ![GitHub stars](https://img.shields.io/github/stars/bamablood94/qb-dmv.svg?style=social&label=Stars&maxAge=2592000)
 
 ### BaziForYou <a name="BaziForYou"></a>
+- [cfx-xor](https://github.com/BaziForYou/cfx-xor) - A script can convert encrypt or decrypt all text-based data using the xor algorithm. ![GitHub stars](https://img.shields.io/github/stars/BaziForYou/cfx-xor.svg?style=social&label=Stars&maxAge=2592000)
 - [Enhanced_Crouch](https://github.com/BaziForYou/Enhanced_Crouch) - An enhanced and smooth version of a crouch and possible to can shoot when you're crouched and optimized ![GitHub stars](https://img.shields.io/github/stars/BaziForYou/Enhanced_Crouch.svg?style=social&label=Stars&maxAge=2592000)
 - [esx_upgraded_duty](https://github.com/BaziForYou/esx_upgraded_duty) - The upgraded version of esx_duty and work better and optimizer and advance stuff ![GitHub stars](https://img.shields.io/github/stars/BaziForYou/esx_upgraded_duty.svg?style=social&label=Stars&maxAge=2592000)
 - [MugShotBase64](https://github.com/BaziForYou/MugShotBase64) - A script can convert peds mugshot image to Base64 encoding to save that as save and manage that ![GitHub stars](https://img.shields.io/github/stars/BaziForYou/MugShotBase64.svg?style=social&label=Stars&maxAge=2592000)
@@ -240,7 +241,7 @@ A curated list of FiveM resources
 - [B1-carremote](https://github.com/Burn-One-Studios/B1-carremote) - A NUI Car Remote for QBCore ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-carremote.svg?style=social&label=Stars&maxAge=2592000)
 - [B1-Loading](https://github.com/Burn-One-Studios/B1-Loading) ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-Loading.svg?style=social&label=Stars&maxAge=2592000)
 - [B1-skillz](https://github.com/Burn-One-Studios/B1-skillz) - QB skill system converted from gamz-skillsystem with edits ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-skillz.svg?style=social&label=Stars&maxAge=2592000)
-- [lj-inventory](https://github.com/Burn-One-Studios/lj-inventory) ([Original](https://github.com/loljoshie/lj-inventory) :green_circle: +9 :red_circle: -3</span>) - Burn One Studios styling of LJ's inventory 🔥 ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/lj-inventory.svg?style=social&label=Stars&maxAge=2592000)
+- [lj-inventory](https://github.com/Burn-One-Studios/lj-inventory) ([Original](https://github.com/loljoshie/lj-inventory) :green_circle: +16 :red_circle: -3</span>) - Burn One Studios styling of LJ's inventory 🔥 ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/lj-inventory.svg?style=social&label=Stars&maxAge=2592000)
 
 ### C0D3X3R0 <a name="C0D3X3R0"></a>
 - [jim-pokemon](https://github.com/C0D3X3R0/jim-pokemon) - FiveM QBcore Pokemon Card Script ![GitHub stars](https://img.shields.io/github/stars/C0D3X3R0/jim-pokemon.svg?style=social&label=Stars&maxAge=2592000)
@@ -1016,7 +1017,7 @@ A curated list of FiveM resources
 
 ### JustLazzy <a name="JustLazzy"></a>
 - [jl-carboost](https://github.com/JustLazzy/jl-carboost) - Fivem car boosting script with laptop ui ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/jl-carboost.svg?style=social&label=Stars&maxAge=2592000)
-- [lj-inventory](https://github.com/JustLazzy/lj-inventory) ([Original](https://github.com/loljoshie/lj-inventory) :green_circle: +30 :red_circle: -7</span>) ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/lj-inventory.svg?style=social&label=Stars&maxAge=2592000)
+- [lj-inventory](https://github.com/JustLazzy/lj-inventory) ([Original](https://github.com/loljoshie/lj-inventory) :green_circle: +37 :red_circle: -7</span>) ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/lj-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-garages](https://github.com/JustLazzy/qb-garages) - Edited qb-garages using Polyzone ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/qb-garages.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-houses](https://github.com/JustLazzy/qb-houses) ([Original](https://github.com/qbcore-framework/qb-houses) :green_circle: +56 :red_circle: -41</span>) - Housing and Furniture Script Used With QB-Core 🏠 :chair: ![GitHub stars](https://img.shields.io/github/stars/JustLazzy/qb-houses.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2002,6 +2003,9 @@ A curated list of FiveM resources
 
 ### sandralol <a name="sandralol"></a>
 - [qb-flowerjob](https://github.com/sandralol/qb-flowerjob) - QB-FLOWERJOB Script that is made for legal purposes.  ![GitHub stars](https://img.shields.io/github/stars/sandralol/qb-flowerjob.svg?style=social&label=Stars&maxAge=2592000)
+
+### Scaryharry4 <a name="Scaryharry4"></a>
+- [SH-GitHUD-collection](https://github.com/Scaryharry4/SH-GitHUD-collection) - a collection of my githud QB core hud reskins ![GitHub stars](https://img.shields.io/github/stars/Scaryharry4/SH-GitHUD-collection.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Scullyy <a name="Scullyy"></a>
 - [scully_perms](https://github.com/Scullyy/scully_perms) ![GitHub stars](https://img.shields.io/github/stars/Scullyy/scully_perms.svg?style=social&label=Stars&maxAge=2592000)
