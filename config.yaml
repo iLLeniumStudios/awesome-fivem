@@ -253,7 +253,7 @@ users:
   - name: iboss21
   - name: philipx2017
   - name: meidricsq
-  - name: DevLanceGood
+  - name: LGDevelopment
     excludeRepos:
       - altV-Police
   - name: FM-Dev-Macke
@@ -557,3 +557,4 @@ users:
   - name: BaziForYou
   - name: dnelyk
   - name: SoyUltra
+  - name: HappyPunch
