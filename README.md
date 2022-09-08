@@ -1542,6 +1542,15 @@ A curated list of FiveM resources
 - [Custom-Weapons](https://github.com/NoobySloth/Custom-Weapons) ![GitHub stars](https://img.shields.io/github/stars/NoobySloth/Custom-Weapons.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-advertisements](https://github.com/NoobySloth/qb-advertisements) - This is a simple advertising system for jobs with customisable prices! ![GitHub stars](https://img.shields.io/github/stars/NoobySloth/qb-advertisements.svg?style=social&label=Stars&maxAge=2592000)
 
+### npwd-community <a name="npwd-community"></a>
+- [npwd-qb-racing](https://github.com/npwd-community/npwd-qb-racing) - Racing app for NPWD & QB ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd-qb-racing.svg?style=social&label=Stars&maxAge=2592000)
+- [npwd_crypto](https://github.com/npwd-community/npwd_crypto) ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_crypto.svg?style=social&label=Stars&maxAge=2592000)
+- [npwd_props](https://github.com/npwd-community/npwd_props) - A collection of NPWD Frame props ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_props.svg?style=social&label=Stars&maxAge=2592000)
+- [npwd_qb_banking](https://github.com/npwd-community/npwd_qb_banking) ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_qb_banking.svg?style=social&label=Stars&maxAge=2592000)
+- [npwd_qb_garage](https://github.com/npwd-community/npwd_qb_garage) ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_qb_garage.svg?style=social&label=Stars&maxAge=2592000)
+- [npwd_qb_mail](https://github.com/npwd-community/npwd_qb_mail) ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_qb_mail.svg?style=social&label=Stars&maxAge=2592000)
+- [npwd_qb_services](https://github.com/npwd-community/npwd_qb_services) ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_qb_services.svg?style=social&label=Stars&maxAge=2592000)
+
 ### NylanderrDK <a name="NylanderrDK"></a>
 - [n-alpr](https://github.com/NylanderrDK/n-alpr) - An extension to the wk_wars2x FiveM script, that connects the scanner with the QBCore framework. ![GitHub stars](https://img.shields.io/github/stars/NylanderrDK/n-alpr.svg?style=social&label=Stars&maxAge=2592000)
 - [n-qbcore-template](https://github.com/NylanderrDK/n-qbcore-template) - A template for a FiveM server running on the QBCore framework. ![GitHub stars](https://img.shields.io/github/stars/NylanderrDK/n-qbcore-template.svg?style=social&label=Stars&maxAge=2592000)
