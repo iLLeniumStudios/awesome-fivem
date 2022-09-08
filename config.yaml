@@ -12,7 +12,7 @@ prefix: |
   - [NCS](https://github.com/NextCitizens/ncs_core)
   - [Atlas](https://github.com/AtlasFw/atl-core)
   ## Resources
-numWorkers: 25
+numWorkers: 20
 minStars: 2
 minStarsForFork: 3
 excludeRepos:
