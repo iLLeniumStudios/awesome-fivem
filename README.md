@@ -243,6 +243,9 @@ A curated list of FiveM resources
 - [B1-skillz](https://github.com/Burn-One-Studios/B1-skillz) - QB skill system converted from gamz-skillsystem with edits ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-skillz.svg?style=social&label=Stars&maxAge=2592000)
 - [lj-inventory](https://github.com/Burn-One-Studios/lj-inventory) ([Original](https://github.com/loljoshie/lj-inventory) :green_circle: +18 :red_circle: -3</span>) - Burn One Studios styling of LJ's inventory 🔥 ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/lj-inventory.svg?style=social&label=Stars&maxAge=2592000)
 
+### buzzaaaaar <a name="buzzaaaaar"></a>
+- [qb-simcard](https://github.com/buzzaaaaar/qb-simcard) - A simple resource that will allow players to change their in-game phone number ![GitHub stars](https://img.shields.io/github/stars/buzzaaaaar/qb-simcard.svg?style=social&label=Stars&maxAge=2592000)
+
 ### C0D3X3R0 <a name="C0D3X3R0"></a>
 - [jim-pokemon](https://github.com/C0D3X3R0/jim-pokemon) - FiveM QBcore Pokemon Card Script ![GitHub stars](https://img.shields.io/github/stars/C0D3X3R0/jim-pokemon.svg?style=social&label=Stars&maxAge=2592000)
 
