@@ -105,7 +105,6 @@ A curated list of FiveM resources
 - [apolo_weed](https://github.com/ApoloManCz/apolo_weed) - Weed script for QBCore framework ![GitHub stars](https://img.shields.io/github/stars/ApoloManCz/apolo_weed.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ARSSANTO <a name="ARSSANTO"></a>
-- [Pizza-Job-qb-target-context-menu-](https://github.com/ARSSANTO/Pizza-Job-qb-target-context-menu-) - Pizza Job that works on qb-target and uses context menu ped spawns to grab the pizza then pays u lol pretty simple but can be advanced ![GitHub stars](https://img.shields.io/github/stars/ARSSANTO/Pizza-Job-qb-target-context-menu-.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-checkfines](https://github.com/ARSSANTO/qb-checkfines) - qb-checkfines is a small snippet for check unpaid fines from citizen I was looking for bill checker for my server so i am sharing it with qb-core family hope it will be help full for you  ![GitHub stars](https://img.shields.io/github/stars/ARSSANTO/qb-checkfines.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Ashenboy <a name="Ashenboy"></a>
@@ -850,7 +849,7 @@ A curated list of FiveM resources
 - [qb-racing](https://github.com/ItsANoBrainer/qb-racing) - Standalone racing script for qb-core ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/qb-racing.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-scenes](https://github.com/ItsANoBrainer/qb-scenes) - QB-Scenes is a resource that lets you place customized drawtext anywhere in the world! ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/qb-scenes.svg?style=social&label=Stars&maxAge=2592000)
 - [txBanana](https://github.com/ItsANoBrainer/txBanana) - Really stupid, but really funny. ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/txBanana.svg?style=social&label=Stars&maxAge=2592000)
-- [xivPartyIcons](https://github.com/ItsANoBrainer/xivPartyIcons) ([Original](https://github.com/shdwp/xivPartyIcons) :green_circle: +17 :red_circle: -3</span>) - XIV Dalamud plugin to show icons instead of names. ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/xivPartyIcons.svg?style=social&label=Stars&maxAge=2592000)
+- [xivPartyIcons](https://github.com/ItsANoBrainer/xivPartyIcons) ([Original](https://github.com/shdwp/xivPartyIcons) :green_circle: +19 :red_circle: -3</span>) - XIV Dalamud plugin to show icons instead of names. ![GitHub stars](https://img.shields.io/github/stars/ItsANoBrainer/xivPartyIcons.svg?style=social&label=Stars&maxAge=2592000)
 
 ### itsHyper <a name="itsHyper"></a>
 - [qb-bag](https://github.com/itsHyper/qb-bag) ([Original](https://github.com/Nathan-FiveM/qb-bag) :green_circle: +0 :red_circle: -0</span>) - A useable Duffel Bag for QB Framework ![GitHub stars](https://img.shields.io/github/stars/itsHyper/qb-bag.svg?style=social&label=Stars&maxAge=2592000)
@@ -891,6 +890,7 @@ A curated list of FiveM resources
 - [esx_ladderhud](https://github.com/jaimeadf/esx_ladderhud) - A hud of thirst and hunger for FiveM (ESX)! ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/esx_ladderhud.svg?style=social&label=Stars&maxAge=2592000)
 - [vrp_betterhud](https://github.com/jaimeadf/vrp_betterhud) - Hud for fivem (vRP and vRPex) ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/vrp_betterhud.svg?style=social&label=Stars&maxAge=2592000)
 - [vrp_iconhud](https://github.com/jaimeadf/vrp_iconhud) - A hud for fivem(vRP) ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/vrp_iconhud.svg?style=social&label=Stars&maxAge=2592000)
+- [vrp_ladderhud](https://github.com/jaimeadf/vrp_ladderhud) - A hud of thirst and hunger for FiveM (vRP and vRPex)! ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/vrp_ladderhud.svg?style=social&label=Stars&maxAge=2592000)
 - [vrp_worlditems](https://github.com/jaimeadf/vrp_worlditems) ![GitHub stars](https://img.shields.io/github/stars/jaimeadf/vrp_worlditems.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Jakerssss <a name="Jakerssss"></a>
@@ -1248,6 +1248,7 @@ A curated list of FiveM resources
 - [qb-sit](https://github.com/Manliketjb/qb-sit) - qb-core sitting for chairs/beds using qb-target (ESX conversion) ![GitHub stars](https://img.shields.io/github/stars/Manliketjb/qb-sit.svg?style=social&label=Stars&maxAge=2592000)
 
 ### marcinhuu <a name="marcinhuu"></a>
+- [m-Drift](https://github.com/marcinhuu/m-Drift) - A simple drift script for qb-core, already existing, I just added a few different functions and a way to activate the drift. ![GitHub stars](https://img.shields.io/github/stars/marcinhuu/m-Drift.svg?style=social&label=Stars&maxAge=2592000)
 - [m-FakePlate](https://github.com/marcinhuu/m-FakePlate) - A simple script to change the plate. ![GitHub stars](https://img.shields.io/github/stars/marcinhuu/m-FakePlate.svg?style=social&label=Stars&maxAge=2592000)
 - [m-Teleport](https://github.com/marcinhuu/m-Teleport) - Simple teleport, with system of qb-multicharacter to check license ![GitHub stars](https://img.shields.io/github/stars/marcinhuu/m-Teleport.svg?style=social&label=Stars&maxAge=2592000)
 - [m-ToolBox](https://github.com/marcinhuu/m-ToolBox) - A simple script for mechanics to use a toolbox. ![GitHub stars](https://img.shields.io/github/stars/marcinhuu/m-ToolBox.svg?style=social&label=Stars&maxAge=2592000)
@@ -1550,12 +1551,12 @@ A curated list of FiveM resources
 - [qb-advertisements](https://github.com/NoobySloth/qb-advertisements) - This is a simple advertising system for jobs with customisable prices! ![GitHub stars](https://img.shields.io/github/stars/NoobySloth/qb-advertisements.svg?style=social&label=Stars&maxAge=2592000)
 
 ### npwd-community <a name="npwd-community"></a>
-- [npwd-qb-racing](https://github.com/npwd-community/npwd-qb-racing) - Racing app for NPWD & QB ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd-qb-racing.svg?style=social&label=Stars&maxAge=2592000)
 - [npwd_crypto](https://github.com/npwd-community/npwd_crypto) ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_crypto.svg?style=social&label=Stars&maxAge=2592000)
 - [npwd_props](https://github.com/npwd-community/npwd_props) - A collection of NPWD Frame props ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_props.svg?style=social&label=Stars&maxAge=2592000)
 - [npwd_qb_banking](https://github.com/npwd-community/npwd_qb_banking) ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_qb_banking.svg?style=social&label=Stars&maxAge=2592000)
 - [npwd_qb_garage](https://github.com/npwd-community/npwd_qb_garage) ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_qb_garage.svg?style=social&label=Stars&maxAge=2592000)
 - [npwd_qb_mail](https://github.com/npwd-community/npwd_qb_mail) ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_qb_mail.svg?style=social&label=Stars&maxAge=2592000)
+- [npwd_qb_racing](https://github.com/npwd-community/npwd_qb_racing) - Racing app for NPWD & QB ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_qb_racing.svg?style=social&label=Stars&maxAge=2592000)
 - [npwd_qb_services](https://github.com/npwd-community/npwd_qb_services) ![GitHub stars](https://img.shields.io/github/stars/npwd-community/npwd_qb_services.svg?style=social&label=Stars&maxAge=2592000)
 
 ### NylanderrDK <a name="NylanderrDK"></a>
@@ -2192,7 +2193,7 @@ A curated list of FiveM resources
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -238</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -240</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +0 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
@@ -2201,7 +2202,7 @@ A curated list of FiveM resources
 - [nw_bahamaMama](https://github.com/TayMcKenzieNZ/nw_bahamaMama) ([Original](https://github.com/Nowimps8/nw_bahamaMama) :green_circle: +0 :red_circle: -1</span>) - Bahama Mamas ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/nw_bahamaMama.svg?style=social&label=Stars&maxAge=2592000)
 - [nw_comedyClub](https://github.com/TayMcKenzieNZ/nw_comedyClub) ([Original](https://github.com/Nowimps8/nw_comedyClub) :green_circle: +0 :red_circle: -1</span>) - Split-Side Comedy Club ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/nw_comedyClub.svg?style=social&label=Stars&maxAge=2592000)
 - [NZ_Eup_Pack](https://github.com/TayMcKenzieNZ/NZ_Eup_Pack) - TayMcKenzieNZ's NZ EUP Pack containing Police, Fire and Ambulance for both MP Male and MP Female! ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/NZ_Eup_Pack.svg?style=social&label=Stars&maxAge=2592000)
-- [online-interiors](https://github.com/TayMcKenzieNZ/online-interiors) ([Original](https://github.com/kibook/online-interiors) :green_circle: +0 :red_circle: -131</span>) - A FiveM resource adding ipl/map edits, teleport's, and blips to the map for FiveM up to the mpsum2 / 2699 DLC.. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/online-interiors.svg?style=social&label=Stars&maxAge=2592000)
+- [online-interiors](https://github.com/TayMcKenzieNZ/online-interiors) ([Original](https://github.com/kibook/online-interiors) :green_circle: +0 :red_circle: -132</span>) - A FiveM resource adding ipl/map edits, teleport's, and blips to the map for FiveM up to the mpsum2 / 2699 DLC.. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/online-interiors.svg?style=social&label=Stars&maxAge=2592000)
 - [Ranch-De-Caniche](https://github.com/TayMcKenzieNZ/Ranch-De-Caniche) - Madrazo's Ranch With Cinema ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Ranch-De-Caniche.svg?style=social&label=Stars&maxAge=2592000)
 - [server_scenarios](https://github.com/TayMcKenzieNZ/server_scenarios) - FiveM resource for streaming custom scenarios.  ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/server_scenarios.svg?style=social&label=Stars&maxAge=2592000)
 - [Snowballs](https://github.com/TayMcKenzieNZ/Snowballs) ([Original](https://github.com/kibook/Snowballs) :green_circle: +0 :red_circle: -2</span>) - Pickup snowballs in FiveM! ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Snowballs.svg?style=social&label=Stars&maxAge=2592000)
