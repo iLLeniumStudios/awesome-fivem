@@ -281,6 +281,9 @@ A curated list of FiveM resources
 - [kc-unicorn](https://github.com/clementinise/kc-unicorn) - Bring life & interactions to the Unicorn Club ![GitHub stars](https://img.shields.io/github/stars/clementinise/kc-unicorn.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-lapdance](https://github.com/clementinise/qb-lapdance) - Lapdance resource for FiveM servers ![GitHub stars](https://img.shields.io/github/stars/clementinise/qb-lapdance.svg?style=social&label=Stars&maxAge=2592000)
 
+### CodineDev <a name="CodineDev"></a>
+- [cdn-fuel](https://github.com/CodineDev/cdn-fuel) - A NoPixel inspired functionality fuel system based off of ps-fuel that uses PolyZones that target fueling pumps and vehicles to allow you to refuel your vehicle, as well as interact-sound to play accurate refueling sounds. ![GitHub stars](https://img.shields.io/github/stars/CodineDev/cdn-fuel.svg?style=social&label=Stars&maxAge=2592000)
+
 ### Coffeelot <a name="Coffeelot"></a>
 - [cw-boostjob](https://github.com/Coffeelot/cw-boostjob) - QBcore based job script for stealing cars. Companion script to cw-vehicleswaps ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-boostjob.svg?style=social&label=Stars&maxAge=2592000)
 - [cw-performance](https://github.com/Coffeelot/cw-performance) - qb-core based script for vehicle class system ![GitHub stars](https://img.shields.io/github/stars/Coffeelot/cw-performance.svg?style=social&label=Stars&maxAge=2592000)
@@ -793,7 +796,7 @@ A curated list of FiveM resources
 ### ihyajb <a name="ihyajb"></a>
 - [aj-bodycam](https://github.com/ihyajb/aj-bodycam) - Bodycam System for QBCore ![GitHub stars](https://img.shields.io/github/stars/ihyajb/aj-bodycam.svg?style=social&label=Stars&maxAge=2592000)
 - [aj-camera](https://github.com/ihyajb/aj-camera) ([Original](https://github.com/quimalborch/kim-camera) :green_circle: +1 :red_circle: -7</span>) - A QBCore version of kim-camera ![GitHub stars](https://img.shields.io/github/stars/ihyajb/aj-camera.svg?style=social&label=Stars&maxAge=2592000)
-- [aj-fivem-appearance](https://github.com/ihyajb/aj-fivem-appearance) ([Original](https://github.com/ZiggyJoJo/brp-fivem-appearance) :green_circle: +13 :red_circle: -21</span>) - fivem-appearance setup to work with QBCore ![GitHub stars](https://img.shields.io/github/stars/ihyajb/aj-fivem-appearance.svg?style=social&label=Stars&maxAge=2592000)
+- [aj-fivem-appearance](https://github.com/ihyajb/aj-fivem-appearance) ([Original](https://github.com/ZiggyJoJo/brp-fivem-appearance) :green_circle: +15 :red_circle: -21</span>) - fivem-appearance setup to work with QBCore ![GitHub stars](https://img.shields.io/github/stars/ihyajb/aj-fivem-appearance.svg?style=social&label=Stars&maxAge=2592000)
 - [aj-inventory](https://github.com/ihyajb/aj-inventory) ([Original](https://github.com/qbcore-framework/qb-inventory) :green_circle: +108 :red_circle: -13</span>) - ⚠ OUTDATED ⚠ ![GitHub stars](https://img.shields.io/github/stars/ihyajb/aj-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [Casino-Heist-Scaleform-Test](https://github.com/ihyajb/Casino-Heist-Scaleform-Test) - Mostly a resource for others to test / build off of. The base resource draws scaleform for all 3 "Casino Heist Boards" and allowed the "Setup" and "Prep" boards to be Interacted with ![GitHub stars](https://img.shields.io/github/stars/ihyajb/Casino-Heist-Scaleform-Test.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-casinoheist](https://github.com/ihyajb/qb-casinoheist) - qb-casinoheist was at first a meme and was never planned to be finished. Everyone wanted it so we finished it and gave it away for free ![GitHub stars](https://img.shields.io/github/stars/ihyajb/qb-casinoheist.svg?style=social&label=Stars&maxAge=2592000)
@@ -1942,6 +1945,7 @@ A curated list of FiveM resources
 - [qb-target](https://github.com/Renewed-Scripts/qb-target) ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/qb-target.svg?style=social&label=Stars&maxAge=2592000)
 - [Renewed-Banking](https://github.com/Renewed-Scripts/Renewed-Banking) ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/Renewed-Banking.svg?style=social&label=Stars&maxAge=2592000)
 - [Renewed-Mining](https://github.com/Renewed-Scripts/Renewed-Mining) ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/Renewed-Mining.svg?style=social&label=Stars&maxAge=2592000)
+- [Renewed-Weaponscarry](https://github.com/Renewed-Scripts/Renewed-Weaponscarry) - A resource that allows you to add weapon on players back and allow them to carry certain items as props. ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/Renewed-Weaponscarry.svg?style=social&label=Stars&maxAge=2592000)
 
 ### renzuzu <a name="renzuzu"></a>
 - [1000fps](https://github.com/renzuzu/1000fps) - Enable 1000FPS in FIvem ![GitHub stars](https://img.shields.io/github/stars/renzuzu/1000fps.svg?style=social&label=Stars&maxAge=2592000)
@@ -2198,7 +2202,7 @@ A curated list of FiveM resources
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -240</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -241</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +0 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
@@ -2308,6 +2312,7 @@ A curated list of FiveM resources
 
 ### Tomboru <a name="Tomboru"></a>
 - [QB-AdvancedFishing](https://github.com/Tomboru/QB-AdvancedFishing) ![GitHub stars](https://img.shields.io/github/stars/Tomboru/QB-AdvancedFishing.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-atms](https://github.com/Tomboru/qb-atms) ([Original](https://github.com/qbcore-framework/qb-atms) :green_circle: +4 :red_circle: -9</span>) - Useable ATMs for QB-Core ![GitHub stars](https://img.shields.io/github/stars/Tomboru/qb-atms.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TomGrobbe <a name="TomGrobbe"></a>
 - [MenuAPI](https://github.com/TomGrobbe/MenuAPI) - FiveM C# Menu API. Designed specifically as a replacement of NativeUI for vMenu. Full safezone scaling supported, both left and right aligned menus supported. ![GitHub stars](https://img.shields.io/github/stars/TomGrobbe/MenuAPI.svg?style=social&label=Stars&maxAge=2592000)
