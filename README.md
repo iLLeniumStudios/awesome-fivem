@@ -1404,6 +1404,10 @@ A curated list of FiveM resources
 - [qb-k9](https://github.com/MonkeyWhisper/qb-k9) ([Original](https://github.com/FjamZoo/qb-k9) :green_circle: +0 :red_circle: -0</span>) - K9 Script for QB Core ![GitHub stars](https://img.shields.io/github/stars/MonkeyWhisper/qb-k9.svg?style=social&label=Stars&maxAge=2592000)
 - [uWuCafe](https://github.com/MonkeyWhisper/uWuCafe) - Job Script with Props, Items and Emotes ![GitHub stars](https://img.shields.io/github/stars/MonkeyWhisper/uWuCafe.svg?style=social&label=Stars&maxAge=2592000)
 
+### MOWGLI777 <a name="MOWGLI777"></a>
+- [UwU-Hud](https://github.com/MOWGLI777/UwU-Hud) - This is a hud for fivem pvp server enjoy❤️ ![GitHub stars](https://img.shields.io/github/stars/MOWGLI777/UwU-Hud.svg?style=social&label=Stars&maxAge=2592000)
+- [UwU-progressbar](https://github.com/MOWGLI777/UwU-progressbar) ![GitHub stars](https://img.shields.io/github/stars/MOWGLI777/UwU-progressbar.svg?style=social&label=Stars&maxAge=2592000)
+
 ### MrAladin-afs <a name="MrAladin-afs"></a>
 - [qb-clothing-black](https://github.com/MrAladin-afs/qb-clothing-black) ![GitHub stars](https://img.shields.io/github/stars/MrAladin-afs/qb-clothing-black.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-multicharacter](https://github.com/MrAladin-afs/qb-multicharacter) - design for qb-multicharacter ![GitHub stars](https://img.shields.io/github/stars/MrAladin-afs/qb-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
@@ -2511,6 +2515,7 @@ A curated list of FiveM resources
 - [qb-blackjack](https://github.com/xViperAG/qb-blackjack) - Working QB-Blackjack Script for QBCore - Revived from Old Version ![GitHub stars](https://img.shields.io/github/stars/xViperAG/qb-blackjack.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-k9](https://github.com/xViperAG/qb-k9) - qb-k9 - AI K9 Script for QBCore - All Credits Below ![GitHub stars](https://img.shields.io/github/stars/xViperAG/qb-k9.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-newsjob](https://github.com/xViperAG/qb-newsjob) - QB-NewsJob with Target Enhancements and Duty Scripting ![GitHub stars](https://img.shields.io/github/stars/xViperAG/qb-newsjob.svg?style=social&label=Stars&maxAge=2592000)
+- [vs-voting](https://github.com/xViperAG/vs-voting) ([Original](https://github.com/Plactrix/g-voting) :green_circle: +0 :red_circle: -6</span>) ![GitHub stars](https://img.shields.io/github/stars/xViperAG/vs-voting.svg?style=social&label=Stars&maxAge=2592000)
 
 ### yamieboi <a name="yamieboi"></a>
 - [cat-cafe-script](https://github.com/yamieboi/cat-cafe-script) - Cats Roaming Around ![GitHub stars](https://img.shields.io/github/stars/yamieboi/cat-cafe-script.svg?style=social&label=Stars&maxAge=2592000)
