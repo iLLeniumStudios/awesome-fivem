@@ -88,6 +88,9 @@ A curated list of FiveM resources
 - [WeaponAnimationMenu](https://github.com/Andyyy7666/WeaponAnimationMenu) ![GitHub stars](https://img.shields.io/github/stars/Andyyy7666/WeaponAnimationMenu.svg?style=social&label=Stars&maxAge=2592000)
 - [WeaponAnimationMenuV2](https://github.com/Andyyy7666/WeaponAnimationMenuV2) ![GitHub stars](https://img.shields.io/github/stars/Andyyy7666/WeaponAnimationMenuV2.svg?style=social&label=Stars&maxAge=2592000)
 
+### AnishBplayz <a name="AnishBplayz"></a>
+- [qb-scoreboard](https://github.com/AnishBplayz/qb-scoreboard) - It is a custom qbcore scoreboard which utilizes qb-menu to show other informations and drawtext to show id. ![GitHub stars](https://img.shields.io/github/stars/AnishBplayz/qb-scoreboard.svg?style=social&label=Stars&maxAge=2592000)
+
 ### ansljeremy <a name="ansljeremy"></a>
 - [qb-forgery](https://github.com/ansljeremy/qb-forgery) ![GitHub stars](https://img.shields.io/github/stars/ansljeremy/qb-forgery.svg?style=social&label=Stars&maxAge=2592000)
 - [RayCastCoords](https://github.com/ansljeremy/RayCastCoords) - Get coordinates from a raycast hit point. FiveM ![GitHub stars](https://img.shields.io/github/stars/ansljeremy/RayCastCoords.svg?style=social&label=Stars&maxAge=2592000)
@@ -102,6 +105,17 @@ A curated list of FiveM resources
 - [apolo_loadingscreen](https://github.com/ApoloManCz/apolo_loadingscreen) - Loadingscreen for your fivem server ![GitHub stars](https://img.shields.io/github/stars/ApoloManCz/apolo_loadingscreen.svg?style=social&label=Stars&maxAge=2592000)
 - [apolo_moneywash-QB](https://github.com/ApoloManCz/apolo_moneywash-QB) - Apolo_Moneywash used with QBCore Framework  ![GitHub stars](https://img.shields.io/github/stars/ApoloManCz/apolo_moneywash-QB.svg?style=social&label=Stars&maxAge=2592000)
 - [apolo_weed](https://github.com/ApoloManCz/apolo_weed) - Weed script for QBCore framework ![GitHub stars](https://img.shields.io/github/stars/ApoloManCz/apolo_weed.svg?style=social&label=Stars&maxAge=2592000)
+
+### arabcodingteam <a name="arabcodingteam"></a>
+- [qb-apartments](https://github.com/arabcodingteam/qb-apartments) - qb-apartments for qb-core with draw text ui ![GitHub stars](https://img.shields.io/github/stars/arabcodingteam/qb-apartments.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-bennys](https://github.com/arabcodingteam/qb-bennys) - qb-core benny shop ![GitHub stars](https://img.shields.io/github/stars/arabcodingteam/qb-bennys.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-coketable](https://github.com/arabcodingteam/qb-coketable) - buy a table and empty glass bottel for a house to make coke on the table ![GitHub stars](https://img.shields.io/github/stars/arabcodingteam/qb-coketable.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-fuel](https://github.com/arabcodingteam/qb-fuel) - np style fuel system  ![GitHub stars](https://img.shields.io/github/stars/arabcodingteam/qb-fuel.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-hunting](https://github.com/arabcodingteam/qb-hunting) - dox no pixel hunting for the new qb-core fixed and make it work with all event in it and some shop to it and add qb-target spawn ped  ![GitHub stars](https://img.shields.io/github/stars/arabcodingteam/qb-hunting.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-inventory-edit](https://github.com/arabcodingteam/qb-inventory-edit) - qb-inventory css edit first time code css realy dont know any think but it look easy ![GitHub stars](https://img.shields.io/github/stars/arabcodingteam/qb-inventory-edit.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-multicharacter](https://github.com/arabcodingteam/qb-multicharacter) - qb-multicharacter for qbcore np style nopixel ![GitHub stars](https://img.shields.io/github/stars/arabcodingteam/qb-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-policegarage](https://github.com/arabcodingteam/qb-policegarage) - qb-core police vehilce shop ![GitHub stars](https://img.shields.io/github/stars/arabcodingteam/qb-policegarage.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-veiclekeys](https://github.com/arabcodingteam/qb-veiclekeys) - my edit of qb-vehiclekeys ![GitHub stars](https://img.shields.io/github/stars/arabcodingteam/qb-veiclekeys.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ARSSANTO <a name="ARSSANTO"></a>
 - [qb-checkfines](https://github.com/ARSSANTO/qb-checkfines) - qb-checkfines is a small snippet for check unpaid fines from citizen I was looking for bill checker for my server so i am sharing it with qb-core family hope it will be help full for you  ![GitHub stars](https://img.shields.io/github/stars/ARSSANTO/qb-checkfines.svg?style=social&label=Stars&maxAge=2592000)
@@ -1294,6 +1308,10 @@ A curated list of FiveM resources
 - [qb-radialmenu](https://github.com/Marttins011/qb-radialmenu) ([Original](https://github.com/qbcore-framework/qb-radialmenu) :green_circle: +34 :red_circle: -6</span>) - Radial Menu Used With QB-Core :arrows_counterclockwise: ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-radialmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-target](https://github.com/Marttins011/qb-target) - Edited QBCore target design ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-target.svg?style=social&label=Stars&maxAge=2592000)
 
+### masonschafercodes <a name="masonschafercodes"></a>
+- [next-prisma-auth-template](https://github.com/masonschafercodes/next-prisma-auth-template) ![GitHub stars](https://img.shields.io/github/stars/masonschafercodes/next-prisma-auth-template.svg?style=social&label=Stars&maxAge=2592000)
+- [qw-accesscodes](https://github.com/masonschafercodes/qw-accesscodes) ![GitHub stars](https://img.shields.io/github/stars/masonschafercodes/qw-accesscodes.svg?style=social&label=Stars&maxAge=2592000)
+
 ### MateoCodeScripts <a name="MateoCodeScripts"></a>
 - [qb-multicharacter](https://github.com/MateoCodeScripts/qb-multicharacter) - a new desing for qb-multicharacter ![GitHub stars](https://img.shields.io/github/stars/MateoCodeScripts/qb-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -1658,6 +1676,7 @@ A curated list of FiveM resources
 - [cui_character](https://github.com/PainedPsyche/cui_character) - An advanced character and clothes editor for esx framework that aims to be comfortable to use, hide complexity and blend in with original GTA V interface elements. ![GitHub stars](https://img.shields.io/github/stars/PainedPsyche/cui_character.svg?style=social&label=Stars&maxAge=2592000)
 - [cui_wardrobe](https://github.com/PainedPsyche/cui_wardrobe) - Outfit swapping tool to be used with cui_character. ![GitHub stars](https://img.shields.io/github/stars/PainedPsyche/cui_wardrobe.svg?style=social&label=Stars&maxAge=2592000)
 - [esx_pausedetails](https://github.com/PainedPsyche/esx_pausedetails) - A simple script that controls information displayed in the pause menu title and upper-right header. ![GitHub stars](https://img.shields.io/github/stars/PainedPsyche/esx_pausedetails.svg?style=social&label=Stars&maxAge=2592000)
+- [weathertimesync](https://github.com/PainedPsyche/weathertimesync) ([Original](https://github.com/DevTestingPizza/vSync) :green_circle: +0 :red_circle: -2</span>) - Simple weather and time sync for FiveM. ![GitHub stars](https://img.shields.io/github/stars/PainedPsyche/weathertimesync.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Pavan576 <a name="Pavan576"></a>
 - [fs-multicharacter-css-edit](https://github.com/Pavan576/fs-multicharacter-css-edit) ![GitHub stars](https://img.shields.io/github/stars/Pavan576/fs-multicharacter-css-edit.svg?style=social&label=Stars&maxAge=2592000)
