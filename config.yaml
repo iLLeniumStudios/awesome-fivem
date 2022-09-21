@@ -572,4 +572,6 @@ users:
   - name: CodineDev
   - name: MOWGLI777
   - name: masonschafercodes
+    excludeRepos:
+    - next-prisma-auth-template
   - name: AnishBplayz
