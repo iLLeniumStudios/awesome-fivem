@@ -786,6 +786,7 @@ A curated list of FiveM resources
 ### IDKFORCE <a name="IDKFORCE"></a>
 - [fs-custom](https://github.com/IDKFORCE/fs-custom) - qbcore/fs-custom vehicle customization ![GitHub stars](https://img.shields.io/github/stars/IDKFORCE/fs-custom.svg?style=social&label=Stars&maxAge=2592000)
 - [fs-dirtbiketricks](https://github.com/IDKFORCE/fs-dirtbiketricks) - standalone/qbcore/esx fs-dirtbiketricks ![GitHub stars](https://img.shields.io/github/stars/IDKFORCE/fs-dirtbiketricks.svg?style=social&label=Stars&maxAge=2592000)
+- [fs-fh4speed](https://github.com/IDKFORCE/fs-fh4speed) - Vehicle Hud Base On Forza 4 For Fivem Works With esx & qbcore As It Is A Standalone ![GitHub stars](https://img.shields.io/github/stars/IDKFORCE/fs-fh4speed.svg?style=social&label=Stars&maxAge=2592000)
 - [fs-graphics](https://github.com/IDKFORCE/fs-graphics) - FiveM Graphics Made By (⸸♱♥IDK_FORCE♥♱⸸#7611) (qbcore) (esx) (standalone) ![GitHub stars](https://img.shields.io/github/stars/IDKFORCE/fs-graphics.svg?style=social&label=Stars&maxAge=2592000)
 - [fs-multicharacter](https://github.com/IDKFORCE/fs-multicharacter) - Just An Edit Version Of The Latest qb-multicharacter ![GitHub stars](https://img.shields.io/github/stars/IDKFORCE/fs-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
 - [fs-slaping](https://github.com/IDKFORCE/fs-slaping) - qbcore slaping script ![GitHub stars](https://img.shields.io/github/stars/IDKFORCE/fs-slaping.svg?style=social&label=Stars&maxAge=2592000)
@@ -1312,7 +1313,6 @@ A curated list of FiveM resources
 - [qb-target](https://github.com/Marttins011/qb-target) - Edited QBCore target design ![GitHub stars](https://img.shields.io/github/stars/Marttins011/qb-target.svg?style=social&label=Stars&maxAge=2592000)
 
 ### masonschafercodes <a name="masonschafercodes"></a>
-- [next-prisma-auth-template](https://github.com/masonschafercodes/next-prisma-auth-template) ![GitHub stars](https://img.shields.io/github/stars/masonschafercodes/next-prisma-auth-template.svg?style=social&label=Stars&maxAge=2592000)
 - [qw-accesscodes](https://github.com/masonschafercodes/qw-accesscodes) ![GitHub stars](https://img.shields.io/github/stars/masonschafercodes/qw-accesscodes.svg?style=social&label=Stars&maxAge=2592000)
 
 ### MateoCodeScripts <a name="MateoCodeScripts"></a>
@@ -2290,7 +2290,7 @@ A curated list of FiveM resources
 
 ### thelindat <a name="thelindat"></a>
 - [compass](https://github.com/thelindat/compass) ([Original](https://github.com/Petagorus/fxserver-resource-compass) :green_circle: +0 :red_circle: -11</span>) - Compass and Street names HUD for FXServer ![GitHub stars](https://img.shields.io/github/stars/thelindat/compass.svg?style=social&label=Stars&maxAge=2592000)
-- [esx-legacy](https://github.com/thelindat/esx-legacy) ([Original](https://github.com/esx-framework/esx-legacy) :green_circle: +323 :red_circle: -0</span>) - Official Repo For ESX-Legacy ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx-legacy.svg?style=social&label=Stars&maxAge=2592000)
+- [esx-legacy](https://github.com/thelindat/esx-legacy) ([Original](https://github.com/esx-framework/esx-legacy) :green_circle: +326 :red_circle: -0</span>) - Official Repo For ESX-Legacy ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx-legacy.svg?style=social&label=Stars&maxAge=2592000)
 - [esx_multicharacter](https://github.com/thelindat/esx_multicharacter) ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx_multicharacter.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_3dnui](https://github.com/thelindat/linden_3dnui) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_3dnui.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_drugsale](https://github.com/thelindat/linden_drugsale) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_drugsale.svg?style=social&label=Stars&maxAge=2592000)
