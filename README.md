@@ -1252,6 +1252,7 @@ A curated list of FiveM resources
 ### MaDHouSe79 <a name="MaDHouSe79"></a>
 - [mh-adminjobs](https://github.com/MaDHouSe79/mh-adminjobs) - qb-adminjobs - A ingame job changer for admins ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-adminjobs.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-adminzone](https://github.com/MaDHouSe79/mh-adminzone) - QB-Adminzone Create temporary Admin Zones ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-adminzone.svg?style=social&label=Stars&maxAge=2592000)
+- [mh-aiems](https://github.com/MaDHouSe79/mh-aiems) - 3 in 1 AI EMS Services By MaDHouSe79 ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-aiems.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-aimedic](https://github.com/MaDHouSe79/mh-aimedic) - AI Medic for qb build by MaDHouSe79 ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-aimedic.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-communityservice](https://github.com/MaDHouSe79/mh-communityservice) - MH-CommunityService, to punish misbehaved players ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-communityservice.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-drifting](https://github.com/MaDHouSe79/mh-drifting) - A very nice drift mode for your vehicle ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-drifting.svg?style=social&label=Stars&maxAge=2592000)
@@ -2155,6 +2156,7 @@ A curated list of FiveM resources
 ### SoyUltra <a name="SoyUltra"></a>
 - [Ultra-Hud](https://github.com/SoyUltra/Ultra-Hud) - ULTRA HUD FREE  ![GitHub stars](https://img.shields.io/github/stars/SoyUltra/Ultra-Hud.svg?style=social&label=Stars&maxAge=2592000)
 - [Ultra-Ids](https://github.com/SoyUltra/Ultra-Ids) - Ultra ID, Resource to see the ids of the players, with notification option, cooldown, colors and props ![GitHub stars](https://img.shields.io/github/stars/SoyUltra/Ultra-Ids.svg?style=social&label=Stars&maxAge=2592000)
+- [Ultra-Scoreboard](https://github.com/SoyUltra/Ultra-Scoreboard) - FREE | Scoreboard ![GitHub stars](https://img.shields.io/github/stars/SoyUltra/Ultra-Scoreboard.svg?style=social&label=Stars&maxAge=2592000)
 
 ### sp1d3r1987 <a name="sp1d3r1987"></a>
 - [qb-robparking](https://github.com/sp1d3r1987/qb-robparking) - Parking meter robbery script ![GitHub stars](https://img.shields.io/github/stars/sp1d3r1987/qb-robparking.svg?style=social&label=Stars&maxAge=2592000)
@@ -2287,13 +2289,14 @@ A curated list of FiveM resources
 ### TheHorizonDev <a name="TheHorizonDev"></a>
 - [linden_outlawalert](https://github.com/TheHorizonDev/linden_outlawalert) ([Original](https://github.com/thelindat/linden_outlawalert) :green_circle: +0 :red_circle: -8</span>) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/TheHorizonDev/linden_outlawalert.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-mine](https://github.com/TheHorizonDev/qb-mine) - Mining for QB-Core ⛏️ ![GitHub stars](https://img.shields.io/github/stars/TheHorizonDev/qb-mine.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-tattooshop](https://github.com/TheHorizonDev/qb-tattooshop) - Tattoo Shop for QBCore ![GitHub stars](https://img.shields.io/github/stars/TheHorizonDev/qb-tattooshop.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TheKingFyre <a name="TheKingFyre"></a>
 - [QB-Detector](https://github.com/TheKingFyre/QB-Detector) - Metal Detector Script for QBCore on FIVEM ![GitHub stars](https://img.shields.io/github/stars/TheKingFyre/QB-Detector.svg?style=social&label=Stars&maxAge=2592000)
 
 ### thelindat <a name="thelindat"></a>
 - [compass](https://github.com/thelindat/compass) ([Original](https://github.com/Petagorus/fxserver-resource-compass) :green_circle: +0 :red_circle: -11</span>) - Compass and Street names HUD for FXServer ![GitHub stars](https://img.shields.io/github/stars/thelindat/compass.svg?style=social&label=Stars&maxAge=2592000)
-- [esx-legacy](https://github.com/thelindat/esx-legacy) ([Original](https://github.com/esx-framework/esx-legacy) :green_circle: +351 :red_circle: -0</span>) - Official Repo For ESX-Legacy ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx-legacy.svg?style=social&label=Stars&maxAge=2592000)
+- [esx-legacy](https://github.com/thelindat/esx-legacy) ([Original](https://github.com/esx-framework/esx-legacy) :green_circle: +352 :red_circle: -0</span>) - Official Repo For ESX-Legacy ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx-legacy.svg?style=social&label=Stars&maxAge=2592000)
 - [esx_multicharacter](https://github.com/thelindat/esx_multicharacter) ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx_multicharacter.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_3dnui](https://github.com/thelindat/linden_3dnui) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_3dnui.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_drugsale](https://github.com/thelindat/linden_drugsale) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_drugsale.svg?style=social&label=Stars&maxAge=2592000)
