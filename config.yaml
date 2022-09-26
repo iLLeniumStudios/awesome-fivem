@@ -8,6 +8,7 @@ prefix: |
 
   ## Frameworks
   - [qb-core](https://github.com/qbcore-framework/qb-core)
+  - [OX](https://github.com/overextended/ox_core)
   - [ESX](https://github.com/esx-framework/esx-legacy)
   - [NCS](https://github.com/NextCitizens/ncs_core)
   - [Atlas](https://github.com/AtlasFw/atl-core)
@@ -575,3 +576,10 @@ users:
     excludeRepos:
     - next-prisma-auth-template
   - name: AnishBplayz
+  - name: Lusty94
+  - name: K-19-2
+  - name: Squizy1722
+  - name: CB-Scripts
+  - name: SH-Scripts
+  - name: Ficoni57
+  - name: Butterchilly
