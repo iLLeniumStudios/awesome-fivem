@@ -584,3 +584,31 @@ users:
   - name: Ficoni57
   - name: Butterchilly
   - name: kac5a
+  - name: eldiostv
+  - name: Pintta
+  - name: Killerhunter100
+  - name: goodgaming85
+  - name: l3oncoder
+  - name: boiidevelopment
+  - name: ZZerxer
+  - name: NeonLifeRPde
+  - name: Daltrix-Gaming
+  - name: K3YOMI
+  - name: Xed974
+  - name: PabloCodingg
+    excludeRepos:
+    - PABLO-1610
+    - sti2d_morpion
+    - kotlin_bot_template
+    - cruise_project
+    - sti2d_eltv_app
+    - security_bot
+    - supersnail_bot
+    - discord_idlearn_bot
+    - lifecraftv2_auth
+    - evogames_api
+    - sti2d_compressito
+  - name: bitpredator
+  - name: lalBi94
+  - name: Thummie
+  - name: NotSomething0
