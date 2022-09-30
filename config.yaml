@@ -291,6 +291,8 @@ users:
   - name: FaultyMatrix
   - name: JulyGee
   - name: Boom1053
+    excludeRepos:
+    - racingusb
   - name: WEEZOOKARP
   - name: Slimeemils
   - name: CritteRo
