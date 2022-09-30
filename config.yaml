@@ -141,6 +141,8 @@ users:
   - name: BerkieBb
   - name: Project-Boosted
   - name: evanillaa
+    excludeRepos:
+    - ESX-TO-QBCore-manual
   - name: Developer-Bear
   - name: TasoOneAsia
   - name: izMystic
