@@ -91,7 +91,7 @@ A curated list of FiveM resources
 - [WeaponAnimationMenuV2](https://github.com/Andyyy7666/WeaponAnimationMenuV2) ![GitHub stars](https://img.shields.io/github/stars/Andyyy7666/WeaponAnimationMenuV2.svg?style=social&label=Stars&maxAge=2592000)
 
 ### AnishBplayz <a name="AnishBplayz"></a>
-- [ps-hud](https://github.com/AnishBplayz/ps-hud) ([Original](https://github.com/Project-Sloth/ps-hud) :green_circle: +4 :red_circle: -6</span>) - Ultra customizable hud featuring a unique and robust settings menu. Change eveything about your experience! ![GitHub stars](https://img.shields.io/github/stars/AnishBplayz/ps-hud.svg?style=social&label=Stars&maxAge=2592000)
+- [ps-hud](https://github.com/AnishBplayz/ps-hud) ([Original](https://github.com/Project-Sloth/ps-hud) :green_circle: +0 :red_circle: -7</span>) - Ultra customizable hud featuring a unique and robust settings menu. Change eveything about your experience! ![GitHub stars](https://img.shields.io/github/stars/AnishBplayz/ps-hud.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-scoreboard](https://github.com/AnishBplayz/qb-scoreboard) - It is a custom qbcore scoreboard which utilizes qb-menu to show other informations and drawtext to show id. ![GitHub stars](https://img.shields.io/github/stars/AnishBplayz/qb-scoreboard.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ansljeremy <a name="ansljeremy"></a>
@@ -184,6 +184,9 @@ A curated list of FiveM resources
 ### BlackzoneV <a name="BlackzoneV"></a>
 - [bz_antifireRate](https://github.com/BlackzoneV/bz_antifireRate) - FiveM ![GitHub stars](https://img.shields.io/github/stars/BlackzoneV/bz_antifireRate.svg?style=social&label=Stars&maxAge=2592000)
 - [bz_hud](https://github.com/BlackzoneV/bz_hud) - FiveM ![GitHub stars](https://img.shields.io/github/stars/BlackzoneV/bz_hud.svg?style=social&label=Stars&maxAge=2592000)
+
+### BloodLine1002 <a name="BloodLine1002"></a>
+- [qb-uwujob](https://github.com/BloodLine1002/qb-uwujob) - best script till now!! ![GitHub stars](https://img.shields.io/github/stars/BloodLine1002/qb-uwujob.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Blumlaut <a name="Blumlaut"></a>
 - [anticheese-anticheat](https://github.com/Blumlaut/anticheese-anticheat) - the FiveM anticheat, actively fighting against cheaters in FiveM. ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/anticheese-anticheat.svg?style=social&label=Stars&maxAge=2592000)
@@ -737,6 +740,7 @@ A curated list of FiveM resources
 
 ### HarithMichael <a name="HarithMichael"></a>
 - [esx_doorlock-Better-3D-text-and-distance-](https://github.com/HarithMichael/esx_doorlock-Better-3D-text-and-distance-) - This esx_doorlock got better 3D text and distance check, unlike old esx_doorlock even you are far away from doors gives 0.20-0.30ms ![GitHub stars](https://img.shields.io/github/stars/HarithMichael/esx_doorlock-Better-3D-text-and-distance-.svg?style=social&label=Stars&maxAge=2592000)
+- [ps-ui](https://github.com/HarithMichael/ps-ui) ![GitHub stars](https://img.shields.io/github/stars/HarithMichael/ps-ui.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-inventory-withdecay](https://github.com/HarithMichael/qb-inventory-withdecay) - lj-inventory works with latest qb-core ![GitHub stars](https://img.shields.io/github/stars/HarithMichael/qb-inventory-withdecay.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-inventory-withoutdecay](https://github.com/HarithMichael/qb-inventory-withoutdecay) - lj-inventory works with latest qb-core ![GitHub stars](https://img.shields.io/github/stars/HarithMichael/qb-inventory-withoutdecay.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2740,7 +2744,7 @@ A curated list of FiveM resources
 - [GTA5-Vehicle-Meta](https://github.com/zfbx/GTA5-Vehicle-Meta) ![GitHub stars](https://img.shields.io/github/stars/zfbx/GTA5-Vehicle-Meta.svg?style=social&label=Stars&maxAge=2592000)
 - [improved-females](https://github.com/zfbx/improved-females) - Better FiveM Female Characters Appearance mod ![GitHub stars](https://img.shields.io/github/stars/zfbx/improved-females.svg?style=social&label=Stars&maxAge=2592000)
 - [zdiscord](https://github.com/zfbx/zdiscord) - A Discord bot that runs in FiveM for the purpose of whitelisting, moderation and utilties using discord.js ![GitHub stars](https://img.shields.io/github/stars/zfbx/zdiscord.svg?style=social&label=Stars&maxAge=2592000)
-- [zqueue](https://github.com/zfbx/zqueue) ([Original](https://github.com/VikingTheDev/pQueue) :green_circle: +0 :red_circle: -8</span>) - This is a simple FiveM server queue with Discord based priority, built on the zdiscord api ![GitHub stars](https://img.shields.io/github/stars/zfbx/zqueue.svg?style=social&label=Stars&maxAge=2592000)
+- [zqueue](https://github.com/zfbx/zqueue) ([Original](https://github.com/augshin/pQueue) :green_circle: +0 :red_circle: -8</span>) - This is a simple FiveM server queue with Discord based priority, built on the zdiscord api ![GitHub stars](https://img.shields.io/github/stars/zfbx/zqueue.svg?style=social&label=Stars&maxAge=2592000)
 - [zseatbelt](https://github.com/zfbx/zseatbelt) - Seatbelt resource built for FiveM using a completely new method ![GitHub stars](https://img.shields.io/github/stars/zfbx/zseatbelt.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ZHOURA-24 <a name="ZHOURA-24"></a>
