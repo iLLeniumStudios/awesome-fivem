@@ -1318,6 +1318,7 @@ A curated list of FiveM resources
 - [mh-communityservice](https://github.com/MaDHouSe79/mh-communityservice) - MH-CommunityService, to punish misbehaved players ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-communityservice.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-drifting](https://github.com/MaDHouSe79/mh-drifting) - A very nice drift mode for your vehicle ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-drifting.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-drivingteacherjob](https://github.com/MaDHouSe79/mh-drivingteacherjob) - QBCore Driving Teacher Job By MaDHouSe79 ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-drivingteacherjob.svg?style=social&label=Stars&maxAge=2592000)
+- [mh-elevators](https://github.com/MaDHouSe79/mh-elevators) - mh-elevators script Created by MaDHouSe79 ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-elevators.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-housenames](https://github.com/MaDHouSe79/mh-housenames) - A easy way to interact to buy houses.  ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-housenames.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-jobgaragemenu](https://github.com/MaDHouSe79/mh-jobgaragemenu) - QB Job Garage Menu with category Created by MaDHouSe79 ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-jobgaragemenu.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-lootpeds](https://github.com/MaDHouSe79/mh-lootpeds) - Loot Dead Corps By MaDHouSe79 ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-lootpeds.svg?style=social&label=Stars&maxAge=2592000)
@@ -2020,6 +2021,9 @@ A curated list of FiveM resources
 - [tutorial-script](https://github.com/qbcore-framework/tutorial-script) - Learn about the fundamentals of QBCore! ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/tutorial-script.svg?style=social&label=Stars&maxAge=2592000)
 - [txAdminRecipe](https://github.com/qbcore-framework/txAdminRecipe) - Recipe To Deploy The Build Using txAdmin ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/txAdminRecipe.svg?style=social&label=Stars&maxAge=2592000)
 
+### QBCore-Remastered <a name="QBCore-Remastered"></a>
+- [qb-core](https://github.com/QBCore-Remastered/qb-core) ![GitHub stars](https://img.shields.io/github/stars/QBCore-Remastered/qb-core.svg?style=social&label=Stars&maxAge=2592000)
+
 ### qds-store <a name="qds-store"></a>
 - [progressbar](https://github.com/qds-store/progressbar) - Config files for my GitHub profile. ![GitHub stars](https://img.shields.io/github/stars/qds-store/progressbar.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2598,6 +2602,7 @@ A curated list of FiveM resources
 - [vorp_banking](https://github.com/VORPCORE/vorp_banking) - Banking system VORP ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp_banking.svg?style=social&label=Stars&maxAge=2592000)
 - [vorp_barbershop_lua](https://github.com/VORPCORE/vorp_barbershop_lua) - barbershop script written in lua for VORP ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp_barbershop_lua.svg?style=social&label=Stars&maxAge=2592000)
 - [vorp_bossmanager](https://github.com/VORPCORE/vorp_bossmanager) - Manage job ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp_bossmanager.svg?style=social&label=Stars&maxAge=2592000)
+- [vorp_crawfish](https://github.com/VORPCORE/vorp_crawfish) - catch Crawfish ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp_crawfish.svg?style=social&label=Stars&maxAge=2592000)
 - [vorp_fishing-lua](https://github.com/VORPCORE/vorp_fishing-lua) - Lua version of vorp_fishing based on the amazing work of the FRP_Framework team ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp_fishing-lua.svg?style=social&label=Stars&maxAge=2592000)
 - [vorp_inventory-lua](https://github.com/VORPCORE/vorp_inventory-lua) - vorp Inventory in lua ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp_inventory-lua.svg?style=social&label=Stars&maxAge=2592000)
 - [vorp_medics](https://github.com/VORPCORE/vorp_medics) - A medical script  ![GitHub stars](https://img.shields.io/github/stars/VORPCORE/vorp_medics.svg?style=social&label=Stars&maxAge=2592000)
