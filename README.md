@@ -6,6 +6,7 @@ A curated list of FiveM resources
 - My Discord: https://discord.illenium.dev
 
 ## Frameworks
+- [qb-core Remastered](https://github.com/QBCore-Remastered/qb-core)
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [OX](https://github.com/overextended/ox_core)
 - [ESX](https://github.com/esx-framework/esx-legacy)
