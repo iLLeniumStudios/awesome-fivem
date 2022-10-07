@@ -86,11 +86,13 @@ A curated list of FiveM resources
 - [HelicopterHUD](https://github.com/Andyyy7666/HelicopterHUD) - Helicopter HUD that includes a few cool features. ![GitHub stars](https://img.shields.io/github/stars/Andyyy7666/HelicopterHUD.svg?style=social&label=Stars&maxAge=2592000)
 - [Non-ESX-Holster](https://github.com/Andyyy7666/Non-ESX-Holster) - Original release: https://forum.cfx.re/t/release-esx-holster/737784?u=andyyyyy ![GitHub stars](https://img.shields.io/github/stars/Andyyy7666/Non-ESX-Holster.svg?style=social&label=Stars&maxAge=2592000)
 - [SimpleHUD](https://github.com/Andyyy7666/SimpleHUD) - Simple HUD for FiveM with a location, postal, and time display. ![GitHub stars](https://img.shields.io/github/stars/Andyyy7666/SimpleHUD.svg?style=social&label=Stars&maxAge=2592000)
+- [taximeter](https://github.com/Andyyy7666/taximeter) - Join my discord https://discord.gg/Z9Mxu72zZ6 ![GitHub stars](https://img.shields.io/github/stars/Andyyy7666/taximeter.svg?style=social&label=Stars&maxAge=2592000)
 - [TenCodes](https://github.com/Andyyy7666/TenCodes) - FiveM 10 Codes list ![GitHub stars](https://img.shields.io/github/stars/Andyyy7666/TenCodes.svg?style=social&label=Stars&maxAge=2592000)
 - [WeaponAnimationMenu](https://github.com/Andyyy7666/WeaponAnimationMenu) ![GitHub stars](https://img.shields.io/github/stars/Andyyy7666/WeaponAnimationMenu.svg?style=social&label=Stars&maxAge=2592000)
 - [WeaponAnimationMenuV2](https://github.com/Andyyy7666/WeaponAnimationMenuV2) ![GitHub stars](https://img.shields.io/github/stars/Andyyy7666/WeaponAnimationMenuV2.svg?style=social&label=Stars&maxAge=2592000)
 
 ### AnishBplayz <a name="AnishBplayz"></a>
+- [ps-hud](https://github.com/AnishBplayz/ps-hud) ([Original](https://github.com/Project-Sloth/ps-hud) :green_circle: +0 :red_circle: -7</span>) - Ultra customizable hud featuring a unique and robust settings menu. Change eveything about your experience! ![GitHub stars](https://img.shields.io/github/stars/AnishBplayz/ps-hud.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-scoreboard](https://github.com/AnishBplayz/qb-scoreboard) - It is a custom qbcore scoreboard which utilizes qb-menu to show other informations and drawtext to show id. ![GitHub stars](https://img.shields.io/github/stars/AnishBplayz/qb-scoreboard.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ansljeremy <a name="ansljeremy"></a>
@@ -194,14 +196,11 @@ A curated list of FiveM resources
 - [BetterRecoil](https://github.com/Blumlaut/BetterRecoil) - better 3rd person recoil for FiveM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/BetterRecoil.svg?style=social&label=Stars&maxAge=2592000)
 - [crouch-n-prone](https://github.com/Blumlaut/crouch-n-prone) - Crouch'n Prone - FiveM Resource ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/crouch-n-prone.svg?style=social&label=Stars&maxAge=2592000)
 - [EasyAdmin](https://github.com/Blumlaut/EasyAdmin) - Admin Menu for FiveM and RedM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/EasyAdmin.svg?style=social&label=Stars&maxAge=2592000)
-- [EasyAdmin-docs](https://github.com/Blumlaut/EasyAdmin-docs) - Docs for EasyAdmin ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/EasyAdmin-docs.svg?style=social&label=Stars&maxAge=2592000)
-- [FiveM-BlockVPN](https://github.com/Blumlaut/FiveM-BlockVPN) ([Original](https://github.com/CADOJRP/FiveM-BlockVPN) :green_circle: +1 :red_circle: -0</span>) - Lua Resource to block VPN and proxy connections. ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-BlockVPN.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-DriftCounter](https://github.com/Blumlaut/FiveM-DriftCounter) ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-DriftCounter.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-Handling-Editor-Example](https://github.com/Blumlaut/FiveM-Handling-Editor-Example) - an example for a handling editor in FiveM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-Handling-Editor-Example.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-KOTH](https://github.com/Blumlaut/FiveM-KOTH) - Arma-Inspired KOTH Gamemode for FiveM ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-KOTH.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-lscustoms-es](https://github.com/Blumlaut/fivem-lscustoms-es) - LSCustoms for FiveM using essentialmode ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/fivem-lscustoms-es.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-Resource-Version-Check-Thing](https://github.com/Blumlaut/FiveM-Resource-Version-Check-Thing) - a thing that does a thing ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-Resource-Version-Check-Thing.svg?style=social&label=Stars&maxAge=2592000)
-- [FiveM-some-weird-cache-verification-thing](https://github.com/Blumlaut/FiveM-some-weird-cache-verification-thing) - concept of a cache verification system, not proven to work, or even be effective at all, please ignore ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-some-weird-cache-verification-thing.svg?style=social&label=Stars&maxAge=2592000)
 - [FiveM-Trains](https://github.com/Blumlaut/FiveM-Trains) - A FiveM Resource to add trains, thats it, nothing more ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/FiveM-Trains.svg?style=social&label=Stars&maxAge=2592000)
 - [initialdspeedo-fivem](https://github.com/Blumlaut/initialdspeedo-fivem) - an initial d speedo for fivem ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/initialdspeedo-fivem.svg?style=social&label=Stars&maxAge=2592000)
 - [InversePower-FiveM](https://github.com/Blumlaut/InversePower-FiveM) - InversePower Port to FiveM ( and in Lua ) ![GitHub stars](https://img.shields.io/github/stars/Blumlaut/InversePower-FiveM.svg?style=social&label=Stars&maxAge=2592000)
@@ -261,6 +260,7 @@ A curated list of FiveM resources
 - [JeweleryYMAP](https://github.com/Bunny5578/JeweleryYMAP) - removed the bushes and some of the brick things lol ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/JeweleryYMAP.svg?style=social&label=Stars&maxAge=2592000)
 - [Katana-Prop](https://github.com/Bunny5578/Katana-Prop) - nopixel inspired katana sheath ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/Katana-Prop.svg?style=social&label=Stars&maxAge=2592000)
 - [LapdCarPack](https://github.com/Bunny5578/LapdCarPack) - this is a work in progress lapd/nopixel inspired car pack i will be updating this everyday that i can ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/LapdCarPack.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-crates](https://github.com/Bunny5578/qb-crates) ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-crates.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-smallresources-edit](https://github.com/Bunny5578/qb-smallresources-edit) ([Original](https://github.com/qbcore-framework/qb-smallresources) :green_circle: +18 :red_circle: -2</span>) - A compilation of small resources combined into one ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-smallresources-edit.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-taserammo](https://github.com/Bunny5578/qb-taserammo) - NoPixel Inspired Taser cartridges just a little taser ammo snippet me and a couple people in the qbcore discord fixed up and made it work for qbcore ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-taserammo.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-wheelchair](https://github.com/Bunny5578/qb-wheelchair) - NoPixel inspired wheelchair script for qbcore - i am not the original creator of this script all i did was update it and added a item in the readme and added the new qbcore exports credits to - єѕтяєℓℓιтα ♥#4558 i couldnt find there github  ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-wheelchair.svg?style=social&label=Stars&maxAge=2592000)
@@ -310,9 +310,6 @@ A curated list of FiveM resources
 
 ### CB-Scripts <a name="CB-Scripts"></a>
 - [cb-medloot](https://github.com/CB-Scripts/cb-medloot) - A script that allows players to search containers within hospitals and medical areas for medical items. ![GitHub stars](https://img.shields.io/github/stars/CB-Scripts/cb-medloot.svg?style=social&label=Stars&maxAge=2592000)
-
-### Chxttr <a name="Chxttr"></a>
-- [lj-inventory-with-QBCore-exports-and-decay](https://github.com/Chxttr/lj-inventory-with-QBCore-exports-and-decay) - What the title says ![GitHub stars](https://img.shields.io/github/stars/Chxttr/lj-inventory-with-QBCore-exports-and-decay.svg?style=social&label=Stars&maxAge=2592000)
 
 ### clementinise <a name="clementinise"></a>
 - [esx_repairkit](https://github.com/clementinise/esx_repairkit) ([Original](https://github.com/jonteohr/esx_repairkit) :green_circle: +2 :red_circle: -61</span>) - RepairKit script for FiveM ESX servers ![GitHub stars](https://img.shields.io/github/stars/clementinise/esx_repairkit.svg?style=social&label=Stars&maxAge=2592000)
@@ -411,9 +408,6 @@ A curated list of FiveM resources
 ### DanielCoelh0 <a name="DanielCoelh0"></a>
 - [qb-cityhall](https://github.com/DanielCoelh0/qb-cityhall) ([Original](https://github.com/qbcore-framework/qb-cityhall) :green_circle: +14 :red_circle: -13</span>) - City Hall Script For QB-Core ![GitHub stars](https://img.shields.io/github/stars/DanielCoelh0/qb-cityhall.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-lift](https://github.com/DanielCoelh0/qb-lift) - Lift script for Fivem QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/DanielCoelh0/qb-lift.svg?style=social&label=Stars&maxAge=2592000)
-
-### DannyyDev <a name="DannyyDev"></a>
-- [qb-storages](https://github.com/DannyyDev/qb-storages) - Storage System for QBCore ![GitHub stars](https://img.shields.io/github/stars/DannyyDev/qb-storages.svg?style=social&label=Stars&maxAge=2592000)
 
 ### DansMatee <a name="DansMatee"></a>
 - [dans_methvans](https://github.com/DansMatee/dans_methvans) - A script made for FiveM ![GitHub stars](https://img.shields.io/github/stars/DansMatee/dans_methvans.svg?style=social&label=Stars&maxAge=2592000)
@@ -872,7 +866,7 @@ A curated list of FiveM resources
 - [Roda_PauseMenu](https://github.com/iLLeniumStudios/Roda_PauseMenu) ([Original](https://github.com/RodericAguilar/Roda_PauseMenu) :green_circle: +8 :red_circle: -21</span>) - Roda_PauseMenu compatible with qb-core ![GitHub stars](https://img.shields.io/github/stars/iLLeniumStudios/Roda_PauseMenu.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ImpulseFPS <a name="ImpulseFPS"></a>
-- [icons](https://github.com/ImpulseFPS/icons) ([Original](https://github.com/McKleans-Scripts/mk-items) :green_circle: +3 :red_circle: -0</span>) - A simple repo with Items/Icons for your FiveM Servers. ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/icons.svg?style=social&label=Stars&maxAge=2592000)
+- [icons](https://github.com/ImpulseFPS/icons) ([Original](https://github.com/McKleans-Scripts/mk-items) :green_circle: +0 :red_circle: -0</span>) - A simple repo with Items/Icons for your FiveM Servers. ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/icons.svg?style=social&label=Stars&maxAge=2592000)
 - [irp-fuel](https://github.com/ImpulseFPS/irp-fuel) - NoPixel style legacyfuel ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/irp-fuel.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-communityservice](https://github.com/ImpulseFPS/qb-communityservice) ([Original](https://github.com/Jeuriz/qb-communityservice) :green_circle: +0 :red_circle: -0</span>) - Community service. Converted from ESX to QBCore ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-communityservice.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-garages-2](https://github.com/ImpulseFPS/qb-garages-2) ([Original](https://github.com/JustLazzy/qb-garages) :green_circle: +7 :red_circle: -0</span>) - Edited qb-garages using Polyzone ![GitHub stars](https://img.shields.io/github/stars/ImpulseFPS/qb-garages-2.svg?style=social&label=Stars&maxAge=2592000)
@@ -1480,6 +1474,7 @@ A curated list of FiveM resources
 
 ### MoneSuper <a name="MoneSuper"></a>
 - [Older-QBCore-Framework](https://github.com/MoneSuper/Older-QBCore-Framework) ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/Older-QBCore-Framework.svg?style=social&label=Stars&maxAge=2592000)
+- [psr-zones](https://github.com/MoneSuper/psr-zones) ([Original](https://github.com/Project-Sloth/ps-zones) :green_circle: +0 :red_circle: -2</span>) - RedM Zones  ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/psr-zones.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-spawn](https://github.com/MoneSuper/qb-spawn) - Hopes are gone idk ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qb-spawn.svg?style=social&label=Stars&maxAge=2592000)
 - [qbr-inventory](https://github.com/MoneSuper/qbr-inventory) ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qbr-inventory.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2163,7 +2158,6 @@ A curated list of FiveM resources
 ### Revoxxi <a name="Revoxxi"></a>
 - [qb-luckywheel](https://github.com/Revoxxi/qb-luckywheel) - Luckywheel, derived from https://github.com/Sn0wBiT/esx_tpnrp_luckywheel and rewritten for QBCore ![GitHub stars](https://img.shields.io/github/stars/Revoxxi/qb-luckywheel.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-slots](https://github.com/Revoxxi/qb-slots) - Slotmachines for QBCore Framework (https://github.com/qbcore-framework). Based on esx_slots which is derived from vrp_slots ![GitHub stars](https://img.shields.io/github/stars/Revoxxi/qb-slots.svg?style=social&label=Stars&maxAge=2592000)
-- [utk_pb](https://github.com/Revoxxi/utk_pb) ([Original](https://github.com/utkuali/utk_powerplant) :green_circle: +0 :red_circle: -3</span>) - Power Plant by utku ![GitHub stars](https://img.shields.io/github/stars/Revoxxi/utk_pb.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Reysel1 <a name="Reysel1"></a>
 - [r-surf](https://github.com/Reysel1/r-surf) ![GitHub stars](https://img.shields.io/github/stars/Reysel1/r-surf.svg?style=social&label=Stars&maxAge=2592000)
@@ -2393,7 +2387,7 @@ A curated list of FiveM resources
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -269</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -271</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +0 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
@@ -2711,6 +2705,7 @@ A curated list of FiveM resources
 ### xViperAG <a name="xViperAG"></a>
 - [6str-carpack](https://github.com/xViperAG/6str-carpack) - All Rights and Creation go to GTAWiseGuy. Visit https://www.gta5-mods.com/users/GTAWiseGuy for more! ![GitHub stars](https://img.shields.io/github/stars/xViperAG/6str-carpack.svg?style=social&label=Stars&maxAge=2592000)
 - [710-multiJob](https://github.com/xViperAG/710-multiJob) - 710-multiJob Rewritten for New qb-menu ![GitHub stars](https://img.shields.io/github/stars/xViperAG/710-multiJob.svg?style=social&label=Stars&maxAge=2592000)
+- [futte-newspaper](https://github.com/xViperAG/futte-newspaper) ([Original](https://github.com/xFutte/futte-newspaper) :green_circle: +0 :red_circle: -9</span>) - [QBCore] Newspaper script displaying news, prison sentences, and enables reporters to write, update and delete news ![GitHub stars](https://img.shields.io/github/stars/xViperAG/futte-newspaper.svg?style=social&label=Stars&maxAge=2592000)
 - [ps-css-edits](https://github.com/xViperAG/ps-css-edits) ![GitHub stars](https://img.shields.io/github/stars/xViperAG/ps-css-edits.svg?style=social&label=Stars&maxAge=2592000)
 - [ps-slothserverbuild](https://github.com/xViperAG/ps-slothserverbuild) - Project Sloth Scripts Pre Installed Latest Core ![GitHub stars](https://img.shields.io/github/stars/xViperAG/ps-slothserverbuild.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-blackjack](https://github.com/xViperAG/qb-blackjack) - Working QB-Blackjack Script for QBCore - Revived from Old Version ![GitHub stars](https://img.shields.io/github/stars/xViperAG/qb-blackjack.svg?style=social&label=Stars&maxAge=2592000)
