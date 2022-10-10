@@ -272,7 +272,7 @@ A curated list of FiveM resources
 ### Burn-One-Studios <a name="Burn-One-Studios"></a>
 - [B1-carremote](https://github.com/Burn-One-Studios/B1-carremote) - A NUI Car Remote for QBCore ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-carremote.svg?style=social&label=Stars&maxAge=2592000)
 - [B1-Loading](https://github.com/Burn-One-Studios/B1-Loading) ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-Loading.svg?style=social&label=Stars&maxAge=2592000)
-- [B1-skillz](https://github.com/Burn-One-Studios/B1-skillz) - QB skill system converted from gamz-skillsystem with edits ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-skillz.svg?style=social&label=Stars&maxAge=2592000)
+- [B1-skillz](https://github.com/Burn-One-Studios/B1-skillz) - Fivem skill system forked from gamz-skillsystem with edits ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/B1-skillz.svg?style=social&label=Stars&maxAge=2592000)
 - [lj-inventory](https://github.com/Burn-One-Studios/lj-inventory) ([Original](https://github.com/loljoshie/lj-inventory) :green_circle: +23 :red_circle: -3</span>) - Burn One Studios styling of LJ's inventory 🔥 ![GitHub stars](https://img.shields.io/github/stars/Burn-One-Studios/lj-inventory.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Butterchilly <a name="Butterchilly"></a>
@@ -663,7 +663,6 @@ A curated list of FiveM resources
 - [elite-electricianjob](https://github.com/g3shaa/elite-electricianjob) - QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/g3shaa/elite-electricianjob.svg?style=social&label=Stars&maxAge=2592000)
 - [elite-materials](https://github.com/g3shaa/elite-materials) - FiveM Resource (Scrapyard and Trash Searching) [QBCore] ![GitHub stars](https://img.shields.io/github/stars/g3shaa/elite-materials.svg?style=social&label=Stars&maxAge=2592000)
 - [elite-vending](https://github.com/g3shaa/elite-vending) - QBCore script using qb-target and nh-context ![GitHub stars](https://img.shields.io/github/stars/g3shaa/elite-vending.svg?style=social&label=Stars&maxAge=2592000)
-- [fishing-script](https://github.com/g3shaa/fishing-script) - QBCore Fishing script using qb-target and nh-context ![GitHub stars](https://img.shields.io/github/stars/g3shaa/fishing-script.svg?style=social&label=Stars&maxAge=2592000)
 - [nh-context](https://github.com/g3shaa/nh-context) - NH Context (EDITED STYLE) (STANDALONE SCRIPT) ![GitHub stars](https://img.shields.io/github/stars/g3shaa/nh-context.svg?style=social&label=Stars&maxAge=2592000)
 
 ### GabbarFramework <a name="GabbarFramework"></a>
@@ -1021,6 +1020,7 @@ A curated list of FiveM resources
 - [qb-clearchat](https://github.com/jaylac2000/qb-clearchat) - Clear Chat Script ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/qb-clearchat.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-communityservice](https://github.com/jaylac2000/qb-communityservice) - Community Service Script for QBCore FiveM Servers ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/qb-communityservice.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-firefighterjob](https://github.com/jaylac2000/qb-firefighterjob) - started out as qb-ambulancejob but removed some stuff to turn it into a job for firefighters ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/qb-firefighterjob.svg?style=social&label=Stars&maxAge=2592000)
+- [qb_gl-halloween](https://github.com/jaylac2000/qb_gl-halloween) - QBCore Trick or Treating ![GitHub stars](https://img.shields.io/github/stars/jaylac2000/qb_gl-halloween.svg?style=social&label=Stars&maxAge=2592000)
 
 ### JericoFX <a name="JericoFX"></a>
 - [fx-bossmenu](https://github.com/JericoFX/fx-bossmenu) - FX-Bossmenu with Vue ![GitHub stars](https://img.shields.io/github/stars/JericoFX/fx-bossmenu.svg?style=social&label=Stars&maxAge=2592000)
@@ -1510,6 +1510,7 @@ A curated list of FiveM resources
 ### MrEvilGamer <a name="MrEvilGamer"></a>
 - [chat](https://github.com/MrEvilGamer/chat) - A chat for your server ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/chat.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-casinowheel](https://github.com/MrEvilGamer/qb-casinowheel) - Casino Wheel for the casino and Moving Car too! - QBCore ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-casinowheel.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-crabs](https://github.com/MrEvilGamer/qb-crabs) - Crabs and Shrimps ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-crabs.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-extras](https://github.com/MrEvilGamer/qb-extras) - Some Extra Scripts for QBCore Framework which I found necessary  so here they are. ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-extras.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-fishing](https://github.com/MrEvilGamer/qb-fishing) - A Fishing Script For QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-fishing.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-hunting](https://github.com/MrEvilGamer/qb-hunting) - A Hunting Job For QBCore Converted From ESX - QBCore ![GitHub stars](https://img.shields.io/github/stars/MrEvilGamer/qb-hunting.svg?style=social&label=Stars&maxAge=2592000)
@@ -1537,7 +1538,7 @@ A curated list of FiveM resources
 - [mz-lumberjack](https://github.com/MrZainRP/mz-lumberjack) - A progression (XP) based lumberjack job + crafting for QB-CORE based FiveM servers ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-lumberjack.svg?style=social&label=Stars&maxAge=2592000)
 - [mz-scrap](https://github.com/MrZainRP/mz-scrap) - A FiveM resource which allows players to scrap wrecks found in GTA V with experience and item progression ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-scrap.svg?style=social&label=Stars&maxAge=2592000)
 - [mz-shrooms](https://github.com/MrZainRP/mz-shrooms) - A self-contained, customistable resource introducing the shroom drug to qb-core servers with collection, processing and use modifiers included ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-shrooms.svg?style=social&label=Stars&maxAge=2592000)
-- [mz-skills](https://github.com/MrZainRP/mz-skills) ([Original](https://github.com/Burn-One-Studios/B1-skillz) :green_circle: +10 :red_circle: -15</span>) - A modification to Kings#4220 qb-skillz - working off the unsupported custom line ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-skills.svg?style=social&label=Stars&maxAge=2592000)
+- [mz-skills](https://github.com/MrZainRP/mz-skills) ([Original](https://github.com/Burn-One-Studios/B1-skillz) :green_circle: +12 :red_circle: -15</span>) - A modification to Kings#4220 qb-skillz - working off the unsupported custom line ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-skills.svg?style=social&label=Stars&maxAge=2592000)
 - [mz-usbhacks](https://github.com/MrZainRP/mz-usbhacks) - A XP progression based hacking function for usb drops in qb-core FiveM servers ![GitHub stars](https://img.shields.io/github/stars/MrZainRP/mz-usbhacks.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Musiker15 <a name="Musiker15"></a>
@@ -1706,6 +1707,7 @@ A curated list of FiveM resources
 - [Omi-printers](https://github.com/OmiJod/Omi-printers) - QBCore This Is a Forked Script and The Original One You can Find it in qb-core's Repo | This Script Contains Qb-target and No More Use /spawnprinter or /useprinter   ![GitHub stars](https://img.shields.io/github/stars/OmiJod/Omi-printers.svg?style=social&label=Stars&maxAge=2592000)
 - [Omi-Rentals](https://github.com/OmiJod/Omi-Rentals) - Mainly Forks From Qbcore FrameWork ![GitHub stars](https://img.shields.io/github/stars/OmiJod/Omi-Rentals.svg?style=social&label=Stars&maxAge=2592000)
 - [Omi-Spwan](https://github.com/OmiJod/Omi-Spwan) - Html/css Reworked For QB-Spawn For QBCore ![GitHub stars](https://img.shields.io/github/stars/OmiJod/Omi-Spwan.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-banktrucks](https://github.com/OmiJod/qb-banktrucks) - A QBCore Script For Officers So When they are Bored or there is not any crime in the city Going On they Can Dilvery Van Full of Money to all The banks of The Server And Get Rewards . This is An Open Source Script ![GitHub stars](https://img.shields.io/github/stars/OmiJod/qb-banktrucks.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-input-css-edit](https://github.com/OmiJod/qb-input-css-edit) - CSS Edit for Qb input (qb-menu Follow Up) For QBCore ![GitHub stars](https://img.shields.io/github/stars/OmiJod/qb-input-css-edit.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-menu-css-edit](https://github.com/OmiJod/qb-menu-css-edit) - This is an Qb Menu CSS EDIT For QBCore ![GitHub stars](https://img.shields.io/github/stars/OmiJod/qb-menu-css-edit.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2344,7 +2346,7 @@ A curated list of FiveM resources
 - [nui_doorlock](https://github.com/StuxxyOfficial/nui_doorlock) - nui_doorlock archive ![GitHub stars](https://img.shields.io/github/stars/StuxxyOfficial/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Sub-Zero-Interactive <a name="Sub-Zero-Interactive"></a>
-- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +345 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-core-esx-](https://github.com/Sub-Zero-Interactive/qb-core-esx-) ([Original](https://github.com/qbcore-framework/qb-core) :green_circle: +349 :red_circle: -2</span>) - FiveM RP Framework Core :muscle: (but better) ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/qb-core-esx-.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_atmrobbery](https://github.com/Sub-Zero-Interactive/szi_atmrobbery) - This is a script that allows you to rob atms using fivem-target or bt-target. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_atmrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [szi_vendingmachine](https://github.com/Sub-Zero-Interactive/szi_vendingmachine) - This is a script that allows you to Interact with Vending Machines using Any of the main Target Systems As Well as either ESX Menu Default or MF-Inventory. ![GitHub stars](https://img.shields.io/github/stars/Sub-Zero-Interactive/szi_vendingmachine.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2390,7 +2392,7 @@ A curated list of FiveM resources
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
 - [Coloured-Poodles](https://github.com/TayMcKenzieNZ/Coloured-Poodles) - Coloured Poodles For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Coloured-Poodles.svg?style=social&label=Stars&maxAge=2592000)
-- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -298</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
+- [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) ([Original](https://github.com/kibook/dpemotes) :green_circle: +1 :red_circle: -303</span>) - Emotes / Animations for fiveM with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-interactions](https://github.com/TayMcKenzieNZ/fivem-interactions) ([Original](https://github.com/kibook/fivem-scenarios) :green_circle: +0 :red_circle: -19</span>) - Lets players use nearby ped scenarios ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-interactions.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-radio](https://github.com/TayMcKenzieNZ/fivem-radio) ([Original](https://github.com/kibook/fivem-radio) :green_circle: +0 :red_circle: -0</span>) - FXS Radio Resource ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/fivem-radio.svg?style=social&label=Stars&maxAge=2592000)
 - [joemap](https://github.com/TayMcKenzieNZ/joemap) ([Original](https://github.com/joe-rogan-0001/joemap) :green_circle: +0 :red_circle: -0</span>) - Simple drag & drop FiveM minimap ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/joemap.svg?style=social&label=Stars&maxAge=2592000)
@@ -2438,7 +2440,7 @@ A curated list of FiveM resources
 
 ### thelindat <a name="thelindat"></a>
 - [compass](https://github.com/thelindat/compass) ([Original](https://github.com/Petagorus/fxserver-resource-compass) :green_circle: +0 :red_circle: -11</span>) - Compass and Street names HUD for FXServer ![GitHub stars](https://img.shields.io/github/stars/thelindat/compass.svg?style=social&label=Stars&maxAge=2592000)
-- [esx-legacy](https://github.com/thelindat/esx-legacy) ([Original](https://github.com/esx-framework/esx-legacy) :green_circle: +432 :red_circle: -0</span>) - Official Repo For ESX-Legacy ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx-legacy.svg?style=social&label=Stars&maxAge=2592000)
+- [esx-legacy](https://github.com/thelindat/esx-legacy) ([Original](https://github.com/esx-framework/esx-legacy) :green_circle: +439 :red_circle: -0</span>) - Official Repo For ESX-Legacy ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx-legacy.svg?style=social&label=Stars&maxAge=2592000)
 - [esx_multicharacter](https://github.com/thelindat/esx_multicharacter) ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx_multicharacter.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_3dnui](https://github.com/thelindat/linden_3dnui) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_3dnui.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_drugsale](https://github.com/thelindat/linden_drugsale) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_drugsale.svg?style=social&label=Stars&maxAge=2592000)
