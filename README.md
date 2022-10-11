@@ -2763,6 +2763,7 @@ A curated list of FiveM resources
 - [fivem-fallouthacking](https://github.com/youngsinatra99/fivem-fallouthacking) ![GitHub stars](https://img.shields.io/github/stars/youngsinatra99/fivem-fallouthacking.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Z3rio <a name="Z3rio"></a>
+- [fivem-resource-cli](https://github.com/Z3rio/fivem-resource-cli) - This is a FiveM resource CLI made to make it easier for people to create their own resources. ![GitHub stars](https://img.shields.io/github/stars/Z3rio/fivem-resource-cli.svg?style=social&label=Stars&maxAge=2592000)
 - [zerio-bcs-heist](https://github.com/Z3rio/zerio-bcs-heist) ![GitHub stars](https://img.shields.io/github/stars/Z3rio/zerio-bcs-heist.svg?style=social&label=Stars&maxAge=2592000)
 - [zerio-cardealer-imagecreator](https://github.com/Z3rio/zerio-cardealer-imagecreator) - Image creator for my paid script "zerio-cardealer" ![GitHub stars](https://img.shields.io/github/stars/Z3rio/zerio-cardealer-imagecreator.svg?style=social&label=Stars&maxAge=2592000)
 - [zerio-jobcenter](https://github.com/Z3rio/zerio-jobcenter) ![GitHub stars](https://img.shields.io/github/stars/Z3rio/zerio-jobcenter.svg?style=social&label=Stars&maxAge=2592000)
