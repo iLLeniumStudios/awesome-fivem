@@ -269,7 +269,6 @@ A curated list of FiveM resources
 - [Katana-Prop](https://github.com/Bunny5578/Katana-Prop) - nopixel inspired katana sheath ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/Katana-Prop.svg?style=social&label=Stars&maxAge=2592000)
 - [LapdCarPack](https://github.com/Bunny5578/LapdCarPack) - this is a work in progress lapd/nopixel inspired car pack i will be updating this everyday that i can ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/LapdCarPack.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-crates](https://github.com/Bunny5578/qb-crates) ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-crates.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-smallresources-edit](https://github.com/Bunny5578/qb-smallresources-edit) ([Original](https://github.com/qbcore-framework/qb-smallresources) :green_circle: +18 :red_circle: -2</span>) - A compilation of small resources combined into one ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-smallresources-edit.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-taserammo](https://github.com/Bunny5578/qb-taserammo) - NoPixel Inspired Taser cartridges just a little taser ammo snippet me and a couple people in the qbcore discord fixed up and made it work for qbcore ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-taserammo.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-wheelchair](https://github.com/Bunny5578/qb-wheelchair) - NoPixel inspired wheelchair script for qbcore - i am not the original creator of this script all i did was update it and added a item in the readme and added the new qbcore exports credits to - єѕтяєℓℓιтα ♥#4558 i couldnt find there github  ![GitHub stars](https://img.shields.io/github/stars/Bunny5578/qb-wheelchair.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -403,9 +402,6 @@ A curated list of FiveM resources
 - [sqz_hospital](https://github.com/czsquizer/sqz_hospital) - FiveM script used for healing players when there are no online doctors on the server! ![GitHub stars](https://img.shields.io/github/stars/czsquizer/sqz_hospital.svg?style=social&label=Stars&maxAge=2592000)
 - [sqz_rental](https://github.com/czsquizer/sqz_rental) - FiveM script for renting vehicles with advanced options. Better roleplay experience. ![GitHub stars](https://img.shields.io/github/stars/czsquizer/sqz_rental.svg?style=social&label=Stars&maxAge=2592000)
 - [sqz_switchjob](https://github.com/czsquizer/sqz_switchjob) ![GitHub stars](https://img.shields.io/github/stars/czsquizer/sqz_switchjob.svg?style=social&label=Stars&maxAge=2592000)
-
-### d3st1nyh4x <a name="d3st1nyh4x"></a>
-- [d3-arcade](https://github.com/d3st1nyh4x/d3-arcade) ([Original](https://github.com/Xogy/rcore_arcade) :green_circle: +3 :red_circle: -11</span>) - a simple resource for playing games with friends. ![GitHub stars](https://img.shields.io/github/stars/d3st1nyh4x/d3-arcade.svg?style=social&label=Stars&maxAge=2592000)
 
 ### daiwik-the-creator <a name="daiwik-the-creator"></a>
 - [daiwik-blackmarket](https://github.com/daiwik-the-creator/daiwik-blackmarket) ![GitHub stars](https://img.shields.io/github/stars/daiwik-the-creator/daiwik-blackmarket.svg?style=social&label=Stars&maxAge=2592000)
@@ -847,7 +843,6 @@ A curated list of FiveM resources
 - [qb-zombies](https://github.com/IDKFORCE/qb-zombies) - qb-zombies for qbcoreframework ![GitHub stars](https://img.shields.io/github/stars/IDKFORCE/qb-zombies.svg?style=social&label=Stars&maxAge=2592000)
 
 ### IdrisDose <a name="IdrisDose"></a>
-- [blackmarket](https://github.com/IdrisDose/blackmarket) ([Original](https://github.com/evanillaa/blackmarket) :green_circle: +0 :red_circle: -23</span>) - (っ◕‿◕)っ Location changing black market script for QBCore. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/blackmarket.svg?style=social&label=Stars&maxAge=2592000)
 - [cui_character](https://github.com/IdrisDose/cui_character) - CleanUI (cui) character is a  QBCore character creator. Its extremely in-depth so you can get extremely life like character to play as and to play with ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/cui_character.svg?style=social&label=Stars&maxAge=2592000)
 - [new_banking](https://github.com/IdrisDose/new_banking) ([Original](https://github.com/Neddings/new_banking) :green_circle: +0 :red_circle: -2</span>) ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/new_banking.svg?style=social&label=Stars&maxAge=2592000)
 - [outlawalerts](https://github.com/IdrisDose/outlawalerts) ([Original](https://github.com/TheHorizonDev/linden_outlawalert) :green_circle: +0 :red_circle: -0</span>) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/IdrisDose/outlawalerts.svg?style=social&label=Stars&maxAge=2592000)
@@ -1074,6 +1069,7 @@ A curated list of FiveM resources
 
 ### JoeSzymkowiczFiveM <a name="JoeSzymkowiczFiveM"></a>
 - [casinohack](https://github.com/JoeSzymkowiczFiveM/casinohack) - NoPixel Based casino generators minigame ![GitHub stars](https://img.shields.io/github/stars/JoeSzymkowiczFiveM/casinohack.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-chameleonpaint](https://github.com/JoeSzymkowiczFiveM/qb-chameleonpaint) - A simple Fivem script to paint vehicles with the chameleon paint codes, introduced in a recent DLC. ![GitHub stars](https://img.shields.io/github/stars/JoeSzymkowiczFiveM/qb-chameleonpaint.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-decay](https://github.com/JoeSzymkowiczFiveM/qb-decay) - This is a proof-of-concept for a server-sided item degradation system that uses a cron schedule, and run whether players are on or not. ![GitHub stars](https://img.shields.io/github/stars/JoeSzymkowiczFiveM/qb-decay.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-forklift](https://github.com/JoeSzymkowiczFiveM/qb-forklift) - A forklift activity for fivem, converted from some old script I saw on Github ![GitHub stars](https://img.shields.io/github/stars/JoeSzymkowiczFiveM/qb-forklift.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-lootcrate](https://github.com/JoeSzymkowiczFiveM/qb-lootcrate) - A CSGO-style case opening script ![GitHub stars](https://img.shields.io/github/stars/JoeSzymkowiczFiveM/qb-lootcrate.svg?style=social&label=Stars&maxAge=2592000)
@@ -1933,10 +1929,6 @@ A curated list of FiveM resources
 - [ps-ui](https://github.com/Project-Sloth/ps-ui) - Project Sloth UI ![GitHub stars](https://img.shields.io/github/stars/Project-Sloth/ps-ui.svg?style=social&label=Stars&maxAge=2592000)
 - [ps-zones](https://github.com/Project-Sloth/ps-zones) ![GitHub stars](https://img.shields.io/github/stars/Project-Sloth/ps-zones.svg?style=social&label=Stars&maxAge=2592000)
 
-### Projext-X-Development <a name="Projext-X-Development"></a>
-- [ProjextX-CircleMinigame](https://github.com/Projext-X-Development/ProjextX-CircleMinigame) - Standalone minigame for ESX, QB and QBR (Remastered) ![GitHub stars](https://img.shields.io/github/stars/Projext-X-Development/ProjextX-CircleMinigame.svg?style=social&label=Stars&maxAge=2592000)
-- [ProjextX-OrangeFarm](https://github.com/Projext-X-Development/ProjextX-OrangeFarm) - Really Really Simple Orange Farming Script For ESX, QB, and QBR (Remastered) ![GitHub stars](https://img.shields.io/github/stars/Projext-X-Development/ProjextX-OrangeFarm.svg?style=social&label=Stars&maxAge=2592000)
-
 ### PRS-Scripts <a name="PRS-Scripts"></a>
 - [PRS-POLICEREFILL](https://github.com/PRS-Scripts/PRS-POLICEREFILL) ![GitHub stars](https://img.shields.io/github/stars/PRS-Scripts/PRS-POLICEREFILL.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -1953,7 +1945,7 @@ A curated list of FiveM resources
 - [tunerInterior](https://github.com/pushkart2/tunerInterior) - Test the interiors for new tuner dlc ![GitHub stars](https://img.shields.io/github/stars/pushkart2/tunerInterior.svg?style=social&label=Stars&maxAge=2592000)
 
 ### qbcore-framework <a name="qbcore-framework"></a>
-- [bob74_ipl](https://github.com/qbcore-framework/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +0 :red_circle: -0</span>) - Fix holes and customize the map ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
+- [bob74_ipl](https://github.com/qbcore-framework/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +2 :red_circle: -0</span>) - Fix holes and customize the map ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
 - [connectqueue](https://github.com/qbcore-framework/connectqueue) ([Original](https://github.com/Nick78111/ConnectQueue) :green_circle: +0 :red_circle: -11</span>) - Dependency For QB-Core ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/connectqueue.svg?style=social&label=Stars&maxAge=2592000)
 - [dealer_map](https://github.com/qbcore-framework/dealer_map) - Vehicle shop used with qb-vehicleshop ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/dealer_map.svg?style=social&label=Stars&maxAge=2592000)
 - [dpemotes](https://github.com/qbcore-framework/dpemotes) ([Original](https://github.com/andristum/dpemotes) :green_circle: +0 :red_circle: -54</span>) - Emotes / Animations for fiveM with Prop support. ![GitHub stars](https://img.shields.io/github/stars/qbcore-framework/dpemotes.svg?style=social&label=Stars&maxAge=2592000)
@@ -2408,7 +2400,7 @@ A curated list of FiveM resources
 
 ### TayMcKenzieNZ <a name="TayMcKenzieNZ"></a>
 - [ArcadeIPL](https://github.com/TayMcKenzieNZ/ArcadeIPL) - Loads the Arcade interior into FiveM. Requires gamebuild 2189 or higher ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/ArcadeIPL.svg?style=social&label=Stars&maxAge=2592000)
-- [bob74_ipl](https://github.com/TayMcKenzieNZ/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +2 :red_circle: -20</span>) - Fix holes and customize the map - The Criminal Enterprises DLC ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
+- [bob74_ipl](https://github.com/TayMcKenzieNZ/bob74_ipl) ([Original](https://github.com/Bob74/bob74_ipl) :green_circle: +4 :red_circle: -20</span>) - Fix holes and customize the map - The Criminal Enterprises DLC ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/bob74_ipl.svg?style=social&label=Stars&maxAge=2592000)
 - [Calm-AI](https://github.com/TayMcKenzieNZ/Calm-AI) ([Original](https://github.com/NickThe0ne/Calm-AI) :green_circle: +0 :red_circle: -6</span>) - Calm AI for FiveM Servers ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Calm-AI.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoImprovements](https://github.com/TayMcKenzieNZ/CayoImprovements) - Spawns the island into FiveM with concealment for immersion. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoImprovements.svg?style=social&label=Stars&maxAge=2592000)
 - [CayoTwoIslands](https://github.com/TayMcKenzieNZ/CayoTwoIslands) - Spawns Cayo Perico alongside Los Santos ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/CayoTwoIslands.svg?style=social&label=Stars&maxAge=2592000)
@@ -2461,7 +2453,7 @@ A curated list of FiveM resources
 
 ### thelindat <a name="thelindat"></a>
 - [compass](https://github.com/thelindat/compass) ([Original](https://github.com/Petagorus/fxserver-resource-compass) :green_circle: +0 :red_circle: -11</span>) - Compass and Street names HUD for FXServer ![GitHub stars](https://img.shields.io/github/stars/thelindat/compass.svg?style=social&label=Stars&maxAge=2592000)
-- [esx-legacy](https://github.com/thelindat/esx-legacy) ([Original](https://github.com/esx-framework/esx-legacy) :green_circle: +453 :red_circle: -0</span>) - Official Repo For ESX-Legacy ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx-legacy.svg?style=social&label=Stars&maxAge=2592000)
+- [esx-legacy](https://github.com/thelindat/esx-legacy) ([Original](https://github.com/esx-framework/esx-legacy) :green_circle: +456 :red_circle: -0</span>) - Official Repo For ESX-Legacy ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx-legacy.svg?style=social&label=Stars&maxAge=2592000)
 - [esx_multicharacter](https://github.com/thelindat/esx_multicharacter) ![GitHub stars](https://img.shields.io/github/stars/thelindat/esx_multicharacter.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_3dnui](https://github.com/thelindat/linden_3dnui) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_3dnui.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_drugsale](https://github.com/thelindat/linden_drugsale) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_drugsale.svg?style=social&label=Stars&maxAge=2592000)
@@ -2532,7 +2524,6 @@ A curated list of FiveM resources
 
 ### Tomboru <a name="Tomboru"></a>
 - [QB-AdvancedFishing](https://github.com/Tomboru/QB-AdvancedFishing) ![GitHub stars](https://img.shields.io/github/stars/Tomboru/QB-AdvancedFishing.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-atms](https://github.com/Tomboru/qb-atms) ([Original](https://github.com/qbcore-framework/qb-atms) :green_circle: +4 :red_circle: -9</span>) - Useable ATMs for QB-Core ![GitHub stars](https://img.shields.io/github/stars/Tomboru/qb-atms.svg?style=social&label=Stars&maxAge=2592000)
 
 ### TomGrobbe <a name="TomGrobbe"></a>
 - [MenuAPI](https://github.com/TomGrobbe/MenuAPI) - FiveM C# Menu API. Designed specifically as a replacement of NativeUI for vMenu. Full safezone scaling supported, both left and right aligned menus supported. ![GitHub stars](https://img.shields.io/github/stars/TomGrobbe/MenuAPI.svg?style=social&label=Stars&maxAge=2592000)
@@ -2697,6 +2688,7 @@ A curated list of FiveM resources
 - [esx-smallresources](https://github.com/wolsdev/esx-smallresources) - Several interesting resources united in one. ![GitHub stars](https://img.shields.io/github/stars/wolsdev/esx-smallresources.svg?style=social&label=Stars&maxAge=2592000)
 
 ### x99-Studios <a name="x99-Studios"></a>
+- [x99-keygame](https://github.com/x99-Studios/x99-keygame) - An open source minigame you can use for FiveM. ![GitHub stars](https://img.shields.io/github/stars/x99-Studios/x99-keygame.svg?style=social&label=Stars&maxAge=2592000)
 - [x99-methlb-shell](https://github.com/x99-Studios/x99-methlb-shell) ![GitHub stars](https://img.shields.io/github/stars/x99-Studios/x99-methlb-shell.svg?style=social&label=Stars&maxAge=2592000)
 - [x99-workshop-shell](https://github.com/x99-Studios/x99-workshop-shell) ![GitHub stars](https://img.shields.io/github/stars/x99-Studios/x99-workshop-shell.svg?style=social&label=Stars&maxAge=2592000)
 
