@@ -7,7 +7,7 @@ prefix: |
   - My Discord: https://discord.illenium.dev
 
   ## Frameworks
-  - [qb-core Remastered](https://github.com/QBCore-Remastered/qb-core)
+  - [Qbox](https://github.com/Qbox-project/qb-core)
   - [qb-core](https://github.com/qbcore-framework/qb-core)
   - [OX](https://github.com/overextended/ox_core)
   - [ESX](https://github.com/esx-framework/esx-legacy)
@@ -619,7 +619,7 @@ users:
   - name: Reysel1
   - name: BloodLine1002
   - name: Projext-X-Development
-  - name: QBCore-Remastered
+  - name: Qbox-project
   - name: OK1ez
   - name: x99-Studios
   - name: Binary-01-Studios
