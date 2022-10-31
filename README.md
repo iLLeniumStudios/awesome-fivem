@@ -1728,6 +1728,7 @@ A curated list of FiveM resources
 
 ### OK1ez <a name="OK1ez"></a>
 - [ok1ez-burgershot](https://github.com/OK1ez/ok1ez-burgershot) ![GitHub stars](https://img.shields.io/github/stars/OK1ez/ok1ez-burgershot.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-blackjack - Nopixel Style](https://github.com/OK1ez/qb-blackjack)
 
 ### omar-othmann <a name="omar-othmann"></a>
 - [dev-artifacts](https://github.com/omar-othmann/dev-artifacts) - Python fivem artifacts auto update for linux server only. ![GitHub stars](https://img.shields.io/github/stars/omar-othmann/dev-artifacts.svg?style=social&label=Stars&maxAge=2592000)
