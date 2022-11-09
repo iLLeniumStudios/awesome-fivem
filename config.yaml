@@ -30,7 +30,7 @@ users:
       - docs.illenium.dev
   - name: Constant-Development
   - name: GhzGarage
-  - name: Disabled-Coding
+  - name: ChatDisabled
   - name: ItsANoBrainer
     excludeRepos:
       - AdventOfCode
