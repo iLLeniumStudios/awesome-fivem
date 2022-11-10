@@ -629,3 +629,35 @@ users:
   - name: badcodestv
   - name: robertne13
   - name: Thrustgamers
+  - name: mrdiamonddirt
+    excludeRepos:
+    - reactmap
+  - name: IKKaybe
+  - name: qw-scripts
+  - name: eastdev
+  - name: McNastty6699
+  - name: Ranjit-Develops
+  - name: ST4LTH
+  - name: Marshxan
+  - name: Brazzers-Development
+  - name: 777development
+  - name: Rencikas
+  - name: KingJacobPlayz
+  - name: uFLOKY
+  - name: Crazy133
+  - name: project-infinitys
+  - name: NeoKSA
+  - name: GodsDevelopment69
+  - name: MiooDev
+  - name: EnzoDevelopment
+  - name: ymplove143
+  - name: Redline-Studios
+  - name: Polo4217
+  - name: Swompen
+  - name: PickleModifications
+  - name: zf-labo
+  - name: MooseWrld
+  - name: 6Abyss
+  - name: Flaruto
+  - name: Ryzbe
+  - name: vipexee
