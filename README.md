@@ -111,6 +111,8 @@ A curated list of FiveM resources
 - [qb-scoreboard](https://github.com/AnishBplayz/qb-scoreboard) - It is a custom qbcore scoreboard which utilizes qb-menu to show other informations and drawtext to show id. ![GitHub stars](https://img.shields.io/github/stars/AnishBplayz/qb-scoreboard.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Annalouu <a name="Annalouu"></a>
+- [an-engineswap](https://github.com/Annalouu/an-engineswap) ![GitHub stars](https://img.shields.io/github/stars/Annalouu/an-engineswap.svg?style=social&label=Stars&maxAge=2592000)
+- [an-pursuitmode](https://github.com/Annalouu/an-pursuitmode) ![GitHub stars](https://img.shields.io/github/stars/Annalouu/an-pursuitmode.svg?style=social&label=Stars&maxAge=2592000)
 - [an-stancer](https://github.com/Annalouu/an-stancer) ![GitHub stars](https://img.shields.io/github/stars/Annalouu/an-stancer.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ansljeremy <a name="ansljeremy"></a>
@@ -1840,6 +1842,7 @@ A curated list of FiveM resources
 - [qb-bankrobbery](https://github.com/Nathan-FiveM/qb-bankrobbery) ([Original](https://github.com/qbcore-framework/qb-bankrobbery) :green_circle: +82 :red_circle: -38</span>) - Bank Robbery For QB-Core ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/qb-bankrobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-cyberbar](https://github.com/Nathan-FiveM/qb-cyberbar) - A job setup for QBCore using a Patoche CyberBar Map ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/qb-cyberbar.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-decay](https://github.com/Nathan-FiveM/qb-decay) ([Original](https://github.com/JoeSzymkowiczFiveM/qb-decay) :green_circle: +8 :red_circle: -0</span>) - This is a proof-of-concept for a server-sided item degradation system that uses a cron schedule, and run whether players are on or not. ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/qb-decay.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-durability](https://github.com/Nathan-FiveM/qb-durability) - Item Durability ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/qb-durability.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-fiveems](https://github.com/Nathan-FiveM/qb-fiveems) - This is FiveEMS I picked up as a Legacy version for ESX I've began updating it to the new qb-menu and qb-target systems. ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/qb-fiveems.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-houserobbery](https://github.com/Nathan-FiveM/qb-houserobbery) ([Original](https://github.com/qbcore-framework/qb-houserobbery) :green_circle: +38 :red_circle: -2</span>) - House Robberies For QB-Core ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/qb-houserobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-hud](https://github.com/Nathan-FiveM/qb-hud) - cosmo_hud edited by Nathan#8860 ![GitHub stars](https://img.shields.io/github/stars/Nathan-FiveM/qb-hud.svg?style=social&label=Stars&maxAge=2592000)
@@ -2452,7 +2455,7 @@ A curated list of FiveM resources
 - [mka-lasers](https://github.com/renzuzu/mka-lasers) ([Original](https://github.com/mkafrin/mka-lasers) :green_circle: +0 :red_circle: -0</span>) - Create moving lasers in FiveM! ![GitHub stars](https://img.shields.io/github/stars/renzuzu/mka-lasers.svg?style=social&label=Stars&maxAge=2592000)
 - [natives](https://github.com/renzuzu/natives) ([Original](https://github.com/citizenfx/natives) :green_circle: +250 :red_circle: -0</span>) - GTA V Natives Documentation ![GitHub stars](https://img.shields.io/github/stars/renzuzu/natives.svg?style=social&label=Stars&maxAge=2592000)
 - [ox_inventory](https://github.com/renzuzu/ox_inventory) ([Original](https://github.com/overextended/ox_inventory) :green_circle: +40 :red_circle: -17</span>) - Overextended Inventory for ESX Legacy ![GitHub stars](https://img.shields.io/github/stars/renzuzu/ox_inventory.svg?style=social&label=Stars&maxAge=2592000)
-- [ox_lib](https://github.com/renzuzu/ox_lib) ([Original](https://github.com/overextended/ox_lib) :green_circle: +36 :red_circle: -0</span>) - A collection of Lua functions to utilise in other resources. ![GitHub stars](https://img.shields.io/github/stars/renzuzu/ox_lib.svg?style=social&label=Stars&maxAge=2592000)
+- [ox_lib](https://github.com/renzuzu/ox_lib) ([Original](https://github.com/overextended/ox_lib) :green_circle: +38 :red_circle: -0</span>) - A collection of Lua functions to utilise in other resources. ![GitHub stars](https://img.shields.io/github/stars/renzuzu/ox_lib.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-interior](https://github.com/renzuzu/qb-interior) ([Original](https://github.com/qbcore-framework/qb-interior) :green_circle: +24 :red_circle: -0</span>) - Interior Models Used With QB-Apartments and QB-Houses :bed: ![GitHub stars](https://img.shields.io/github/stars/renzuzu/qb-interior.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_bag](https://github.com/renzuzu/renzu_bag) - Create item Based Stash | ESX | Ox_inventory | Ox_lib | FIVEM ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_bag.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_blips](https://github.com/renzuzu/renzu_blips) - Simple Player Job Blips FIVEM ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_blips.svg?style=social&label=Stars&maxAge=2592000)
@@ -2801,6 +2804,7 @@ A curated list of FiveM resources
 
 ### TGIANN <a name="TGIANN"></a>
 - [fivem-tgiann-carhud](https://github.com/TGIANN/fivem-tgiann-carhud) - Fivem tgiann-carhud script ![GitHub stars](https://img.shields.io/github/stars/TGIANN/fivem-tgiann-carhud.svg?style=social&label=Stars&maxAge=2592000)
+- [fivem-tgiann-look-talking-player](https://github.com/TGIANN/fivem-tgiann-look-talking-player) - The character turns head to the talking player ![GitHub stars](https://img.shields.io/github/stars/TGIANN/fivem-tgiann-look-talking-player.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-tgiann-mdt-v2](https://github.com/TGIANN/fivem-tgiann-mdt-v2) ![GitHub stars](https://img.shields.io/github/stars/TGIANN/fivem-tgiann-mdt-v2.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-tgiann-showid](https://github.com/TGIANN/fivem-tgiann-showid) - Fivem Show Player Id ![GitHub stars](https://img.shields.io/github/stars/TGIANN/fivem-tgiann-showid.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-tgiann-skillbar](https://github.com/TGIANN/fivem-tgiann-skillbar) ![GitHub stars](https://img.shields.io/github/stars/TGIANN/fivem-tgiann-skillbar.svg?style=social&label=Stars&maxAge=2592000)
