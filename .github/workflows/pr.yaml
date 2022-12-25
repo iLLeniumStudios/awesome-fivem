@@ -11,7 +11,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
       - name: Check for duplicates
         run: |
-          duplicates=$(sort config.yaml | grep -v "excludeRepos\|includeRepos" | uniq -c)
+          duplicates=$(sort config.yaml | grep -v "excludeRepos\|includeRepos" | uniq -cd)
           line_count=$(echo "$duplicates" | wc -l)
           if [ $line_count -ne 1 ]; then
             echo "Duplicates found: $duplicates"
