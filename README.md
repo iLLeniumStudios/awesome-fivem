@@ -897,8 +897,6 @@ A curated list of FiveM resources
 
 ### Holidayy95 <a name="Holidayy95"></a>
 - [loaf_spikestrips](https://github.com/Holidayy95/loaf_spikestrips) ([Original](https://github.com/loaf-scripts/loaf_spikestrips) :green_circle: +0 :red_circle: -3</span>) - FiveM spikestrips, only bursts the tyres that are actually touching the spikestrip.  ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/loaf_spikestrips.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-ammunationrobbery](https://github.com/Holidayy95/qb-ammunationrobbery) - Enables the Little Soule Ammunation to be robbed for Rifle/Smg Ammo and Armor ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/qb-ammunationrobbery.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-customs](https://github.com/Holidayy95/qb-customs) ([Original](https://github.com/qbcore-framework/qb-customs) :green_circle: +58 :red_circle: -10</span>) - Vehicle Customization For QB-Core ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/qb-customs.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-cyber](https://github.com/Holidayy95/qb-cyber) - qb-cyber is another robbable location for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/qb-cyber.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-jewelery](https://github.com/Holidayy95/qb-jewelery) ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/qb-jewelery.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-prisongate](https://github.com/Holidayy95/qb-prisongate) ![GitHub stars](https://img.shields.io/github/stars/Holidayy95/qb-prisongate.svg?style=social&label=Stars&maxAge=2592000)
@@ -1730,6 +1728,7 @@ A curated list of FiveM resources
 - [qb-spawn](https://github.com/MoneSuper/qb-spawn) - Hopes are gone idk ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qb-spawn.svg?style=social&label=Stars&maxAge=2592000)
 - [qbr-inventory](https://github.com/MoneSuper/qbr-inventory) ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qbr-inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [qbr-menu](https://github.com/MoneSuper/qbr-menu) - qbr-menu for #QBR Framework  ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qbr-menu.svg?style=social&label=Stars&maxAge=2592000)
+- [qbr-target](https://github.com/MoneSuper/qbr-target) ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qbr-target.svg?style=social&label=Stars&maxAge=2592000)
 
 ### MonkeyWhisper <a name="MonkeyWhisper"></a>
 - [-QB-Jewellery](https://github.com/MonkeyWhisper/-QB-Jewellery) ([Original](https://github.com/Lionh34rt/-QB-Jewellery) :green_circle: +8 :red_circle: -8</span>) ![GitHub stars](https://img.shields.io/github/stars/MonkeyWhisper/-QB-Jewellery.svg?style=social&label=Stars&maxAge=2592000)
@@ -2018,6 +2017,7 @@ A curated list of FiveM resources
 - [ox_inventory_examples](https://github.com/overextended/ox_inventory_examples) ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_inventory_examples.svg?style=social&label=Stars&maxAge=2592000)
 - [ox_lib](https://github.com/overextended/ox_lib) - Modules to utilise in other resources via imports and exports. ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_lib.svg?style=social&label=Stars&maxAge=2592000)
 - [ox_police](https://github.com/overextended/ox_police) ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_police.svg?style=social&label=Stars&maxAge=2592000)
+- [ox_property](https://github.com/overextended/ox_property) ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_property.svg?style=social&label=Stars&maxAge=2592000)
 - [ox_target](https://github.com/overextended/ox_target) - Standalone "third-eye" targeting resource. ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_target.svg?style=social&label=Stars&maxAge=2592000)
 - [ox_vehicledealer](https://github.com/overextended/ox_vehicledealer) ![GitHub stars](https://img.shields.io/github/stars/overextended/ox_vehicledealer.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2664,6 +2664,7 @@ A curated list of FiveM resources
 
 ### Sov-Nation <a name="Sov-Nation"></a>
 - [dd_outlawalerts](https://github.com/Sov-Nation/dd_outlawalerts) - A FiveM alerts system based heavily on esx_outlawalert ![GitHub stars](https://img.shields.io/github/stars/Sov-Nation/dd_outlawalerts.svg?style=social&label=Stars&maxAge=2592000)
+- [rlfv](https://github.com/Sov-Nation/rlfv) - Realistic Lore-friendly Vehicles for FiveM ![GitHub stars](https://img.shields.io/github/stars/Sov-Nation/rlfv.svg?style=social&label=Stars&maxAge=2592000)
 
 ### SoyUltra <a name="SoyUltra"></a>
 - [Ultra-Hud](https://github.com/SoyUltra/Ultra-Hud) - ULTRA HUD FREE  ![GitHub stars](https://img.shields.io/github/stars/SoyUltra/Ultra-Hud.svg?style=social&label=Stars&maxAge=2592000)
@@ -3204,7 +3205,6 @@ A curated list of FiveM resources
 - [fivem-resource-cli](https://github.com/Z3rio/fivem-resource-cli) - This is a FiveM resource CLI made to make it easier for people to create their own resources. ![GitHub stars](https://img.shields.io/github/stars/Z3rio/fivem-resource-cli.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-versionchecker](https://github.com/Z3rio/qb-versionchecker) - A version checker and script updater made for QBCore ![GitHub stars](https://img.shields.io/github/stars/Z3rio/qb-versionchecker.svg?style=social&label=Stars&maxAge=2592000)
 - [vue-chat-app](https://github.com/Z3rio/vue-chat-app) - This is a quick chat site I made with vue to get better at using firebase ![GitHub stars](https://img.shields.io/github/stars/Z3rio/vue-chat-app.svg?style=social&label=Stars&maxAge=2592000)
-- [vue-portfolio](https://github.com/Z3rio/vue-portfolio) - Just a simple portfolio I made to showcase my skills ![GitHub stars](https://img.shields.io/github/stars/Z3rio/vue-portfolio.svg?style=social&label=Stars&maxAge=2592000)
 - [zerio-advent](https://github.com/Z3rio/zerio-advent) - Advent calender for FiveM (ESX / QBCore) ![GitHub stars](https://img.shields.io/github/stars/Z3rio/zerio-advent.svg?style=social&label=Stars&maxAge=2592000)
 - [zerio-bcs-heist](https://github.com/Z3rio/zerio-bcs-heist) ![GitHub stars](https://img.shields.io/github/stars/Z3rio/zerio-bcs-heist.svg?style=social&label=Stars&maxAge=2592000)
 - [zerio-cardealer-imagecreator](https://github.com/Z3rio/zerio-cardealer-imagecreator) - Image creator for my paid script "zerio-cardealer" ![GitHub stars](https://img.shields.io/github/stars/Z3rio/zerio-cardealer-imagecreator.svg?style=social&label=Stars&maxAge=2592000)
