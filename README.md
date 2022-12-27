@@ -1233,6 +1233,7 @@ A curated list of FiveM resources
 - [RobberyCooldown](https://github.com/JnKTechstuff/RobberyCooldown) - Queuing script for robberies and stuff ![GitHub stars](https://img.shields.io/github/stars/JnKTechStuff/RobberyCooldown.svg?style=social&label=Stars&maxAge=2592000)
 
 ### JoeSzymkowiczFiveM <a name="JoeSzymkowiczFiveM"></a>
+- [assets_ctfflags](https://github.com/JoeSzymkowiczFiveM/assets_ctfflags) - Props for the Capture The Flag FiveM resource. ![GitHub stars](https://img.shields.io/github/stars/JoeSzymkowiczFiveM/assets_ctfflags.svg?style=social&label=Stars&maxAge=2592000)
 - [casinohack](https://github.com/JoeSzymkowiczFiveM/casinohack) - NoPixel Based casino generators minigame ![GitHub stars](https://img.shields.io/github/stars/JoeSzymkowiczFiveM/casinohack.svg?style=social&label=Stars&maxAge=2592000)
 - [js5m-ctf](https://github.com/JoeSzymkowiczFiveM/js5m-ctf) - A Capture The Flag game for FiveM ![GitHub stars](https://img.shields.io/github/stars/JoeSzymkowiczFiveM/js5m-ctf.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-chameleonpaint](https://github.com/JoeSzymkowiczFiveM/qb-chameleonpaint) - A simple Fivem script to paint vehicles with the chameleon paint codes, introduced in a recent DLC. ![GitHub stars](https://img.shields.io/github/stars/JoeSzymkowiczFiveM/qb-chameleonpaint.svg?style=social&label=Stars&maxAge=2592000)
@@ -1298,7 +1299,6 @@ A curated list of FiveM resources
 - [k-ezjob](https://github.com/KamuiKody/k-ezjob) - The Config Developers Dream! ![GitHub stars](https://img.shields.io/github/stars/KamuiKody/k-ezjob.svg?style=social&label=Stars&maxAge=2592000)
 - [k-giftcards](https://github.com/KamuiKody/k-giftcards) - exchange marked money for giftcards to whitelisted jobs fivem qb-core ![GitHub stars](https://img.shields.io/github/stars/KamuiKody/k-giftcards.svg?style=social&label=Stars&maxAge=2592000)
 - [k-pokemontcg](https://github.com/KamuiKody/k-pokemontcg) ![GitHub stars](https://img.shields.io/github/stars/KamuiKody/k-pokemontcg.svg?style=social&label=Stars&maxAge=2592000)
-- [k-stims](https://github.com/KamuiKody/k-stims) ([Original](https://github.com/DareToDoyle/D2D-Stims) :green_circle: +0 :red_circle: -12</span>) - A QBCore Conversion of D2D-Stims ![GitHub stars](https://img.shields.io/github/stars/KamuiKody/k-stims.svg?style=social&label=Stars&maxAge=2592000)
 - [k-stocks](https://github.com/KamuiKody/k-stocks) - player based stock market fivem  ![GitHub stars](https://img.shields.io/github/stars/KamuiKody/k-stocks.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Kaves47 <a name="Kaves47"></a>
