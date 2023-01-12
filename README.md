@@ -137,6 +137,7 @@ A curated list of FiveM resources
 - [ap-drugselling](https://github.com/AppleSatin/ap-drugselling) - simple drug selling for the framework QBCore for fivem ![GitHub stars](https://img.shields.io/github/stars/AppleSatin/ap-drugselling.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Arius-Development <a name="Arius-Development"></a>
+- [ars-shop-npc](https://github.com/Arius-Development/ars-shop-npc) - Un semplie script per fare i job con i ped ![GitHub stars](https://img.shields.io/github/stars/Arius-Development/ars-shop-npc.svg?style=social&label=Stars&maxAge=2592000)
 - [ars_billing](https://github.com/Arius-Development/ars_billing) - [ESX][OX] Item based billing system ![GitHub stars](https://img.shields.io/github/stars/Arius-Development/ars_billing.svg?style=social&label=Stars&maxAge=2592000)
 - [ars_clothingitem](https://github.com/Arius-Development/ars_clothingitem) ![GitHub stars](https://img.shields.io/github/stars/Arius-Development/ars_clothingitem.svg?style=social&label=Stars&maxAge=2592000)
 - [ars_disassemble_weapons](https://github.com/Arius-Development/ars_disassemble_weapons) ![GitHub stars](https://img.shields.io/github/stars/Arius-Development/ars_disassemble_weapons.svg?style=social&label=Stars&maxAge=2592000)
@@ -1135,7 +1136,7 @@ A curated list of FiveM resources
 - [ps-camping](https://github.com/itsHyper/ps-camping) - Camping Script for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/itsHyper/ps-camping.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-bag](https://github.com/itsHyper/qb-bag) ([Original](https://github.com/Nathan-FiveM/qb-bag) :green_circle: +0 :red_circle: -0</span>) - A useable Duffel Bag for QB Framework ![GitHub stars](https://img.shields.io/github/stars/itsHyper/qb-bag.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-gunplug](https://github.com/itsHyper/qb-gunplug) ([Original](https://github.com/CurlyLegend/qb-gunplug) :green_circle: +0 :red_circle: -0</span>) - A Simple Weapon Crafting menu using qb-target ![GitHub stars](https://img.shields.io/github/stars/itsHyper/qb-gunplug.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-idcard](https://github.com/itsHyper/qb-idcard) ([Original](https://github.com/alp1x/qb-idcard) :green_circle: +17 :red_circle: -0</span>) - FiveM Identity Card for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/itsHyper/qb-idcard.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-idcard](https://github.com/itsHyper/qb-idcard) ([Original](https://github.com/alp1x/qb-idcard) :green_circle: +18 :red_circle: -0</span>) - FiveM Identity Card for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/itsHyper/qb-idcard.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-phone-npstyle](https://github.com/itsHyper/qb-phone-npstyle) ([Original](https://github.com/llbooya/qb-phone-npstyle) :green_circle: +48 :red_circle: -0</span>) - NP style edits and additionals for qb-phone, help from a few community members. NOT PROVIDING SUPPORT ![GitHub stars](https://img.shields.io/github/stars/itsHyper/qb-phone-npstyle.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-prison](https://github.com/itsHyper/qb-prison) ([Original](https://github.com/IN1GHTM4R3/qb-prison) :green_circle: +0 :red_circle: -0</span>) - v.1.0.0 - Updated qb-prison with targeting, slushies, 2 new jobs, custom task locations, anims w/prop. ![GitHub stars](https://img.shields.io/github/stars/itsHyper/qb-prison.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-rentals](https://github.com/itsHyper/qb-rentals) - Vehicle Rental Script w/ Rental Papers for QBCore using qb-target / qb-menu ![GitHub stars](https://img.shields.io/github/stars/itsHyper/qb-rentals.svg?style=social&label=Stars&maxAge=2592000)
@@ -1263,7 +1264,6 @@ A curated list of FiveM resources
 - [fx-multicharacter](https://github.com/JericoFX/fx-multicharacter) ![GitHub stars](https://img.shields.io/github/stars/JericoFX/fx-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
 - [jerico-missions](https://github.com/JericoFX/jerico-missions) ![GitHub stars](https://img.shields.io/github/stars/JericoFX/jerico-missions.svg?style=social&label=Stars&maxAge=2592000)
 - [nd-notify](https://github.com/JericoFX/nd-notify) ([Original](https://github.com/n4n-0/nd-notify) :green_circle: +1 :red_circle: -0</span>) - Notification System for FiveM ![GitHub stars](https://img.shields.io/github/stars/JericoFX/nd-notify.svg?style=social&label=Stars&maxAge=2592000)
-- [nui_doorlock](https://github.com/JericoFX/nui_doorlock) - esx_doorlock with major performance and functionality enhancements.  ![GitHub stars](https://img.shields.io/github/stars/JericoFX/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-garages](https://github.com/JericoFX/qb-garages) - Initial repository for qb-garage ![GitHub stars](https://img.shields.io/github/stars/JericoFX/qb-garages.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-impound](https://github.com/JericoFX/qb-impound) ![GitHub stars](https://img.shields.io/github/stars/JericoFX/qb-impound.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-pmi](https://github.com/JericoFX/qb-pmi) - A Police Management Interface for FiveM roleplaying servers using the QBcore framework. ![GitHub stars](https://img.shields.io/github/stars/JericoFX/qb-pmi.svg?style=social&label=Stars&maxAge=2592000)
@@ -2534,7 +2534,7 @@ A curated list of FiveM resources
 - [qb-vault](https://github.com/Re2team/qb-vault) - fivem qbcore vault system ![GitHub stars](https://img.shields.io/github/stars/Re2team/qb-vault.svg?style=social&label=Stars&maxAge=2592000)
 - [re2-elevator](https://github.com/Re2team/re2-elevator) ![GitHub stars](https://img.shields.io/github/stars/Re2team/re2-elevator.svg?style=social&label=Stars&maxAge=2592000)
 - [re2-parachute](https://github.com/Re2team/re2-parachute) - Add 14 tint of Parachute to your fivem Qb Server ![GitHub stars](https://img.shields.io/github/stars/Re2team/re2-parachute.svg?style=social&label=Stars&maxAge=2592000)
-- [um-hackerphone](https://github.com/Re2team/um-hackerphone) ([Original](https://github.com/alp1x/um-hackerphone) :green_circle: +15 :red_circle: -0</span>) - UM Hacker Phone | QBCore ![GitHub stars](https://img.shields.io/github/stars/Re2team/um-hackerphone.svg?style=social&label=Stars&maxAge=2592000)
+- [um-hackerphone](https://github.com/Re2team/um-hackerphone) ([Original](https://github.com/alp1x/um-hackerphone) :green_circle: +16 :red_circle: -0</span>) - UM Hacker Phone | QBCore ![GitHub stars](https://img.shields.io/github/stars/Re2team/um-hackerphone.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Really-Pluto <a name="Really-Pluto"></a>
 - [qb-crafting-alt](https://github.com/Really-Pluto/qb-crafting-alt) - Changed both crafting tables to have cords instead of reading a prop name ![GitHub stars](https://img.shields.io/github/stars/Really-Pluto/qb-crafting-alt.svg?style=social&label=Stars&maxAge=2592000)
@@ -2563,8 +2563,6 @@ A curated list of FiveM resources
 - [ren-laundering](https://github.com/Rencikas/ren-laundering) - Money laundering script for fivem with a clean looking UI ![GitHub stars](https://img.shields.io/github/stars/Rencikas/ren-laundering.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Renewed-Scripts <a name="Renewed-Scripts"></a>
-- [progressbar](https://github.com/Renewed-Scripts/progressbar) ([Original](https://github.com/Project-Sloth/progressbar) :green_circle: +0 :red_circle: -3</span>) - NoPixel inspired progressbar ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/progressbar.svg?style=social&label=Stars&maxAge=2592000)
-- [qb-menu](https://github.com/Renewed-Scripts/qb-menu) ([Original](https://github.com/qbcore-framework/qb-menu) :green_circle: +17 :red_circle: -13</span>) - NP Inspired qb-menu ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/qb-menu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-phone](https://github.com/Renewed-Scripts/qb-phone) ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/qb-phone.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-target](https://github.com/Renewed-Scripts/qb-target) ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/qb-target.svg?style=social&label=Stars&maxAge=2592000)
 - [Renewed-Banking](https://github.com/Renewed-Scripts/Renewed-Banking) ![GitHub stars](https://img.shields.io/github/stars/Renewed-Scripts/Renewed-Banking.svg?style=social&label=Stars&maxAge=2592000)
