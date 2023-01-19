@@ -146,7 +146,7 @@ users:
     - ESX-TO-QBCore-manual
   - name: Developer-Bear
   - name: TasoOneAsia
-  - name: maahewt
+  - name: izMystic
     excludeRepos:
       - harmonizedroleplay.com
       - darker-discord
