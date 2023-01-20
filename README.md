@@ -2630,6 +2630,7 @@ A curated list of FiveM resources
 ### Revoxxi <a name="Revoxxi"></a>
 - [qb-luckywheel](https://github.com/Revoxxi/qb-luckywheel) - Luckywheel, derived from https://github.com/Sn0wBiT/esx_tpnrp_luckywheel and rewritten for QBCore ![GitHub stars](https://img.shields.io/github/stars/Revoxxi/qb-luckywheel.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-slots](https://github.com/Revoxxi/qb-slots) - Slotmachines for QBCore Framework (https://github.com/qbcore-framework). Based on esx_slots which is derived from vrp_slots ![GitHub stars](https://img.shields.io/github/stars/Revoxxi/qb-slots.svg?style=social&label=Stars&maxAge=2592000)
+- [utk_pb](https://github.com/Revoxxi/utk_pb) ([Original](https://github.com/utkuali/utk_powerplant) :green_circle: +0 :red_circle: -3</span>) - Power Plant by utku ![GitHub stars](https://img.shields.io/github/stars/Revoxxi/utk_pb.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Reysel1 <a name="Reysel1"></a>
 - [r-announcefree](https://github.com/Reysel1/r-announcefree) ![GitHub stars](https://img.shields.io/github/stars/Reysel1/r-announcefree.svg?style=social&label=Stars&maxAge=2592000)
@@ -3001,7 +3002,6 @@ A curated list of FiveM resources
 - [linden_duty](https://github.com/thelindat/linden_duty) ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_duty.svg?style=social&label=Stars&maxAge=2592000)
 - [linden_outlawalert](https://github.com/thelindat/linden_outlawalert) - Display notifications for any job, with automated checks for shooting, carjacking, speeding, and more. ![GitHub stars](https://img.shields.io/github/stars/thelindat/linden_outlawalert.svg?style=social&label=Stars&maxAge=2592000)
 - [nui_doorlock](https://github.com/thelindat/nui_doorlock) ![GitHub stars](https://img.shields.io/github/stars/thelindat/nui_doorlock.svg?style=social&label=Stars&maxAge=2592000)
-- [Posted-Speedlimit](https://github.com/thelindat/Posted-Speedlimit) ([Original](https://github.com/Big-Yoda/Posted-Speedlimit) :green_circle: +0 :red_circle: -7</span>) ![GitHub stars](https://img.shields.io/github/stars/thelindat/Posted-Speedlimit.svg?style=social&label=Stars&maxAge=2592000)
 - [qtarget](https://github.com/thelindat/qtarget) - Use ox_target instead. ![GitHub stars](https://img.shields.io/github/stars/thelindat/qtarget.svg?style=social&label=Stars&maxAge=2592000)
 
 ### theMani-kh <a name="theMani-kh"></a>
@@ -3347,6 +3347,7 @@ A curated list of FiveM resources
 
 ### xViperAG <a name="xViperAG"></a>
 - [710-multiJob](https://github.com/xViperAG/710-multiJob) - 710-multiJob Rewritten for New qb-menu ![GitHub stars](https://img.shields.io/github/stars/xViperAG/710-multiJob.svg?style=social&label=Stars&maxAge=2592000)
+- [futte-newspaper](https://github.com/xViperAG/futte-newspaper) ([Original](https://github.com/xFutte/futte-newspaper) :green_circle: +12 :red_circle: -9</span>) - [QBCore] Newspaper script displaying news, prison sentences, and enables reporters to write, update and delete news ![GitHub stars](https://img.shields.io/github/stars/xViperAG/futte-newspaper.svg?style=social&label=Stars&maxAge=2592000)
 - [ps-slothserverbuild](https://github.com/xViperAG/ps-slothserverbuild) - Project Sloth Scripts Pre Installed Latest Core ![GitHub stars](https://img.shields.io/github/stars/xViperAG/ps-slothserverbuild.svg?style=social&label=Stars&maxAge=2592000)
 
 ### yamieboi <a name="yamieboi"></a>
