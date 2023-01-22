@@ -31,6 +31,7 @@ A curated list of FiveM resources
 - [restfx](https://github.com/5m1Ly/restfx) - A FxServer rest api library including rest api building methods, http client & tebex webhook support. ![GitHub stars](https://img.shields.io/github/stars/5m1Ly/restfx.svg?style=social&label=Stars&maxAge=2592000)
 
 ### 6Abyss <a name="6Abyss"></a>
+- [dynyx-rings](https://github.com/6Abyss/dynyx-rings) ([Original](https://github.com/GreenSlayer/dynyx-rings) :green_circle: +0 :red_circle: -2</span>) - Rings System that gives you armor, health, stamina, or stress depending on the ring you use. ![GitHub stars](https://img.shields.io/github/stars/6Abyss/dynyx-rings.svg?style=social&label=Stars&maxAge=2592000)
 - [ps-mdt](https://github.com/6Abyss/ps-mdt) - MDT For QBCore ![GitHub stars](https://img.shields.io/github/stars/6Abyss/ps-mdt.svg?style=social&label=Stars&maxAge=2592000)
 
 ### 777development <a name="777development"></a>
@@ -287,6 +288,8 @@ A curated list of FiveM resources
 - [esx_sit](https://github.com/boostless/esx_sit) - This is a modified esx_sit using bt-target ![GitHub stars](https://img.shields.io/github/stars/boostless/esx_sit.svg?style=social&label=Stars&maxAge=2592000)
 
 ### boppescripting <a name="boppescripting"></a>
+- [boppe-jobcreator](https://github.com/boppescripting/boppe-jobcreator) - In-game job creation for QBCore framework servers. ![GitHub stars](https://img.shields.io/github/stars/boppescripting/boppe-jobcreator.svg?style=social&label=Stars&maxAge=2592000)
+- [boppe-realweather](https://github.com/boppescripting/boppe-realweather) - A simple script to pull live weather data for an area and sync it with the server. ![GitHub stars](https://img.shields.io/github/stars/boppescripting/boppe-realweather.svg?style=social&label=Stars&maxAge=2592000)
 - [QBCore-Resource-Starter](https://github.com/boppescripting/QBCore-Resource-Starter) - A simple program written in C# to assist in quickly creating the baseline for any FiveM/QBCore script! ![GitHub stars](https://img.shields.io/github/stars/boppescripting/QBCore-Resource-Starter.svg?style=social&label=Stars&maxAge=2592000)
 - [td-policedesk](https://github.com/boppescripting/td-policedesk) - Simple police desk notification center. ![GitHub stars](https://img.shields.io/github/stars/boppescripting/td-policedesk.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2465,6 +2468,7 @@ A curated list of FiveM resources
 - [qw-accesscodes](https://github.com/qw-scripts/qw-accesscodes) ![GitHub stars](https://img.shields.io/github/stars/qw-scripts/qw-accesscodes.svg?style=social&label=Stars&maxAge=2592000)
 - [qw-carscrapping](https://github.com/qw-scripts/qw-carscrapping) - Car Chopping (QBCore) ![GitHub stars](https://img.shields.io/github/stars/qw-scripts/qw-carscrapping.svg?style=social&label=Stars&maxAge=2592000)
 - [qw-crafting](https://github.com/qw-scripts/qw-crafting) - QBCore Customizable Crafting System ![GitHub stars](https://img.shields.io/github/stars/qw-scripts/qw-crafting.svg?style=social&label=Stars&maxAge=2592000)
+- [qw-crypto-mining](https://github.com/qw-scripts/qw-crypto-mining) ![GitHub stars](https://img.shields.io/github/stars/qw-scripts/qw-crypto-mining.svg?style=social&label=Stars&maxAge=2592000)
 - [qw-darkmarket](https://github.com/qw-scripts/qw-darkmarket) - Black Market Script for QBCore (NUI Based) ![GitHub stars](https://img.shields.io/github/stars/qw-scripts/qw-darkmarket.svg?style=social&label=Stars&maxAge=2592000)
 - [qw-towingjob](https://github.com/qw-scripts/qw-towingjob) - Player Owned Towing Company (QBCore) ![GitHub stars](https://img.shields.io/github/stars/qw-scripts/qw-towingjob.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2758,6 +2762,7 @@ A curated list of FiveM resources
 
 ### Slimeemils <a name="Slimeemils"></a>
 - [mrp-paychecks](https://github.com/Slimeemils/mrp-paychecks) - Paycheck system for QBCore ![GitHub stars](https://img.shields.io/github/stars/Slimeemils/mrp-paychecks.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-weaponrepair](https://github.com/Slimeemils/qb-weaponrepair) - A simple resource to repair weapons for an economy server. Repairs are limited and the max amount you can repair is decreased each time you repair. Once you reach 20% while repairing you can no longer repair that weapon. ![GitHub stars](https://img.shields.io/github/stars/Slimeemils/qb-weaponrepair.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Slurpee100 <a name="Slurpee100"></a>
 - [cosmo_hud](https://github.com/Slurpee100/cosmo_hud) - Edited cosmo_hud for qbcore that looks like nopixels hud ![GitHub stars](https://img.shields.io/github/stars/Slurpee100/cosmo_hud.svg?style=social&label=Stars&maxAge=2592000)
