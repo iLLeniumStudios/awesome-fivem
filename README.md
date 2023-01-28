@@ -970,6 +970,7 @@ A curated list of FiveM resources
 ### Hiype <a name="Hiype"></a>
 - [hiype-cardelivery](https://github.com/Hiype/hiype-cardelivery) - FiveM car delivery resource for servers with QbCore Framework. ![GitHub stars](https://img.shields.io/github/stars/Hiype/hiype-cardelivery.svg?style=social&label=Stars&maxAge=2592000)
 - [hiype-photoshoot](https://github.com/Hiype/hiype-photoshoot) - Photoshoot/screenshot script for cars and players which works standalone. ![GitHub stars](https://img.shields.io/github/stars/Hiype/hiype-photoshoot.svg?style=social&label=Stars&maxAge=2592000)
+- [hiype-scenery](https://github.com/Hiype/hiype-scenery) ![GitHub stars](https://img.shields.io/github/stars/Hiype/hiype-scenery.svg?style=social&label=Stars&maxAge=2592000)
 
 ### hoangducdt <a name="hoangducdt"></a>
 - [driverschool](https://github.com/hoangducdt/driverschool) ![GitHub stars](https://img.shields.io/github/stars/hoangducdt/driverschool.svg?style=social&label=Stars&maxAge=2592000)
@@ -1468,6 +1469,7 @@ A curated list of FiveM resources
 - [qb-multicharacter](https://github.com/krrm1/qb-multicharacter) - qb-multicharacter for qbcore np style nopixel ![GitHub stars](https://img.shields.io/github/stars/krrm1/qb-multicharacter.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-paycheck](https://github.com/krrm1/qb-paycheck) ([Original](https://github.com/D40G/qb-paycheck) :green_circle: +0 :red_circle: -3</span>) ![GitHub stars](https://img.shields.io/github/stars/krrm1/qb-paycheck.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-policegarage](https://github.com/krrm1/qb-policegarage) - qb-core police vehilce shop ![GitHub stars](https://img.shields.io/github/stars/krrm1/qb-policegarage.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-radialmenu](https://github.com/krrm1/qb-radialmenu) - qb-radialmenu np style ![GitHub stars](https://img.shields.io/github/stars/krrm1/qb-radialmenu.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-spawnselector](https://github.com/krrm1/qb-spawnselector) - i add my magic on it ;) ![GitHub stars](https://img.shields.io/github/stars/krrm1/qb-spawnselector.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-veiclekeys](https://github.com/krrm1/qb-veiclekeys) - my edit of qb-vehiclekeys ![GitHub stars](https://img.shields.io/github/stars/krrm1/qb-veiclekeys.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -1492,9 +1494,6 @@ A curated list of FiveM resources
 - [QBCore-updater](https://github.com/l3oncoder/QBCore-updater) ![GitHub stars](https://img.shields.io/github/stars/l3oncoder/QBCore-updater.svg?style=social&label=Stars&maxAge=2592000)
 
 ### lalBi94 <a name="lalBi94"></a>
-- [krp_drugs](https://github.com/lalBi94/krp_drugs) - Drugs script for Five M server ESX, 0.05ms max. ![GitHub stars](https://img.shields.io/github/stars/lalBi94/krp_drugs.svg?style=social&label=Stars&maxAge=2592000)
-- [krp_drugsbuilder](https://github.com/lalBi94/krp_drugsbuilder) - Drugs Builder script for Five M server ESX, RageUI,  0.20ms max. ![GitHub stars](https://img.shields.io/github/stars/lalBi94/krp_drugsbuilder.svg?style=social&label=Stars&maxAge=2592000)
-- [krp_keymaster](https://github.com/lalBi94/krp_keymaster) - Keymaster script for Five M server ESX, RageUI, (Without veh. unlocker) 0.14ms max. ![GitHub stars](https://img.shields.io/github/stars/lalBi94/krp_keymaster.svg?style=social&label=Stars&maxAge=2592000)
 - [_HardSystem](https://github.com/lalBi94/_HardSystem) - Website template without Framework. Method mysqli() used. Avalable user : Bilal_94 ![GitHub stars](https://img.shields.io/github/stars/lalBi94/_HardSystem.svg?style=social&label=Stars&maxAge=2592000)
 
 ### LazyServices <a name="LazyServices"></a>
@@ -1820,13 +1819,7 @@ A curated list of FiveM resources
 
 ### MoneSuper <a name="MoneSuper"></a>
 - [Older-QBCore-Framework](https://github.com/MoneSuper/Older-QBCore-Framework) ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/Older-QBCore-Framework.svg?style=social&label=Stars&maxAge=2592000)
-- [ps-hud](https://github.com/MoneSuper/ps-hud) - Project Sloth RedM Hud ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/ps-hud.svg?style=social&label=Stars&maxAge=2592000)
-- [psr-zones](https://github.com/MoneSuper/psr-zones) ([Original](https://github.com/Project-Sloth/ps-zones) :green_circle: +0 :red_circle: -2</span>) - RedM Zones  ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/psr-zones.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-spawn](https://github.com/MoneSuper/qb-spawn) - Hopes are gone idk ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qb-spawn.svg?style=social&label=Stars&maxAge=2592000)
-- [qbr-input](https://github.com/MoneSuper/qbr-input) - qbr-input for RedM Framework ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qbr-input.svg?style=social&label=Stars&maxAge=2592000)
-- [qbr-inventory](https://github.com/MoneSuper/qbr-inventory) ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qbr-inventory.svg?style=social&label=Stars&maxAge=2592000)
-- [qbr-menu](https://github.com/MoneSuper/qbr-menu) - qbr-menu for #QBR Framework  ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qbr-menu.svg?style=social&label=Stars&maxAge=2592000)
-- [qbr-target](https://github.com/MoneSuper/qbr-target) ![GitHub stars](https://img.shields.io/github/stars/MoneSuper/qbr-target.svg?style=social&label=Stars&maxAge=2592000)
 
 ### MonkeyWhisper <a name="MonkeyWhisper"></a>
 - [-QB-Jewellery](https://github.com/MonkeyWhisper/-QB-Jewellery) ([Original](https://github.com/Lionh34rt/-QB-Jewellery) :green_circle: +8 :red_circle: -8</span>) ![GitHub stars](https://img.shields.io/github/stars/MonkeyWhisper/-QB-Jewellery.svg?style=social&label=Stars&maxAge=2592000)
@@ -2641,7 +2634,6 @@ A curated list of FiveM resources
 ### Revoxxi <a name="Revoxxi"></a>
 - [qb-luckywheel](https://github.com/Revoxxi/qb-luckywheel) - Luckywheel, derived from https://github.com/Sn0wBiT/esx_tpnrp_luckywheel and rewritten for QBCore ![GitHub stars](https://img.shields.io/github/stars/Revoxxi/qb-luckywheel.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-slots](https://github.com/Revoxxi/qb-slots) - Slotmachines for QBCore Framework (https://github.com/qbcore-framework). Based on esx_slots which is derived from vrp_slots ![GitHub stars](https://img.shields.io/github/stars/Revoxxi/qb-slots.svg?style=social&label=Stars&maxAge=2592000)
-- [utk_pb](https://github.com/Revoxxi/utk_pb) ([Original](https://github.com/utkuali/utk_powerplant) :green_circle: +0 :red_circle: -3</span>) - Power Plant by utku ![GitHub stars](https://img.shields.io/github/stars/Revoxxi/utk_pb.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Reysel1 <a name="Reysel1"></a>
 - [r-announcefree](https://github.com/Reysel1/r-announcefree) ![GitHub stars](https://img.shields.io/github/stars/Reysel1/r-announcefree.svg?style=social&label=Stars&maxAge=2592000)
