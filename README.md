@@ -913,6 +913,7 @@ A curated list of FiveM resources
 - [angelicxs-policeK9](https://github.com/GouveiaXS/angelicxs-policeK9) ![GitHub stars](https://img.shields.io/github/stars/GouveiaXS/angelicxs-policeK9.svg?style=social&label=Stars&maxAge=2592000)
 - [angelicxs-RandomBox](https://github.com/GouveiaXS/angelicxs-RandomBox) ![GitHub stars](https://img.shields.io/github/stars/GouveiaXS/angelicxs-RandomBox.svg?style=social&label=Stars&maxAge=2592000)
 - [angelicxs-YachtHeist](https://github.com/GouveiaXS/angelicxs-YachtHeist) ![GitHub stars](https://img.shields.io/github/stars/GouveiaXS/angelicxs-YachtHeist.svg?style=social&label=Stars&maxAge=2592000)
+- [angelicxs_billing](https://github.com/GouveiaXS/angelicxs_billing) ![GitHub stars](https://img.shields.io/github/stars/GouveiaXS/angelicxs_billing.svg?style=social&label=Stars&maxAge=2592000)
 - [PoliceDatabaseSearch](https://github.com/GouveiaXS/PoliceDatabaseSearch) ![GitHub stars](https://img.shields.io/github/stars/GouveiaXS/PoliceDatabaseSearch.svg?style=social&label=Stars&maxAge=2592000)
 - [softcuff](https://github.com/GouveiaXS/softcuff) - public cuffing from esx_policejob with optional required items ![GitHub stars](https://img.shields.io/github/stars/GouveiaXS/softcuff.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2642,6 +2643,7 @@ A curated list of FiveM resources
 - [r-coords](https://github.com/Reysel1/r-coords) ![GitHub stars](https://img.shields.io/github/stars/Reysel1/r-coords.svg?style=social&label=Stars&maxAge=2592000)
 - [r-dimensions](https://github.com/Reysel1/r-dimensions) ![GitHub stars](https://img.shields.io/github/stars/Reysel1/r-dimensions.svg?style=social&label=Stars&maxAge=2592000)
 - [r-surf](https://github.com/Reysel1/r-surf) ![GitHub stars](https://img.shields.io/github/stars/Reysel1/r-surf.svg?style=social&label=Stars&maxAge=2592000)
+- [r-voiceui](https://github.com/Reysel1/r-voiceui) ![GitHub stars](https://img.shields.io/github/stars/Reysel1/r-voiceui.svg?style=social&label=Stars&maxAge=2592000)
 - [r-waterjob](https://github.com/Reysel1/r-waterjob) ![GitHub stars](https://img.shields.io/github/stars/Reysel1/r-waterjob.svg?style=social&label=Stars&maxAge=2592000)
 
 ### RilloX01 <a name="RilloX01"></a>
