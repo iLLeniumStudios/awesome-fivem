@@ -1650,6 +1650,9 @@ A curated list of FiveM resources
 - [QB-Bcsojob](https://github.com/LYCoreFramework/QB-Bcsojob) ![GitHub stars](https://img.shields.io/github/stars/LYCoreFramework/QB-Bcsojob.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-tunerjob](https://github.com/LYCoreFramework/qb-tunerjob) ![GitHub stars](https://img.shields.io/github/stars/LYCoreFramework/qb-tunerjob.svg?style=social&label=Stars&maxAge=2592000)
 
+### M4RFY <a name="M4RFY"></a>
+- [mrf-hookers](https://github.com/M4RFY/mrf-hookers) - esx to qbcore converted by me. ![GitHub stars](https://img.shields.io/github/stars/M4RFY/mrf-hookers.svg?style=social&label=Stars&maxAge=2592000)
+
 ### Mackaelroni <a name="Mackaelroni"></a>
 - [fakeplates](https://github.com/Mackaelroni/fakeplates) - A simple plate changing script. ![GitHub stars](https://img.shields.io/github/stars/Mackaelroni/fakeplates.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-garbagejob](https://github.com/Mackaelroni/qb-garbagejob) - qb-garbagejob re-done to work with qb-target and qb-radial menu ![GitHub stars](https://img.shields.io/github/stars/Mackaelroni/qb-garbagejob.svg?style=social&label=Stars&maxAge=2592000)
