@@ -567,9 +567,6 @@ A curated list of FiveM resources
 - [qb-dumpsters](https://github.com/Demo4889/qb-dumpsters) - Dumpster Diving - QBCore Style ![GitHub stars](https://img.shields.io/github/stars/Demo4889/qb-dumpsters.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-streetlights](https://github.com/Demo4889/qb-streetlights) ![GitHub stars](https://img.shields.io/github/stars/Demo4889/qb-streetlights.svg?style=social&label=Stars&maxAge=2592000)
 
-### DeNtrlPredator <a name="DeNtrlPredator"></a>
-- [dnp_serialscratch](https://github.com/DeNtrlPredator/dnp_serialscratch) ([Original](https://github.com/KevinGirardx/kevin-weaponscratch) :green_circle: +1 :red_circle: -11</span>) - Edit of kevin-weaponscratch ![GitHub stars](https://img.shields.io/github/stars/DeNtrlPredator/dnp_serialscratch.svg?style=social&label=Stars&maxAge=2592000)
-
 ### derens41210 <a name="derens41210"></a>
 - [StressZones](https://github.com/derens41210/StressZones) - [FIVEM][REDM][ESX][QBCORE] Plugin to create zones to lower stress, both for esx and qbcore ![GitHub stars](https://img.shields.io/github/stars/derens41210/StressZones.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -3026,6 +3023,7 @@ A curated list of FiveM resources
 - [NZPoliceVan](https://github.com/TayMcKenzieNZ/NZPoliceVan) - New Zealand retexture of 2014 Mercedes Sprinter ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/NZPoliceVan.svg?style=social&label=Stars&maxAge=2592000)
 - [NZ_Eup_Pack](https://github.com/TayMcKenzieNZ/NZ_Eup_Pack) - TayMcKenzieNZ's NZ EUP Pack containing Police, Fire and Ambulance for both MP Male and MP Female! ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/NZ_Eup_Pack.svg?style=social&label=Stars&maxAge=2592000)
 - [NZ_NPC_Peds](https://github.com/TayMcKenzieNZ/NZ_NPC_Peds) - TayMcKenzieNZ's NZ Emergency Services Peds For FiveM ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/NZ_NPC_Peds.svg?style=social&label=Stars&maxAge=2592000)
+- [online-interiors](https://github.com/TayMcKenzieNZ/online-interiors) ([Original](https://github.com/kibook/online-interiors) :green_circle: +0 :red_circle: -139</span>) - A FiveM resource adding ipl/map edits, teleport's, and blips to the map for FiveM up to the mpchristmas3 / 2802 DLC ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/online-interiors.svg?style=social&label=Stars&maxAge=2592000)
 - [Ranch-De-Caniche](https://github.com/TayMcKenzieNZ/Ranch-De-Caniche) - Madrazo's Ranch With Cinema ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/Ranch-De-Caniche.svg?style=social&label=Stars&maxAge=2592000)
 - [rpemotes](https://github.com/TayMcKenzieNZ/rpemotes) - Community driven FiveM emote menu with human, animal and prop support. ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/rpemotes.svg?style=social&label=Stars&maxAge=2592000)
 - [server_scenarios](https://github.com/TayMcKenzieNZ/server_scenarios) - FiveM resource for streaming custom scenarios.  ![GitHub stars](https://img.shields.io/github/stars/TayMcKenzieNZ/server_scenarios.svg?style=social&label=Stars&maxAge=2592000)
