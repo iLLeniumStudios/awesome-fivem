@@ -267,6 +267,7 @@ A curated list of FiveM resources
 
 ### boiidevelopment <a name="boiidevelopment"></a>
 - [boii-consumables-qb](https://github.com/boiidevelopment/boii-consumables-qb) - FiveM Consumables Script for QBCore framework. ![GitHub stars](https://img.shields.io/github/stars/boiidevelopment/boii-consumables-qb.svg?style=social&label=Stars&maxAge=2592000)
+- [boii-ganglocs-qb](https://github.com/boiidevelopment/boii-ganglocs-qb) - FiveM Gang Locations Script For QBCore ![GitHub stars](https://img.shields.io/github/stars/boiidevelopment/boii-ganglocs-qb.svg?style=social&label=Stars&maxAge=2592000)
 - [boii-moneylaunderer-qb](https://github.com/boiidevelopment/boii-moneylaunderer-qb) - FiveM Money Launderer Script for QBCore Framework ![GitHub stars](https://img.shields.io/github/stars/boiidevelopment/boii-moneylaunderer-qb.svg?style=social&label=Stars&maxAge=2592000)
 - [boii-pausemenu-alpha](https://github.com/boiidevelopment/boii-pausemenu-alpha) - FiveM - Pause Menu: ALPHA ![GitHub stars](https://img.shields.io/github/stars/boiidevelopment/boii-pausemenu-alpha.svg?style=social&label=Stars&maxAge=2592000)
 - [boii-rgbcontroller](https://github.com/boiidevelopment/boii-rgbcontroller) - FiveM Simple RGB Controller for QBCore ![GitHub stars](https://img.shields.io/github/stars/boiidevelopment/boii-rgbcontroller.svg?style=social&label=Stars&maxAge=2592000)
@@ -519,6 +520,9 @@ A curated list of FiveM resources
 - [sqz_hospital](https://github.com/czsquizer/sqz_hospital) - FiveM script used for healing players when there are no online doctors on the server! ![GitHub stars](https://img.shields.io/github/stars/czsquizer/sqz_hospital.svg?style=social&label=Stars&maxAge=2592000)
 - [sqz_rental](https://github.com/czsquizer/sqz_rental) - FiveM script for renting vehicles with advanced options. Better roleplay experience. ![GitHub stars](https://img.shields.io/github/stars/czsquizer/sqz_rental.svg?style=social&label=Stars&maxAge=2592000)
 - [sqz_switchjob](https://github.com/czsquizer/sqz_switchjob) ![GitHub stars](https://img.shields.io/github/stars/czsquizer/sqz_switchjob.svg?style=social&label=Stars&maxAge=2592000)
+
+### d3st1nyh4x <a name="d3st1nyh4x"></a>
+- [d3-arcade](https://github.com/d3st1nyh4x/d3-arcade) ([Original](https://github.com/Xogy/rcore_arcade) :green_circle: +8 :red_circle: -11</span>) - a simple resource for playing games with friends. ![GitHub stars](https://img.shields.io/github/stars/d3st1nyh4x/d3-arcade.svg?style=social&label=Stars&maxAge=2592000)
 
 ### daiwik-the-creator <a name="daiwik-the-creator"></a>
 - [daiwik-blackmarket](https://github.com/daiwik-the-creator/daiwik-blackmarket) ![GitHub stars](https://img.shields.io/github/stars/daiwik-the-creator/daiwik-blackmarket.svg?style=social&label=Stars&maxAge=2592000)
@@ -1387,6 +1391,7 @@ A curated list of FiveM resources
 - [fivem-antidump](https://github.com/JonasDev99/fivem-antidump) ([Original](https://github.com/omar-othmann/fivem-antidump) :green_circle: +102 :red_circle: -0</span>) - fivem antidump example, NUI is coming soon ![GitHub stars](https://img.shields.io/github/stars/JonasDev99/fivem-antidump.svg?style=social&label=Stars&maxAge=2592000)
 - [licenses](https://github.com/JonasDev99/licenses) ([Original](https://github.com/MadsLeander/licenses) :green_circle: +1 :red_circle: -0</span>) ![GitHub stars](https://img.shields.io/github/stars/JonasDev99/licenses.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-garages](https://github.com/JonasDev99/qb-garages) ![GitHub stars](https://img.shields.io/github/stars/JonasDev99/qb-garages.svg?style=social&label=Stars&maxAge=2592000)
+- [qb-pursuitmode](https://github.com/JonasDev99/qb-pursuitmode) ([Original](https://github.com/Spazd/qb-pursuitmode) :green_circle: +0 :red_circle: -14</span>) - a police pursuit mode  ![GitHub stars](https://img.shields.io/github/stars/JonasDev99/qb-pursuitmode.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-teleport](https://github.com/JonasDev99/qb-teleport) - A teleportation script using the radial menu ![GitHub stars](https://img.shields.io/github/stars/JonasDev99/qb-teleport.svg?style=social&label=Stars&maxAge=2592000)
 
 ### JulyGee <a name="JulyGee"></a>
@@ -2527,6 +2532,7 @@ A curated list of FiveM resources
 - [qb-houserobbery](https://github.com/Qbox-project/qb-houserobbery) ![GitHub stars](https://img.shields.io/github/stars/Qbox-project/qb-houserobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-policejob](https://github.com/Qbox-project/qb-policejob) ![GitHub stars](https://img.shields.io/github/stars/Qbox-project/qb-policejob.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-weed](https://github.com/Qbox-project/qb-weed) ![GitHub stars](https://img.shields.io/github/stars/Qbox-project/qb-weed.svg?style=social&label=Stars&maxAge=2592000)
+- [qbx-customs](https://github.com/Qbox-project/qbx-customs) ![GitHub stars](https://img.shields.io/github/stars/Qbox-project/qbx-customs.svg?style=social&label=Stars&maxAge=2592000)
 
 ### qds-store <a name="qds-store"></a>
 - [progressbar](https://github.com/qds-store/progressbar) - Config files for my GitHub profile. ![GitHub stars](https://img.shields.io/github/stars/qds-store/progressbar.svg?style=social&label=Stars&maxAge=2592000)
