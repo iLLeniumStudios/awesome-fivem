@@ -1042,6 +1042,9 @@ A curated list of FiveM resources
 - [Hunter-Mike-Coffee-Shop](https://github.com/HunterSouvik/Hunter-Mike-Coffee-Shop) - qb-job ![GitHub stars](https://img.shields.io/github/stars/HunterSouvik/Hunter-Mike-Coffee-Shop.svg?style=social&label=Stars&maxAge=2592000)
 - [hunter-phone2](https://github.com/HunterSouvik/hunter-phone2) - hunter phone script NoPixel_3.0 inspired ![GitHub stars](https://img.shields.io/github/stars/HunterSouvik/hunter-phone2.svg?style=social&label=Stars&maxAge=2592000)
 
+### i-kora <a name="i-kora"></a>
+- [qb-policejob](https://github.com/i-kora/qb-policejob) ![GitHub stars](https://img.shields.io/github/stars/i-kora/qb-policejob.svg?style=social&label=Stars&maxAge=2592000)
+
 ### i-kulgu <a name="i-kulgu"></a>
 - [esx-to-qbcore](https://github.com/i-kulgu/esx-to-qbcore) ![GitHub stars](https://img.shields.io/github/stars/i-kulgu/esx-to-qbcore.svg?style=social&label=Stars&maxAge=2592000)
 - [ik-anticar](https://github.com/i-kulgu/ik-anticar) - Fivem Anti Car system which removes the blacklisted cars in config. ![GitHub stars](https://img.shields.io/github/stars/i-kulgu/ik-anticar.svg?style=social&label=Stars&maxAge=2592000)
@@ -1235,7 +1238,7 @@ A curated list of FiveM resources
 - [mystic-notify](https://github.com/izMystic/mystic-notify) - notification for fivem ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-notify.svg?style=social&label=Stars&maxAge=2592000)
 - [mystic-speedlimit](https://github.com/izMystic/mystic-speedlimit) ([Original](https://github.com/thelindat/Posted-Speedlimit) :green_circle: +0 :red_circle: -18</span>) - speedlimit display for fivem ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-speedlimit.svg?style=social&label=Stars&maxAge=2592000)
 - [mystic-vehiclemenu](https://github.com/izMystic/mystic-vehiclemenu) - vehiclemenu for esx & qbus ![GitHub stars](https://img.shields.io/github/stars/izMystic/mystic-vehiclemenu.svg?style=social&label=Stars&maxAge=2592000)
-- [ox_inventory](https://github.com/izMystic/ox_inventory) ([Original](https://github.com/overextended/ox_inventory) :green_circle: +10 :red_circle: -32</span>) - Slot-based inventory with metadata. ![GitHub stars](https://img.shields.io/github/stars/izMystic/ox_inventory.svg?style=social&label=Stars&maxAge=2592000)
+- [ox_inventory](https://github.com/izMystic/ox_inventory) ([Original](https://github.com/overextended/ox_inventory) :green_circle: +32 :red_circle: -32</span>) - Slot-based inventory with metadata. ![GitHub stars](https://img.shields.io/github/stars/izMystic/ox_inventory.svg?style=social&label=Stars&maxAge=2592000)
 
 ### Jaareet <a name="Jaareet"></a>
 - [c-chat-design-v2](https://github.com/Jaareet/c-chat-design-v2) - A new reskin for default chat. ![GitHub stars](https://img.shields.io/github/stars/Jaareet/c-chat-design-v2.svg?style=social&label=Stars&maxAge=2592000)
@@ -1397,7 +1400,6 @@ A curated list of FiveM resources
 
 ### JonasDev99 <a name="JonasDev99"></a>
 - [fivem-antidump](https://github.com/JonasDev99/fivem-antidump) ([Original](https://github.com/omar-othmann/fivem-antidump) :green_circle: +102 :red_circle: -0</span>) - fivem antidump example, NUI is coming soon ![GitHub stars](https://img.shields.io/github/stars/JonasDev99/fivem-antidump.svg?style=social&label=Stars&maxAge=2592000)
-- [licenses](https://github.com/JonasDev99/licenses) ([Original](https://github.com/MadsLeander/licenses) :green_circle: +1 :red_circle: -0</span>) ![GitHub stars](https://img.shields.io/github/stars/JonasDev99/licenses.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-garages](https://github.com/JonasDev99/qb-garages) ![GitHub stars](https://img.shields.io/github/stars/JonasDev99/qb-garages.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-pursuitmode](https://github.com/JonasDev99/qb-pursuitmode) ([Original](https://github.com/Spazd/qb-pursuitmode) :green_circle: +0 :red_circle: -14</span>) - a police pursuit mode  ![GitHub stars](https://img.shields.io/github/stars/JonasDev99/qb-pursuitmode.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-teleport](https://github.com/JonasDev99/qb-teleport) - A teleportation script using the radial menu ![GitHub stars](https://img.shields.io/github/stars/JonasDev99/qb-teleport.svg?style=social&label=Stars&maxAge=2592000)
@@ -1692,6 +1694,7 @@ A curated list of FiveM resources
 - [mh-forklift](https://github.com/MaDHouSe79/mh-forklift) - you can lift any vehisle with the gta5 forklift model ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-forklift.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-housenames](https://github.com/MaDHouSe79/mh-housenames) - A easy way to interact to buy houses.  ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-housenames.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-hunters](https://github.com/MaDHouSe79/mh-hunters) - MH-Hunters if you don't have police online at the moment, you can enable this. ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-hunters.svg?style=social&label=Stars&maxAge=2592000)
+- [mh-intercom](https://github.com/MaDHouSe79/mh-intercom) - MH-Intercom - The best intercom script for fivem QBCore. ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-intercom.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-jobgaragemenu](https://github.com/MaDHouSe79/mh-jobgaragemenu) - MH Job Garage Menu with category Created by MaDHouSe79 ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-jobgaragemenu.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-lootpeds](https://github.com/MaDHouSe79/mh-lootpeds) - Loot Dead Corps By MaDHouSe79 ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-lootpeds.svg?style=social&label=Stars&maxAge=2592000)
 - [mh-mygaragemenu](https://github.com/MaDHouSe79/mh-mygaragemenu) - mh-mygaragemenu Script by MaDHouSe79  ![GitHub stars](https://img.shields.io/github/stars/MaDHouSe79/mh-mygaragemenu.svg?style=social&label=Stars&maxAge=2592000)
@@ -2151,6 +2154,7 @@ A curated list of FiveM resources
 ### Ojxiii <a name="Ojxiii"></a>
 - [Ojx-dongleped](https://github.com/Ojxiii/Ojx-dongleped) - Dongle Ped Full Edited || BTW Thanks Samuel on this great script https://github.com/Github-Samuel/sd-dongleped ![GitHub stars](https://img.shields.io/github/stars/Ojxiii/Ojx-dongleped.svg?style=social&label=Stars&maxAge=2592000)
 - [Ojx-policehub](https://github.com/Ojxiii/Ojx-policehub) ![GitHub stars](https://img.shields.io/github/stars/Ojxiii/Ojx-policehub.svg?style=social&label=Stars&maxAge=2592000)
+- [Ojx-qb-cityhall](https://github.com/Ojxiii/Ojx-qb-cityhall) - this is qbcore edited version :) ![GitHub stars](https://img.shields.io/github/stars/Ojxiii/Ojx-qb-cityhall.svg?style=social&label=Stars&maxAge=2592000)
 - [Ojx-qb-clothing](https://github.com/Ojxiii/Ojx-qb-clothing) - qb-clothing Just add the database And it will work ![GitHub stars](https://img.shields.io/github/stars/Ojxiii/Ojx-qb-clothing.svg?style=social&label=Stars&maxAge=2592000)
 - [Ojx-qb-input-remake](https://github.com/Ojxiii/Ojx-qb-input-remake) - :) ![GitHub stars](https://img.shields.io/github/stars/Ojxiii/Ojx-qb-input-remake.svg?style=social&label=Stars&maxAge=2592000)
 - [Ojx-qb-menu](https://github.com/Ojxiii/Ojx-qb-menu) ![GitHub stars](https://img.shields.io/github/stars/Ojxiii/Ojx-qb-menu.svg?style=social&label=Stars&maxAge=2592000)
@@ -2158,12 +2162,13 @@ A curated list of FiveM resources
 
 ### OK1ez <a name="OK1ez"></a>
 - [ok1ez-burgershot](https://github.com/OK1ez/ok1ez-burgershot) ![GitHub stars](https://img.shields.io/github/stars/OK1ez/ok1ez-burgershot.svg?style=social&label=Stars&maxAge=2592000)
-- [ps-mdt](https://github.com/OK1ez/ps-mdt) ([Original](https://github.com/Project-Sloth/ps-mdt) :green_circle: +0 :red_circle: -6</span>) - QBCore MDT ![GitHub stars](https://img.shields.io/github/stars/OK1ez/ps-mdt.svg?style=social&label=Stars&maxAge=2592000)
+- [ps-mdt](https://github.com/OK1ez/ps-mdt) ([Original](https://github.com/Project-Sloth/ps-mdt) :green_circle: +0 :red_circle: -11</span>) - QBCore MDT ![GitHub stars](https://img.shields.io/github/stars/OK1ez/ps-mdt.svg?style=social&label=Stars&maxAge=2592000)
 
 ### omar-othmann <a name="omar-othmann"></a>
 - [dev-artifacts](https://github.com/omar-othmann/dev-artifacts) - Python fivem artifacts auto update for linux server only. ![GitHub stars](https://img.shields.io/github/stars/omar-othmann/dev-artifacts.svg?style=social&label=Stars&maxAge=2592000)
 - [dev-interaction](https://github.com/omar-othmann/dev-interaction) - interaction resource with keyboard keys icon ![GitHub stars](https://img.shields.io/github/stars/omar-othmann/dev-interaction.svg?style=social&label=Stars&maxAge=2592000)
 - [dev-progress](https://github.com/omar-othmann/dev-progress) - fivem dev-progress ![GitHub stars](https://img.shields.io/github/stars/omar-othmann/dev-progress.svg?style=social&label=Stars&maxAge=2592000)
+- [DevCore-MySQL](https://github.com/omar-othmann/DevCore-MySQL) ![GitHub stars](https://img.shields.io/github/stars/omar-othmann/DevCore-MySQL.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-antidump](https://github.com/omar-othmann/fivem-antidump) - fivem antidump lua + nui 😉 ![GitHub stars](https://img.shields.io/github/stars/omar-othmann/fivem-antidump.svg?style=social&label=Stars&maxAge=2592000)
 - [fivem-whitelisted](https://github.com/omar-othmann/fivem-whitelisted) - fivem discord bot whitelisted ![GitHub stars](https://img.shields.io/github/stars/omar-othmann/fivem-whitelisted.svg?style=social&label=Stars&maxAge=2592000)
 
@@ -2292,6 +2297,7 @@ A curated list of FiveM resources
 - [qb-menu-css-edit-yellow](https://github.com/Pavan576/qb-menu-css-edit-yellow) ![GitHub stars](https://img.shields.io/github/stars/Pavan576/qb-menu-css-edit-yellow.svg?style=social&label=Stars&maxAge=2592000)
 
 ### PenguScript <a name="PenguScript"></a>
+- [pn-houserobbery](https://github.com/PenguScript/pn-houserobbery) - Instructions for pn-houserobbery ![GitHub stars](https://img.shields.io/github/stars/PenguScript/pn-houserobbery.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-chickenfactory](https://github.com/PenguScript/qb-chickenfactory) - A script based off of oosayeroo's QB Weedshop for the chicken factory located in paleto ![GitHub stars](https://img.shields.io/github/stars/PenguScript/qb-chickenfactory.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-limeysjob](https://github.com/PenguScript/qb-limeysjob) - Beautiful job for the Limeys Juice Bar MLO ![GitHub stars](https://img.shields.io/github/stars/PenguScript/qb-limeysjob.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-richpresence](https://github.com/PenguScript/qb-richpresence) - an advanced rich presence for QBCore ONLY ![GitHub stars](https://img.shields.io/github/stars/PenguScript/qb-richpresence.svg?style=social&label=Stars&maxAge=2592000)
@@ -2699,7 +2705,7 @@ A curated list of FiveM resources
 - [fs-wheels](https://github.com/renzuzu/fs-wheels) ([Original](https://github.com/IDKFORCE/fs-wheels) :green_circle: +0 :red_circle: -0</span>) - FiveM Ready Wheels (esx)(qbcore)(standalone) ![GitHub stars](https://img.shields.io/github/stars/renzuzu/fs-wheels.svg?style=social&label=Stars&maxAge=2592000)
 - [mka-lasers](https://github.com/renzuzu/mka-lasers) ([Original](https://github.com/mkafrin/mka-lasers) :green_circle: +0 :red_circle: -0</span>) - Create moving lasers in FiveM! ![GitHub stars](https://img.shields.io/github/stars/renzuzu/mka-lasers.svg?style=social&label=Stars&maxAge=2592000)
 - [natives](https://github.com/renzuzu/natives) ([Original](https://github.com/citizenfx/natives) :green_circle: +253 :red_circle: -0</span>) - GTA V Natives Documentation ![GitHub stars](https://img.shields.io/github/stars/renzuzu/natives.svg?style=social&label=Stars&maxAge=2592000)
-- [ox_inventory](https://github.com/renzuzu/ox_inventory) ([Original](https://github.com/overextended/ox_inventory) :green_circle: +73 :red_circle: -18</span>) - Overextended Inventory for ESX Legacy ![GitHub stars](https://img.shields.io/github/stars/renzuzu/ox_inventory.svg?style=social&label=Stars&maxAge=2592000)
+- [ox_inventory](https://github.com/renzuzu/ox_inventory) ([Original](https://github.com/overextended/ox_inventory) :green_circle: +95 :red_circle: -18</span>) - Overextended Inventory for ESX Legacy ![GitHub stars](https://img.shields.io/github/stars/renzuzu/ox_inventory.svg?style=social&label=Stars&maxAge=2592000)
 - [ox_lib](https://github.com/renzuzu/ox_lib) ([Original](https://github.com/overextended/ox_lib) :green_circle: +78 :red_circle: -1</span>) - A collection of Lua functions to utilise in other resources. ![GitHub stars](https://img.shields.io/github/stars/renzuzu/ox_lib.svg?style=social&label=Stars&maxAge=2592000)
 - [qb-interior](https://github.com/renzuzu/qb-interior) ([Original](https://github.com/lunatrik/qb-interior) :green_circle: +0 :red_circle: -15</span>) - Interior Models Used With QB-Apartments and QB-Houses :bed: ![GitHub stars](https://img.shields.io/github/stars/renzuzu/qb-interior.svg?style=social&label=Stars&maxAge=2592000)
 - [renzu_bag](https://github.com/renzuzu/renzu_bag) - Create item Based Stash | ESX | Ox_inventory | Ox_lib | FIVEM ![GitHub stars](https://img.shields.io/github/stars/renzuzu/renzu_bag.svg?style=social&label=Stars&maxAge=2592000)
@@ -3577,7 +3583,6 @@ A curated list of FiveM resources
 - [GTA5-Vehicle-Meta](https://github.com/zfbx/GTA5-Vehicle-Meta) ![GitHub stars](https://img.shields.io/github/stars/zfbx/GTA5-Vehicle-Meta.svg?style=social&label=Stars&maxAge=2592000)
 - [improved-females](https://github.com/zfbx/improved-females) - Better FiveM Female Characters Appearance mod ![GitHub stars](https://img.shields.io/github/stars/zfbx/improved-females.svg?style=social&label=Stars&maxAge=2592000)
 - [zdiscord](https://github.com/zfbx/zdiscord) - A Discord bot that runs in FiveM for the purpose of whitelisting, moderation and utilties using discord.js ![GitHub stars](https://img.shields.io/github/stars/zfbx/zdiscord.svg?style=social&label=Stars&maxAge=2592000)
-- [zqueue](https://github.com/zfbx/zqueue) ([Original](https://github.com/VikingTheDev/pQueue) :green_circle: +0 :red_circle: -8</span>) - This is a simple FiveM server queue with Discord based priority, built on the zdiscord api ![GitHub stars](https://img.shields.io/github/stars/zfbx/zqueue.svg?style=social&label=Stars&maxAge=2592000)
 - [zseatbelt](https://github.com/zfbx/zseatbelt) - Seatbelt resource built for FiveM using a completely new method ![GitHub stars](https://img.shields.io/github/stars/zfbx/zseatbelt.svg?style=social&label=Stars&maxAge=2592000)
 
 ### ZHOURA-24 <a name="ZHOURA-24"></a>
